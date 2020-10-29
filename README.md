@@ -11,6 +11,37 @@ Una solución a este problema es utilizar una librería llamada Doc2Vec, pero en
 Los documentos sobre los cuales trabajaremos fueron obtenidos del sitio InfoLEG (http://www.infoleg.gob.ar), el cual es una base de datos de documentos legislativos del Ministerio de Justicia y Derechos Humanos de la Nación, Ministerio que administra además el Sistema Argentino de Información Jurídica (SAIJ).
 InfoLEG está conformada por documentos digitales tales como leyes, decretos, decisiones administrativas, resoluciones, disposiciones y todo acto que en sí mismo establezca su publicación obligatoria en la primera sección del Boletín Oficial de la República Argentina.
 
+# Características del Corpus
+La presente mentoría, se ubica dentro del área de Procesamiento de Lenguaje Natural (NLP). En particular, en el área de aplicación de Algoritmos de Aprendizaje Automático (ML) a textos legales de Argentina, aunque también es adaptable a cualquier conjunto de textos.
+
+En Procesamiento de Lenguaje Natural un Corpus es un conjunto de textos guardados y procesados por computadoras. Los textos contenidos en el Corpus conforman los datos de entrenamiento que se utilizarán para el aprendizaje de los algoritmos de clasificación.
+
+# Extracción de características (Features)
+
+El mapeo de datos textuales a vectores con valores reales se llama extracción de características.
+
+Se trata de un proceso de reducción y codificación, donde un conjunto inicial de variables sin procesar (ej. texto en un documento) se reduce a características más manejables para su procesamiento (ej. números) y que se describa con precisión el conjunto de datos original.
+
+Hay distintas técnicas. Las que usamos en el trabajo, fueron las siguientes: Bolsa de palabras (BOW), N-gramas y TF-IDF
+
+**Bolsa de Palabras (BOW)**
+
+Una de las técnicas más simples para representar texto numéricamente.
+Hacemos la lista de palabras únicas con el Corpus de textos. 
+Entonces podemos representar cada documento como un vector donde cada palabra del vocabulario que aparece en el documento se representa con un 1 y las palabras del vocabulario que no están presentes en el documento se representan con un 0.
+
+Con este mecanismo, construiremos una matriz, constituida por vectores de unos y ceros que representa a cada documento y se denominan vectores escasos o ralos . 
+
+Algo que ocurre con esta técnica es que ya no importa el orden de las palabras, cada documentado es tan solo una secuencia de 0 y 1, por eso se denomina bolsa de palabras.
+
+**N-gramas**
+
+Se usa para resolver el problema de alteración de orden de las palabras que ocurre con BOW.
+Nos permite saber qué tan probable es una sentencia conformada por n palabras 
+Los n-gramas pueden estar conformados por una palabra (unigramas), dos palabras (bigramas), tres palabras (trigramas) o cualquier número n de palabras (n-gramas)
+
+Ejemplo:  El bigrama “Republica Bolivariana”, que fue uno de los bigramas que utilizamos en el trabajo, nos aporta una información mucho más completa que “República” y “Bolivariana” por separado.
+
 # Limpieza de Datos
 
 Nuestro objetivo es pasar de una cadena de texto, a una lista de palabras o tokens limpios, que serán útiles para el procesamiento del lenguaje natural.
@@ -105,6 +136,48 @@ Nosotros optamos por utilizar el lematizador WordNetLemmatizer() de la librebrer
 
 La primera aproximación a las stop word fue utilizando la librería NLTK, y el listado provisto por la misma, pero observamos que era insuficiente, ya que seguían apareciendo palabras muy frecuentes que no eran relevantes.
 Esto nos llevó a investigar criterios para generar un listado personalizado de stop word a partir de las frecuencias de las palabras y de la relevancia de la misma en el documento.
+
+# Palabras relevantes
+
+Para saber si dos textos son similares primero es necesario saber de qué trata cada texto, con ese objetivo buscamos una técnica para encontrar palabras relevantes en cada documento.
+
+Primero miramos la frecuencia de las palabras y observamos que las más frecuentes no necesariamente eran representativas del contenido del documento, en general era palabras propias del lenguaje jurídico, los cual nos llevó a replantear el filtrado por stop words.  
+
+Para ello utilizamos la frecuencia inversa de documentos, que refleja si un término es común o no en la colección de documentos, observamos que había una gran cantidad de palabras, propias del lenguaje jurídico, que se repetían en casi todos los documentos, y las incluimos en el filtrado de stop words.
+
+Luego del filtrado por stops words observamos que las palabras más frecuentes ahora sí reflejan el contenido del documento
+
+A partir de estos resultados decidimos utilizar el parámetro TF-IDF (Term frequency – Inverse document frequency), que es una medida numérica que expresa cuán relevante es una palabra para un documento en una colección, para encontrar las palabras más relevantes en cada documento.
+
+Luego intentamos generar clases con esas palabras relevantes e implementar técnicas de aprendizaje supervisado,  el resultado no fue bueno (Accuracy 61%) porque ésta no es una problemática para ser abordada con técnicas de este tipo. 
+
+# Aprendizaje No Supervisado
+
+Siguiendo con el tema anterior, pasamos a dos modelos de no supervisados, por un lado con LDA el cual asume que una palabra pertenece a un topico y ese topico pertenece a un conjunto de topicos. Y por otro lado a NMF el cual descompone la matriz de frecuencia de palabras en dos matrices mas pequeña.
+Una representa a los topicos y otra la relevancia de cada topico en el texto.
+
+Los resultados obtenidos no fueron los esperados ya que obtuvimos topicos con palabras no representativas
+
+**Doc2Vec**
+
+Doc2Vec es un conjunto de técnicas para representar documentos como vectores de longitud fija y baja dimensionalidad (conocidos también como document embeddings). Para comprender Doc2vec es antes necesario comprender Word2vec, ya que el primero es una extensión del segundo. 
+
+Los métodos basados en Word2vec tienen como objetivo computar representaciones vectoriales de palabras (también conocidas como word embeddings). Esta representación puede ser creada usando alguno de los dos algoritmos o modelos incorporados: Continuous Bag of Words (CBOW) donde la palabra se predice a partir del "contexto" y Skip-Gram que todo lo contrario a CBOW usamos 1 palabra para predecir todas las palabras circundantes. 
+Doc2Vec, por consiguiente, posee dos algoritmos para obtener los embeddings: PV-DM (Paragraph Vector - Distributed Memory) y PV-DBOW (Paragraph Vector - Distributed Bag of Words). Cada uno surge de la extensión de los algoritmos wor2vec anteriormente mencionados, respectivamente. Es decir, PV-DM es una adaptación de CBOW de word2vec, y PV-DBOW lo es de Skip-gram.
+
+Los resultados obtenidos no fueron lo que esperamos ya que al hacer pruebas los documentos arrojados como similares, no son los mejores. Esto se puede deber a falta de tocar mas los hyperparametros o mas documentos para el entrenamiento
+
+# Conclusiones
+
+Observamos que:
+* Es un proceso iterativo, a medida avanzamos nos dabamos cuenta que debíamos repensar los pasos anteriores 
+* IDF (Inverse document frequency) es un buen método para encontrar stop words propias de la temática
+* TF-IDF (Term frequency – Inverse document frequency) es una buena medida para encontrar palabras relevantes/representativas de cada documento
+* No es un problema para ser tratado con aprendizaje supervisado.
+* Aprendizaje no supervisado, todavía no hemos dado con la configuración apropiada para encontrar similitud entre documentos.
+
+
+
 
 
 
