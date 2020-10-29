@@ -1,0 +1,836 @@
+Ministerio de Salud y Ambiente
+SALUD PUBLICA
+Resolución 1078/2004
+Apruébase la "Guía de Manejo de las Infecciones de Transmisión Sexual".
+Bs. As., 8/10/2004
+VISTO el Expediente N° 2002-9548/04-3 del registro de este Ministerio, y
+CONSIDERANDO:
+Que de acuerdo a la necesidad de establecer pautas de funcionamiento de los servicios de salud y de su personal, a fin de reducir las Infecciones de Transmisión Sexual, hacen necesaria la elaboración de la GUIA DE MANEJO DE LAS INFECCIONES DE TRANSMISION SEXUAL, acorde con el estado del arte al momento de la redacción.
+Que el Comité Técnico Asesor, se ha reunido a tal fin logrando un conjunto de normas por consenso.
+Que la DIRECCION DE ASUNTOS JURIDICOS ha tomado la intervención de su competencia.
+Por ello,
+EL MINISTRO DE SALUD Y AMBIENTE
+RESUELVE:
+Artículo 1° — Apruébase la "GUIA DE MANEJO DE LAS INFECCIONES DE TRANSMISION SEXUAL", que como ANEXO I forma parte integrante de la presente.
+Art. 2° — Regístrese, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Ginés M. González García.
+ANEXO I
+GUIA DE MANEJO DE LAS INFECCIONES DE TRANSMISION SEXUAL
+MINISTERIO DE SALUD DE LA NACION ARGENTINA
+PROGRAMA NACIONAL DE LUCHA CON LOS RH SIDA Y ETS
+AUTORIDADES
+Presidente de la Nación
+Dr. Néstor Kirchner
+Ministro de Salud de la Nación
+Dr. Ginés M. González García
+Secretario de Programas Sanitarios
+Dr. Héctor Conti
+Sub Secretario de Prevención y Promoción
+Dr. Andrés Leibovich
+Directora Ejecutiva del Programa Nacional de Lucha contra los Retrovirus del Humano, Sida y Ets.
+Dra. Gabriela Hamilton
+GRUPO REDACTOR
+Coordinación:
+• Dra. Gabriela Hamilton, Directora Ejecutiva del Programa Nacional de Lucha contra los RH, SIDA y ETS.
+• Colaboradores
+• Miembros del Comité Técnico Asesor del Programa Nacional de Lucha contra los RH, SIDA y ETS:
+- Dra. Gabriela Hamilton, Directora Ejecutiva del Programa Nacional de Lucha contra los RH, SIDA y ETS
+- Dr. Jorge Benettucci, Hospital Muñiz
+- Dra. Rosa Bologna, Hospital Garraham
+- Dra. Miriam Bruno, Sociedad Argentina de Pediatría
+- Dr. Pedro Cahn, Hospital Fernández
+- Dr. Carlos Falistocco, Médico Asesor del Programa Nacional de Lucha contra los RH, SIDA y ETS
+- Dr. Oscar Fay, Universidad de Rosario
+- Dr. Hugo Férnandez, Director de Epidemiología
+- Dr. Héctor Laplumé, Sociedad Argentina de Infectología
+- Dr. José Macías, Sociedad Argentina de SIDA
+- Dra. Rina Moreno, Sociedad Argentina de Pediatría
+• Dra. Gabriela Bugarin, FUNCEI.
+• Lic. María Delia Péné, Programa Nacional de Lucha contra los RH, SIDA y ETS.
+• Lic. María Irene Priegue, Programa Nacional de Lucha contra los RH, SIDA y ETS.
+• Dra. Lucrecia Raffo, Hospital Posadas.
+• Lic. Carlota Rodriguez Etchebarne, Programa Nacional de Lucha contra los RH, SIDA y ETS.
+• Dra. Hebe Vazquez, FUNCEI
+Agradecimiento especial al Grupo revisor de la Sociedad Argentina de Infectología
+Dres: Lucía Abdujad, Aurelia Fallo, Cristina Freuler, Gabriel Levi Hara, Horacio Jáuregui Rueda, Héctor Laplumé, Alejandra Monticcelli, Fernando Murano, Elida Pallone, Liliana Puga, Teresita Puentes, Beatriz Ricci, Ana Urquiza y Celia Wainstein.
+INDICE
+1. Introducción
+2. Método sindrómico para la atención primaria de la Salud
+2.1. Generalidades del Manejo Sindrómico.
+• Flujo genital
+• Flujo vaginal (especulo y palpación bimanual)
+• Secreción Uretral
+• Hinchazón del Escroto
+• Dolor abdominal bajo
+• Conjuntivitis neonatal
+3. Guías para el diagnóstico y tratamiento de las ITS en áreas con recursos para efectuar diagnóstico etiológico
+3.1- Enfermedades caracterizadas por flujo genital
+3.1.1- Vulvovaginitis
+Vulvovaginitis por Candida (VVC).
+Trichomoniasis
+Vaginosis Bacteriana
+3.1.2- Cervicitis: Chlamydias y Gonococo
+3.2 Enfermedad inflamatoria pelviana (epi).
+3.3 Manejo de la uretritis en el Hombre: Chlamydias y gonococos
+3.4- ULCERAS GENITALES
+Sífilis
+Herpes genital
+Chancroide
+3.5 EPIDIDIMITIS TRANSMITIDA POR SEXO
+3.6- HPV
+Guía de Manejo de las Infecciones de Transmisión Sexual
+1. Introducción
+El objetivo de estas recomendaciones es establecer pautas de funcionamiento de los servicios de salud y de su personal, a fin de reducir la transmisión de las Infecciones de Transmisión Sexual (ITS), basándose en el método sindrómico para la atención primaria de salud.
+Las ventajas del Manejo Sindrómico de las ITS. son: que permite soluciones inmediatas, es accesible, seguro y adaptable a las condiciones particulares de cada región, es simple, de bajo costo, detiene y disminuye la trasmisión o la reinfección de estas enfermedades. Posibilita un espacio de consejería y el uso de racional de los recursos.
+En Argentina el manejo sindrómico de las ITS es una estrategia que se promueve desde hace unos años y se ha puesto en práctica en distintas regiones del País.
+Esta guía consta de dos partes, en la primera se presentan los principales síndromes y el manejo correspondiente de los mismos a través de flujogramas con su correspondiente tratamiento empírico.
+En la segunda parte de la guía se presentan las distintas patologías según diagnóstico etiológico y los algoritmos de diagnóstico. Esta parte se elaboró considerando que hay lugares del país donde es posible realizar diagnósticos a través de laboratorios de mayor complejidad. En este apartado se comentan las distintas alternativas de tratamiento y las consideraciones especiales (embarazo, infección por VIH, alergias, etc.)
+2. Método sindrómico para la atención primaria de la Salud
+2.1. Generalidades del Manejo Sindrómico.
+Las ITS son causadas por más de 30 agentes y se las considera un problema de Salud Pública en todo el mundo. Según datos de la OMS durante el año 1999 se presume que hubo 340 millones de personas infectadas en el mundo, entre los 15 y 39 años. Son más frecuentes en los adultos jóvenes, solteros y en las áreas urbanas, pero ninguna persona sexualmente activa está exenta de sufrir estas enfermedades.
+Las ITS se transmiten:
+*A través de las relaciones sexuales sin protección
+* De la madre al hijo:
+- durante el embarazo
+- durante el parto
+- después del parto por la leche materna (VIH solamente)
+* transfusión u otro contacto con sangre o hemoderivados
+Producen importantes complicaciones y secuelas en hombres, en mujeres y niños:
+Hombres:
+• Orquiepididimitis
+• Estenosis uretral
+• Infertilidad
+Mujeres
+• EPI
+• Dolor pélvico crónico
+• Embarazo ectópico
+• Infecciones post-parto
+• Mortalidad materna
+• Infertilidad
+• Cáncer de cérvix
+Niños:
+• Aborto
+• Parto prematuro
+• Muerte perinatal
+• Bajo peso al nacimiento
+• Malformaciones congénitas
+• Daño ocular, pulmonar, auditivo, óseo y neurológico
+La OMS recomienda como estrategia el Manejo sindrómico de las ITS.
+Esta estrategia ha sido promulgada desde los años 70, validado a través de la verificación de su eficacia en diferentes estudios poblacionales.
+La aplicación del Manejo Sindrómico en la consulta es la siguiente:
+• Elaboración de la Historia Clínica, identificando la presencia de comportamiento sexual de riesgo, en función de los patrones culturales, la utilización del preservativo y sus contactos sexuales
+• Examen físico
+• Diagnóstico del síndrome
+• Tratamiento para el paciente
+• Consejería en reducción de riesgo
+• Promoción del uso del preservativo
+• Solicitud de serología para sífilis
+• Prueba de ELISA para VIH previo consentimiento informado
+• Identificación de los contactos
+• Tratamiento de los contactos.
+A continuación se presentan los flujogramas de manejo sindrómico de acuerdo a los siguientes cuadros:
+1- Flujo genital
+2- Flujo genital (con espéculo y palpación bimanual)
+3- Secreción uretral
+4- Ulceras genitales
+5- Dolor abdominal bajo
+6- Edema de escroto
+7- Bubón inguinal
+8- Conjuntivitis neonatal.
+En cada flujograma se describen los pasos para un diagnóstico sindrómico y se propone un tratamiento empírico. Los tratamientos podrán ser modificados de acuerdo a las alternativas de drogas disponibles en cada lugar las cuales se describen en el anexo siguiente (tratamiento etiológico)
+2.2- Flujogramas del manejo sindrómico
+• Flujo genital
+(*) Ciprofloxacina 500 mg + Azitromicina 1 gr. dosis única (o Doxiciclina 100 mg cada 12 hs por 7 días) + Metronidazol 2 gr dosis única
+• Flujo vaginal (espéculo y palpación bimanual
+• Secreción Uretral
+(*) Ciprofloxacina 500 mg única dosis + Azitromicina 1 gr. dosis única (o Doxiciclina 100 mg cada 12 hs por 7 días)
+Ulceras Genitales
+(*) Realice biopsia si es posible para descartar patología no infecciosa, caso contrario tratar empíricamente para Chancroide (Ver Tratamiento etiológico)
+• Edema del Escroto
+• Dolor abdominal bajo
+(*) Ceftriaxona 250 mg IM única dosis + Doxiciclina 100 mg cada 12 hs por 14 días con o sin Metronidazol 500 mg cada 12 hs por 14 días.
+• Bubón Inguinal
+(*) Doxiciclina 100 mg Vo cada 12 hs por 21 días + Ceftriaxona 250 mg IM única dosis
+Alternativa: Eritromicina base 500 mg 4 veces por día durante 21 días + Ceftriaxona 250 mg IM única dosis
+• Conjuntivitis neonatal
+(*) Ceftriaxona 25-50 mg / Kg / IM única dosis + Eritromicina base o etilsuccinato 50 mg / Kg / día cada 6 hs por 14 días
+3. Guías para el diagnóstico y tratamiento de las ITS en áreas con recursos para efectuar diagnóstico etiológico
+3.1- Enfermedades caracterizadas por flujo genital
+Las enfermedades con Flujo vaginal pueden dividirse en vulvovaginitis y Cervicitis.
+*Si se cuenta con el recurso.
+La presencia de flujo genital no diferencia entre Cervicitis y Vulvovaginitis o vaginosis bacteriana, por lo que se requiere el examen ginecológico con colposcopía para realizar un diagnóstico topográfico.
+3.1.1-Vulvovaginitis o vaginosis bacteriana
+• Orientación diagnóstica.
+• Procedimientos diagnósticos
+El diagnóstico etiológico y de certeza se realiza a través del examen de flujo vaginal, dado que los síntomas y signos son inespecíficos.
+- Procedimientos Obligatorios
+Medición del PH: tiras de PH con rangos entre 4 y 6
+Test de amina: agregando 1 gota de hidróxido de potasio al 10% a la secreción vaginal, se produce la liberación de olor a pescado (Vaginosis bacteriana).
+Examen en fresco:
+Con solución fisiológica (1 a 2 gotas): Detección de Trichomonas.
+Detección de clue cells (células epiteliales cubiertas por cocobacilos) en Vaginosis B.
+Con hidróxido de potasio al 10%: Detección de hifas y micelios.
+(1 a 2 gotas).
+Coloración de Gram: útil en Vaginosis bacteriana y la detección de algunos gérmenes problema (ej: estreptococo grupo B).
+- Procedimientos Facultativos
+Los cultivos tanto para Cándida como para Trichomona solo se realizan en situaciones especiales.
+Vulvovaginitis por Candida (VVC).
+• Orientación clínica
+Son orientadores de VVC: Prurito, irritación o quemazón vulvar
+Flujo vaginal blanquecino, escaso, no maloliente
+Disuria
+Dermatitis pústulo-papular y placas blanquecinas que se adhieren a las paredes de la vagina.
+• Procedimientos Diagnósticos
+• Procedimientos Obligatorios
+El examen de flujo muestra:
+PH: < o = 4.
+Examen en fresco con hidróxido de K: presencia de hifas y micelios (positivo en 85% de los casos).
+• Otros procedimientos diagnósticos
+Cultivo: se indica en pacientes con directos negativos o previo a iniciar un régimen de mantenimiento en las vulvovaginitis candidiásicas recurrentes.
+• Tratamiento
+El 90% de las mujeres sin enfermedad de base responde al tratamiento.
+Deben recibir tratamiento únicamente las pacientes sintomáticas.
+El tratamiento de elección es el tópico con azoles. Deben aplicarse por la noche al acostarse.
+. Clotrimazol 100 mg. tableta vaginal por 7 días, o
+. Clotrimazol 100 mg, 2 tabletas vaginales por 3 días, o
+. Clotrimazol 500 mg tableta vaginal, 1 tableta aplicación única, o
+. Miconazol 2% crema 5 g intravaginal por 7 días, o
+. Miconazol 200 mg supositorio vaginal, 1 supositorio por 3 días,
+Regímenes alternativos:
+Agentes orales:
+Fluconazol 150 mg tableta oral, 1 tableta dosis única,
+o
+Ketoconazol 200 mg tableta oral, 2 tabletas por 3 días,
+o
+Itraconazol 200 mg tableta oral, 1 tableta por 3 días.
+Agentes tópicos en caso de cepas resistentes a los compuestos azólicos
+(recordar la resistencia de C. glabrata a fluco e itraconazol)
+Nistatina 100.000 U tableta vaginal, 1 tableta por 14 días.
+o
+Acido bórico cápsulas vaginales (600 mg), 1 cápsula por día por 14 días.
+Otras medidas:
+Eliminar los factores predisponentes
+Tratamiento de la pareja: sólo en caso de balanitis. El tratamiento sistemático de la pareja no ha demostrado disminuir las recurrencias.
+• Seguimiento
+Sólo debe concurrir a una nueva consulta si los síntomas persisten o recurren.
+• Manejo de la pareja sexual
+El tratamiento de la pareja sexual solo está recomendado en presencia de balanitis; debe considerarse en presencia de recurrencias en el caso índice
+• Situaciones especiales
+Pacientes HIV (+): igual tratamiento que huésped normal.
+Embarazadas: pueden utilizarse Miconazol, terconazol, Clotrimazol intravaginales. Se recomienda 7 días de tratamiento.
+VVC complicadas: se las define así cuando las vulvovaginitis son: severas localmente, tienden a recurrir en un huésped inmunocomprometido (diabetes descontrolada, HIV) o la infección es por patógenos menos susceptibles (ej: C. Glabrata).
+El tratamiento es de 10 a 14 días de tratamiento con azoles tópicos o Fluconazol 150 mg, repitiendo igual dosis a los 3 días de la primera (recordar la resistencia de C. glabrata a fluco e itraconazol)
+Vulvovaginitis candidiásica recurrente (VVCR).
+Se define como la presencia de 4 o más episodios sintomáticos a lo largo de 1 año
+Manejo de los episodios:
+. Examinar el flujo vaginal para corroborar la etiología.
+. Realizar cultivo con identificación de especies y prueba de sensibilidad a azoles.
+. Eliminar los factores predisponentes si los hay
+. Tratamiento del episodio por 10 a 14 días con azoles tópicos o fluconazol 150 mg, repitiendo la dosis a los tres días de la primera.
+. Efectuar tratamiento supresivo por 6 meses con:
+Ketoconazol 100 mg / día oral.
+o
+Clotrimazol 500 mg, 1 tableta vaginal, 1 vez por semana.
+o
+Fluconazol 100 mg a 150 mg / semana, oral.
+o
+Clotrimazol 100 mg/ día por 5 días desde el día 5° al 11° del ciclo menstrual.
+o
+Ketoconazol 100 mg, 1 / día por 5 días, desde el día 5° al 11° del ciclo menstrual.
+Los tratamientos intermitentes tienen una eficacia protectora moderada.
+La presencia de VVCR, no es indicación del testeo para HIV si la paciente no tiene conductas de riesgo. Los pacientes deben ser monitoreados. Es opcional el tratamiento de la pareja asintomática.
+T. vaginalis es un protozoario móvil, flagelado que se transmite principalmente por vìa sexual. Puede causar una infección sintomática o asintomática. Se ha asociado la infección por este microorganismo a diferentes cuadros clínicos como: vaginitis, cervicitis, uretritis, enfermedad inflamatoria pelviana (EPI) y en mujeres embarazadas a: ruptura prematura de membranas, parto prematuro y bajo peso al nacer.
+En los pacientes con infección por VIH su prevalencia es mayor que en los pacientes seronegativos y además la infección por T. vaginalis puede aumentar la transmisión del VIH y la susceptibilidad a transmitirlo.
+• Orientación clínica
+Eritema, edema y prurito vulvar frecuente.
+Flujo vaginal amarillo-verdoso o grisáceo en el 75% a 80% de los casos aunque puede ser de cualquier color.
+Disuria: 20% de los casos.
+En el examen colposcópico puede observarse puntillado hemorrágico (cuello de frutilla), descripto como altamente sugestivo de la infección. Se lo ve excepcionalmente. También puede observarse eritema cervical y secreción mucopurulenta.
+En los hombres la sintomatología es poco florida y alrededor del 50% de los pacientes son asintomáticos. Pueden presentar secreción uretral matutina que es menos abundante en comparación a la uretritis por gonococco. A veces se manifiesta con disuria.
+• Procedimientos Diagnósticos
+Las muestras aptas para ser utilizadas en el diagnóstico son: orina, flujo vaginal y exudado cervical
+. Obligatorios
+El examen de flujo muestra:
+PH > a 4.5
+Examen en fresco: parásitos móviles y flagelados en el 70% a 80% de los casos. Además pueden observarse leucocitos, generalmente en gran cantidad, aunque en los pacientes asintomáticos pueden ser escasos.
+Sacar Facultativos
+• Tratamiento
+Metronidazol 2 g oral, dosis única.
+Alternativa: Metronidazol 500 mg 2 veces por día, 7 días.
+Otras medidas: tratamiento simultáneo de la pareja con igual esquema. Abstinencia sexual hasta completar el tratamiento y que ambos estén asintomáticos.
+Fallos de tratamiento por cepas resistentes
+Metronidazol: 500 mg 2 veces por día por 7 días.
+Si se produce nuevo fallo: 2 g dosis única diaria por 3 a 6 días. No administrar dosis mayores a 3 g por día ya que pueden producir daño neurológico irreversible. La evaluación de estos casos debe realizarse con el especialista e incluir un estudio de sensibilidad de la T. Vaginalis al Metronidazol.
+• Situaciones especiales
+Infección por HIV: Las personas HIV positivas deben recibir igual tratamiento que los HIV negativos.
+Embarazadas: Tratamiento con Metronidazol 2 g dosis única vía oral a partir del segundo trimestre de embarazo. Durante el primer trimestre se puede utilizar Cotrimazol, tabletas vaginales de 100 mg durante 1 ó 2 semanas. El 20% de las pacientes se curan y el resto mejoran sintomáticamente, pudiendo luego realizar el tratamiento con metronidazol.
+• Seguimiento de pacientes con Trichomoniasis
+No es necesario si las pacientes se vuelven asintomáticas durante el tratamiento.
+• Prevención
+Tratamiento de la pareja.
+Testear HIV y otras enfermedades de transmisión sexual.
+Es una de las iTS más comunes, afecta principalmente a mujeres en edad fértil. Se estima una incidencia de aproximadamente el 64 % en mujeres de alto riesgo, es decir, con 1 o más de los siguientes factores: nueva pareja sexual en el último mes, múltiples parejas sexuales, presencia de de otra ITS, uso de dispositivo intrauterino, sexo oral receptivo.
+Su diagnóstico y tratamiento es importante ya que en mujeres VIH positivas aumenta la excreción del virus en las secreciones vaginales y además aumenta la susceptibilidad al mismo en las mujeres VIH negativas.
+La vaginosis bacteriana se asocia a diferentes complicaciones obstétricas y ginecológicas: cistitis recurrente, cervicitis, infecciones pos quirúrgicas ginecológicas, Papanicolau patológico, aborto espontáneo, ruptura prematura de membranas, corioamnionitis, endometritis pos parto.
+• Orientación clínica
+Las pacientes con vaginosis bacteriana pueden estar asintomáticas. Los signos y síntomas típicos incluyen flujo vaginal abundante, frecuentemente con olor a pescado y con menos frecuencia presentan ardor, irritación vulvovaginal escasa a moderada y prurito vaginal. Cuando hay compromiso del tracto vaginal superior la paciente puede manifestar síntomas de dispareunia o de EPI.
+• Procedimientos Diagnósticos
+La VB puede ser diagnosticada por la utilización de criterios clínicos o basados en el examen de Gram.
+Criterios clínicos según score de Nugent: requieren 3 de los siguientes signos o síntomas:
+. Flujo blanco homogéneo poco viscoso, moderado. Aspecto no inflamatorio (con escaso leucocitos)
+. Presencia de clue cells (células epiteliales rodeadas de Cocobacilos). Sensibilidad 70% a 90%.
+. PH mayor de 4,5
+. Olor a pescado al agregar Hidróxido de Potasio al 10%
+Coloración de Gram: muestra reemplazo total o parcial de los Lactobacillus por Cocobacilos Gram negativos y Bacilos Gram negativos con características de anaerobios.
+- Tratamiento
+Metronidazol 500 mg oral 2 veces por día por 7 días o Clindamicina crema 2% una aplicación intravaginal al acostarse (5 g) por 7 días o Metronidazol gel 0,75% una aplicación intravaginal 2 veces por día por 5 días.
+Alternativas:
+Metronidazol: 2 g oral en dosis única o Clindamicina 300 mg oral 2 veces por día por 7 días.
+• Seguimiento
+El seguimiento no es necesario si se resuelven los síntomas. Las recurrencias son frecuentes y se tratan con los regímenes antibióticos habituales. Uso de método de barrera (preservativo)
+• Manejo de la pareja sexual
+El tratamiento no está recomendado, ya que no ha demostrado disminuir las recurrencias o recaídas.
+• Situaciones especiales
+Embarazadas:
+• Todas las pacientes embarazadas sintomáticas deben recibir tratamiento con Metronidazol 250 mg oral, 3 veces al día por 7 días, o Metronidazol 2 g oral dosis única, o Metronidazol gel, 0.75% intravaginal, 2 veces al día por 5 días. El tratamiento con metronidazol se indica a partir del segundo trimestre del embarazo.
+• Todas las pacientes embarazadas asintomáticas de alto riesgo (ej: antec. de parto prematuro). El screening y tratamiento deben realizarse al inicio del 2° trimestre.
+El régimen recomendado es Metronidazol oral, 250 mg 3 veces al día por 7 días o Metronidazol oral 2 g dosis única o Clindamicina oral, 300 mg 2 veces al día por 7 días. Deben ser testeadas nuevamente al mes de concluido el tratamiento.
+Pacientes HIV(+): deben recibir igual tratamiento que los HIV(-).
+3.1.2- Cervicitis: Chlamydias y Gonococo
+• Orientación diagnóstica.
+• Procedimientos diagnósticos.
+. Procedimientos Obligatorios
+. Examen pélvico: Exudado amarillento en el canal endocervical o en el hisopado endocervical. Cuello uterino friable.
+. Examen del flujo endocervical
+Exámen en fresco:
+La presencia de 10 a 30 leucocitos por campo sugiere el diagnóstico de origen infeccioso.
+La presencia de < de 10 leucocitos aleja dicho diagnóstico, pero no lo descarta y debe investigarse Chlamydias en pacientes consideradas en población de riesgo.
+Coloración de Gram: la presencia de diplococos Gram (-) intracelulares en el moco cervical es altamente específico para infección gonocóccica y autoriza a iniciar tratamiento. El resultado negativo no la descarta (sensibilidad del estudio 50% a 70%)
+Cultivo Gonococo: alta sensibilidad y especificidad (95%-100%). Dado la baja sensibilidad del examen directo de Gram se debe realizar en todos los casos.
+Búsqueda de Chlamydias:
+PCR:sensibilidad: 85% a 95% Especificidad: > 99%.
+Cuando no se dispone de estas técnicas realizar Técnicas de Elisa o Inmunofuorescencia directa (Atc monoclonales): sensibilidad 50% a 70%; especificidad: 95% a 99%.
+• Procedimientos Facultativos
+Cultivo de Chlamydias: no se efectúa de rutina. Indicado como diagnóstico de certeza sobre todo en casos de abuso sexual.
+Inmunofuorescencia para Herpes simplex 1 y 2 (HSV 1 y HVS 2) con Atc monoclonales: se solicita en aquellos pacientes con CMP no gonococcica, con estudios para Chlamydias negativos.
+Muestra de flujo vaginal (ver vulvovaginitis)
+• Tratamiento
+Si se tiene acceso rápido al fresco y coloración de Gram:
+Ajustarse al algoritmo de CMP
+Si no se tienen posibilidades de resultados inmediatos de laboratorio:
+1) Tratamiento empírico para Chlamydias y gonococo cuando la prevalencia de ambas infecciones es elevada y la visita posterior es incierta.
+2) Tratamiento empírico para Chlamydias, cuando la prevalencia para Chlamydia T. es elevada y la de gonococo es baja y la visita posterior es incierta.
+3) Aguardar resultados antes del tratamiento si la prevalencia de ambas infecciones es baja y la adherencia del paciente asegure la visita posterior.
+. Tratamiento gonococo
+Tratamientos de elección: El tratamiento debe ser seleccionado de acuerdo al menor costo y mayor efectividad de acuerdo a la medicación disponible
+Cefalosporinas:
+Tratamiento para Chlamydia:
+Doxiciclina 100 mg. 2 veces por día, oral 7 días
+o
+Azitromicina 1 g dosis única, oral.
+Alternativas:
+Eritromicina base 500 mg 4 veces al día, oral 7 días.
+Eritromicina etilsuccinato 800 mg 4 veces al día oral 7d.
+Ofloxacina 300 mg 2 veces al día, oral 7 días.
+Levofloxacina 500mg diarios, oral por 7 días
+• Otras medidas
+Abstinencia sexual hasta cumplir el tratamiento y no tener síntomas.
+• Seguimiento
+En ambos:
+Solicitar HIV y VDRL.
+Tratar a los contactos.
+En Gonorrea:
+. Realizar cultivos para N. Gonorrhoeae y descartar Chlamydia trachomatis si los síntomas persisten o recurren y la Chlamydia no fue tratada
+En infección por Chlamydia Trachomatis:
+. Repetir examen microbiológico luego de 3 semanas de tratamiento en:
+Infecciones complicadas.
+Regímenes alternativos de tratamiento.
+Mujeres: observarlas por infertilidad / embarazo ectópico.
+Las pacientes consideradas de alto riesgo para infección por Chlamydia deben retestearse dentro del año del episodio.
+• Manejo de la pareja sexual
+Debe ser notificado, examinado y tratado toda persona cuyo contacto sexual con el caso índice se produjo dentro de los 30 días previos al episodio.
+Si el caso índice está asintomático deben tratarse todos los contactos dentro de los 60 días previos a la detección de la infección.
+- Situaciones especiales
+HIV (+): tratar igual que el huésped normal.
+Embarazadas:
+Gonococo: Las tetraciclinas y quinolonas no deben utilizarse en pacientes embarazadas. El tratamiento se realiza con alguna de las cefalosporinas indicadas o espectinomicina.
+Chlamydia: se indica eritromicina o amoxicilina 500 mg 3 veces por día por 7 días.
+• Prevención
+Indicaciones de testeo para Chlamydias:
+Edad menor a 35 años
+Nueva o Múltiples parejas sexuales
+EPI previa
+Adquisición de otras Enfermedades de Transmisión Sexual
+Falta de uso de anticonceptivos de barrera
+Infección sintomática por Chlamydia t. o gonococo en el compañero sexual
+3.2 Enfermedad inflamatoria pelviana (epi).
+Síndrome clínico no relacionado con el embarazo ni cirugías que se presenta por la infección ascendente de gérmenes cervicales produciendo uno o más de los siguientes trastornos inflamatorios: endometritis, salpingitis, peritonitis pelviana o absceso tubo ovárico.
+Etiología: N. Gonorreae, Chlamydia tracomatis (más frec.) y/o anaerobios. Ocasionalmente: Gardnerella vaginalis, bacilos neg.entéricos, Mycoplasma hominis, Estreptococo agalactiae.
+- Orientación diagnóstica
+- Factores de riesgo para la adquisición de Enfermedad Inflamatoria Pelviana
+Adolescencia
+Múltiples parejas sexuales
+Colocación de DIU: elevan ligeramente el riesgo de EPI no adquirida sexualmente dentro de los 4 primeros meses de su colocación
+Adquisición de otras enfermedades de transmisión sexual
+No utilización de anticonceptivos de barrera
+Duchas vaginales (más de 3 en 1 día).
+Abuso de drogas.
+• Procedimientos diagnósticos.
+.Procedimientos Obligatorios
+Examen ginecológico completo
+Hemograma, ERS: la leucocitosis es un hallazgo relativamente frecuente. La eritrosedimentación se encuentra elevada en el 66% de los casos. Son estudios orientadores e inespecíficos.
+Prueba de embarazo: Se debe realizar siempre en toda mujer sexualmente activa con dolor abdominal, dado que el embarazo ectópico y la EPI presentan a menudo los mismos síntomas.
+Muestra endocervical: es un elemento orientador pero no de certeza.
+Se debe realizar:
+. Examen en fresco
+. Búsqueda de Chlamydia por Ligasa o PCR, en caso de no contar con la técnica detección de Atc monoclonales por ELISA o IFD.
+. Examen bacteriológico directo y cultivo para gonococo
+• Procedimientos facultativos
+. Búsqueda de Mycoplasma hominis por cultivo
+Solicitarlo:
+.Cuando exista CMP con estudios para herpes, gonococo y chlamydia negativos. . . Pacientes embarazadas, con dificultades reproductivas o que no hayan completado su descendencia.
+. Ecografía: se prefiere la transvaginal por su resolución.
+Solicitarla ante la presencia de: Tumor pelviano palpable.
+Sospecha de absceso pelviano.
+Imposibilidad de realizar el examen pelviano
+Dudas diagnósticas con los estudios iniciales.
+. Resonancia Magnética
+Tiene las mismas indicaciones que la ecografía. En general, se la realiza si los hallazgos de la ecografía no son concluyentes.
+Laparoscopía: permite el diagnóstico correcto en el 95% de los casos. Es útil para toma de muestras bacteriológicas sin contaminación.
+Se la solicita ante la presencia de
+Falta de respuesta clínica al 3° ó 4° día de tratamiento adecuado, en pacientes con endomiometritis o salpingitis con compromiso peritoneal
+Dudas diagnósticas frente a otros cuadros quirúrgicos.
+Biopsia y cultivo de endometrio: Se lo solicita ante dudas diagnósticas
+Enviar: 2 muestras para anatomía patológica
+1 muestra para directo y cultivo gérmenes comunes, búsqueda de gonococo
+1 muestra en medio de transporte buffer para chlamydias.
+Laparotomía exploradora: Se solicita ante dudas diagnósticas y cuando no es posible realizar una laparoscopía
+Solicitar estudios anatomopatológicos y bacteriológicos en igual forma que en biopsia de endometrio.
+- Criterios diagnósticos para instituir tratamiento.
+El tratamiento empírico para EPI deberá iniciarse en toda mujer joven sexualmente activa o en toda mujer con factores de riesgo para ITS si alguno de los criterios mínimos siguientes está presente en ausencia de otra causa que los provoque:
+Dolor abdominal bajo
+o
+Dolor a la movilización del cuello uterino
+Para aumentar la especificidad en el diagnóstico de EPI se utilizan criterios adicionales:
+Temp. > a 38.3°
+Secreción vaginal o cervical anormal.
+Eritrosedimentación o Proteína C reactiva î
+Infección cervical documentada por gonococo o chlamydia.
+Si aún el diagnóstico es incierto, se requerirán criterios definitivos que incluyen los siguientes:
+• Ecografía transvaginal o Resonancia magnética que muestren trompas engrosadas con líquido en su interior, con o sin líquido libre en la cavidad pelviana o complejo tubo-ovárico.
+• Evidencia histopatológica de endometritis por biopsia de endometrio.
+• Anormalidades laparoscópicas compatibles con EPI.
+• Criterios de internación:
+Diagnóstico incierto, otras causas quirúrgicas no pueden descartarse.
+Absceso tubo-ovárico.
+Paciente severamente enfermo, con temperatura elevada, náuseas y vómitos
+Embarazada.
+Paciente no cumple o no tolera el tratamiento ambulatorio
+Falta de respuesta al tratamiento ambulatorio en 72 hs.
+Pacientes con severa inmunodeficiencia
+Tratamiento:
+• Paciente ambulatorio
+Ceftriaxona 250 mg IM, dosis única más doxiciclina 100 mg oral 2 v/d, 14 días con o sin metronidazol 500mg 2 v/d, oral por 7 d.
+Alternativa
+Ciprofloxacina 500 mg oral 2 v /d por 14 d + doxiciclina 100 mg oral 2 v/d + metronidazol
+Ofloxacina 400 mg oral 2 v /d por 14 d o levofloxacina 500 mg,1 dosis diaria por 14 días con metronidazol 500mg 2 v/ d 7 d.
+- Paciente hospitalizado
+Ampicilina/sulbactam 3 g IV cada 6 hs. más doxiciclina 100 mg cada 12 hs v oral o
+Clindamicina 600 mg IV c/ 6 hs. más una dosis de carga de gentamicina IV o IM (2 mg/k/), seguida por una dosis de mantenimiento de 1.5 mg/k/día, cada 8 hs o en dosis única diaria. Luego de 24 hs. de mejoría clínica, se continúa con doxiciclina 100 mg 2 v/d o clindamicina oral 300 mg 4 v/d hasta completar 14 días.
+Cuando exista absceso tubo ovárico se prefiere la clindamicina oral a la doxiciclina para completar el tratamiento, ya que brinda mejor cobertura para anaerobios.
+Alternativas:
+Cefoxitina 2 g IV c/ 6 hs. más doxiciclina 100 mg oral c/12 hs., hasta 24 hs. después de la mejoría clínica. Luego se deberá continuar con doxiciclina hasta completar 14 días de tratamiento.
+Debido a la inducción de beta lactamasas que produce la cefoxitina se recomienda no utilizarla en internación.
+Ofloxacina 400 mg IV cada 12 hs. o levofloxacina IV 500 mg, una vez por día más metronidazol 500 mg. cada 8 hs.
+La cirugía se indica en pacientes graves, que no mejoran al 3° a 5° día de tratamiento parenteral, en pacientes con absceso tubo ovárico si no presentó mejoría a las 72 hs de tratamiento habiendo incremento del tamaño del mismo. Opciones: laparoscopía percutánea o transvaginal y en último caso laparotomía.
+• Seguimiento
+Los pacientes sometidos a tratamiento oral o parenteral deben ser reevaluados a las 72 hs. de iniciado el tratamiento, debiendo presentar criterios de mejoría: disminución del dolor y tensión abdominal y a la movilidad del cuello uterino. Luego de 4 a 6 semanas, las pacientes deben chequearse para chlamydia y gonococo. Si se emplean PCR o ligasa debe aguardarse 1 mes luego de finalizado el tratamiento para documentar cura.
+Observarlas por complicaciones: dolor pelviano, esterilidad, embarazo ectópico
+Testear para otras ITS.
+La pareja debe recibir tratamiento empírico para chlamydia y gonococo.
+• Situaciones especiales
+Embarazo
+Dada el alto riesgo de morbilidad materna, bajo peso fetal y parto pretérmino, las mujeres embarazadas con sospecha de enfermedad inflamatoria pelviana deben ser internadas y tratadas en forma parenteral.
+Pacientes HIV positivos
+Las pacientes con sospecha de EPI deben ser evaluadas minuciosamente por la posibilidad de complicaciones como absceso tubo-ovárico. La indicación de internación debida a su condición de base es controvertida.
+3.3 Manejo de la uretritis en el Hombre: Chlamydias y gonococos
+** para poder evaluar correctamente el Gram respecto al número de PMN es necesario que la muestra sea tomada con una micción previa mayor de 3 hs, dado que si no el dato puede no ser tomado como cierto (pocos PMN)
+- Búsqueda de chlamydia: si el recurso está disponible
+- Solicitar testeo para sífilis y sugerir testeo HIV.
+- Notificar y tratar a la pareja.
+Tratamiento
+Tratamiento gonococo
+Tratamientos de elección:
+Cefalosporinas:
+Tratamiento para Chlamydia:
+Doxiciclina 100 mg. 2 veces por día, oral 7 días
+Azitromicina 1 g dosis única, oral.
+Alternativas:
+Eritromicina base 500 mg 4 veces al día, oral 7 días.
+Eritromicina etilsuccinato 800 mg 4 veces al día oral 7d.
+Ofloxacina 300 mg 2 veces al día, oral 7 días.
+Levofloxacina 500 mg diarios, oral por 7 días
+• Otras medidas
+Abstinencia sexual hasta cumplir el tratamiento y no tener síntomas.
+• Seguimiento
+En ambos:
+Solicitar HIV y VDRL.
+Tratar a los contactos.
+En Gonorrea:
+. Realizar cultivos, evaluar sensibilidad para N. Gonorrhoeae y descartar Chlamydia trachomatis si los síntomas persisten o recurren y la Chlamydia no fue tratada
+• Manejo de la pareja sexual
+Debe ser notificado, examinado y tratado toda persona cuyo contacto sexual con el caso índice se produjo dentro de los 30 días previos al episodio.
+Si el caso índice está asintomático deben tratarse todos los contactos dentro de los 60 días previos a la detección de la infección.
+- Situaciones especiales
+HIV (+): tratar igual que el huésped normal.
+3.4- ULCERAS GENITALES
+• Orientación diagnóstica
+- Procedimientos Diagnósticos
+Obligatorios
+. VDRL cualitativa/ cuantitativa
+Detecta Atc no treponémicos y sugiere el diagnóstico de sífilis.
+Títulos < o igual a 1:4 indican infección pasada o falso positivo.
+Títulos > o igual a 1:8 se consideran enfermedad actual. Siempre confirmar con FTA-ABS.
+Si el primer Test es negativo y hay alta sospecha se deberá repetir VDRL a las 2 semanas, ya que si la úlcera es muy reciente (dentro de las 2 semanas de iniciado el cuadro) hay falsos negativos.
+. Prueba de detección de HIV: Los pacientes con diagnóstico de úlcera genital de causa infecciosa, sobre todo sífilis y herpes genital deberán testearse para HIV.
+- Facultativos
+. Detección de Atg. Virus Herpes por Atc. Monoclonales.
+Detecta virus Herpes 1 y 2. Se solicita en 1° episodio de pacientes con alta sospecha: úlceras múltiples, dolorosas.
+. Microscopía de campo oscuro
+Tiene alta sensibilidad y especificidad en la detección de treponemas en lesiones de sífilis temprana. En caso de localización anal o bucal o vaginal se la reemplaza por Inmunoforescencia directa. (tener en cuenta las formas saprófitas)
+. Pruebas treponémicas (FTA-ABS / Microhemoaglutinación)
+Detecta Atc. Treponémicos. Certifican el diagnóstico ya que las pruebas no treponémicas pueden tener falsos positivos ante algunas situaciones como drogadicción endovenosa y enfermedades autoinmunes. Suelen persistir positivas de por vida.
+. Biopsia de la lesión.
+Detecta causas infecciosas y no infecciosas de úlcera genital.
+Enviar el material para estudio anatomopatológico y microbiológicos.
+Estudios microbiológicos que se realizan en la muestra:
+Bacteriológico directo y cultivo.
+Directo y cultivo micobacterias
+Micológico: directo y cultivo
+Estudio para Chlamydias y chancroide
+Cultivo para Herpes Simple (su sensibilidad (90%), disminuye a las 72 hs. de formada la vesícula)
+Búsqueda de cuerpos de Donovan
+Indicaciones: Dudas diagnósticas
+Estudios para sífilis y herpes negativos negativos.
+Ulcera que no cura con el tratamiento en 2 semanas.
+• Tratamiento (Ver por enfermedad)
+• Sospecha clínica en diferentes estadios de la enfermedad
+Sífilis reciente adquirida sintomática
+Sífilis primaria
+Chancro o úlcera generalmente indolora, de bordes no despegados y fondo limpio.
+Linfadenopatía regional.
+Sífilis secundaria
+Lesiones cutáneo- mucosas (máculas, pápulas, pústulas, folículos) sobre todo en tronco, cara, palmas y plantas.
+Condilomas
+Síntomas generales
+Linfadenopatías generalizadas.
+Compromiso de SNC (sobre todo meningitis).
+Sífilis asintomática
+Sífilis latente
+Asintomática. Sólo se detecta por pruebas de laboratorio.
+Temprana: menos de 1 año de evolución
+Tardía: mayor de 1 año de evolución.
+Sífilis tardía
+Compromiso cardiovascular (aortitis)
+Gomas (síndrome de masa ocupante)
+Neurosífilis: sífilis meningovascular, paresia, tabes dorsal
+• Procedimientos Diagnósticos
+Se realizarán los siguientes procedimientos:
+1. Microscopía de campo oscuro
+Tiene alta sensibilidad y especificidad en la detección de treponemas en lesiones de sífilis temprana. Disminuye su rentabilidad en lesiones anales y de la boca, por lo que se emplea la técnica de inmunoflorescencia directa en estas situaciones.
+2. Pruebas no treponémicas (VDRL / RPR)
+VDRL / RPR cualitativas: sugieren el diagnóstico de sífilis.
+La cuantificación de los títulos de anticuerpos se correlaciona con la actividad de la enfermedad por lo que se la utiliza para el seguimiento.
+Un cambio de 4 veces en el título (el equivalente a 2 diluciones) es considerado necesario para demostrar una diferencia clínica significativa entre 2 resultados.
+3. Pruebas treponémicas (FTA-ABS / Microhemoaglutinación)
+Certifican el diagnóstico ya que las pruebas no treponémicas pueden tener falsos positivos ante algunas situaciones como drogadicción endovenosa y enfermedades autoinmunes. Suelen persistir positivas de por vida.
+4. Estudio del LCR
+Solicitar: Físico-químico: Puede mostrar moderada pleocitosis con predominio linfocitario, elevación de las proteínas.
+VDRL cualitativa
+Su positividad en LCR hace diagnóstico de neurosífilis. Su negatividad no la descarta.
+Los pacientes HIV positivos tienen una mayor incidencia de falsos positivos y negativos.
+FTA – ABS
+No se utiliza habitualmente. Falsos positivos.
+Indicaciones de punción lumbar:
+. Signos o síntomas de compromiso del SNC u ocular
+. HIV positivos: A pesar de que las recomendaciones internacionales indican PL en pacientes VIH + no todos los expertos coinciden con esta práctica excepto en los pacientes que presentan síntomas neurológicos
+. Fallas de tratamiento
+. Pacientes que deben tratarse con terapias alternativas a la penicilina, al menos que la duración de la infección sea < de 1 año.
+. Evidencias de sífilis tardía activa (Goma, aortitis, iritis).
+.Títulos > o iguales a 1:32 de VDRL al menos que la duración de la infección conocida sea menor de 1 año.
+Screening para HIV.
+- Tratamiento
+1. Primaria, secundaria y latente < 1 año.
+Huésped normal: Penicilina G benzatínica 2.4 millones de unidades IM, dosis única.
+Alérgicos a la penicilina: . Doxiciclina 100 mg 2 v /d oral, por 14 días o Tetraciclina 500 mg/ 4 v/d oral, por 14 días o Ceftriaxona 1g c/ 24 hs IM, de 8 a 10 días.
+HIV:. Igual que huésped normal .
+Alérgicos a penicilina: igual huésped normal.
+Embarazadas: 2 dosis de penicilina benzatínica de 2.4 millones de Unidades IM, separadas por 1 semana. Alérgicas a penicilina: desensibilizar
+2. Latente > 1 año, desconocida o terciaria
+Huésped normal: Penicilina G benzatínica 7 millones de unidades totales IM (2.4 millones de unidades por semana, durante 3 semanas.).
+Alérgicos a penicilina: Doxiciclina 100 mg oral 2 veces por día o
+Tetraciclina 500 mg oral 4 veces por día durante 4 semanas.
+HIV: Se debe descartar neurosífilis realizando PL previo a instaurar tratamiento. Si se descartó neurosífilis el tratamiento es igual al del huésped normal con 3 dosis de peniciliona benzatínica; en caso de confirmar el diagnóstico debe tratarse como tal.
+Alérgicos a penicilina: se recomienda desensibilizar
+Embarazadas: desensibilizar si son alérgicas a penicilina.
+3. Neurosífilis: De elección: Penicilina G acuosa cristalina 3 a 4 millones de unidades IV, cada 4 hs. por 10 – 14 días.
+Alternativa: Ceftriaxona 1 g cada 24 hs. por 14 días parenteral.
+HIV: igual que huésped normal
+Embarazadas: desensibilizar si es alérgica a penicilina.
+• Retratamiento
+Persistencia o recurrencia de los síntomas y signos.
+Incremento de 4 veces en los títulos de VDRL.
+Falta de descenso de 4 veces en los títulos de VDRL.
+• Seguimiento clínico y VDRL
+Sífilis primaria y secundaria: 6 y 12 meses.(a los 3 meses sólo si sospecho falta de adherencia a tratamiento.
+• Otras medidas
+. Testear HIV, si es negativo y tiene conducta de riesgo repetir a los 3 meses.
+. Manejo de los contactos:
+Contacto con Sífilis temprana: Deben tratarse todos los contactos con el caso índice < o = a 90 días.
+Deben testearse todos los contactos con el caso índice > o = a 90 días.
+Contacto con Sífilis de duración desconocida: con títulos 1/32 asumo igual que sífilis temprana.
+Contacto con sífilis tardía: testeo
+Introducción:
+Entre el 20 y el 60% de los adultos sexualmente activos tiene anticuerpos contra HSV-2.
+Desde el advenimiento de la PCR se observó que la causa más frecuente de úlceras genitales en el mundo entero es la causada por HSV-2 (80%).
+• Sospecha clínica
+Ardor, quemazón seguidas de vesículas y luego úlceras pequeñas dolorosas, bordes blandos c/ adenopatías regionales tensas, firmes y dolorosas.
+Localización más frecc.:
+Mujer: Ulceras vulvovaginales Cervicitis mucopurulenta
+Hombre: Ulceras en pene
+La primoinfección por virus herpes simplex 1 y 2 se caracteriza por fiebre, cefalea, malestar general y mialgias. Los síntomas locales habituales son: dolor, disuria, prurito, supuración vaginal y/o uretral y linfadenopatía inginal. A nivel de piel y mucosas sobre una base eritematosa, se ubican las lesiones características: vesículas, pústulas y úlceras dolorosas. En la mujer el cérvix y la uretra, están comprometidas en más del 80% en el primoinfección herpética.
+En las infecciones herpéticas recurrentes hay menos compromiso sistémico.
+La sintomatología clínica del primer episodio de infección por HSV-1 y HSV-2 son similares. Las recurrencias dentro de los 12 primeros meses de la primoinfección son del 90% en el caso del HSV-1 y del 55% en el HSV-2.
+Ambos virus pueden causar infecciones rectales y perirrectales, sintomáticas y asintomáticas, la proctitis herpética es frecuente entre la población homosexual.
+En síntesis la ubicación de las lesiones son en cualquier sitio de la piel localizadas o generalizadas orales, genitales, perirrectales.
+En el caso de pacientes VIH + la cronicidad y severidad de las lesiones es inversamente proporcional al número de CD4.
+• Procedimientos diagnósticos
+Obligatorios
+Detección de ATG (Elisa/ IFD por AtC monoclonales): Detecta virus Herpes 1 y 2 Raspar la lesión. Sensibilidad 80%.
+Testear para HIV.
+Facultativos
+Citología (frotis de Tzank, Pap, tinción de Wright) Raspar la lesión. Sensibilidad (60%)
+Biopsia, para anatomía patológica
+• Tratamiento
+Primer episodio: Acyclovir, 200 mg oral 5 v/ día o Acyclovir 400 mg oral 3 v/d.
+Alternativa: Valacyclovir 1 g oral 2 v/d.
+La duración del tto es de 7-10 días. Prolongarlo si al cabo de 10 días no hay cicatrización.
+Recurrencias: Acyclovir 400 mg 3 v/d. oral o Acyclovir 800 mg oral 2 v/d.
+Alternativa: Valacyclovir 500 mg oral 2 v/d o Famciclovir oral 125 mg 2v/dia.
+La duración del tto es de 3 a 5 días. Los pacientes se benefician con el tto si lo inician con los prodromos o dentro del 1° día de aparición de las lesiones.
+El valaciclovir puede ser administrado en 1 gr una vez por día
+Un estudio reciente demuestra que Aciclovir en dosis de 800 mg 3 veces por día por 2 días tiene un efecto significativo en disminuir la duración de lesiones, duración de los episodios comparado con placebo.
+Formas severas o refractarias: Aciclovir intravenoso (IV) 15 mg/kg /día o por vía oral 800 mg 5 veces por día. Duración: mínimo 7 días. Alternativa: Foscarnet 40 mg/kg IV c/8 hs o 60 mg/kg c/12 hs, durante 10 días.
+Supresivo: Acyclovir 400 mg oral 2 v/ día.
+Alternativa: Valacyclovir 500 mg a 1 g una vez por día oral.
+El tratamiento supresivo se indica en pacientes que sufren 6 o más episodios por año.
+Huésped Inmunocomprometido: Acyclovir 400 mg oral 3 a 5 v/ día.
+El tratamiento se realiza hasta la resolución del episodio.
+En casos severos que requieran hospitalización como infección diseminada o complicación en SNC: Acyclovir, 5 a 10 mg/ k IV cada 8 hs por 5 a 7 días o hasta la resolución clínica.
+Resistencia a Acyclovir: Foscarnet 40 mg/kg IV cada 8 hs. hasta resolver los síntomas.
+Embarazadas: Sólo se trata la primoinfección o casos severos con Acyclovir
+Pacientes VIH+ con infecciones herpéticas
+Los pacientes inmunocomprometidos suelen presentar episodios más severos y prolongados de infecciones herpéticas genitales, perirrectales u orofaciales. El uso de los agentes antivirales para tratamiento del episodio agudo o como terapia supresiva frecuentemente son beneficiosos.
+Tratamiento del episodio agudo en pacientes VIH+:
+Aciclovir oral 400 mg 3 veces por día ó Aciclovir oral 200 mg 5 veces por día Famciclovir oral 500 mg 3 veces por día o Valaciclovir oral 1gr 2 veces por día
+Durante 5 - 10 días
+Tratamiento supresivo en pacientes VIH+:
+Aciclovir oral 400 – 800 mg 2 a 3 veces por día o Famciclovir oral 500 mg 2 veces por día o Valaciclovir oral 500 mg 2 veces por día
+En los casos muy severos, se recomienda iniciar la terapia con Aciclovir 5 –10 mg/kg peso, IV c/ 8 hs. Si el HSV es resitente al aciclovir, también lo es al Valaciclovir y al Famciclovir; en esos casos Se recomienda Foscarnet 40 mg/Kg c/8 hs hasta la resolución de los síntomas. En la bibliografía se menciona la utilidad de la aplicación tópica en las lesiones de cidofovir gel 1% 1 vez al día durante 5 días consecutivos.
+Prevención:
+Modificación de la conducta sexual con Utilización de preservativos
+Utilización de terapia antiviral diaria en personas con serología positiva HVS2.
+La utilización diaria de Valaciclovir 500 mg reduce al 75% la posibilidad de se produzca una infeccion sintomatica por HSV2 desde una persona con herpes genital recurrente hacia parejas suceptibles HSV 2 negativas.
+Un metaanálisis de 27 estudios indica que el riesgo de infección por VIH se eleva al doble en personas HSV2 positivas.
+Las personas co-infectadas HSV2/VIH presentan mayor replicación de VIH.
+• Asesoramiento
+En el manejo de la infección herpética genital es fundamental el asesoramiento de las personas infectadas y sus parejas sexuales, el objetivo es ayudar a la persona infectada y prevenir la transmisión sexual y la transmisión perinatal.
+Los pacientes deben recibir información con respecto a la historia natural de la enfermedad, con énfasis en los episodios recurrentes, la infección viral asintomática y el riesgo de la transmisión sexual.
+Todas las personas con herpes genital deberían informar a sus parejas sexuales
+Los pacientes deben ser informados que pueden transmitir la infección herpética, aún en los períodos asintomáticos (en especial los afectados con HSV-2)
+Las personas deberían abstenerse de mantener relaciones sexuales con personas no infectadas por el HSV, cuando presentan lesiones genitales o cuando manifiestan los pródromos (ardor, prurito)
+El uso de preservativos es útil para prevenir la transmisión sexual
+Se debe asesorar a las mujeres infectadas embarazadas o en período de lactancia, con respecto a la transmisión al recién nacido. Es importante informar del riesgo de contagio en la embarazada durante el tercer trimestre de embarazo que son negativas para el HSV-2, con respecto a mantener relaciones sexuales con una pareja con infección genital herpética
+• Otras medidas: testear a la pareja
+Se desconoce la prevalencia en nuestro país. Se sugiere realizar tratamiento empírico en el caso de no revertir la úlcera genital a los 14 días de realizado el tratamiento completo para sífilis.
+Tratamiento de elección: ceftriaxona 250 mg IM única dosis
+Alternativas:- azitromicina 1gr vía oral dosis única
+- citrofloxacina 500 mg 2 veces por día por tres días
+- eritromicina base 500 mg 3 veces por día por siete días
+3.5 EPIDIDIMITIS TRANSMITIDA POR SEXO
+Chlamydia trachomatis (1° en frec.) y Neisseria gonorrhoeae son los responsables de la mayoría de los casos de epididimitis en los < de 35 años.
+• Orientación clínica
+Sospecharla en paciente sexualmente activo, en general en menores de 35 años con tumefacción de testículo y epidídimo, dolor testicular e hidrocele.
+• Manejo del paciente
+Tener en cuenta el antecedente de uretritis o contacto con nueva pareja sexual
+Descartar torsión testicular
+Realizar hisopado uretral:
+Directo y cultivo gonococo
+Test ligasa o PCR para búsqueda de Chlamydia. Alternativa: Atc monoclonales por ELISA o IFD
+Realizar Urocultivo:
+Gram y cultivo de orina no centrifugada para descartar infección por bacilos negativos.
+Instaurar tratamiento con: Ceftriaxona 250 mg IM dosis única más doxiciclina 100 mg. oral por 10 días.
+Alternativa: ofloxacina 300 mg. oral 2 veces al día, 10 días o levofloxacina 500mg oral,1 vez al día, por 10 días
+Debe instaurarse tratamiento empírico para gonococo y chlamydia luego de la toma de muestra a fin de disminuir la incidencia de complicaciones (infertilidad y dolor crónico)
+Tratamiento coadyuvante.
+Testear para sífilis y HIV.
+La pareja debe recibir tratamiento empírico para chlamydia y gonococo.
+3.6- PAPILOMA VIRUS HUMANO (HPV)
+Introducción:
+La infección por el HPV como ITS es muy frecuente, se considera que la prevalencia de infección es de alrededor de veinte millones de personas en el mundo.
+HPV es la denominación de un grupo de virus que comprende unas 100 especies diferentes, más de 50 tipos infectan el tracto genital. Las úlceras genitales visibles son causadas por los tipos 6 u 11, mientras que los tipos 16, 18, 31, 33 y 35 están fuertemente asociados al desarrollo del cáncer cervical.
+El período de incubación es desconocido, 50% de los contactos se infectan con una sola exposición, estimándose el tiempo de aparición de las lesiones entre 2 a 3 meses con un rango de 3 semanas a 8 meses o más.
+En el hombre
+• Orientación clínica
+Sospecharlo ante la presencia de:
+Balanitis recurrentes.
+Pacientes con múltiples parejas u otras ITS.
+Pacientes con parejas con HPV activo en vulva o vagina.
+Pacientes adultos con fimosis reactivas a procesos inflamatorios o infecciosos.
+Presencia de pápulas o verrugas en el examen físico.
+• Procedimientos diagnósticos
+Obligatorios
+. Peneoscopía: se recomienda en caso de contar con el equipamiento necesario
+Debe realizarse en todos los pacientes, inclusive los que presentan lesiones visibles en genitales externos, a fin de buscar asociación con formas subclínicas en otras localizaciones.
+Estudio con ácido acético al 5% y visualización con colposcopio o lupa de luz fría.
+Resultados: acetosensibilidad en lesiones maculares (subclínicas) o papulosas.
+Facultativos
+. Biopsia
+Indicaciones
+Lesiones atípicas o dudas diagnósticas
+Progresión durante el tratamiento o falta de respuesta al mismo.
+Verrugas ulceradas, pigmentadas, induradas.
+Lesión indirecta que indica la presencia de HPV: Coilocitosis, hiperqueratosis y acantosis.
+. Uretroscopía
+Solo en el caso de lesión meatal y postratamiento.
+. Hibridización
+La muestra se toma por biopsia
+Individualiza los serotipos no oncogénicos 6, 11 que son los más frecuentes y los oncogénicos 16, 18, 33, 31, cuya incidencia es baja en el hombre (0.7%).
+Indicación relativa: escaso valor para tomar conductas terapéuticas.
+A veces se lo realiza en pacientes con parejas de HPV oncogénico
+En la mujer
+• Orientación clínica
+En las mujeres conviene separar con fines diagnósticos y de tratamiento las lesiones según su ubicación, es decir:
+1. lesiones condilomatosas de cuello uterino. Desde 1983 se clasifican en: condiloma acuminado, condiloma espiculado, condilomas planos y cervicocolpitis.
+2. lesiones condilomatosas en vagina: dado que tiene el mismo epitelio que el cuello las lesiones son similares.
+lesiones condilomatosas en vulva: se puede presentar en 4 formas distintas condiloma acuminado, condiloma plano, condiloma espiculado y vulvitis condilomatosa.
+Sospecharlo ante la presencia de:
+Signos colposcópicos o citológicos de infección viral
+Presencia de pápulas o verrugas en el examen físico de la zona genital. Las verrugas en la zona genital pueden ser simples o múltiples, pequeñas o grandes y generalmente semejan una coliflor.
+Pareja con diagnóstico de HPV activo.
+Múltiples parejas sexuales u otras ITS
+• Procedimientos Diagnósticos
+Obligatorios
+. Citología exfoliativa (con tinción de Papanicolao)
+El PAP es recomendado anualmente en toda mujer sexualmente activa a fin de descartar o detectar precozmente el Carcinoma cervical (90% asociado a HPV)
+En mujeres HIV positivas realizar PAP cada 6 meses el primer año, luego si es normal anualmente.
+Resultados
+. Signos de la presencia de HPV: coilocitos, disqueratosis, acantosis.
+. Signos que indican HPV asociados a displasias.
+. Vulvovaginoscopía
+Realizar en todas los pacientes, inclusive los que presentan lesiones visibles en genitales externos, a fin de buscar asociación con formas subclínicas en otras localizaciones.
+Estudio con ácido acético al 5% y visualización con colposcopio
+Resultados: acetosensibilidad en lesiones maculares (subclínicas) o papulosas.
+. Colposcopía
+Estudio con ácido acético al 5% y visualización con colposcopio
+Indicaciones:
+Absolutas
+. Pacientes con lesiones visibles de HPV en genitales externos.
+. PAP con lesiones escamosas intraepiteliales (SIL) de bajo grado, que incluye:
+Cambios producidos por HPV, displasia moderada o neoplasia intraepitelial (CIN1), células atípicas escamosas indeterminadas.
+. PAP con SIL de alto grado: displasia moderada y severa y carcinoma in situ.
+Relativa
+. Colposcopía a todas las pacientes que realizan examen ginecológico de control.
+• Facultativos
+. Biopsia
+Indicaciones:
+Absolutas
+Lesiones atípicas o dudas diagnósticas
+Progresión durante el tratamiento o falta de respuesta al mismo.
+Verrugas ulceradas, pigmentadas, induradas
+SIL de alto grado en PAP
+Relativas:
+SIL de bajo grado en PAP
+Pacientes inmunocomprometidas
+. Hibridización
+Indicación relativa: podría ser de utilidad en pacientes con parejas con HPV oncogénico o lesiones SIL de bajo grado para seguimiento sobre todo en inmuno comprometidas.
+- Tratamiento
+Tipo de tratamientos
+Hay tratamientos locales para las lesiones en los genitales externos que pueden ser autoaplicados por la propia paciente: podofilox al 0.5% en solución gel y Imiquimod crema al 5%.
+. Métodos físicos
+Electrocoagulación.
+Crioterapia
+Laserterapia
+Resección quirúrgica.
+. Métodos químicos
+Podofilina al 15% hasta 25%.
+Acido tricloroacético al 50% hasta 90%.
+. Métodos inmunológicos
+Actúan en pacientes con el sistema inmune integro, por lo tanto en pacientes inmunocomprometidos no está indicado.
+Interferón sublesional: parecería ser que actúa como antiviral y como inmuno estimulante, pero es caro y no se han demostrado ventajas con su uso.
+Inmunomoduladores (Imiquimod)
+. Tratamiento citostático
+Fluoruracilo crema al 5%
+Tratamiento de lesiones en genitales externos
+a) Lesiones maculares.
+De elección: Fluoruracilo crema al 5% bisemanal. Contraindicado en embarazo.
+Se prefiere su utilización sólo en hombres.
+Inmunomoduladores: Imiquimod al 5%. Aplicar 3 veces por semana, máximo 16 semanas. Contraindicado en embarazo.
+Alternativa: Laserterapia
+b) Verrugas genitales
+De elección:
+. Solución de podofilina (5% - 10%) trisemanal para mucosas y al 25% para piel. La aplicación no debe exceder los 10 cm2 de la verruga. Debe lavarse la zona 1 a 4 hs. después la aplicación.
+Contraindicado en embarazo.
+. Acidotricloroacético al 50% al 90% semanal.
+Aplicar una pequeña cantidad sobre la lesión, dejar secar y luego remover el ácido remanente con jabón o bicarbonato de Na.
+. Crioterapia con nitrógeno líquido cada semana o cada 2 semanas.
+. Electrocoagulación
+. Excisión quirúrgica.
+Alternativa:
+. Interferón sublesional. Dado la difícil aplicación y la probabilidad de efectos no deseados, no se emplea de rutina.
+c) Lesiones mixtas.
+. Tratamiento puntual sobre la lesión combinada con fluoruracilo crema al 5%. En la mujer el fluoruracilo puede reemplazarse por Imiquimod al 5%.
+• Tratamiento de lesiones en genitales internos.
+Uretra
+En el hombre: Fluoruracilo crema al 5% bisemanal. Alternativa: Imiquimod?
+En la mujer:
+Crioterapia con nitrógeno líquido.
+Podofilina al 10% - 25% de 1 a 3 veces por semana. Contraindicado en embarazo
+Imiquimod?
+Vagina
+. Crioterapia con nitrógeno líquido
+. Acido tricloroacético o bicloroacético al 80- 90%
+. Podofilina 10%-25%
+Cuello uterino
+En toda mujer con lesiones en cuello producidas por el HPV se deberán descartar lesiones escamosas intraepiteliales de alto grado (SIL), antes de iniciar un tratamiento.
+Si hay lesión visible por infección por HPV solo y/o asociada a SIL de bajo grado:
+Acido tricloroacético
+Criocirugía
+Laser
+Si hay SIL de alto grado: consultar con especialista para biopsia y tratamiento acorde.
+Lesiones anales
+. Crioterapia con nitrógeno líquido.
+. Acido tricloroacético o bicloroacético al 80%- 90% . Remoción quirúrgica Lesiones orales . Crioterapia con nitrógeno líquido
+. Remoción quirúrgica
+• Tratamiento supresivo
+Fluoruracilo crema al 5% por 6 semanas o Imiquimod al 5% (máx. 16 semanas)
+Se administran semanalmente o bisemanal.
+Indicaciones:
+Lesiones en genitales externos maculares o mixtas postratamiento.
+Recurrencia de 3 o más episodios en 1 año.
+Inmunocomprometidos.
+Lesiones extensas en uretra o vagina postratamiento
+• Seguimiento
+. Controles penoscópicos o colposcópicos trimestrales hasta el año, a partir de la desaparición de la lesión postratamiento.
+. Control de la pareja
+• Situaciones especiales
+Embarazadas
+El Imiquimod, la podofilina y el podofilox no deben usarse durante el embarazo
+Pueden ser tratadas con los siguientes acorde al tipo y localización de la lesión
+Acido tricloroacético
+Criocirugía
+Cirugía convencional
+Laser
+Si las verrugas están muy grandes y son friables deben ser removidas durante el embarazo, los tipos 6 y 11 han sido descriptos como causales de las papilomatosis respiratoria en los niños.
+Se realizará control cito-colposcópico cada 3 meses y a los 3 meses posteriores al parto.
+Elección de la vía del parto: la cesárea es una indicación relativa y se realiza sobre todo en lesión visibles con riesgo de obstruir el canal de parto o sangrado importante.
+

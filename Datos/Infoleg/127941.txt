@@ -1,0 +1,48 @@
+AUTORIDAD REGULATORIA NUCLEAR
+Resolución 44/2007
+Reconócese el temario de contenidos mínimos para cursos de revisión y actualización en seguridad radiológica en el uso de radiotrazadores y perfilaje de pozos en aplicaciones de la industria del petróleo.
+Bs. As., 2/5/2007
+VISTO la Ley Nº 24.804, su Decreto Reglamentario Nº 1390/98, la Norma AR 7.11.2 "Permisos Individuales para Operadores de Fuentes de Radiación para Aplicaciones Industriales", lo actuado por la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS – SUBGERENCIA CONTROL DE INSTALACIONES RADIACTIVAS CLASE II Y III, lo propuesto por el CONSEJO ASESOR EN APLICACIONES DE RADIOISOTOPOS Y RADIACIONES IONIZANTES (CAAR), y
+CONSIDERANDO:
+Que el punto 20 de la Norma AR 7.11.2, establece que para la renovación de permisos individuales se debe acreditar la aprobación de un curso de actualización en seguridad radiológica en aplicaciones industriales.
+Que la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS – SUBGERENCIA CONTROL DE INSTALACIONES RADIACTIVAS CLASE II Y III ha recomendado al CAAR la evaluación de un temario de contenidos mínimos para cursos de revisión y actualización en seguridad radiológica para el uso de radiotrazadores y perfilaje de pozos en aplicaciones de la industria del petróleo.
+Que respecto del mismo, el CAAR realizó la evaluación de los contenidos correspondientes, recomendando en su Acta de Reunión Nº 743, reconocer dicho temario.
+Que la SUBGERENCIA DE ASUNTOS JURIDICOS ha tomado la intervención que le compete.
+Que el Directorio de la AUTORIDAD REGULATORIA NUCLEAR es competente para el dictado del presente acto conforme lo establece el Artículo 22, inciso e) de la Ley Nº 24.804.
+Por ello, en su reunión de 23 de abril de 2007 (Acta Nº 5)
+EL DIRECTORIO DE LA AUTORIDAD REGULATORIA NUCLEAR
+RESOLVIO:
+Artículo 1º — Reconocer el temario de contenidos mínimos para cursos de revisión y actualización en Seguridad Radiológica en el uso de radiotrazadores y perfilaje de pozos en aplicaciones de la industria del petróleo para la renovación de los permisos individuales, cuyo contenido y carga horaria están indicados en el Anexo a la presente Resolución.
+Art. 2º — Establecer que la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS evaluará anualmente el temario de contenidos mínimos y establecerá, de ser necesarias, las modificaciones pertinentes.
+Art. 3º — Comuníquese a la SECRETARIA GENERAL, al CONSEJO ASESOR EN APLICACIONES DE RADIOISOTOPOS Y RADIACIONES IONIZANTES (CAAR) y a la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS a sus efectos, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL para su publicación en el BOLETIN OFICIAL DE LA REPUBLICA ARGENTINA, publíquese en el Boletín de este Organismo y archívese en el REGISTRO CENTRAL. — Raúl O. Racana.
+ANEXO A LA RESOLUCION
+DEL DIRECTORIO Nº 44/07.
+TEMARIO DE CONTENIDOS MINIMOS PARA
+CURSOS DE REVISION Y ACTUALIZACION
+EN SEGURIDAD RADIOLOGICA EN EL USO
+DE RADIOTRAZADORES Y PERFILAJE DE
+POZOS EN APLICACIONES DE LA INDUSTRIA
+DEL PETROLEO
+1.- Repaso de Conceptos básicos: (4 horas)
+Radiactividad. Desintegración radiactiva. Actividad. Constante de decaimiento. Período de semidesintegración.
+Interacción de la radiación con la materia. Tipos de radiación (alfa, beta, gamma, rayos x, neutrones).
+Efectos biológicos (Conceptos de efectos estocásticos y determinísticos).
+Magnitudes y unidades. Dosis absorbida. Dosis equivalente. Dosis efectiva.
+Principios de protección radiológica: Justificación, Optimización y Límites de Dosis.
+Tipos de exposición (externa e interna). Radioprotección Operativa: distancia, tiempo, blindaje.
+Fuentes Selladas: Su uso y fabricación, normas ISO o similares de clasificación de fuentes radiactivas selladas y de ensayos de pérdidas de las mismas.
+2.- Conceptos específicos: (3 horas)
+Tipos de fuentes empleadas y sus características. Herramientas utilizadas.
+Almacenamiento de fuentes selladas y no selladas. Zonas de trabajo. Fraccionamiento de fuentes no selladas. Descontaminación de materiales y equipos. Criterios que deben considerarse en la descontaminación. Tratamiento de residuos provenientes de la descontaminación. Residuos provenientes de la práctica petrolera (NORM). Gestión de fuentes.
+3.- Seguridad radiológica en la práctica: (4 horas)
+Sistemas de blindaje y emplazamiento seguro, señalización, placas de identificación. Almacenamiento y depósito. Recepción, registro e inventario de fuentes. Monitoreo inicial (durante la recepción) y periódico (de áreas de trabajo). Medidas de seguridad específicas para equipos móviles y para generadores de neutrones. Transporte seguro en el área de trabajo y por la vía pública.
+Aspectos de seguridad física de fuentes. Fuentes Huérfanas (casos). Sistema de calidad y su influencia en la protección radiológica. Elaboración e implementación de procedimientos.
+Instrumentación en radioprotección. Uso de monitoreos portátiles. Interpretación de resultados. Impacto ambiental.
+4.- Emergencias: (2 horas)
+Posibles escenarios. Causas y consecuencias. Fallas humanas y de procedimientos. Procedimientos de emergencia. Importancia de los ensayos periódicos. Recuperación de fuentes radiactivas. Estrategias. Recursos. Primeros pasos. Armado de una mini-zona y control de accesos.
+5.- Accidentes: (2 horas)
+Cómo prevenirlos. Lecciones aprendidas de accidentes ocurridos. Cultura de la Seguridad.
+6.- Aspectos regulatorios: (1 hora)
+Normas específicas. Requisitos para la obtención y renovación de permisos y licencias de operación. Responsabilidades de los titulares de permisos y del responsable por la seguridad radiológica. Transferencia de material radiactivo. Importación y exportación de equipos y fuentes radiactivas. Régimen de sanciones.
+7.- Discusión sobre experiencia operativa con los distintos equipos. Hallazgos: (2 horas).
+

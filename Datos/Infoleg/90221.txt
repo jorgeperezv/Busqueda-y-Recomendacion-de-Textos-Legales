@@ -1,0 +1,80 @@
+Administración Federal de Ingresos Públicos
+IMPUESTOS
+Resolución General 1597
+Impuesto sobre los Combustibles Líquidos. Ley N° 23.966, Título III de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones. Resolución General N° 4247 (DGI), sus modificatorias y complementarias. Norma complementaria.
+Bs. As., 11/11/2003
+VISTO la Ley N° 23.966, Título III de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones y la Resolución General N° 4247 (DGI), sus modificatorias y complementarias, y
+CONSIDERANDO:
+Que la resolución general del visto dispuso las formalidades, plazos y demás condiciones, que deberán observar los sujetos pasivos del impuesto sobre los combustibles líquidos para la determinación e ingreso del gravamen.
+Que por otra parte, a los fines de receptar las modificaciones introducidas a la citada ley respecto de la nueva forma de liquidar el impuesto, mediante la Resolución General N° 1565 se estableció el procedimiento para determinar el gravamen y liquidar los anticipos, cuyos vencimientos operaron a partir del mes de setiembre de 2003 y de octubre de 2003, respectivamente.
+Que en tal sentido, resulta aconsejable prever la utilización de un programa aplicativo para la determinación del tributo.
+Que para facilitar la lectura e interpretación de las normas, se considera conveniente la utilización de notas aclaratorias y citas de textos legales, con números de referencia, explicitados en el Anexo I.
+Que han tomado la intervención que les compete las Direcciones de Legislación, de Asesoría Técnica, de Programa y Normas de Recaudación, de Análisis de Fiscalización Especializada, de Programas y Normas de Fiscalización y de Informática Tributaria.
+Que la presente se dicta en ejercicio de las facultades conferidas por los artículos 11 y 24 de la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones, por el artículo 14 del Capítulo III, Título III de la Ley N° 23.966, de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones y por el artículo 7° del Decreto N° 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+A - DETERMINACION DEL IMPUESTO. PROGRAMA APLICATIVO
+Artículo 1° — Los sujetos pasivos del impuesto sobre los combustibles líquidos definidos en el artículo 3° de la Ley N° 23.966, Título III de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones, a efectos de cumplir con las obligaciones de determinación e ingreso del tributo previstas en la Resolución General N° 4247 (DGI), sus modificatorias y complementarias, deberán utilizar el programa aplicativo denominado "COMBUSTIBLES LIQUIDOS - Versión 1.0", cuyas características, funciones y aspectos técnicos para su uso se especifican en el Anexo II de esta resolución general.
+B - PRESENTACION DE LA DECLARACION JURADA Y DISQUETE
+Art. 2° — Los sujetos indicados en el artículo 1°, deberán presentar:
+a) UN (1) soporte magnético "Compact Disc" o disquete de TRES PULGADAS Y MEDIA (3½") HD —rotulado con indicación de: nombre del impuesto, apellido y nombres, denominación o razón social, Clave Unica de Identificación Tributaria (C.U.I.T.) y período fiscal—, y
+b) el formulario de declaración jurada N° 684/E —que resulte del programa provisto por este organismo—, por original.
+La presentación de los citados elementos se efectuará en los lugares que correspondan al sistema de control del contribuyente o responsable (2.1.), donde se realizará la verificación correspondiente para su admisión (2.2.).
+No serán admitidas las presentaciones efectuadas mediante envío postal o cualquier otra forma indirecta de remisión.
+C - INGRESO DEL IMPUESTO, INTERESES RESARCITORIOS Y MULTAS
+Art. 3° — El ingreso del saldo de impuesto resultante de la declaración jurada, así como, de los intereses resarcitorios y multas, de corresponder, deberá realizarse en los lugares de pago y con los elementos que, atendiendo al sistema de control que corresponda al contribuyente o responsable, se indican a continuación:
+- Lugares de pago:
+a) Responsables que se encuentren dentro de la jurisdicción de la Dirección de Operaciones Grandes Contribuyentes Nacionales: en el Anexo Operativo del Banco de la Nación Argentina, habilitado a tal efecto en esa Dirección.
+b) Responsables comprendidos en el Capítulo II de la Resolución General N° 3423 (DGI), sus modificatorias y complementarias: en la institución bancaria habilitada en la respectiva dependencia.
+c) Demás contribuyentes y responsables: en las instituciones bancarias habilitadas por este organismo, según lo dispuesto por la Resolución General N° 191, sus modificatorias y complementarias, que establece la utilización del sistema "OSIRIS".
+Asimismo el ingreso podrá efectuarse conforme al procedimiento y condiciones del régimen optativo de pago electrónico dispuesto por la Resolución General N° 942, su modificatoria y sus complementarias.
+- Elementos para efectuar el pago y constancias a emitirse:
+1. Contribuyentes y responsables indicados en los incisos a) y b) precedentes: presentarán el "acuse de recibo" emitido por el puesto Sistema de Atención al Contribuyente (S.A.C.).
+Como constancia de pago, el sistema emitirá un comprobante F. 107, o en su caso, el que imprima conforme a lo dispuesto por la Resolución General N° 3886 (DGI).
+2. Los mencionados en el inciso c): presentarán el formulario de declaración jurada N° 799/E por cada uno de los productos cuyo impuesto se cancela, indicando los códigos que según corresponda, se indican a continuación:
+Concepto: 019 declaración jurada.
+Subconcepto: 019 declaración jurada.
+Las entidades bancarias, contra el pago de la obligación, entregarán como constancia un tique que lo acreditará.
+Los ingresos deberán efectuarse mediante depósito en efectivo o con cheque de la casa cobradora.
+D - DISPOSICIONES GENERALES
+Art. 4° — El programa aplicativo "COMBUSTIBLES LIQUIDOS - Versión 1.0" (4.1.) podrá ser transferido de la página "web" de este organismo (http://www.afip.gov.ar).
+Art. 5° — Apruébanse el formulario de declaración jurada N° 684/E y los Anexos I y II que forman parte de esta resolución general y el programa aplicativo denominado "COMBUSTIBLES LIQUIDOS - Versión 1.0".
+Art. 6° — Las disposiciones de esta resolución general serán de aplicación para las declaraciones juradas que se presenten a partir del día 1 de marzo de 2004, inclusive, así como para el ingreso del respectivo saldo de impuesto resultante.
+No obstante lo dispuesto en el párrafo anterior, los responsables podrán optar por presentar hasta el día 29 de febrero de 2004 las declaraciones juradas generadas mediante el programa aplicativo que se aprueba, en sustitución del procedimiento de determinación previsto en la Resolución General Nº 1565.
+(Artículo sustituido por art. 1° de la Resolución General N°1614/2003 AFIP B.O. 22/12/2003)
+Art. 7° — Déjanse sin efecto el artículo 5° de la Resolución General N° 4247 (DGI), sus modificatorias y complementarias y los formularios de declaración jurada Nros. 684/C, 684/D y 685, a partir de la fecha indicada en el primer párrafo del artículo anterior.
+Art. 8° — En todos los aspectos no contemplados en la presente, serán de aplicación las normas establecidas por la Resolución General N° 4247 (DGI), sus modificatorias y complementarias.
+Art. 9° — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. Alberto R. Abad.
+ANEXO I RESOLUCION GENERAL N° 1597
+NOTAS ACLARATORIAS Y CITAS DE TEXTOS LEGALES
+Artículo 2°.
+(2.1.) Lugares de presentación:
+a) Contribuyentes y responsables comprendidos en los sistemas diferenciados de control dispuestos por las Resoluciones Generales Nros. 3282 (DGI) y 3423 (DGI) —Capítulo II— y sus respectivas modificatorias y complementarias: en el puesto Sistema de Atención al Contribuyente (S.A.C.) de la dependencia que efectúa el control de sus obligaciones.
+b) Contribuyentes alcanzados por el régimen especial de presentación de declaraciones juradas establecido por la Resolución General N° 1345 y su modificatoria: mediante transferencia electrónica de datos.
+c) Contribuyentes no comprendidos en los incisos anteriores: en el puesto Sistema de Atención al Contribuyente (S.A.C.) de la dependencia que efectúa el control de sus obligaciones.
+(2.2.) Control de presentación.
+En el momento de la presentación se procederá a la lectura, validación y grabación de la información contenida en el archivo magnético, y se verificará si ella responde a los datos contenidos en el formulario de declaración jurada N° 684/E.
+De comprobarse errores, inconsistencias, utilización de un programa diferente al provisto o presencia de archivos defectuosos, la presentación será rechazada, generándose una constancia de tal situación, y en consecuencia no se habilitará, de corresponder, el respectivo pago.
+De resultar aceptada la información se entregará un "acuse de recibo" o "tique acuse de recibo", según la forma de presentación, que habilitará al responsable para efectuar el pago de la obligación.
+Artículo 4°.
+(4.1.) El funcionamiento del programa aplicativo que se dispone por medio de la presente requerirá tener preinstalado el "S.I.Ap. - Sistema Integrado de Aplicaciones - Versión 3.1 Release 2".
+ANEXO II RESOLUCION GENERAL N° 1597
+SISTEMA "COMBUSTIBLES LIQUIDOS - Versión 1.0"
+Este programa aplicativo deberá ser utilizado por los contribuyentes a efectos de generar la declaración jurada N° 684/E.
+Los datos identificatorios de cada contribuyente deben encontrarse cargados en el "S.I.Ap. - Sistema Integrado de Aplicaciones - Versión 3.1 Release 2" y al acceder al programa, se deberá ingresar la información necesaria para liquidar el impuesto.
+La veracidad de los datos que se ingresen será responsabilidad del contribuyente.
+1. Descripción general del sistema.
+La función principal del sistema es generar la declaración juradas mensual del impuesto sobre los combustibles líquidos, conforme a las normas vigentes.
+2. Requerimientos de "hardware" y "software"
+2.1. PC 486 DX2 o superior.
+2.2. Memoria RAM mínima: 32 Mb.
+2.3. Memoria RAM recomendable: 128 Mb.
+2.4. Disco rígido con un mínimo de 10 Mb. disponibles.
+2.5. Disquetera 3½" HD (1.44 Mbytes).
+2.6. "Windows 95, 98 o NT" o superior.
+2.7. Instalación previa del "S.I.Ap. - Sistema Integrado de Aplicaciones - Versión 3.1 Release 2".
+3. Metodología general para la confección de la declaración jurada.
+La confección del formulario de declaración jurada se efectúa cubriendo cada uno de los campos identificados en las respectivas pantallas, teniendo en cuenta las disposiciones de la Ley N° 23.966, Título III de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones.
+El sistema prevé un módulo de "Ayuda", al cual se accede con la tecla de función F1 o a través de la barra de menú, que contiene indicaciones para facilitar el uso del programa aplicativo.
+

@@ -1,0 +1,54 @@
+Secretaría de Coordinación Técnica
+LEALTAD COMERCIAL
+Resolución 84/2003
+Apruébase el Reglamento técnico MERCOSUR para el "Procedimiento de muestreo y tolerancias para lotes de 5 a 49 unidades en productos premedidos comercializados en unidades de longitud y/o número de unidades".
+Bs. As., 5/11/2003
+VISTO el Expediente Nº S01:0117474/03, del Registro del MINISTERIO DE ECONOMIA Y PRODUCCION, y
+CONSIDERANDO:
+Que con la finalidad de satisfacer el objetivo de constituir un Mercado Común, los Estados Partes signatarios del Tratado de Asunción aprobado por Ley Nº 23.981, han decidido reglamentar el "Procedimiento de muestreo y tolerancias para lotes de 5 a 49 unidades en productos premedidos comercializados en unidades de longitud y/o número de unidades".
+Que en cumplimiento de tal decisión el GRUPO MERCADO COMUN, en su carácter de órgano ejecutivo del referido Tratado, ha dictado la Resolución Nº 10 de marzo de 2003 donde se fija el procedimiento de toma de muestras y tolerancias.
+Que por lo tanto corresponde adoptar e incluir en la legislación nacional el reglamento oportunamente dictado por el GRUPO MERCADO COMUN.
+Que la Dirección General de Asuntos Jurídicos del MINISTERIO DE ECONOMIA Y PRODUCCION ha tomado la intervención que le compete.
+Que la presente se dicta en ejercicio de las facultades conferidas por el Artículo 12 de la Ley Nº 22.802 de Lealtad Comercial y los Decretos Nros. 1283 del 24 de mayo de 2003 y 25 del 27 de mayo de 2003.
+Por ello,
+EL SECRETARIO DE COORDINACION TECNICA
+RESUELVE:
+Artículo 1º — Aprobar el Reglamento Técnico MERCOSUR para el "Procedimiento de muestreo y tolerancias para lotes de 5 a 49 unidades en productos premedidos comercializados en unidades de longitud y/o número de unidades", conforme lo dispuesto en el Anexo que con CUATRO (4) fojas se incorpora a la presente, y que forma parte integrante de la misma.
+Art. 2º — Las infracciones a la presente resolución serán sancionadas conforme lo dispuesto en la Ley Nº 22802.
+Art. 3º — La presente resolución comenzará a regir a partir de su publicación en el Boletín Oficial.
+Art. 4º — Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial, y archívese. — Leonardo Madcur.
+ANEXO
+REGLAMENTO TECNICO MERCOSUR a) OBJETIVO.
+I) Este Reglamento Técnico MERCOSUR establece los criterios para la verificación del contenido efectivo de productos premedidos con contenido nominal igual, comercializado en unidades de longitud y/o número de unidades.
+b) CAMPO DE APLICACION.
+I) Este Reglamento Técnico MERCOSUR se aplica al control metrológico de productos premedidos comercializados en unidades de longitud y/o número de unidades que se presenten para su comercialización en lotes de cinco (5) a cuarenta y nueve (49) unidades en el punto de venta.
+c) DEFINICIONES.
+I) Lote en Punto de Venta.
+Se considera lote a la cantidad de producto inferior a cincuenta (50) unidades del mismo tipo de producto, marca y contenido nominal.
+II) Contenido efectivo.
+Es la cantidad de producto contenida en el envase.
+III) Contenido nominal ( Qn ).
+Es la cantidad indicada en el envase del producto.
+IV) Tolerancia individual ( T ).
+Es la diferencia tolerada en menos, entre el contenido efectivo y el contenido nominal, indicada en las Tablas I y III de este reglamento.
+V) Muestra del lote.
+Es la cantidad de productos premedidos que será efectivamente verificada, indicada en las Tablas II y IV.
+VI) Promedio de la muestra ( X ).
+Es definido por la ecuación:
+Tabla I
+Cantidad Nominal (Qn)  Tolerancia (T)   Hasta 30 unidades  0   De 31 a 100 unidades  1   De 101 a 200 unidades  2   De 201 a 300 unidades  3   Superior a 300 unidades  1 para cada 100
+2) Criterio del promedio.
+El promedio de la muestra deberá ser mayor o igual al contenido nominal:
+( X ³  Qn ).
+Tabla II
+Lote  Muestra del lote   de 5 a 13  Todas   de 14 a 49  14
+II) Productos comercializados en unidades de longitud.
+1) Criterio individual.
+No es admitida ninguna unidad debajo de Qn-T, siendo el valor de T obtenido en la Tabla III.
+Tabla III
+Tolerancia Individual ( T )   Contenido nominal (Qn)  Porcentual de Qn   Qn ³  0,01 m  2 %
+2) Criterio para el promedio.
+Conforme con la Tabla IV ( X ³  Qn – ks).
+Tabla IV
+Lote  Muestra  Criterio de Aceptación para el promedio   5  5  X ³ Qn – 2,059.s   6  6  X ³ Qn – 1,646.s   7  7  X ³ Qn – 1,401.s   8  8  X ³ Qn – 1,237.s   9  9  X ³ Qn – 1,118.s   10  10  X ³ Qn – 1,028.s   11  11  X ³ Qn – 0,995.s   12  12  X ³ Qn – 0,897.s   13  13  X ³ Qn – 0,847.s   14 a 49  14  X ³ Qn – 0,805.s
+

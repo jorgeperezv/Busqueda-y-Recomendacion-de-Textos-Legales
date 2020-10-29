@@ -1,0 +1,80 @@
+Administración Federal de Ingresos Públicos
+IMPUESTOS
+Resolución General 1600
+Impuesto sobre los Combustibles Líquidos. Ley N° 23.966, Título III de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones. Decreto N° 1016/97. Resolución General N° 1576. Régimen de información. Requisitos, plazos, formas y condiciones.
+Bs. As., 18/11/2003
+VISTO el Decreto N° 1016 de fecha 24 de setiembre de 1997 y la Resolución General N° 1576, y
+CONSIDERANDO:
+Que el decreto del visto dispone que los sujetos comprendidos en los incisos b) y c) del artículo 3° de la Ley de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones, podrán tomar a su cargo el pago del gravamen que imponga la comercialización de los productos intermedios que utilicen en la elaboración, producción u obtención de productos gravados.
+Que mediante la Resolución General N° 1576, se creó el "REGISTRO DE OPERADORES DE PRODUCTOS INTERMEDIOS – DECRETO N° 1016/97".
+Que razones de administración tributaria hacen aconsejable contar con la información relacionada con las operaciones efectuadas en las condiciones previstas por el referido decreto, por los sujetos inscritos en el mencionado "Registro".
+Que consecuentemente, resulta necesario disponer los requisitos, plazos, formas y condiciones que deberán observar los agentes de información incorporados al régimen.
+Que para facilitar la lectura e interpretación de las normas, se considera conveniente la utilización de notas aclaratorias y citas de textos legales, con números de referencia, explicitados en un Anexo complementario.
+Que han tomado la intervención que les compete las Direcciones de Legislación, de Asesoría Legal, de Análisis de Fiscalización Especializada y de Informática de Fiscalización.
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 14 del Capítulo III, Título III de la Ley N° 23.966 de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones y por el artículo 7° del Decreto N° 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1° — Los sujetos pasivos del impuesto sobre los combustibles líquidos y el gas natural, que se encuentren inscritos en el "REGISTRO DE OPERADORES DE PRODUCTOS INTERMEDIOS - DECRETO N° 1.016/97" creado por la Resolución General N° 1576 (1.1.), quedan obligados a actuar como agentes de información de acuerdo con los requisitos, plazos, formas y condiciones que se establecen por esta resolución general, cuando compren, vendan y/o importen productos intermedios sujetos al régimen de sustitución del gravamen, establecido por el Decreto N° 1016/97.
+A - SISTEMA INFORMATIVO "DECRETO 1016/97" - CLAVE DE ACCESO Y CODIGO DE USUARIO
+Art. 2º — Los sujetos indicados en el artículo anterior deberán solicitar el código de usuario y la clave para acceder al sistema informativo denominado "Decreto 1016/97", en la dependencia de esta Administración Federal — Dirección General Impositiva— en la que se encuentren inscritos, a partir del segundo día hábil siguiente al de la publicación en el Boletín Oficial de su inscripción en el "REGISTRO DE OPERADORES DE PRODUCTOS INTERMEDIOS - DECRETO N° 1016/97".
+La utilización de la clave para acceder al sistema y la información suministrada al mismo, es de exclusiva responsabilidad del usuario.
+Los sujetos que actualmente son agentes de información —por encontrarse alcanzados por las disposiciones de las Resoluciones Generales N° 1139 y/o N° 1314—, continuarán utilizando el código de usuario y la clave asignada oportunamente.
+Art. 3º — Los agentes de información indicados en el artículo 1° ingresarán en el sistema las operaciones referidas en el citado artículo, utilizando la página "web" de este organismo (https://www.afipreproweb.gov.ar/ combex.html).
+B - INFORMACION DE LOS PRODUCTOS PROPIOS
+Art. 4º — Los sujetos pasivos —compradores— mencionados en el primer párrafo del artículo 2° del Decreto N° 1016/97 (4.1.), deberán informar analíticamente la totalidad de los productos gravados que elaboren, produzcan u obtengan a partir del producto intermedio adquirido, mediante el ingreso de los datos en la pantalla "Ingreso de productos finales".
+Los sujetos pasivos —vendedores— indicados en el segundo párrafo del artículo 2° del Decreto N° 1016/97 (4.2.), informarán de manera analítica la totalidad de los productos intermedios que comercialicen, mediante el ingreso de los datos en la pantalla "Ingreso de productos intermedios" del sistema informativo.
+La referida información deberá proporcionarse hasta el día 5 de febrero de 2004, inclusive, o previo a su comercialización, el que fuera anterior.
+Art. 5º — Los sujetos pasivos compradores y vendedores, informarán las modificaciones, altas o bajas de los productos a que se refiere el artículo anterior, en la pantalla "Ingreso de productos intermedios" o "Ingreso de productos finales" del sistema informativo, según corresponda.
+Las modificaciones o altas deberán ser informadas previo a su comercialización, y cada uno de los productos que se den de baja, dentro de los QUINCE (15) días corridos de ocurrido el hecho.
+C - EXISTENCIAS DE PRODUCTOS
+Art. 6º — Los sujetos pasivos —compradores— deberán informar los datos requeridos en la pantalla "Stock inicial" del sistema, de las existencias que se encuentren en depósitos propios y/o de terceros al 31 de enero de 2004, correspondientes a cada uno de:
+a) Los productos intermedios adquiridos en las condiciones previstas por el Decreto N° 1016/97.
+b) Los productos gravados obtenidos a partir de los productos intermedios adquiridos conforme a las disposiciones establecidas por el citado decreto.
+Dichas existencias se informarán en el sistema hasta el día 5 de febrero de 2004, inclusive.
+Art. 7º — Los responsables que se incorporen al presente régimen informativo con posterioridad al día 1 de febrero de 2004, inclusive, deberán cumplir con las disposiciones previstas en los artículos 4° y 6° de la presente, hasta el quinto día corrido posterior a la fecha de publicación de su inscripción en el "Registro" creado por la Resolución General N° 1576, o previo a su comercialización, el que fuera anterior.
+La obligación de informar las existencias establecida en el artículo 6°, será respecto de los productos que se encuentren en depósitos propios y/o de terceros al día anterior a la fecha de inscripción en el referido "Registro".
+D - INFORMACION DE LAS OPERACIONES - PLAZOS
+Art. 8º — Los sujetos pasivos vendedores, deberán informar diariamente las ventas correspondientes a los productos intermedios, mediante la carga manual de los datos del sujeto pasivo comprador y de la documentación respaldatoria en la pantalla "Ventas" del sistema, o bien a través de la transferencia de un archivo por importación de datos en la pantalla "Envío de archivo de comprobantes de ventas".
+Art. 9º — Los sujetos pasivos compradores, informarán diariamente las compras de productos efectuadas, mediante la carga manual de los datos del sujeto pasivo vendedor y de la documentación respaldatoria de la operación, o bien a través de la transferencia de un archivo por importación de datos en las pantallas "Compras" y "Envío de archivo de comprobantes de compras", respectivamente.
+Asimismo, deberán informar mensualmente, desde el 1 al 10 del mes siguiente:
+a) La cantidad de cada uno de los productos intermedios incorporados al proceso productivo, utilizando a tal efecto la pantalla "Remisión a proceso productivo" del sistema, a los fines de mayor especificidad en el movimiento interno de productos.
+b) La cantidad de cada uno de los productos gravados obtenidos a partir de los productos intermedios adquiridos, utilizando a tal efecto la pantalla "Producción" del sistema.
+c) Las mermas normales y habituales ocurridas en el proceso productivo, utilizando a tal efecto la pantalla "Mermas" del sistema.
+Art. 10. — Los agentes de información del presente régimen, deberán informar diariamente cada una de sus operaciones por ventas y/o compras, indicadas en los artículos 8° y 9° de la presente, según corresponda, dentro de los TRES (3) días corridos de efectuada la respectiva facturación.
+En el supuesto de no haberse registrado compras, ventas, importaciones, remisión a proceso productivo, producción, mermas y/o pérdidas, en un período mensual, se informará a través del sistema, según corresponda, la novedad "SIN MOVIMIENTO", dentro de los TRES (3) días corridos siguientes al de finalizado dicho período.
+Art. 11. — Los responsables que importen productos intermedios en las condiciones previstas por el Decreto N° 1016/97, deberán informar tales operaciones dentro de los TRES (3) días corridos de efectuado el despacho a plaza, identificando en la pantalla "Importaciones" los datos requeridos en la misma.
+Art. 12. — Los sujetos pasivos compradores y vendedores, informarán desde el 1 al 10 de cada mes, los datos referidos a los transportistas que efectuaron el traslado de los productos, durante el mes inmediato anterior, mediante la pantalla "Transportistas".
+E - NOTAS DE CREDITO
+Art. 13. — Los sujetos pasivos vendedores, dentro de los TRES (3) días corridos contados desde la fecha de emisión de las notas de crédito por devolución de producto, deberán informarlas en la pantalla "Notas de Crédito" del sistema relacionándolas con las respectivas facturas, debiéndose consignar en cada nota de crédito los números de las facturas correspondientes.
+F - COMUNICACION DE PERDIDA DE PRODUCTOS
+Art. 14. — En caso de pérdida de productos intermedios adquiridos en los términos del Decreto N° 1016/97 por hurto, robo, derrame u otras causas, los sujetos pasivos compradores informarán dicha circunstancia el mismo día de producida, en la pantalla "Pérdidas" del sistema.
+De producirse los hechos indicados se presentará una nota en la dependencia en la que el contribuyente se encuentre inscrito, dentro de los TRES (3) días corridos de acaecido el suceso, en la que se describirá:
+a) Producto.
+b) Fecha de ocurrencia del hecho.
+c) Causa de la pérdida.
+d) Unidad de medida y cantidad.
+La referida nota deberá estar suscrita por el responsable y precedida por la fórmula indicada en el artículo 28 "in fine", del Decreto N° 1397/79, reglamentario de la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones.
+Asimismo, se adjuntará en caso de hechos delictivos, una copia de la denuncia policial, y de tratarse de derrame una copia de la denuncia efectuada ante el organismo de control competente.
+No deberán considerarse como pérdidas a las mermas normales ocurridas en el proceso productivo.
+G - DECLARACION JURADA INFORMATIVA MENSUAL. SU PRESENTACION
+Art. 15. — Los agentes de información deberán generar mediante el sistema informativo "Decreto 1.016/97", una declaración jurada informativa mensual que contendrá el resumen de la totalidad de los datos ingresados al sistema en el período y un código informático que validará su emisión.
+La mencionada declaración jurada se confirmará e imprimirá a partir del día 11 del mes siguiente al período que corresponda la información y se presentará en la dependencia en la que los agentes de información se encuentren inscritos, hasta el día que corresponda, de acuerdo con el siguiente cronograma:
+TERMINACION C.U.I.T.  FECHA DE VENCIMIENTO   0 ó 1  Hasta el día 18, inclusive   2 ó 3  Hasta el día 19, inclusive   4 ó 5  Hasta el día 20, inclusive   6 ó 7  Hasta el día 21, inclusive   8 ó 9  Hasta el día 22, inclusive
+Cuando alguna de las fechas de vencimiento indicadas precedentemente coincida con día feriado o inhábil, la misma, así como las posteriores, se trasladarán correlativamente al o a los días hábiles inmediatos siguientes.
+Como constancia del cumplimiento de la presentación efectuada, los agentes de información recibirán un acuse de recibo.
+H - DISPOSICIONES GENERALES
+Art. 16. — Los agentes de información que incurran en el incumplimiento total o parcial del deber de suministrar la información del presente régimen, serán pasibles de las sanciones previstas en la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones. (Párrafo sustituido por art. 12 de la Resolución General N° 1970/2005 de la AFIP B.O. 23/11/2005).
+La falta de cumplimiento de los requerimientos establecidos en la presente resolución general, será causal de exclusión del "REGISTRO DE OPERADORES DE PRODUCTOS INTERMEDIOS - DECRETO N° 1016/97".
+Art. 17. — Apruébase el Anexo que forma parte de la presente.
+Art. 18. — Las disposiciones que se establecen por la presente entrarán en vigencia a partir del día de su publicación en el Boletín Oficial, inclusive y surtirán efecto respecto del régimen de información desde el día 1 de febrero de 2004, inclusive.
+Art. 19. — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO RESOLUCION GENERAL N° 1600
+NOTAS ACLARATORIAS Y CITAS DE TEXTOS LEGALES
+Artículo 1°.
+(1.1.) Las empresas que refinen o comercialicen combustibles líquidos y/u otros derivados de hidrocarburos en sus formas, y las empresas que produzcan, elaboren, fabriquen u obtengan productos gravados, directamente o a través de terceros, así como las empresas que partiendo de productos intermedios efectúen procesos de refinación secundaria, consistente en mezclar, elaborar o producir productos gravados directamente o a través de terceros.
+Artículo 4°.
+(4.1.) Los contribuyentes incluidos en el artículo 3°, incisos b) y c), Capítulo I, Título III de la Ley N° 23.966 de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones, que cumplan los requisitos técnicos establecidos por la entonces Secretaría de Energía dependiente del Ministerio de Economía, y cuenten con la respectiva autorización que la misma les otorgue, podrán tomar a su cargo el pago del impuesto que imponga la comercialización de los productos intermedios, que utilicen en la elaboración, producción u obtención de productos gravados, en cuyo caso el pago se considerará sustituido por el que deben tributar a raíz de la comercialización de esos últimos productos.
+(4.2.) Cuando corresponda la aplicación de lo dispuesto en el primer párrafo del artículo 2° del Decreto N° 1016/97, los contribuyentes de los incisos b) y c) del artículo 3° del Capítulo I, Título III de la Ley N° 23.966 de Impuesto sobre los Combustibles Líquidos y el Gas Natural, texto ordenado en 1998 y sus modificaciones que comercialicen los productos intermedios a los que se refiere el mismo, no tributarán ni facturarán el impuesto.
+Para los adquirentes no procederá el cómputo del pago a cuenta a que se refiere el artículo 9° de la ley del gravamen y los productos adquiridos se considerarán incorporados a los productos producidos, fabricados, elaborados u obtenidos.
+

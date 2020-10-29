@@ -1,0 +1,31 @@
+COMISION NACIONAL DE VALORES
+Resolución General 503/2007
+Fideicomisos Financieros sobre Soporte Listado de Créditos.
+Bs. As., 26/4/2007
+VISTO el expediente rotulado Nº 179/2007, "FIDEICOMISOS FINANCIEROS S/ SOPORTE LISTADO CREDITOS", y
+CONSIDERANDO:
+Que en el marco de la estrategia de Gobierno Electrónico impulsada por el Estado Nacional y la despapelización adoptada por la COMISION NACIONAL DE VALORES, resulta conveniente unificar y simplificar la forma de recepción de la documentación requerida por el inciso e) del apartado XV.9 "Contenido del Prospecto" de las NORMAS (N.T. 2001 y mod.).
+Que en esta instancia, y atento a las ventajas de los medios informáticos, se considera necesario sustituir la presentación del listado con el detalle del haber fideicomitido en soporte papel, por documentos electrónicos, en soporte informático, cuando las circunstancias lo requieran.
+Que, en este sentido, cuando el volumen de los activos fideicomitidos lo aconseje, podrá utilizarse un CDROM como soporte para el envío de la información solicitada en texto plano, Excel o compatible, acompañado de una nota firmada en forma ológrafa por persona autorizada especialmente, que deberá contener, como mínimo: 1) Fecha, 2) Entidad, 3) Descripción del documento que se anexa y, 4) Digesto de Mensaje (DM) de la información contenida en CDROM, con indicación del algoritmo criptográfico utilizado.
+Que la presente Resolución se dicta en ejercicio de las facultades otorgadas por el artículo 44 del Anexo aprobado por Decreto Nº 677/2001 y los artículos 6º y 7º de la ley Nº 17.811.
+Por ello,
+LA COMISION NACIONAL DE VALORES
+RESUELVE:
+Artículo 1º — Sustitúyase el inciso e) del apartado XV.9 "Contenido del Prospecto" de las NORMAS (N.T. 2001 y mod.) por el siguiente texto:
+"e) Haber del fideicomiso. Deberán detallarse los activos que constituyen el haber del fideicomiso y/o el plan de inversión correspondiente.
+En caso que el haber del fideicomiso esté constituido por derechos creditorios deberá contemplarse:
+e.1) La composición de la cartera de créditos indicando su origen, forma de valuación, precio de adquisición, rentabilidad histórica promedio, garantías existentes y previsión acerca de los remanentes en su caso, la política de selección de los créditos efectuada por el fiduciario, y los eventuales mecanismos de sustitución e incorporación de créditos por cancelación de los anteriores.
+e.2) Titular o titulares originales de los derechos creditorios: denominación, domicilio social, teléfono, telefacsímil y dirección de correo electrónico e inscripción, en su caso, ante el BANCO CENTRAL DE LA REPUBLICA ARGENTINA.
+e.3) Análisis de los flujos de fondos esperados.
+e.4) Previsiones para la inversión transitoria de fondos excedentes.
+e.5) Régimen que se aplicará para la cobranza de los créditos morosos.
+e.6) Explicitación de las adquisiciones de valores negociables correspondientes a la emisión, que prevean realizar los fiduciantes de los créditos que integren el haber del fideicomiso.
+e.7) Forma de liquidación del fideicomiso, incluyendo las normas relativas a la disposición de los créditos en gestión y mora remanentes a la fecha prevista para el último pago correspondiente a los créditos de acuerdo con sus términos originales.
+e.8) En caso que el fideicomiso previere la emisión de valores representativos de deuda, deberán explicitarse los mecanismos mediante los cuales se garantizará el pago de los servicios de renta o amortización a sus titulares.
+e.9) Entidades autorreguladas donde se negociarán los valores negociables correspondientes a la emisión.
+Cuando el volumen de los activos fideicomitidos lo aconseje, podrá utilizarse un CDROM como soporte para el envío de la información en texto plano, Excel o compatible, acompañado de una nota firmada en forma ológrafa por funcionario responsable, que deberá contener como mínimo: 1) Fecha, 2) Entidad, 3) Descripción del documento que se anexa y, 4) Digesto de Mensaje (DM) de la información contenida en CDROM, con indicación del algoritmo criptográfico utilizado.
+El CDROM deberá presentarse en sobre cerrado, sellado y firmado en forma ológrafa por persona autorizada especialmente, con un CDROM adicional para eventuales consultas de los profesionales del Organismo.
+En este caso, el Fiduciario Financiero deberá informar en el Suplemento de Prospecto que "el listado de los créditos que integran el haber fideicomitido se adjunta en un CDROM que forma parte integrante del Suplemento de Prospecto y se encuentra a disposición de los inversores", con indicación del lugar."
+Art. 2º — La presente Resolución General tendrá vigencia a partir del día siguiente al de su publicación en el Boletín Oficial.
+Art. 3º — Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial, incorpórese a la Web de la Comisión sita en http:// www.cnv.gov.ar y archívese. — Eduardo Hecker. — Alejandro Vanoli. — Héctor O. Helman.
+

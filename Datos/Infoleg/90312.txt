@@ -1,0 +1,53 @@
+MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL
+SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE JUBILACIONES Y PENSIONES
+Disposición Gerencial N° 070/067/2003-SAFJP
+Bs. As., 31/10/2003
+VISTO la Resolución N° 207/97 y la Instrucción SAFJP N° 22/03, ambas del registro de la SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE JUBILACIONES PENSIONES, y
+CONSIDERANDO:
+Que resulta necesario adecuar el régimen informativo diario del Fondo de Jubilaciones y Pensiones y del Encaje al tratamiento que la norma citada en el visto concede a las inversiones en trámite irregular, las que a partir de su vigencia no estarán sujetas a previsión si registran un precio de mercado que se ajuste a los requisitos por aquélla establecidos.
+Que en consecuencia procede incorporar y dejar sin efecto códigos de operación en los formularios de movimientos de inversiones del Fondo de Jubilaciones y Pensiones y del Encaje, así como modificar la estructura de datos de los archivos que se transfieren electrónicamente a fin de adecuarla a los nuevos códigos que se incorporan.
+Que la Gerencia de Asuntos Jurídicos ha emitido dictamen de legalidad en su carácter de servicio jurídico permanente.
+Que esta instancia se encuentra facultada para el dictado de la presente medida en atención a las prescripciones contenidas en el artículo 51 de la Instrucción SAFJP N° 22/03.
+Por ello,
+LA GERENTE DE CONTROL DE INVERSIONES DE LA SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE JUBILACIONES Y PENSIONES
+DISPONE:
+ARTICULO 1° — Incorporar y dejar sin efecto los siguientes códigos de operación en la descripción de especificaciones del ANEXO II de la Resolución N° 207/97, para los formularios indicados a continuación:
+a) CARTERA DEL FONDO - Movimientos diarios:
+a.1) Formularios:
+ID2-1: Títulos públicos y privados del país.
+ID2-2: Títulos públicos y privados del extranjero.
+ID2-4: Depósitos a plazo fijo.
+ID2-5: Opciones.
+ID2-6: Acciones.
+ID2-7: Cuotapartes de fondos comunes de inversión.
+a.2) Códigos de movimiento que se incorporan:
+FI: Transferencia de la cartera normal a la cartera en trámite irregular no sujeta a previsión.
+IF: Transferencia de la cartera en trámite irregular no sujeta a previsión a la cartera normal.
+FP: Transferencia de la cartera normal a la cartera en trámite irregular sujeta a previsión.
+PF: Transferencia de la cartera en trámite irregular sujeta a previsión a la cartera normal.
+PI: Transferencia de la cartera en trámite irregular sujeta a previsión a la cartera en trámite irregular no sujeta a previsión.
+IP: Transferencia de la cartera en trámite irregular no sujeta a previsión a la cartera en trámite irregular sujeta a previsión.
+En los Formularios ID 2-2, 2-5, 2-6 y 2-7 estos movimientos se informarán con el código de título, cantidad nominal, código de operación y código de custodia. Además de estos datos, en el Formulario ID 2-1, se consignará el tipo de cuenta. En caso del Formulario ID 2-4 se consignarán únicamente el código depósito y el código de operación.
+a.3) Código de movimiento que se deja sin efecto:
+U: Transferencia a inversiones de trámite irregular.
+b) CARTERA DEL ENCAJE - Movimientos diarios:
+b.1) Formularios:
+ID3-1: Títulos públicos y privados del país.
+ID3-2: Títulos públicos y privados del extranjero.
+ID3-4: Depósitos a plazo fijo.
+ID3-5: Opciones.
+ID3-6: Acciones.
+ID3-7: Cuotapartes de fondos de inversión.
+b.2) Código de movimiento que se incorpora:
+El: Encaje - Desafectación por encontrarse en trámite irregular.
+En los Formularios ID 3-2, 3-5, 3-6 y 3-7 estos movimientos se informarán con el código de título, cantidad nominal, código de operación y código de custodia. Además de estos datos, en el Formulario ID 3-1, se consignará el tipo de cuenta. En caso del Formulario ID 3-4 se consignarán únicamente el código depósito y el código de operación.
+b.3) Código de movimiento que se deja sin efecto:
+U: Desafectación por encontrarse en trámite irregular.
+ARTICULO 2° — Reemplazar las especificaciones de archivos contenidas en el Anexo III de la Resolución N° 207/97 por el texto que se acompaña y forma parte de la presente disposición, denominado "RESOLUCION N° 207/97 - ANEXO III - INSTRUCCIONES PARA LA GENERACION Y TRANSMISION DE INFORMACION", correspondientes a los formularios de movimientos ID2-1, ID2-2, ID2-4, ID2-6, ID2-7 e ID2-9 de la Cartera del Fondo y a los formularios de movimientos ID3-1, ID3-2, ID3-4, ID3-6, ID3-7 e ID3-9 de la Cartera del Encaje, por cuanto se amplía a dos (2) posiciones el campo de datos. denominado, "Código de Operación".
+(Artículo sustituido por art. 2° de la Disposición Gerencial N°070-069/03 SAFJP B.O. 18/11/2003)
+ARTICULO 3° — Las modificaciones previstas en los artículos precedentes serán de aplicación obligatoria para los Informes Diarios emitidos a partir de los quince (15) días corridos de publicada la presente. Dentro de este plazo se pondrá a disposición de las administradoras la nueva versión del software validador de Informe Diario.
+ARTICULO 4° — Regístrese, comuníquese, notifíquese a las Administradoras de Fondos de Jubilaciones y Pensiones por intermedio del Sistema de Telecomunicaciones de la SAFJP, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — NORMA RIAVITZ, Gerente de Control de Inversiones.
+_________
+NOTA: Esta Disposición General se publica sin el anexo. La documentación no publicada puede ser consultada en la Sede Central de esta Dirección Nacional (Suipacha 767 - Ciudad Autónoma de Buenos Aires).
+e. 4/11 N° 431.147 v. 4/11/2003
+

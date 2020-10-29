@@ -1,0 +1,97 @@
+Administración Federal de Ingresos Públicos
+SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES
+Resolución General 2252
+Seguridad Social. Resolución General Nº 3834 (DGI), texto sustituido por la Resolución General Nº 712, sus modificatorias y complementarias. Nuevo programa aplicativo. Su aprobación. Norma complementaria.
+Bs. As., 4/5/2007
+VISTO la Ley Nº 26.222, el Decreto Nº 313 del 29 de marzo de 2007 y la Resolución General Nº 3834 (DGI), texto sustituido por la Resolución General Nº 712, sus modificatorias y complementarias, y
+CONSIDERANDO:
+Que la citada ley, reglamentada por el Decreto Nº 313/07, modifica el Artículo 9º de su similar Nº 24.241, sus modificatorias y complementarias respecto del límite máximo de la base imponible para la determinación de los aportes personales de los trabajadores con destino al Sistema Integrado de Jubilaciones y Pensiones (SIJP), elevándola de SESENTA (60) a SETENTA Y CINCO (75) MOPRES, para las remuneraciones devengadas a partir del 1 de abril de 2007.
+Que la aludida base imponible, no resulta de aplicación extensiva para el cálculo de los aportes correspondientes a las Leyes Nº 19.032, Nº 23.660, Nº 23.661 y sus respectivas modificaciones, como tampoco para la del componente porcentual integrativo de la cotización prevista en el Artículo 23 de la Ley Nº 24.557 y sus modificaciones, de acuerdo con lo informado por el Ministerio de Economía y Producción, mediante su Dirección Nacional de Impuestos.
+Que asimismo se dispuso en el segundo párrafo del Artículo 9º de la Ley Nº 24.241, sus modificatorias y complementarias que en el supuesto de que el trabajador percibiera simultáneamente más de una remuneración en relación de dependencia, cada remuneración será computada separadamente a efectos del límite inferior, por lo que la base imponible máxima deberá ser considerada para la totalidad de las remuneraciones percibidas.
+Que por otra parte, de acuerdo con las previsiones de la Resolución Nº 873 del 11 de septiembre de 2006 del Ministerio de Trabajo, Empleo y Seguridad Social, los trabajadores comprendidos en el ámbito de aplicación del régimen especial docente, —establecido por la Ley Nº 24.016, el Decreto Nº 137 del 22 de febrero de 2005 y la Resolución Nº 33 del 25 de abril de 2005 de la Secretaría de Seguridad Social—, carecen de la opción dispuesta por el Artículo 30 de la Ley Nº 24.241, sus modificatorias y complementarias, razón por la cual resulta imposible que accedan al régimen de capitalización individual.
+Que en tal sentido, se torna necesario instruir a los empleadores involucrados para que las retenciones en concepto de aportes jubilatorios que efectúen a los aludidos trabajadores se deriven con el mismo destino que el previsto en el Artículo 1º del citado Decreto Nº 137/05.
+Que atento a todo lo expuesto, se ha desarrollado una nueva versión del programa aplicativo denominado "SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES", que permitirá efectuar la determinación nominativa de los aportes y contribuciones con destino a los distintos subsistemas de la seguridad social, de conformidad con las tratadas modificaciones, teniendo en cuenta las diferentes bases de cálculo.
+Que han tomado la intervención que les compete la Dirección de Legislación, las Subdirecciones Generales de Técnico Legal de los Recursos de la Seguridad Social, de Coordinación Operativa de los Recursos de la Seguridad Social, de Recaudación, de Sistemas y Telecomunicaciones y de Asuntos Jurídicos y la Dirección General de los Recursos de la Seguridad Social.
+Que la presente se dicta en ejercicio de las facultades conferidas por el Artículo 7º del Decreto Nº 618 del 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1º — La determinación nominativa e ingreso de los aportes y contribuciones con destino a los distintos subsistemas de la seguridad social —conforme al procedimiento dispuesto por la Resolución General Nº 3834 (DGI), texto sustituido por la Resolución General Nº 712, sus modificatorias y complementarias—, deberá efectuarse mediante la utilización del programa aplicativo denominado "SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES - Versión 28".
+Dicho programa aplicativo deberá ser empleado para generar la declaración jurada, formulario F. 931 y soporte magnético, de los períodos mensuales devengados que se indican a continuación, en función del tipo de empleador de que se trate:
+a) Abril de 2007 y siguientes: los empleadores que se encuentren obligados con la determinación de cotizaciones a la seguridad social incorporadas a la nueva versión del programa aplicativo, según detalle del Artículo 4º de la presente.
+b) Junio de 2007 y siguientes: los restantes empleadores.
+Asimismo, para la correcta utilización del mencionado programa aplicativo se deberá observar lo dispuesto en su ayuda.
+Art. 2º — El programa aplicativo indicado en el artículo precedente, estará disponible en la página "web" de esta Administración Federal (http://www.afip.gov.ar/programas/seg_soc/sijyp_main.asp).
+Asimismo, su funcionamiento requiere tener preinstalado el sistema denominado "S.I.Ap. —Sistema Integrado de Aplicaciones— Versión 3.1 Release 2", el cual se encuentra disponible en la página "web" de este Organismo (http://www.afip.gov.ar/programas/siap_main.asp).
+Art. 3º — De acuerdo con lo dispuesto por el Artículo 9º de la Ley Nº 24.241, texto según Ley Nº 26.222, para la determinación de los aportes y contribuciones o cuotas con destino a los subsistemas de la seguridad social, correspondientes al período devengado abril de 2007 y siguientes, serán de aplicación para las remuneraciones mensuales las bases imponibles máximas que, para cada caso, se indican en el Anexo I de la presente.
+Art. 4º — Las nuevas funcionalidades que contempla la Versión 28 del programa aplicativo denominado "SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES", son las siguientes:
+a) A efectos de la aplicación de las bases imponibles máximas, a que se refiere el artículo anterior, a partir del período devengado abril de 2007, el cálculo de los aportes con destino al Sistema Integrado de Jubilaciones y Pensiones (SIJP) continuará realizándose sobre la denominada "Remuneración 1". En cambio, los aportes y componente porcentual con destinos a las Leyes Nº 19.032 y Nº 24.557 y sus respectivas modificaciones, se determinará sobre la denominada "Remuneración 5". A su vez, los aportes y contribuciones establecidos por las Leyes Nº 23.660 y Nº 23.661 continuarán calculándose sobre la denominada "Remuneración 4".
+b) A fin del régimen previsional especial para el personal docente —Ley Nº 24.016, Decreto Nº 137/ 05, Resolución Nº 33/05 (SSS) y Resolución Nº 873/06 (MTESS)— prevé la apertura de las remuneraciones correspondientes a las actividades docentes y no docentes, cuando el trabajador cumpla más de una función para un mismo empleador y una o más de las tareas realizadas se encuentren alcanzadas por las disposiciones de dicho decreto. En tal caso, se deberán tener en cuenta las especificaciones que se detallan en el Anexo II de la presente.
+Art. 5º — En el supuesto de simultaneidad de actividades en relación de dependencia para distintos empleadores y siempre que por esos servicios se perciban remuneraciones que en su conjunto superen el límite máximo de SETENTA Y CINCO (75) MOPRES, el trabajador deberá informar mensualmente a uno o algunos de los empleadores el importe de remuneración bruta sobre el cual deberá abstenerse de retener los aportes con destino al Sistema Integrado de Jubilaciones y Pensiones (SIJP), mediante la presentación de la nota cuyo modelo se consigna en el Anexo III de la presente.
+Asimismo, cuando el trabajador dejara de desarrollar dichas actividades simultáneas deberá comunicarlo al empleador mediante la nota que se dispone en el Anexo IV de la presente.
+Art. 6º — A efectos de la aplicación de las bases imponibles máximas indicadas en el Artículo 3º, los empleadores que hayan utilizado una versión del programa aplicativo anterior a la que se aprueba por la presente, deberán rectificar la declaración jurada mensual determinativa y nominativa de sus obligaciones con la seguridad social, presentada por el período devengado abril de 2007.
+La presentación de la declaración jurada rectificativa y, en su caso, el ingreso del saldo resultante a favor del fisco, serán considerados cumplidos en término, cuando se efectúen hasta el día 28 de mayo de 2007, inclusive.
+Para efectuar la rectificación de la aludida declaración jurada se deberá tener en cuenta lo previsto en el artículo siguiente.
+Art. 7º — Cuando se deban confeccionar declaraciones juradas rectificativas correspondientes a períodos devengados abril de 2007 y siguientes, en tanto las originales hayan sido confeccionadas con la Versión 27 o anterior del programa aplicativo denominado "SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES", el responsable deberá generar una declaración jurada rectificativa por nómina completa mediante la utilización de la Versión 28 o posterior. Una vez confeccionada y enviada la misma, podrá restablecerse la posibilidad de generar rectificativas por novedad de acuerdo con lo dispuesto en el Artículo 13 y en el Anexo III, ambos de la Resolución General Nº 3834 (DGI), texto sustituido por la Resolución General Nº 712, sus modificatorias y complementarias.
+Art. 8º — Las presentaciones de las declaraciones juradas determinativas y nominativas de las obligaciones con la seguridad social, originales o rectificativas, que se confeccionen con la Versión 28 o posterior del programa aplicativo denominado "SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES", deberán efectuarse únicamente mediante transferencia electrónica de datos —vía "Internet" —, a través de la página "web" institucional de este Organismo, utilizando la respectiva "Clave Fiscal".
+No obstante, podrá utilizarse el sistema "SU DECLARACION", aprobado por la Resolución General Nº 2192, siempre que el empleador se encuentre comprendido en el mismo.
+Art. 9º — Apruébanse los Anexos I a IV, que forman parte de la presente y el programa aplicativo denominado "SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES - Versión 28".
+Art. 10. — Las disposiciones establecidas en esta resolución general entrarán en vigencia a partir del primer día hábil administrativo inmediato siguiente al de su publicación en el Boletín Oficial, inclusive.
+Art. 11. — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO I RESOLUCION GENERAL Nº 2252
+BASES IMPONIBLES MAXIMAS
+(*) En el caso de los regímenes especiales establecidos en las Leyes Nº 24.016, Nº 24.018, Nº 22.731 y Nº 22.929, el cálculo de los aportes y contribuciones con destino al Sistema Integrado de Jubilaciones y Pensiones se efectuará sin considerar límite máximo para su base imponible.
+ANEXO II RESOLUCION GENERAL Nº 2252
+PAUTAS PARA LA UTILIZACION DEL PROGRAMA APLICATIVO DENOMINADO "SISTEMA INTEGRADO
+DE JUBILACIONES Y PENSIONES (SIJP)" -Decreto Nº 137/05 y Resolución Nº 873/06
+(MTESS)
+Aquellos empleadores cuyos trabajadores se encuentren comprendidos en los alcances de la Ley Nº 24.016, Decreto Nº 137/05 y Resolución Nº 33/05 (SSS) y simultáneamente realicen para el mismo empleador tareas no incluidas en la aludida normativa, a fin de dar cumplimiento a lo establecido en la Resolución Nº 873/06 (MTESS), deberán observar, respecto de la utilización del programa aplicativo denominado "SISTEMA INTEGRADO DE JUBILACIONES Y PENSIONES – Versión 28", las pautas que seguidamente se indican:
+• Remuneración Total: se consigna aquella que se haya abonado al trabajador por todo concepto (remunerativos y no remunerativos, por tareas docentes y no docentes).
+• Datos Complementarios: Resulta de cumplimiento obligatorio, cubrir los campos correspondientes a esta ventana, conforme a lo dispuesto por la Resolución Nº 1288/02 (ANSES). En tal sentido, deben ser informados los datos relacionados con las situaciones de revista del trabajador en cada período, días trabajados y todos los conceptos que integran la remuneración del trabajador por sus tareas no docentes debidamente desagregados, teniendo en cuenta que para el SAC el tope se aplica por separado hasta 37,50 MOPRES y vacaciones (anticipadas) según el número de días que se liquide hasta 75 MOPRES por cada 30 días.
+Los campos que contiene esta ventana son:
+Sueldo: sueldo básico
+Adicionales: se incluyen antigüedad, título, vivienda, refrigerio, horario nocturno, tareas diferenciadas, etc.
+Importe Horas Extras: monto liquidado al trabajador durante el período. Tiene su correlato con la cantidad de horas extras cumplidas.
+Premios: gratificaciones, participación en las ganancias, presentismo, participación en la recaudación, comisiones por cobranzas, comisiones por ventas, etc.
+Plus Zona Desfavorable
+S.A.C.
+Vacaciones (Anticipadas)
+Cantidad Horas Extras: es el número de horas que tiene su correlato con el importe de horas extras informado —este campo es válido a partir del período 09/2006—
+Cantidad de días trabajados: en el mes.
+• Remuneraciones Imponibles
+Remuneración 1: en este campo se consignan el monto de conceptos remunerativos desagregados según lo indicado en el punto anterior por las tareas no docentes.
+Remuneración 2 y 3: en estos campos se reproduce, por defecto, el monto imponible reflejado en la "Remuneración 1". Sin perjuicio de ello, corresponderá adecuarlo a la sumatoria de remuneraciones asignadas por las tareas docentes y no docentes de acuerdo con las previsiones del Dec. 491/04 — desde octubre de 2005 sin tope máximo—.
+Remuneración 4: en este campo se reproduce por defecto, el monto imponible reflejado en la "Remuneración 1". Sin perjuicio de ello, corresponderá adecuarlo a la sumatoria de remuneraciones asignadas por las tareas docentes y no docentes hasta un tope de 60 MOPRES ($ 4.800).
+Remuneración 5: en este campo se reproduce por defecto, el monto imponible reflejado en la "Remuneración 1". Sin perjuicio de ello, corresponderá adecuarlo a la sumatoria de remuneraciones asignadas por las tareas docentes y no docentes hasta un tope de 60 MOPRES ($ 4.800).
+A los montos remuneratorios 2, 3, 4, y 5 deberán adicionarse los importes equivalentes a los sueldos anuales complementarios (SAC) semestrales y/o parciales.
+Remuneración 6: en este campo, se deberá consignar el total de la remuneración asignada al trabajador por sus tareas docentes, sin tope máximo, incluyendo el sueldo anual complementario semestral y/o parcial, en tanto se trate de docentes nacionales, provinciales estatales o privados comprendidos en las disposiciones del Decreto Nº 137/05 y la Resolución Nº 33/05 (SSS).
+Remuneración 7: en este campo deberá consignarse el total de la remuneración por sus tareas docentes, sin tope máximo, incluyendo el sueldo anual complementario semestral y/o parcial, en tanto se trate de docentes nacionales, provinciales estatales o privados comprendidos en las disposiciones del Decreto Nº 137/05 y la Resolución Nº 33/05 (SSS).
+ANEXO III – RESOLUCION GENERAL Nº 2252
+DECLARACION JURADA DE ACTIVIDADES SIMULTANEAS EN RELACION DE DEPENDENCIA
+Lugar y fecha………………………………….
+Por la presente declaro encontrarme actualmente encuadrado/a en la figura de actividades simultáneas en relación de dependencia percibiendo más de una remuneración como trabajador/a en tal carácter, razón por la cual, supero el límite dispuesto por el Artículo 9º de la Ley Nº 24.241 y sus modificatorias, que establece que la base imponible previsional tendrá un límite máximo equivalente a SETENTA Y CINCO (75) veces el valor del módulo previsional (MOPRE). Debido a ello solicito en forma expresa que se excluya a partir del mes de......................................de 20...., para el cálculo de las obligaciones del Sistema Integrado de Jubilaciones y Pensiones, el monto de $............................. (..............................................................................) del total de mi remuneración.
+En tal sentido, dejo formalmente sentado que esta situación debiera permanecer inalterable hasta nuevo aviso, asumiendo en este acto el compromiso de informar cualquier novedad o modificación que se produzca.
+Afirmo que los datos consignados en esta nota son correctos y completos y que he confeccionado esta declaración jurada sin omitir ni falsear dato alguno que deba contener, siendo fiel expresión de la verdad conforme lo dispuesto por el Artículo 28 del Decreto Nº 1397/79 texto sustituido por el Artículo 1º de su similar Nº 658/02.
+FIRMA: ACLARACION: Nº CUIL:
+................,........de........ de 20.......
+En el día de la fecha recibí conforme.
+EMPLEADOR:
+Nº CUIT:
+FIRMA AUTORIZADA:
+ACLARACION:
+CARGO:
+ANEXO IV RESOLUCION GENERAL Nº 2252
+DECLARACION JURADA DE CESE DE ACTIVIDADES SIMULTANEAS EN RELACION DE DEPENDENCIA
+Lugar y fecha ……………………………………..
+Por la presente declaro que a partir del mes de.................................de 20....... ya no me encuentro encuadrado/a en la figura de actividades simultáneas en relación de dependencia informada oportunamente el día........./........./............., percibiendo sólo una remuneración como trabajador/a en tal carácter. Debido a ello solicito en forma expresa que a partir del citado mes, para el cálculo de las obligaciones del Sistema Integrado de Jubilaciones y Pensiones, no se me practique ningún tipo de exclusión del total de mi remuneración, salvo que la misma supere el límite dispuesto por el Artículo 9º de la ley Nº 24.241 y modificatorias, que establece que la base imponible previsional tendrá un límite máximo equivalente al SETENTA Y CINCO (75) veces el valor del módulo previsional (MOPRE).
+En tal sentido dejo formalmente sentado que esta situación debiera permanecer inalterable hasta nuevo aviso, asumiendo en este acto el compromiso de informar cualquier novedad o modificación que se produzca.
+Afirmo que los datos consignados en esta nota son correctos y completos y que he confeccionado esta declaración jurada sin omitir ni falsear dato alguno que deba contener, siendo fiel expresión de la verdad conforme lo dispuesto por el Artículo 28 del Decreto Nº 1397/79 texto sustituido por el Artículo 1º de su similar Nº 658/02.
+FIRMA: ACLARACION: Nº CUIL:
+................,........de........ de 20.......
+En el día de la fecha recibí conforme.
+EMPLEADOR:
+Nº CUIT:
+FIRMA AUTORIZADA:
+ACLARACION:
+CARGO:
+

@@ -1,0 +1,61 @@
+Administración Federal de Ingresos Públicos
+IMPUESTOS
+Resolución General 1763
+Impuesto al Valor Agregado. Usuarios del servicio de molienda de trigo. Régimen de pago a cuenta. "Guía Fiscal Harinera". Resolución General 1246 y sus modificaciones. Su modificación.
+Bs. As., 2/11/2004
+VISTO la Resolución General N° 1246 y sus modificaciones, y
+CONSIDERANDO:
+Que la citada norma establece que los usuarios del servicio de molienda de trigo, responsables inscritos en el impuesto al valor agregado, deben ingresar un pago a cuenta mediante la utilización de la "Guía Fiscal Harinera".
+Que asimismo, dispone un régimen informativo a cargo de los responsables de los establecimientos harineros y de los usuarios del servicio de molienda.
+Que a los fines de optimizar el referido sistema informativo, se hace aconsejable implementar la utilización de programas aplicativos para agilizar el procedimiento de control y fiscalización del régimen de pago a cuenta.
+Que han tomado la intervención que les compete las Direcciones de Legislación, de Análisis de Fiscalización Especializada, de Programas y Normas de Recaudación, de Asesoría Técnica, de Programas y Normas de Fiscalización, de Informática de Fiscalización y de Información Estratégica para Fiscalización.
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 27 de la Ley de Impuesto al Valor Agregado, texto ordenado en 1997 y sus modificaciones, por el artículo 21 de la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones, por el 9° del Decreto N° 1405 de fecha 4 de noviembre de 2001 y por el artículo 7° del Decreto N° 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1° — Modifícase la Resolución General N° 1246 y sus modificaciones, en la forma que se indica a continuación:
+1. Sustitúyese el artículo 10, por el siguiente:
+"ARTICULO 10 — La información establecida en el artículo 9° deberá suministrarse mediante transferencia electrónica de datos a través de la página "web" de este organismo (http://www.afip.gov.ar), conforme al procedimiento dispuesto por la Resolución General N° 1345, sus modificatorias y complementaria, utilizando el programa aplicativo denominado "AFIP – DGI – GUIA FISCAL HARINERA - ESTABLECIMIENTOS MOLINEROS - Versión 1.0" —que genera el formulario de declaración jurada N° 342—, cuyas características, funciones y aspectos técnicos para su uso se consignan en el Anexo II de la presente.
+En el supuesto que el archivo que contiene la información a transmitir tenga un tamaño de 2 Mb o superior y por tal motivo los sujetos se encuentren imposibilitados de remitirlo electrónicamente, en sustitución del procedimiento citado precedentemente, deberán suministrar la información en la dependencia de este organismo en la que se encuentren inscritos, mediante la entrega de soportes magnéticos, acompañados del formulario de declaración jurada N° 342, generado por el programa aplicativo. Idéntico procedimiento se deberá observar en el caso de inoperatividad del sistema.".
+2. Sustitúyese el artículo 12, por el siguiente:
+"ARTICULO 12 — La información establecida en el artículo 11 deberá suministrarse mediante transferencia electrónica de datos a través de la página "web" de este organismo (http://www.afip.gov.ar), conforme al procedimiento dispuesto por la Resolución General N° 1345, sus modificatorias y complementaria, utilizando el programa aplicativo denominado "AFIP – DGI – GUIA FISCAL HARINERA - USUARIOS DEL SERVICIO DE MOLIENDA - Versión 1.0" —que genera el formulario de declaración jurada N° 344—, cuyas características, funciones y aspectos técnicos para su uso se consignan en el Anexo III de la presente.
+En el supuesto que el archivo que contiene la información a transmitir tenga un tamaño de 2 Mb o superior y por tal motivo los sujetos se encuentren imposibilitados de remitirlo electrónicamente, en sustitución del procedimiento citado precedentemente, deberán suministrar la información en la dependencia de este organismo en la que se encuentren inscritos, mediante la entrega de soportes magnéticos, acompañados del formulario de declaración jurada N° 344, generado por el programa aplicativo. Idéntico procedimiento se deberá observar en el caso de inoperatividad del sistema.".
+3. Sustitúyese el artículo 13, por el siguiente:
+"ARTICULO 13 — Las obligaciones de información dispuestas en los artículos 9° y 11, deberán cumplirse aun cuando no se hubieran efectuado operaciones en el período mensual respectivo.".
+4. Sustitúyese el artículo 14, por el siguiente:
+"ARTICULO 14 — Los establecimientos molineros y los usuarios del servicio de molienda deberán cumplir con las obligaciones previstas en este capítulo, hasta el quinto día hábil administrativo inmediato siguiente, inclusive, al de finalización del mes calendario al que corresponda la información.".
+5. Sustitúyese en el segundo párrafo del artículo 17, la expresión "... Título II de la Resolución General N° 3419 (DGI), sus modificatorias y complementarias.", por la expresión "... Título III de la Resolución General N° 1415, sus modificatorias y complementarias.".
+6. Elimínase el artículo 22.
+7. Sustitúyense los Anexos II y III, por los que se aprueban y forman parte de la presente.
+Art. 2° — Apruébanse los formularios de declaración jurada N° 342 y N° 344 que forman parte de la presente y los programas aplicativos denominados "AFIP – DGI – GUIA FISCAL HARINERA – ESTABLECIMIENTOS MOLINEROS – Versión 1.0" y "AFIP – DGI – GUIA FISCAL HARINERA - USUARIOS DEL SERVICIO DE MOLIENDA – Versión 1.0".
+Art. 3° — Las disposiciones establecidas en esta resolución general serán de aplicación para las presentaciones de información que se realicen a partir del día 1° de enero de 2005, inclusive.
+Art. 4° — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO II RESOLUCION GENERAL N° 1246 Y SUS MODIFICACIONES
+(TEXTO SEGUN RESOLUCION GENERAL N° 1763)
+CARACTERISTICAS, FUNCIONES Y ASPECTOS TECNICOS PARA EL USO DEL APLICATIVO "AFIP – DGI – GUIA FISCAL HARINERA – ESTABLECIMIENTOS MOLINEROS – Versión 1.0"
+La utilización del sistema "AFIP – DGI – GUIA FISCAL HARINERA – ESTABLECIMIENTOS MOLINEROS – Versión 1.0" requiere tener preinstalado el sistema informático "S.I.Ap. - Sistema Integrado de Aplicaciones - Versión 3.1. Release 2". Está preparado para ejecutarse en computadoras tipo AT 486 o superiores con sistema operativo WINDOWS 95 o superior, con disquetera de TRES PULGADAS Y MEDIA (3½") HD (1,44 Mb), 32 Mb de memoria RAM y disco rígido con un mínimo de 50 Mb disponibles.
+El sistema permite:
+1. Carga manual de datos.
+2. Administración de la información, por responsable.
+3. Generación de archivos para su transferencia electrónica a través de la página "web" de este organismo (http://www.afip.gov.ar).
+4. Impresión de la declaración jurada que acompaña a los soportes que el responsable presenta.
+5. Emisión de listados con los datos que se graban en los archivos para el control del responsable.
+6. Soporte de las impresoras predeterminadas por "windows".
+7. Generación de soportes de resguardo de la información del contribuyente.
+El sistema prevé un módulo de "Ayuda", al cual se accede con la tecla F1 o, a través de la barra de menú, que contiene indicaciones para facilitar el uso del programa aplicativo. El usuario deberá contar con una conexión a "Internet" a través de cualquier medio (telefónico, satelital, fibra óptica, cable módem o inalámbrica) con su correspondiente equipamiento de enlace y transmisión digital. Asimismo, deberá disponerse de un navegador ("Browser") "internet Explorer", "Netscape" o similar para leer e interpretar páginas en formatos compatibles.
+En caso de efectuarse una presentación rectificativa, se consignarán en ella todos los conceptos contenidos en la originaria, incluso aquellos que no hayan sufrido modificaciones.
+ANEXO III RESOLUCION GENERAL N° 1246 Y SUS MODIFICACIONES
+(TEXTO SEGUN RESOLUCION GENERAL N° 1763)
+CARACTERISTICAS, FUNCIONES Y ASPECTOS TECNICOS PARA EL USO DEL APLICATIVO "AFIP – DGI – GUIA FISCAL HARINERA - USUARIOS DEL SERVICIO DE MOLIENDA – Versión 1.0"
+La utilización del sistema "AFIP – DGI – GUIA FISCAL HARINERA - USUARIOS DEL SERVICIO DE MOLIENDA – Versión 1.0" requiere tener preinstalado el sistema informático "S.I.Ap. - Sistema Integrado de Aplicaciones - Versión 3.1. Release 2". Está preparado para ejecutarse en computadoras tipo AT 486 o superiores con sistema operativo WINDOWS 95 o superior, con disquetera de TRES PULGADAS Y MEDIA (3½") HD (1,44 Mb), 32 Mb de memoria RAM y disco rígido con un mínimo de 50 Mb disponibles.
+El sistema permite:
+1. Carga manual de datos.
+2. Administración de la información, por responsable.
+3. Generación de archivos para su transferencia electrónica a través de la página "web" de este organismo (http://www.afip.gov.ar).
+4. Impresión de la declaración jurada que acompaña a los soportes que el responsable presenta.
+5. Emisión de listados con los datos que se graban en los archivos para el control del responsable.
+6. Soporte de las impresoras predeterminadas por "windows".
+7. Generación de soportes de resguardo de la información del contribuyente.
+El sistema prevé un módulo de "Ayuda", al cual se accede con la tecla F1 o, a través de la barra de menú, que contiene indicaciones para facilitar el uso del programa aplicativo. El usuario deberá contar con una conexión a "Internet" a través de cualquier medio (telefónico, satelital, fibra óptica, cable módem o inalámbrica) con su correspondiente equipamiento de enlace y transmisión digital. Asimismo, deberá disponerse de un navegador ("Browser") "internet Explorer", "Netscape" o similar para leer e interpretar páginas en formatos compatibles.
+En caso de efectuarse una presentación rectificativa, se consignarán en ella todos los conceptos contenidos en la originaria, incluso aquellos que no hayan sufrido modificaciones.
+

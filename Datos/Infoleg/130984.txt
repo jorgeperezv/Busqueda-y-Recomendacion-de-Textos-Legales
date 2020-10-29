@@ -1,0 +1,289 @@
+Superintendencia de Seguros de la Nación
+ACTIVIDAD ASEGURADORA
+Resolución 32.201/2007
+Modificación del Reglamento General de la Actividad Aseguradora.
+Bs. As., 3/8/2007
+VISTO el Expediente Nº 43.345 del Registro de esta SUPERINTENDENCIA DE SEGUROS DE LA NACION; y
+CONSIDERANDO:
+Que en el punto 39.6.7. del Reglamento General de la Actividad Aseguradora se establecen las normas para constituir el pasivo en concepto de Siniestros Ocurridos y no Reportados (IBNR);
+Que resulta necesario adecuar la aplicación del método general, como asimismo en lo concerniente a la clasificación de ramos y métodos alternativos para los casos de aseguradoras que no cumplan con los requisitos necesarios para utilizar el procedimiento general;
+Que, en razón de las modificaciones a instrumentar, se estima adecuado comunicar un texto ordenado del punto 39.6.7. del Reglamento General de la Actividad Aseguradora;
+Que la presente se dicta en uso de las facultades previstas en el artículo 67º de la Ley Nº 20.091;
+Por ello;
+EL SUPERINTENDENTE DE SEGUROS
+RESUELVE:
+Artículo 1º — Reemplazar el punto 39.6.7. del Reglamento General de la Actividad Aseguradora por el siguiente texto:
+"39.6.7. SINIESTROS OCURRIDOS Y NO REPORTADOS
+Los siniestros ocurridos pero no reportados son aquellos eventos que se producen en un intervalo de tiempo, durante la vigencia de la póliza, pero que se conocen con posterioridad a la fecha de cierre o de valuación del período contable.
+Los siniestros ocurridos y no reportados, se constituyen por:
+• Siniestros ocurridos pero aún no reportados, los cuales se caracterizan porque el acaecimiento del siniestro no ha sido reportado aún, debido a retrasos de tipo administrativo o de la clase de contingencia cubierta.
+• Siniestros ocurridos pero no reportados completamente, son aquellos ya ocurridos y reportados, pero cuyo costo está incompleto o no ha sido determinado con precisión.
+Las entidades sujetas al control de esta Superintendencia de Seguros de la Nación deberán constituir y valuar el pasivo por siniestros ocurridos y no reportados, denominado IBNR, utilizando los procedimientos que, de acuerdo con el ramo y tipo de cobertura, se establecen en esta norma.
+La presente norma no resulta aplicable a las Mutuales que operen en la cobertura de Transporte Público de Pasajeros estipulada por la Resolución Nº 25.429, a las coberturas comprendidas en la Ley Nº 24.557, a los seguros de vida individual, vida con ahorro y seguros de retiro.
+39.6.7.1. Definiciones
+Se define como "siniestros incurridos por período de ocurrencia a una determinada fecha" a la suma de:
+• Los pagos acumulados, netos de recuperos, de todos los siniestros que ocurrieron durante un período de DOCE (12) meses.
+• Los pasivos por siniestros pendientes a una determinada fecha, de todos los siniestros que ocurrieron durante el mismo período de DOCE (12) meses.
+• En ambos casos se tomarán los importes correspondientes sin descontar la participación de los reaseguradores.
+Del importe total de los siniestros incurridos de cada período de ocurrencia deberán excluirse de la Matriz de Siniestros Incurridos, al solo efecto de la determinación de los factores de desarrollo, los importes correspondientes a "siniestros excepcionales".
+Se define "siniestro excepcional" aquel que, habiéndose efectuado la corrección de los valores según el punto 39.6.7.8., por un mismo evento registre un importe incurrido (pagado y/o pendiente) que supere el diez por ciento (10%) del monto total (incluidos los siniestros excepcionales) de los siniestros incurridos (pagados + pendientes) en un período de desarrollo (celda de la matriz). En consecuencia, sólo corresponde su aplicación en la matriz de siniestros incurridos acumulados.
+Si en una celda de dicha matriz todos los siniestros (o su mayoría) resultaren excepcionales, la entidad deberá presentar el caso con el criterio alternativo propuesto por el Actuario, a fin que este Organismo autorice la aplicación del procedimiento propuesto.
+Se define como "período de ocurrencia" al período de doce (12) meses comprendido entre el 1º de julio de un año y el 30 de junio del año siguiente.
+Se define como "períodos de desarrollo" a los períodos de doce (12) meses comprendidos entre el 1º de julio de un año dado y el 30 de junio del año siguiente y los períodos de doce (12) meses sucesivos. Cada período de desarrollo debe cumplir las siguientes condiciones:
+• El primer período de desarrollo coincide con el período de ocurrencia.
+• Los siguientes períodos de desarrollo corresponden a los períodos anuales posteriores. En éstos, el importe de los siniestros consignados debe corresponder al mismo período de ocurrencia.
+Se define como "última pérdida estimada" al importe que surge del producto entre:
+• El "factor de desarrollo acumulado" determinado para cada período de ocurrencia.
+• Los siniestros denunciados en cada período de ocurrencia (sumatoria de los siniestros pagados entre el inicio del período de ocurrencia y el cierre del período de desarrollo, más los siniestros pendientes a esta última fecha).
+Se define como "factor de desarrollo acumulado" al valor determinado para cada uno de los períodos de ocurrencia considerados. Indica la medida en la cual los siniestros denunciados, registrados por la aseguradora, deben ser incrementados por la demora en su denuncia y la insuficiente valuación de los siniestros pendientes.
+39.6.7.2. Cálculo
+Determinación del factor promedio ponderado
+Cada entidad calculará el factor promedio ponderado fj correspondiente a cada período de desarrollo j efectuando la división entre:
+• La suma de siniestros pagados acumulados y pendientes Xi,,j+1 valuados al momento de desarrollo j+1, correspondiente a todos los períodos de ocurrencia i que componen el período de desarrollo j+1.
+• La suma de los siniestros pagados acumulados y pendientes Xi,, j valuados al momento de desarrollo j, correspondiente a los mismos períodos de ocurrencia que los considerados en el punto anterior.
+Determinación del factor de desarrollo acumulado
+El factor de desarrollo acumulado Fj de un período de desarrollo j será igual al producto entre el factor de desarrollo acumulado del período Fj+1 y el factor promedio ponderado del período fj. Los factores promedios ponderados se calcularán en base a los datos de la matriz de siniestros incurridos.
+El factor de desarrollo correspondiente al período de ocurrencia más antiguo será el factor de cola, si correspondiera aplicarlo, o será igual a uno.
+El cálculo de los factores de desarrollo acumulados se efectuará anualmente al cierre del ejercicio económico y se aplicará en los estados contables de dicho cierre de ejercicio y en los siguientes períodos intermedios hasta el próximo cierre de ejercicio.
+La suma de los importes Zi correspondientes a los distintos períodos de ocurrencia i conformará el pasivo total de IBNR a exponer en los estados contables, el cual no podrá ser negativo.
+Valores necesarios para obtener el factor de desarrollo
+Cada entidad deberá reunir la información en una tabla que contenga en el eje vertical los períodos de ocurrencia y en el eje horizontal los períodos de desarrollo.
+En las filas figurarán los valores para cada año de ocurrencia de cada uno de los diversos períodos de desarrollo.
+En las columnas figurarán los valores para cada período de desarrollo (primero, segundo, tercero, etc.) de cada uno de los diversos períodos de ocurrencia.
+Los datos obtenidos asumirán la forma de una matriz, con importes para cada una de las celdas, salvo las celdas sombreadas. Los valores sombreados serán los que se obtendrán a través del cálculo de los "Siniestros Ocurridos y no Reportados (IBNR)".
+En consecuencia, la tabla indicada quedará configurada de la siguiente manera:
+Se confeccionarán las siguientes matrices de información:
+Matriz de siniestros pagados. Deberá contener, para cada período de ocurrencia, el importe acumulado de los siniestros pagados en cada uno de los sucesivos períodos de desarrollo. Se trata de información acumulada.
+Matriz de cantidad de siniestros pagados. Deberá contener, para cada período de ocurrencia, la cantidad de siniestros pagados en cada uno de los sucesivos períodos de desarrollo. Se trata de información acumulada.
+Matriz de siniestros pendientes. Deberá contener, para cada período de ocurrencia, el importe de los siniestros pendientes en cada uno de los sucesivos períodos de desarrollo. No se trata de información acumulada.
+Matriz de cantidad de siniestros pendientes. Deberá contener, para cada período de ocurrencia, la cantidad de siniestros pendientes en cada uno de los sucesivos períodos de desarrollo. No se trata de información acumulada.
+Matriz de siniestros incurridos. Deberá contener, para cada período de ocurrencia, el importe de los siniestros incurridos en cada uno de los sucesivos períodos de desarrollo. Deberá ser igual a la suma de los importes pagados y pendientes.
+Matriz de cantidad de siniestros incurridos. Deberá contener, para cada período de ocurrencia, la cantidad siniestros incurridos en cada uno de los sucesivos períodos de desarrollo. Deberá ser igual a la suma de la cantidad de siniestros pagados y pendientes.
+Cuando un mismo siniestro tuviera un importe pagado parcialmente y un importe pendiente, para la determinar la cantidad de casos el siniestro se contabilizará una sola vez como siniestro pendiente.
+39.6.7.3. Clasificación de Ramos y Coberturas a los efectos del cálculo del pasivo por IBNR.
+A fin de constituir y valuar el pasivo por IBNR se utilizará la experiencia siniestral proveniente de los registros de la aseguradora. La información de siniestros deberá clasificarse de acuerdo a la siguiente tabla.
+Tabla de Ramos y Coberturas
+(1) incluye los siniestros de pólizas donde se aplicó la cláusula de período extendido de cobertura.
+39.6.7.4. Ramo Responsabilidad Civil y cobertura de Responsabilidad Civil del Ramo Automotores.
+La información a analizar abarcará los últimos diez (10) ejercicios económicos completos. Los datos se agruparán por períodos de ocurrencia anuales coincidentes con el ejercicio económico.
+El procedimiento de ampliación a diez (10) años de la experiencia a considerar para el cálculo de los factores de desarrollo se efectuará en forma progresiva a partir del ejercicio que inicia el 1º de julio de 2006. No se incluirán los períodos anteriores al primer período de ocurrencia de la serie que utilizó la entidad aseguradora al 30 de junio de 2006.
+Factor de cola. Su utilización
+En caso que la información con que cuente la entidad fuera inferior a siete (7) ejercicios de ocurrencia, deberán aplicarse los siguientes factores de cola:
+Período de ocurrencia de 6 años: 1.05
+Período de ocurrencia de 5 años: 1.10
+Para las coberturas a), c) y d) de la Tabla de Ramos y Coberturas del punto 39.6.7.3 será de aplicación el procedimiento de cálculo del punto 39.6.7.2. a partir de cuando la aseguradora cuente con una experiencia de cinco (5) ejercicios de ocurrencia. Para la cobertura b) dicho procedimiento será de aplicación a partir de cuando la aseguradora cuente con una experiencia de cinco (5) ejercicios de denuncia (se reemplaza el concepto de ocurrencia por denuncia) y la cantidad de siniestros incurridos sea mayor a doscientos (200) casos en cada uno de los ejercicios de denuncia que componen la "Matriz de cantidad de siniestros incurridos" definida en el punto 39.6.7.2.
+En caso que la aseguradora deje de suscribir nuevos contratos en el ramo, deberá continuar aplicando el procedimiento precedentemente descripto, hasta su extinción. Si, en algún período posterior, reiniciara la suscripción de nuevos contratos, además de continuar constituyendo IBNR por su anterior operatoria, deberá adicionar el IBNR constituido a partir de la fecha de reinicio en forma independiente y de acuerdo al criterio contemplado en el punto 39.6.7.6. de la presente norma para cálculo inicial de este pasivo.
+39.6.7.5. Coberturas del Casco del Ramo Automotores y Otros Ramos.
+La información a analizar abarcará los últimos cinco (5) ejercicios económicos completos. Los datos se agruparán por períodos de ocurrencia anuales coincidentes con el ejercicio económico. Se utilizará el método de cálculo descripto en el punto 39.6.7.2.
+Deberá ser aplicado por todas aquellas aseguradoras que hayan operado en estos ramos y/o coberturas por lo menos durante los últimos tres (3) ejercicios completos.
+En caso que la aseguradora deje de suscribir nuevos contratos en el ramo, deberá continuar aplicando el procedimiento precedentemente descripto, hasta su extinción. Si, en algún período posterior, reiniciara la suscripción de nuevos contratos, además de continuar constituyendo IBNR por su anterior operatoria, deberá adicionar el IBNR constituido a partir de la fecha de reinicio en forma independiente y de acuerdo a los criterios contemplado en el punto 39.6.7.6. de la presente norma para cálculo inicial de este pasivo.
+Factor de cola. Su utilización
+En caso que la información con que cuente cada aseguradora fuera inferior a cinco (5) períodos anuales de ocurrencia, deberán aplicarse los siguientes factores de cola:
+Período de ocurrencia de 4 años: 1.05
+Período de ocurrencia de 3 años: 1.10
+Períodos de ocurrencia menores a tres (3) años no permiten la utilización de este procedimiento
+39.6.7.6. Método para las aseguradoras que no cumplen los requisitos de los puntos 39.6.7.4. y 39.6.7.5
+A fin de constituir y valuar el pasivo por IBNR se utilizarán los registros de la aseguradora. La información de primas emitidas más recargos deberá clasificarse de acuerdo a la siguiente Tabla de Ramos y Coberturas del punto 39.6.7.3.
+39.6.7.6.1. Al cierre de ejercicio o período, las entidades que operan en los ramos y coberturas del punto 39.6.7.3. que no reunieran los requisitos del punto 39.6.7.4. y 39.6.7.5. constituirán un pasivo por IBNR, calculado del modo que se describe a continuación:
+No podrán incluirse en el cálculo los casos cerrados por desistimiento o por inexistencia de póliza; se eliminarán del numerador y denominador.
+39.6.7.6.3. Reaseguro, su registración
+Se aplicará lo establecido en el punto 39.6.8. Para el caso del primer año de aseguradoras que iniciaran operaciones en un ramo se determinará el porcentaje de prima reasegurada devengada sobre primas y recargos devengados totales, este porcentaje se aplicará al importe del total de IBNR que se calcule. De la prima reasegurada devengada se deberá deducir la prima de cesiones en contrato en base a exceso de pérdida o de stop-loss.
+39.6.7.7. Determinación del pasivo por IBNR en los períodos intermedios
+Al 30 de septiembre, 31 de diciembre y 31 de marzo de cada año se agruparán los siniestros ocurridos tomando en consideración los doce (12) meses anteriores a cada período intermedio terminado en esas fechas. Al importe de los siniestros incurridos que surja de tal agrupamiento se le aplicará el factor acumulado de desarrollo que le corresponda en función de la antigüedad del período de ocurrencia. Se aplicará el método de cálculo del punto 3.6.7.2. desafectándose el importe registrado en el período anterior.
+39.6.7.8. Corrección de valores en las bases de cálculo para la determinación de los factores de desarrollo acumulado.
+39.6.7.8.1. Para la determinación de los factores de desarrollo acumulados todos los siniestros incurridos (juicios, mediaciones, administrativos, etc.) deberán ser expresados a la fecha de su ocurrencia desagregando los intereses explícitos e implícitos o ambos, según corresponda. Su cálculo se realizará desde la fecha de la ocurrencia del siniestro y hasta la fecha de su pago o de cierre del ejercicio o período en caso de encontrarse pendiente de pago.
+El procedimiento para determinar el factor de desarrollo acumulado deberá ser calculado con los importes resultantes una vez desagregados los intereses mencionados en el párrafo anterior.
+39.6.7.8.2. Componentes financieros explícitos.
+En caso de existir sentencia definitiva o de primera instancia pendiente de pago o pagada, que comprendan intereses determinados por el juez en el expediente, corresponderá desagregar los intereses regulados antes mencionados, considerándose dichos intereses como intereses explícitos.
+Los intereses explícitos serán calculados desde la fecha indicada en la sentencia hasta la fecha de su pago o de cierre del ejercicio o período en caso de encontrarse pendiente de pago.
+Si la fecha regulada por sentencia definitiva o de primera instancia es fijada desde la fecha de ocurrencia del siniestro, sólo se desagregarán intereses explícitos.
+Si la fecha regulada por sentencia definitiva o de primera instancia es fijada desde una fecha posterior a la ocurrencia del siniestro, se deberá desagregar adicionalmente el importe de los intereses implícitos calculados desde la fecha de ocurrencia del siniestro y hasta la fecha inicial de cálculo de los intereses explícitos.
+En caso que el pago de la sentencia definitiva o de primera instancia se realizara a través de un acuerdo extrajudicial entre las partes por un importe que fuera inferior al indicado en la sentencia, se aplicará el procedimiento para los intereses implícitos.
+39.6.7.8.3. Componentes financieros implícitos.
+En todos los siniestros no incluidos en lo dispuesto en el punto anterior, se deberá desagregar los componentes financieros implícitos entre la fecha de ocurrencia del siniestro y la fecha de pago o la fecha de cierre del ejercicio o período en caso de tratarse de siniestros pendientes. A tal fin, para la determinación de los valores a ser utilizados en las respectivas matrices de cálculo se utilizará la tasa pasiva de la Comunicación 14.290 del Banco Central de la República Argentina.
+39.6.7.8.4. Ajustes en la valuación de siniestros pendientes.
+En caso que se efectúen ajustes puntuales en la valuación de siniestros pendientes al cierre de un ejercicio o período, la entidad aseguradora deberá recalcular los factores promedio ponderado y los factores de desarrollo acumulados al cierre del ejercicio o al cierre del ejercicio anterior más reciente, según corresponda. A tal fin deberá confeccionar una nueva Matriz de Siniestros Incurridos (con ajuste al 30.06.20XX) y la Matriz de Siniestros Pendientes (con ajuste al 30.06.20XX) incluyendo los importes ajustados que se reflejarán tanto en la diagonal de la matriz como en los períodos de desarrollo anteriores.
+En tales casos, se trasladará el ajuste a los períodos de desarrollo anteriores, en la medida que el siniestro se encuentre asentado en el respectivo inventario de siniestros pendientes del período que se modifique. Se aclara que si el ajuste es por sentencia contra valuación por demanda, sólo corresponde el ajuste retrotraído hasta el período de desarrollo de la fecha de sentencia.
+A tales efectos se trasladará la valuación, neta de componentes financieros, en los períodos de desarrollo anteriores que hubiesen estado pasivados por el criterio de valuación corregido (es decir que, si no existía pasivo, no será admitida su corrección).
+39.6.7.8.5. Las entidades aseguradoras deberán confeccionar los respectivos listados analíticos de los siniestros utilizados en las correspondientes matrices de cálculo, de los que surjan las correcciones a que se hizo referencia en los tres párrafos anteriores.
+No corresponde efectuar las correcciones a que hace referencia este punto respecto de los siniestros incurridos sobre los cuales se ha de aplicar el factor de desarrollo acumulado, con el fin de determinar la "última pérdida esperada".
+39.6.7.8.6. Para los siniestros que se encontrasen expresados en moneda extranjera, todos los importes se convertirán a pesos al tipo de cambio vigente a la fecha de ocurrencia del siniestro.
+39.6.7.9. Informe del Actuario sobre IBNR y su cálculo.
+La constitución y valuación del pasivo por IBNR registrado por la aseguradora, determinado conforme el método descripto, deberá ser certificado por el Actuario en el informe elaborado en oportunidad de confeccionar los estados contables anuales o trimestrales.
+39.6.7.10. Sistemas informáticos.
+Los sistemas informáticos de las entidades aseguradoras deben permitir cuantificar el monto y la cantidad de los siniestros denunciados, pagados y pendientes clasificados por ramo y tipo de cobertura, y a su vez ordenarlos en base a su fecha de ocurrencia y denuncia. Deberán elaborar y mantener a disposición de esta Superintendencia de Seguros de la Nación los archivos en el formato que se establece en el "ANEXO COMPLEMENTARIO IBNR", que deberán estar disponibles a la fecha de presentación de los estados contables correspondientes, junto a toda la información definida y requerida para el cálculo del pasivo por IBNR que establece la presente norma.
+39.6.7.11. Exposición.
+El pasivo por IBNR se expondrá en los estados contables en el rubro Deudas con Asegurados de forma separada para cada una de las categorías de la Tabla de Ramos y Coberturas del punto 3.6.7.3.. En el Estado de Resultados se imputará en el concepto Siniestros Pendientes.
+En nota a los estados contables deberán indicarse cuáles son los factores de desarrollo acumulados para cada ramo y tipo de cobertura.
+39.6.7.12. Determinación del pasivo por IBNR en fusiones por absorción
+La aseguradora absorbente deberá efectuar el cálculo del pasivo por IBNR considerando las experiencias siniestrales en forma separada. Este procedimiento será de aplicación optativa para las coberturas e) y f) de la Tabla de Ramos y Coberturas del punto 39.6.7.3".
+Art. 2º — Las normas estipuladas en el artículo 1º de la presente Resolución serán de aplicación para estados contables cerrados a partir del 30 de setiembre de 2007, inclusive. A opción de las aseguradoras podrán aplicarse para estados contables cerrados el 30 de junio de 2007, inclusive.
+Art. 3º — A opción de las aseguradoras, la diferencia resultante del mayor pasivo que pudiera derivarse por la aplicación de los métodos de cálculo descriptos en el artículo 1º de la presente Resolución, respecto del pasivo calculado de acuerdo con los criterios anteriormente establecidos en la Resolución Nº 29.053, en ocasión de la primera constitución, se podrá amortizar a razón del VEINTICINCO POR CIENTO (25%) trimestral durante CUATRO (4) trimestres, a partir del 30 de septiembre de 2007 inclusive o, en su caso, a partir del 30 de junio de 2007 inclusive.
+El importe de la diferencia antes indicada (neto de la correspondiente amortización acumulada) se expondrá en los estados contables como cuenta regularizadora del rubro DEUDAS CON ASEGURADOS, conforme la siguiente escala decreciente:
+Período      Porcentual       al 30/09/07 ó 30/06/07 al 31/12/07 ó 30/09/07 al 31/03/08 ó 31/12/07 al 30/06/08 ó 31/03/08 al 30/09/08 ó 30/06/08       100% 75,0% 50,0% 25,0%  0%
+Habiendo hecho uso de la presente opción, las entidades deberán sujetarse a las siguientes normas, conforme el tipo societario:
+a) Las sociedades anónimas no podrán distribuir dividendos en efectivo.
+b) Las cooperativas deberán capitalizar los excedentes y las mutualidades incrementar sus fondos de garantías.
+c) Los organismos oficiales deberán destinar la totalidad de sus beneficios a incrementar su capital.
+d) Las sucursales y agencias de sociedades extranjeras no podrán remesar utilidades a su casa matriz.
+Art. 4º — Regístrese, comuníquese y publíquese en el Boletín Oficial. — Miguel Baelo.
+ANEXO COMPLEMENTARIO AL PUNTO 39.6.7.10
+SINIESTROS OCURRIDOS Y NO REPORTADOS (IBNR).
+Formatos de archivos a confeccionar por las entidades aseguradoras
+DESCRIPCION DE ARCHIVOS
+ARCHIVO DE SINIESTROS PAGADOS
+El orden de los campos es el mostrado en la tabla siguiente y debe ser mantenido sin ninguna excepción. Los lugares deben conservarse aunque no exista información a incluir en ese campo para algún registro en particular. (Ver llenado de los campos sin información "CARACTERISTICAS TECNICAS COMUNES A TODOS LOS ARCHIVOS SOLICITADOS", en la descripción que se hace para cada TIPO de campo).
+ESTRUCTURA:
+ACLARACIONES:
+• FECHA DE PAGO
+Se trata de un campo destinado a almacenar fechas, para lo cual se deberá respetar el formato que para ese tipo de datos se detalla en "CARACTERISTICAS TECNICAS COMUNES A TODOS LOS ARCHIVOS SOLICITADOS".
+• REFERENCIA EN REGISTROS
+Debe incluirse el número de comprobante o numeración interna de manera tal de poder identificar unívocamente el comprobante de pago en las cajas egreso o registro contable.
+• SECCION/COBERTURA
+En el campo SECCION deberá consignarse el código consignado en la tabla 1 para el ramo al cual corresponde el siniestro. En caso de tener una rama dividida en subramas, declarará el código de cada subrama. Se entiende por sección la existencia de numeración diferenciada en pólizas y siniestros. Los códigos son los detallados en la tabla de códigos (1)
+El campo cobertura corresponde a los detallados en la tabla de códigos (2), y corresponde al agrupamiento que se tendrá en cuenta para el cálculo del pasivo por IBNR.
+• NUMERO DE SINIESTRO/JUICIO
+Se consignará el número asignado en el registro de denuncias de siniestros (ver características técnicas comunes), con respecto al Nº de juicio (orden en el Registro de Actuaciones Judiciales), sólo se completará en caso de haberse iniciado reclamaciones judiciales o mediaciones.
+• IMPORTE PAGADO HISTORICO
+Se trata del importe efectivamente erogado y coincide con el soporte documental.
+• IMPORTE PAGADO CORREGIDO
+El punto 39.6.7.8 prevé que los importes pagados, deben corregirse por efecto de los intereses explícitos y componentes implícitos.
+En este campo debe incluirse el importe ya corregido por lo mencionado precedentemente o por cualquier otra corrección de importes prevista en la reglamentación vigente.
+Los importes son también a valores históricos.
+En caso de no haber realizado ninguna corrección se consignará el importe pagado histórico mencionado en el campo anterior.
+• PARTICIPACION DEL REASEGURADOR
+El punto 39.6.7.6.3. establece la metodología para determinar la participación del reasegurador dentro del pasivo por IBNR. Deberá incluirse tanto en contratos proporcionales como para contratos de exceso de pérdida y excedentes, los importes a cargo de los reaseguradores por cada pago de siniestros declarado en este archivo en caso de corresponder.
+Se incluirán todos los pagos de siniestros de los últimos 10 ó 5 años (de acuerdo a la sección), y a pesar de tratarse de balances a Septiembre, Diciembre o Marzo; el comienzo del período a incluir debe partir del 1º de Julio, de manera tal de poder utilizarse los archivos para el recálculo de los Factores Acumulados de Desarrollo (por períodos anuales) así como también para poder aplicarlos (por períodos de 12 meses con cierre en el período bajo estudio).
+Se agregarán inclusive los pagos de siniestros ocurridos con anterioridad a los últimos 10 ó 5 años realizados dentro de este período.
+CONSISTENCIA:
+Luego de ser confeccionado el archivo, deberán realizarse las pruebas de consistencia que a continuación se detallan:
+• La sumatoria mensual, (según fecha de pago – campo 6), por sección de los campos:
+8 - Los totales mensuales seccionales deben coincidir con los obrantes en los registros contables obligatorios. Deberá proporcionar los papeles de trabajo correspondientes.
+9 - Los totales para cada cobertura agrupados por fecha de ocurrencia y pago deben coincidir con las matrices de siniestros pagados entregada como papel de trabajo (sin considerar la exclusión de los siniestros excepcionales).
+ARCHIVO DE SINIESTROS PENDIENTES
+El orden de los campos es el mostrado en la tabla siguiente y debe ser mantenido sin ninguna excepción. Los lugares deben conservarse aunque no exista información a incluir en ese campo para algún registro en particular. (Ver llenado de los campos sin información "CARACTERISTICAS TECNICAS COMUNES A TODOS LOS ARCHIVOS SOLICITADOS", en la descripción que se hace para cada TIPO de campo).
+ESTRUCTURA
+ACLARACIONES:
+• FECHA DE BALANCE
+Se trata de un campo destinado a almacenar fechas, para lo cual se deberá respetar el formato que para ese tipo de datos se detalla en "CARACTERISTICAS TECNICAS COMUNES A TODOS LOS ARCHIVOS SOLICITADOS".
+En caso de tratarse un período intermedio, deben incluirse los importes pendientes al cierre de cada ejercicio y sólo al cierre del mismo período intermedio bajo estudio.
+(*): En el balance al 31.12.2006, debe incluirse para cada siniestro, el importe pendiente únicamente al 31.12.2006 (aparte del pasivado al cierre de cada ejercicio anual 30.06.2006, 06.2005, 06.2004, etc.).
+• SECCION/COBERTURA
+En el campo SECCION deberá consignarse el código consignado en la tabla 1 para el ramo al cual corresponde el siniestro. En caso de tener una rama dividida en subramas, declarará el código de cada subrama. Se entiende por sección la existencia de numeración diferenciada en pólizas y siniestros. Los códigos son los detallados en la tabla de códigos (1).
+El campo cobertura corresponde a los detallados en la tabla de códigos (2), y corresponde al agrupamiento que se tendrá en cuenta para el cálculo del pasivo por IBNR.
+• NUMERO DE SINIESTRO/JUICIO
+Se consignará el número asignado en el registro de denuncias de siniestros (ver características técnicas comunes), con respecto al Nº de juicio (orden en el Registro de Actuaciones Judiciales), sólo se completará en caso de haberse iniciado reclamaciones judiciales o mediaciones.
+• IMPORTE PENDIENTE HISTORICO
+Se trata del importe efectivamente pasivado y coincide con el importe bruto de la participación del reasegurador correspondiente al inventario de siniestros pendientes del período correspondiente.
+• IMPORTE PENDIENTE CORREGIDO
+El punto 39.6.7.8 prevé que los importes pendientes deben corregirse por efecto de los intereses explícitos y componentes implícitos.
+En este campo debe incluirse el importe ya corregido por lo mencionado precedentemente o por cualquier otra corrección de importes prevista en la reglamentación vigente.
+Los importes son también a valores históricos.
+En caso de no haber realizado ninguna corrección se consignará el importe pendiente histórico mencionado en el campo anterior.
+• PARTICIPACION DEL REASEGURADOR
+El punto 39.6.7.6.3. establece la metodología para determinar la participación del reasegurador dentro del pasivo por IBNR. Deberá incluirse tanto en contratos proporcionales como para contratos de exceso de pérdida y excedentes, los importes a cargo de los reaseguradores por cada pago de siniestros declarado en este archivo en caso de corresponder.
+Deben incluirse todos los siniestros pasivados, incluso los ocurridos con anterioridad a los 10 ó 5 años.
+CONSISTENCIA
+Luego de ser confeccionado el archivo, deberán realizarse las pruebas de consistencia que a continuación se detallan:
+• La sumatoria mensual, (según fecha de balance – campo 6), por sección de los campos:
+7 - Los totales seccionales agrupados por fecha de balance deben coincidir con los inventarios respectivos. Deberá proporcionar los papeles de trabajo correspondientes.
+8 - Los totales para cada cobertura agrupados por fecha de ocurrencia y balance deben coincidir con la matriz de siniestros pendientes entregada como papel de trabajo (sin considerar la exclusión de los siniestros excepcionales).
+ARCHIVO DE SINIESTROS DENUNCIADOS
+El orden de los campos es el mostrado en la tabla siguiente y debe ser mantenido sin ninguna excepción. Los lugares deben conservarse aunque no exista información a incluir en ese campo para algún registro en particular. (Ver llenado de los campos sin información "CARACTERISTICAS TECNICAS COMUNES A TODOS LOS ARCHIVOS SOLICITADOS", en la descripción que se hace para cada TIPO de campo).
+ESTRUCTURA:
+ACLARACIONES:
+• FECHA DE OCURRENCIA - FECHA DE DENUNCIA
+Se trata de dos campos destinados a almacenar fechas, para lo cual se deberá respetar el formato que para ese tipo de datos se detalla en "CARACTERISTICAS TECNICAS COMUNES A TODOS LOS ARCHIVOS SOLICITADOS".
+Debe tenerse en cuenta que la fecha de ocurrencia será la que se aplicará para agrupar los siniestros pagados y los pendientes para el armado de las matrices.
+Para la cobertura de caución se informará como fecha de ocurrencia la fecha en que ha procedido a registrar el reclamo en el Registro de Denuncia de Siniestros de acuerdo a la Resolución Nº 29.424.
+Para la cobertura de Automotores (Responsabilidad Civil) se considerará la fecha de ocurrencia del evento dañoso.
+Para la cobertura de Responsabilidad Civil se considerará la fecha de que la normativa vigente para las diversas coberturas estime que se ha configurado el siniestro.
+CONSISTENCIA
+Luego de ser confeccionado el archivo, deberán realizarse las pruebas de consistencia que a continuación se detallan:
+• No deben existir saltos en la correlatividad, excepto que hayan sido salvados en los registros correspondientes o que tengan numeraciones distintas para cada sucursal. Como mínimo se deberá proporcionar un registro para cada siniestro declarado en los archivos de denunciados y pagados.
+• Se analizarán los primeros siniestros denunciados para cada sección, y en el caso de existir diversas numeraciones (absorción de carteras o numeración por regiones) los primeros y últimos siniestros denunciados para cada una de ellas.
+CARACTERISTICAS TECNICAS COMUNES A TODOS LOS ARCHIVOS SOLICITADOS
+• Código de Grabación "ASCII"
+• Cada campo debe ser separado del anterior por una coma (,).
+• Registros de longitud variable. Si por alguna razón resultara más fácil para la aseguradora generar registros de longitud fija, el archivo será aceptado en la medida que se tenga en cuenta lo siguiente:
+1. La longitud de cada campo no puede exceder la longitud total prevista para el mismo.
+2. Deberán incluirse las comas (,) como delimitadores de los campos.
+3. En ningún caso deberá completarse con ceros (0) a la izquierda los campos:
+• Cada registro debe ser terminado con Retorno de carro y Alimentación de línea al final, (carácter ASCII DECIMAL 13+10)
+• El archivo debe ser terminado con fin de archivo (carácter ASCII DECIMAL 26)
+ACLARACIONES AL CONTENIDO DE LAS TABLAS DE ESTRUCTURA DE ARCHIVOS
+COLUMNA "TIPO"
+• N = Campo Numérico
+• C = Campo Alfanumérico
+COLUMNA "LONGITUD TOTAL"
+Indica la cantidad de caracteres totales y máximos que contiene el campo en cuestión.
+COLUMNA "TABLA CODIGOS"
+Hace referencia a las tablas que se incluyen en el presente Anexo, que tienen por objeto informar la codificación que debe ser utilizada en la confección de los archivos, referidas a secciones y coberturas.
+CAMPOS NUMERICOS (Tipo "N")
+• Sólo se acepta la inclusión de números en ellos.
+• La separación decimal debe hacerse con punto (.).
+• Los importes negativos se representarán con un signo menos (-) a la izquierda del importe.
+• Los importes positivos no requieren ningún signo.
+• El punto decimal y el signo forman parte de la longitud total del campo.
+• Cuando el valor para un campo numérico es cero (0), se incluirá con ese valor.
+Ejemplos:
+NUMERO  LLENADO DEL CAMPO   1345 0 1345.78 -128.20  ,1345, ,0, ,1345.78, ,-128.20,
+CAMPOS ALFANUMERICOS (Tipo "C")
+• Pueden incluirse tanto letras como números.
+• Deben encerrarse entre comillas (" ")
+• En caso de no tener datos, un campo se completará con un espacio entre comillas (" ")
+Ejemplos:
+DATO  LLENADO DEL CAMPO   1535 Capital Campo  ,"1535", ,"Capital", Vacío ," ",
+CAMPOS DESTINADOS A FECHAS
+AAAAMMDD
+Donde:
+Ejemplo:
+La fecha 31 de Diciembre de 1995 se completará: , 19951231,
+IMPORTANTE: los campos destinados a fechas en ningún caso deberán dejarse vacíos.
+NUMERO DE POLIZA / NUMERO DE SINIESTRO / NUMERO DE JUICIO
+• En ningún caso, se incluirán ceros (0) a la izquierda de este número, por tratarse de un campo de tipo carácter, deberá estar alineado a la izquierda.
+• Se exceptúa de lo indicado en el punto anterior a las operaciones originales, donde se consignará como número de endoso "0".
+• Tampoco se incluirán como parte de los mismos barras (/) y dígitos de control.
+• De optarse por campos de longitud fija, se completará con blancos a la derecha.
+Caso de entidades que poseen sucursales:
+• En este supuesto, se identificarán los siniestros correspondientes a cada sucursal anteponiendo Nº de siniestro tres dígitos que identificarán a cada una de las mismas. La numeración comenzará con el número 111 (ciento once).
+Ejemplo:
+IMPORTANTE
+CONSISTENCIAS
+Luego de ser confeccionado el archivo, las aseguradoras deberán realizar las pruebas de consistencia, teniendo en cuenta lo especificado sobre este asunto para cada uno de los archivos en particular.
+CODIGOS
+Deberá suministrar junto con los archivos un detalle de los códigos de sección y coberturas utilizado, ya sea respetando los aquí enumerados o los que haya informado en los soportes magnéticos aportados.
+Para ello procederá a completar un anexo a la presente con el siguiente detalle:
+Aseguradora:
+TABLA (1) RELATIVOS AL CAMPO "SECCION"
+FORMA EN QUE LOS ARCHIVOS DEBEN SER PUESTOS A DISPOSICION EN CASO DE SER SOLICITADO POR ESTA SUPERINTENDENCIA DE SEGUROS DE LA NACION
+La entrega por parte de las entidades aseguradoras se realizará por medio de soporte óptico (CDROM). En un mismo soporte pueden incluirse los tres archivos.
+En ningún caso, los archivos incluidos en el soporte óptico deben ser compactados.
+Con el objeto de asegurar la integridad de los datos enviados por las entidades aseguradoras y los recibidos por este Organismo, se someterá a cada uno de los archivos generados, al programa Md5, que toma como parámetro de entrada la dirección a un archivo cualquiera (path), dando como resultado una cadena de caracteres. No se considera posible que ante el mismo parámetro de ingreso (archivo), se puedan obtener como resultado dos cadenas de caracteres distintas.
+El programa Md5 puede obtenerse desde la página web de esta Superintendencia de Seguros de la Nación (www.ssn.gov.ar), dentro de Otros Rubros – Actualización de Software – Generador de Códigos de Hash Md5.
+El procedimiento a llevar a cabo será el siguiente:
+a) Descargar de la página el aplicativo referido, el cual se encuentra compactado.
+b) Descompactar el archivo denominado Md5.zip.
+c) Como resultado del paso anterior surgen dos archivos: Md5.exe y Cygwin1.dll.
+Instrucciones para su uso:
+a) Ingresar a la modalidad de comando (MS-DOS).
+b) Ubicarse en la carpeta donde se encuentra Md5.exe y Cygwin1.dll.
+c) Escribir Md5 Nombre de archivo.
+Ejemplo:
+ü Md5.exe está ubicado en la carpeta C:/Md5.
+ü  Archivo: Polizas.txt está ubicado en la carpeta C:/archivos.
+Llamada al programa:
+ü  Ubicarse en la carpeta donde se encuentra Md5.
+ü  Escribir: Md5 C:/archivos/Polizas.txt
+ü  Dar Enter
+ü  Md5 da como resultado del proceso una cadena de caracteres y debe ser corrido independientemente para cada uno de los archivos a incluir en el soporte óptico.
+FORMA DE PRESENTACION
+CD-ROM: Para su identificación se solicita que en la superficie destinada a ese efecto, incluyan los siguientes datos:
+• Razón social de la entidad informante.
+• Número de soporte (si se presenta más de uno, se indicará 1/n; 2/n; etc., siendo n la cantidad total de soportes presentados).
+• Nombre de los archivos incluidos en cada soporte óptico.
+• Firma y aclaración de funcionario responsable.
+Los datos solicitados podrán ser escritos con tinta indeleble o en etiqueta adherida al soporte.
+• En la nota de entrega se deberá incluir el nombre de cada uno de los archivos remitidos en los soportes ópticos y cadenas de caracteres resultantes de someter los mismos al programa Md5.
+• Firma y aclaración de funcionario responsable de la entidad informante.
+

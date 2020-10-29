@@ -1,0 +1,125 @@
+Dirección General de Aduanas
+ADUANAS
+Resolución 29/2003
+Manual de procedimientos de los Centros de Control. Sistema Seguimiento de Contenedores (DES).
+Bs. As., 15/10/2003
+VISTO la Resolución General AFIP N° 1331 de fecha 29 de agosto de 2002, la Resolución DGA N° 37 del 30 de octubre de 2002 y la Disposición DGA N° 06 del 12 de febrero de 2003, y
+CONSIDERANDO
+Que resulta necesario realizar el Manual de Procedimientos a seguir en las distintas alternativas que presenta la utilización de dicha herramienta.
+Que en ese orden de ideas, deben delimitarse las acciones y tareas de los intervinientes, estableciendo las definiciones, recursos humanos y materiales a asignar, sin que por ello, basado en la experiencia, se considere a futuro la necesidad de adecuar y/u optimizarlos.
+Que la Auditoría del Sistema, UNIVERSIDAD NACIONAL DE BUENOS AIRES (UBA), a través de su Perito designado, en el marco del convenio de asistencia técnica suscripto con la EX ADMINISTRACION NACIONAL DE ADUANAS de fecha 26 de octubre de 1995, en cumplimiento de la Disposición DGA 06/ 2003 ha emitido informe de opinión y recomendaciones.
+Que en dicho informe se establece la necesidad de contar con dos Centros de Control los cuales actuarán en forma integrada.
+Que las leyes Municipales y la práctica recogida en el período de prueba imponen la necesidad de modificar el trazado de las rutas establecidas en la Instrucción General N° 32 DGA de fecha 21 de agosto de 2001.
+Que mediante Instructivo N° 05 (DE ADBA) de fecha 26 de diciembre de 2002, aprobada por Instrucción 0015 (DGA) de la misma fecha, se fijó en su artículo 5° el cronograma de implementación del DES. Resultando necesario readecuar el mismo.
+Que la CAMARA ARGENTINA DE DEPOSITOS FISCALES PRIVADOS (CADEFIP) ha presentado conforme Nota S/Nro. de fecha 19 de Mayo de 2003, un cronograma por el cual se compromete, de acuerdo a la disponibilidad de nuevos dispositivos electrónicos (DES), a ir incorporándolos progresivamente a todas las operaciones de traslados desde las terminales portuarias y los distintos puntos operativos, completando dicho proceso en un plazo máximo de NOVENTA (90) días a partir de que la presente entre en vigencia.
+Que es necesario readecuar decisiones adoptadas en el marco de mayor equidad para todos los operadores del sistema.
+Que ha tomado debida intervención la SUBDIRECCION GENERAL DE LEGAL Y TECNICA ADUANERA, la SUBDIRECCION GENERAL DE OPERACIONES ADUANERAS METROPOLITANAS y LA DIRECCION DE CONTROL.
+Que la presente se dicta en ejercicio de las facultades conferidas por el Decreto N° 618, artículo 2) inciso p) de fecha 10 de julio de 1997 y especiales de reglamentación conferidas por el Artículo 5to. de la Resolución General citada en el VISTO.
+Por ello,
+EL DIRECTOR GENERAL DE LA DIRECCION GENERAL DE ADUANAS
+RESUELVE:
+Artículo 1° — Aprobar el Manual de procedimiento al que deben ajustarse los Centros de Control establecidos en la presente, contenido en los ANEXOS: I: INDICE TEMATICO, ANEXO II: DEFINICIONES, ANEXO III: CENTRO DE CONTROL PRIMARIO, ACCIONES Y TAREAS, ANEXO IV: CENTRO DE CONTROL SELECTIVO, ACCIONES Y TAREAS, ANEXO V: PROCEDIMIENTO A SEGUIR EN CASO DE ALARMAS ANEXO VI: CONDICIONES OPERATIVAS, PLAN ALTERNATIVO Y CONTROL DE GESTION todos ellos parte integrante de la presente Resolución.
+Art. 2° — Crease un Centro de Control Primario, el cual funcionará bajo la responsabilidad y administración de la CAMARA ARGENTINA DE DEPOSITOS FISCALES PRIVADOS (CADEFIP) con personal y recursos propios, el que deberá cumplimentar las acciones y tareas encomendadas en la presente.
+Art. 3° — Créase un Centro de Control Selectivo, dependiente de la Dirección de Control, de esta Dirección General de Aduanas, quien tendrá a su cargo la actuación y seguimiento de las alarmas recibidas.
+Art. 4° — Mantener la vigencia de los artículos 1°, 2° y 3° con los anexos que los componen del INSTRUCTIVO N° 05 (DE ADBA) de fecha 26 de Diciembre de 2002, aprobado por INSTRUCCION N° 15 DGA de fecha 26 de Diciembre de 2002, los que deberán estar permanentemente actualizados.
+Art. 5° — Sustitúyase el artículo 5° de la Resolución DGA N° 37 de fecha 30 de Octubre de 2002, por el siguiente: Exceptúese de la presente operatoria a aquellos traslados de contenedores que con motivo de la particularidad de la zona portuaria de la jurisdicción de la Aduana de BUENOS AIRES deban ser trasladados entre terminales portuarias vía acuática con el fin de ser transbordados al exterior. No alcanzando la presente excepción el traslado de contenedores vía terrestre.
+Art. 6° — Déjese sin efecto el artículo 7° de la Resolución DGA N° 37 de fecha 30 de Octubre de 2002.
+Art. 7° — Queda exceptuado de la aplicación de la presente norma el traslado de contenedores que por sus características físicas no pueda adaptarse al uso del Dispositivo Electrónico de Seguridad (DES), debiendo en consecuencia mantener la utilización del Guarda Custodia.
+Art. 8° — Para la totalidad de las operaciones de traslados terrestres, los conductores de las unidades de transporte, deberán estar provistos de tecnología de comunicación móvil que permita mantener contacto permanente con ambos Centros de Control.
+Art. 9° — Déjese sin efecto el Anexo I de la Instrucción General N° 32 DGA de fecha 21 de agosto de 2001 —rutas y plazos de transporte para las operaciones de traslado—.
+Art. 10. — El reemplazo de las rutas a las que alude el artículo precedente, será efectuado conforme el cronograma presentado por CADEFIP debiendo quedar finalizado dentro del plazo de noventa días contados a partir de la publicación de la presente que se incorporara a esta Resolución como Anexo VII.
+Art. 11. — El tiempo máximo establecido para el cumplimiento de la operación de traslado bajo esta modalidad será de TRES (3) horas, contados a partir de la validación por parte del Servicio Aduanero de la salida de zona primaria aduanera.
+Art. 12. — El incumplimiento de la ruta y/o plazo de transporte que no respondan razones de fuerza mayor debidamente justificadas determinará el inicio de las actuaciones sumarias a los efectos de la suspención temporaria o definitiva del transportista, en el marco del artículo 109 y subsiguientes del Código Aduanero sin perjuicio de las que le podría corresponder al Agente de Transporte Aduanero que registró la Operación de traslado.
+Art. 13. — A partir del día siguiente de publicada la presente en el Boletín Oficial será obligatorio el uso del DES en todas aquellas operaciones de traslado que se realice desde la Terminal Portuaria Exolgan S.A., debiendo incorporarse el resto de las terminales dentro de los NOVENTA (90) días posteriores.
+Art. 14. — Los Centros de Control Primario y Selectivo, deberán suscribir los respectivos Instructivos, para actuar ante las diferentes alertas y/o alarmas conforme a las responsabilidades asignadas a cada uno de ellos.
+Art. 15. — Déjase sin efecto toda norma que se oponga la presente.
+Art. 16. — Regístrese, Dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL para su publicación y publíquese en el Boletín de la DIRECCION GENERAL DE ADUANAS, cumplido archívese. — José A. Sbattella.
+ANEXO I
+INDICE TEMATICO
+ANEXO I - INDICE TEMATICO.
+ANEXO II - DEFINICIONES.
+ANEXO III - CENTRO DE CONTROL PRIMARIO, ACCIONES Y TAREAS.
+ANEXO IV - CENTRO DE CONTROL SELECTIVO, ACCIONES Y TAREAS.
+ANEXO V - PROCEDIMIENTO A SEGUIR EN CASO DE ALARMAS.
+ANEXO VI - CONDICIONES DE OPERATIVAS - PLAN ALTERNATIVO Y CONTROL DE GESTION.
+ANEXO II
+DE LAS DEFINICIONES
+1. EVENTOS: A los efectos de la presente, se considera eventos a los acontecimientos circunstanciales que se producen vinculados con los riesgos en las operaciones de traslado. El Sistema de Seguimiento (DES) controla y proporciona la información de cada uno de ellos.
+1.1 EVENTOS QUE CONTROLA EL SISTEMA DE SEGUIMIENTO VINCULADOS A RIESGOS DEL TRASLADO:
+a) Comienzo del traslado sin ejecutar la operación control de salida.
+b) Detención del camión.
+c) Cierre de la operación de traslado fuera del área del depósito fiscal de destino.
+d) Comunicación con el D.E.S.
+d1- Falta de señal del dispositivo.
+d2- Ausencia de comunicación del Sistema Célula.
+e) Desvío de ruta.
+f) Rotura de antena GPS.
+g) Apertura de puerta.
+2. ALERTAS: Son señales e información originadas por el Sistema de Seguimiento (DES) a partir de los eventos que deben ser observados y analizados en función de los criterios de control preestablecidos.
+2.1. TIPOS DE ALERTAS PARA CADA UNO DE LOS EVENTOS.
+a) CRSA: No se efectuó el Control de Salida correspondiente.
+b) DETN: Tiempo máximo de detención excedido.
+c) FZON: Falla en el chequeo de zona.
+d) COMM: Pérdida de comunicación con el dispositivo.
+e) GEOF: Vehículo fuera de la ruta programada.
+f) VIOD: Violación de dispositivo (apertura de carcasa).
+g) APUE: Apertura de puerta.
+3. ALARMAS: Son las alertas que por su alto nivel de riesgo, a criterio del operador responsable del CENTRO DE CONTROL PRIMARIO, ameritan ser notificadas de inmediato al CENTRO DE CONTROL SELECTIVO, convirtiéndose en ALARMAS a efectos que tome las medidas preventivas y de represión consecuentes.
+4. CCP: Centro de Control Primario :
+Es la base de control administrada por CADEFIP, que tiene a su cargo la evaluación del primer nivel de alertas.
+5. CCS: Centro de Control Selectivo:
+Es la base de control dependiente del Departamento Policía Aduanera-Dirección de Control, encargada de tomar las medidas preventivas y/o represivas que correspondan a las alarmas oportunamente recibidas.
+ANEXO III
+CENTRO DE CONTROL PRIMARIO (CCP)
+1 ACCIONES
+1.1 Efectuará el monitoreo y seguimiento informático punto a punto de las cargas transportadas en el ámbito de la Aduana de BUENOS AIRES, sobre todas las operaciones de traslado que utilicen el Dispositivo Electrónico de Seguridad (DES).
+1.2 Tendrá a su cargo evaluar permanentemente, el riesgo asociado a cada alerta detectada.
+1.3 Es el autorizado para convertir las alertas en alarmas.
+2 TAREAS
+2.1 Será el responsable directo de convertir las alertas en alarmas en función a los niveles de riesgo de las mismas y dar la notificación consecuente al CCS.
+2.2 La valoración de las alertas se hará teniendo en cuenta la información recibida de los distintos puntos operativos (Servicio Aduanero, Terminales Portuarias, Depósitos Fiscales), como así también de los Transportistas/Agentes de Transporte Aduanero, conductores de las unidades y de la información que brinde el Sistema de Seguimiento de Contenedores y el Sistema María.
+2.3 Deberá mantener comunicación directa con todos los depósitos emisores y receptores de los traslados vía tecnología de comunicación móvil o alternativa, y con los transportistas y/o conductores de los camiones encargados de los traslados.
+ANEXO IV
+CENTRO DE CONTROL SELECTIVO B (CCS)
+1. ACCIONES
+1.1 Tener a su cargo las acciones de prevención y/o represión en orden a las alarmas recibidas.
+1.2 Podrá solicitar colaboración a los demás organismos de la Administración Pública y en especial los de Seguridad de la Nación. Provincias y Municipalidades, en el marco del Art. 9 Punto 2 Inc. ñ) e i) del Decreto 618 del 10 de Julio de 1997.
+2. TAREAS
+2.1 Tendrá la facultad de efectuar el monitoreo selectivo y seguimiento informático de las cargas transportadas en el ámbito de la Aduana de BUENOS AIRES, con el propósito de supervisar las operaciones de traslados con Dispositivo Electrónico de Seguridad (DES), como el área de control primario.
+2.2 Desarrollará un plan de contingencia ante eventuales situaciones de inseguridad de las cargas acorde a las alarmas recibidas por el Centro de Control Primario (CCP) con el fin de prevenir y reprimir la comisión de infracciones o delitos aduaneros, utilizando para ello el poder de Policía Aduanera y la Fuerza Pública y dando aviso inmediato a las Fuerzas de Seguridad y/o Policiales.
+2.3 Sin perjuicio de lo establecido en el punto 2.2 de este anexo, se establecerán mecanismos de control en base a la información recibida por los usuarios internos y externos a fin de prevenir y reprimir la comisión de infracciones o delitos aduaneros.
+2.4 Para el ejercicio de las funciones encomendadas, se dispondrá de puestos móviles en las rutas troncales, a fin de su interacción con el CCS.
+En caso que la situación lo meritúe, podrán coordinarse tales funciones con el Servicio de Patrullas del Departamento Policía Aduanera.
+2.5 Realizará el control de gestión a partir de la información recopilada, tanto en el DES como en el Sistema Informático María.
+2.6 La carga de rutas y zonas georeferenciadas, como así también modificaciones a la mismas, serán efectuadas únicamente por este Centro de Control.
+3. BASE DEL CENTRO DEL CCS
+• Lugar Físico: Funcionará en un recinto adaptado a tal fin en la Dirección General de Aduanas, sito en Azopardo 350 de esta Capital federal.
+• Teléfono 4338-6672
+• FAX .......................
+• E-mail ....................
+• Personal: Proveniente del Departamento Policía Aduanera. Cada turno estará integrado mínimamente por un encargado, un auxiliar en base y dos agentes que en un móvil recorrerán las rutas troncales, siendo el brazo operativo del CCS.
+• HORARIO: Los turnos quedarán sujetos a criterio del Departamento Policía Aduanera, sugiriéndose comenzar con el horario de 07.00 a 24.00 hs. e ir adaptándolo según surja de las necesidades del servicio.
+NOTA: En caso de que uno de los dos centros entre en contingencia, el otro deberá operar cubriendo las necesidades de información y de actuación de ambos centros de control. El personal que opera el centro que salió de servicio se trasladará al que continúa operativo hasta tanto concluya la contingencia.
+ANEXO V
+1. PROCEDIMIENTO A SEGUIR EN CASO DE ALARMA
+1.1 NOTIFICACION Y CONVERSION DE UN ALERTA EN ALARMA: Cuando el responsable de turno del Centro de Control Primario, decida convertir un alerta en alarma, deberá notificar la misma en forma inmediata al Centro de Control Selectivo por vía telefónica y/o comunicación móvil y posteriormente oficializar la misma mediante e-mail, fax o nota.
+1.2 PLAN DE CONTINGENCIA: Recibida un alarma desde el CCP, se deberá dar aviso de inmediato a las Fuerzas de Seguridad y/o policiales siguiendo el procedimiento que se establezca en los acuerdos correspondientes.
+NOTA: En caso de que uno de los dos centros entre en contingencia el otro deberá operar cubriendo las necesidades de información y de actuación de ambos centros de control. El personal que opera el centro que salió de servicio se trasladará al que continúa operativo hasta tanto concluya la contingencia.
+ANEXO VI
+1. PLAN ALTERNATIVO ANTE EVENTUALES SALIDAS SIN EL SIM
+1.1 La aduana de registro dará cumplimiento a lo previsto en el Anexo IV punto 11 de la Resolución General Nro. 1331/02.
+1.2 De autorizar la operación la aduana de registro, previo a la emisión de la salida a plaza manual, notificara vía fax/mail al CCS de los detalles de la operación en trato.
+1.3 El CCS notificará de la situación al CCP
+1.4 El CCS dispondrá en base al tipo de mercadería, destino u otros parámetros, la necesidad o no de que la operación cuente con custodia por parte de personal de dicho Centro o fuerzas de seguridad, sin perjuicio de la obligada custodia fiscal aduanera, notificando de la decisión a la aduana de registro de la operación.
+1.5 El deposito receptor y el servicio aduanero de ese punto darán cumplimiento a lo prescripto en el anexo IV de la Resolución mencionada en punto 1.
+2. CONTROL DE GESTION
+Las novedades de alarmas, mas allá de las impresiones que puedan efectuarse y que serán archivadas en forma cronológica, deberán ser transcriptas en un libro habilitado a tal efecto, debidamente rubricado por la División Puertos y Aeropuertos Independientemente de ello, en caso de mal funcionamiento del dispositivo DES o de Sistema de seguimiento informático, deberá ponerse en conocimiento de la Superioridad, dejando debida constancia de lo actuado. Se elaborará un informe quincenal a los fines estadísticos, con los distintos tipo de novedades.
+ANEXO VII
+1. CONDICIONES DE OPERACION
+1.1 Los responsables de colocar el DES deberán recibir la conformidad del Centro de Control Primario, quien verificará si tiene posición y sólo en caso de funcionar correctamente podrá ser instalado.
+1.2 El Dispositivo Electrónico de Seguimiento (DES) deberá instalarse una vez que la documentación esté completa, sea correcta y el camión esté posicionado para iniciar el traslado (Salida del camión). Se deberá verificar que la luz verde esté encendida.
+1.3 No deberá retirarse el DES del contenedor hasta tanto no se haya realizado el ingreso a depósito y cierre con las respectivas transacciones María.
+1.4 En caso de no poder prestarse el servicio de Seguimiento, el traslado sólo se podrá iniciar con custodia aduanera previa información y aprobación de la autoridad aduanera
+1.5 El Centro de Control notificará la imposibilidad de prestar servicio vía E-mail al jefe de la DGA de la terminal correspondiente, informando los motivos que origina la excepción.
+El mismo procedimiento de información y autorización se seguirá cuando se reestablezca el sistema DES.
+

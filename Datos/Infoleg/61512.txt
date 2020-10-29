@@ -1,0 +1,93 @@
+MINISTERIO DE ECONOMIA Y OBRAS Y SERVICIOS PUBLICOS
+SUPERINTENDENCIA DE SEGUROS DE LA NACION
+RESOLUCION Nº: 27.198/99
+Bs As, 3/12/99
+VISTO lo dispuesto por Decreto N° 1251/97 y;
+CONSIDERANDO:
+Que por el citado Decreto se aprobó el denominado "Plan Estratégico", que considera un programa de fortalecimiento de la capacidad fiscalizadora, regulatoria y de control de esta Superintendencia de Seguros de la Nación;
+Que, dentro de sus lineamientos, se contempla implementar indicadores de alerta temprana que permitan a la autoridad de control adoptar medidas conducentes a evitar que las aseguradoras presenten situaciones deficitarias en el cumplimiento de relaciones técnicas requeridas por las normas vigentes;
+Que, en tal sentido y con la asistencia de Organismos financieros y técnicos internacionales, se ha procedido al análisis y ejecución de aspectos necesarios para tal cometido, no sólo en lo que a equipamiento informático se refiere, sino también a los tipos de indicadores y valores de referencia a utilizar,
+Que, en una primer etapa, se estima adecuado que tales indicadores sean tenidos en cuenta a efectos de elaborar los planes de inspección de esta Superintendencia de Seguros de la Nación,
+Que, sin perjuicio de ello, se podrán ordenar medidas precautorias cuando se den los supuestos contemplados en el artículo 86 de la Ley N° 20091,
+Que la presente se dicta en uso de las facultades previstas en el artículo 67 de la Ley Nº 20.091,
+POR ELLO;
+EL SUPERINTENDENTE DE SEGUROS DE LA NACIÓN
+RESUELVE:
+ARTICULO 1º:  Comunícase a la plaza aseguradora los indicadores de gestión, y sus respectivos rangos, que esta Superintendencia de Seguros de la Nación tendrá en cuenta para la evaluación operativa de las entidades, los cuales obran como ANEXO "I" y que forman parte integrante de la presente Resolución.
+ARTICULO 2º: Los rangos que cada entidad alcance en los respectivos indicadores serán tomados en considerados a fin de elaborar los planes de inspecciones de esta autoridad de control y, en su caso, se podrán ordenar medidas precautorias cuando se verifiquen aspectos contemplados en el artículo 86° de la Ley N° 20091.
+ARTICULO 3º: Regístrese, comuníquese y publíquese en el Boletín Oficial.-.Ing. DANIEL C. DI NUCCI, Superintendente de Seguros.
+ANEXO " I "
+INDICADORES TECNICOS
+RATIO 1: Cambio real en las primas netas de reaseguro suscriptas -Técnico
+Primas netas del ej. - Primas netas del ej. ant. =
+––––––––––––––––––––––––––––––––––––––
+Primas netas del ej ant.
+Rango:
+(No se establece un límite máximo para vida hasta tanto el mercado finalice su estabilización).
+El resultado que arroje este indicador debería analizarse en forma conjunta con el del indicador 2:
+Indicador 1 / Indicador 2 -1 con un rango entre -10% y +10%
+RATIO 2: Cambio real en las primas brutas suscriptas - Técnico
+Primas brutas del ej. - Primas brutas del ej. ant. =
+––––––––––––––––––––––––––––––––––––––––
+Primas brutas del ej ant.
+Rango:
+(No se establece un límite máximo para vida hasta tanto el mercado finalice su estabilización).
+RATIO 13: Siniestros (netos de reaseguros y recuperos) en función de las primas devengadas (netas de reaseguro) - Técnico
+Siniestros devengados netos / Primas devengadas netas
+Rango:
+RATIO 13 b: Siniestros (brutos) en función de las primas devengadas (brutas) - Técnico
+Siniestros devengados brutos / Primas devengadas brutas =
+Rango:
+RATIO 14: Gastos (netos) en función de las primas devengadas netas - Técnico
+Gastos de Producción y Explotación / Primas devengadas netas
+Rango:
+El rango se irá ajustando año a año.
+RATIO 14 b: Gastos (brutos) en función de las primas - Técnico
+Gastos de Producción y Explotación + Gastos de Gestión a/c reaseguradores =
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Primas devengadas brutas
+Rango:
+El rango se irá ajustando año a año.
+RATIO 16: Siniestros. y gastos en función de las primas devengadas - Técnico
+I13 + I14 = Gastos de Producción y Explotación + Siniestros devengados netos
+––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Primas devengadas netas
+Rango:
+RATIO 17:  Resultado Técnico - Técnico
+Resultado técnico / Primas devengadas netas
+Rango:
+RATIO 22: Gastos de Producción como % de las primas suscriptas - Técnico
+Gastos de Producción / Primas brutas
+Rango:
+El rango se irá ajustando año a año.
+RATIO 23: Rescates - Técnico
+Rescates / Reserva matemática ej. anterior
+Rango:
+INDICADORES PATRIMONIALES
+RATIO 3: Relación de riesgo de las suscripciones netas de reaseguro - Patrimonial
+Primas netas / Capital Computable
+Rango:
+RATIO 5: Cambio real en el Capital Computable - Patrimonial
+Capital Computable al cierre del ej. – Capital Computable al cierre del ej.ant. =
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+Capital Computable al cierre del ej.ant.
+Rango:
+RATIO 7: Capital Computable como % de Pasivo - Patrimonial
+Capital Computable / Pasivo
+Rango:
+RATIO 9: Siniestros pendientes a/c asegurador / Capital Computable - Patrimonial
+Siniestros pendientes a/c asegurador / Capital Computable
+Rango:
+RATIO 10: Rentabilidad del Patrimonio - Patrimonial
+2* Resultado del ejercicio / (PN al inicio + PN al cierre)
+Rango:
+RATIO 11: Resultados sobre ventas - Patrimonial
+Resultado del ej. / Primas netas de reaseguro
+Rango:
+RATIO 18: Inmuebles como % del Activo - Patrimonial
+Inmuebles / Activo
+Rango:
+RATIO 21 b: Gastos de gestión a/c de reaseguradores como % de las primas suscriptas- Patrimonial
+Gastos recuperados reaseguro. / Primas brutas
+Rango:
+

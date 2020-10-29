@@ -1,0 +1,26 @@
+SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE JUBILACIONES Y PENSIONES
+Disposición Gerencial N° 070/069/2003
+Bs. As., 17/11/2003
+VISTO la Disposición Gerencial N° 070-067/03, y
+CONSIDERANDO:
+Que resulta necesario aplicar la modificación del campo de datos destinado a "código de operación" establecida en el artículo 2° de la Disposición mencionada en el Visto a todos los Formularios del Informe Diario del Fondo de Jubilaciones y Pensiones que contengan dicho dato.
+Que la Gerencia de Asuntos Jurídicos ha emitido dictamen de legalidad en su carácter de servicio jurídico permanente.
+Que esta instancia se encuentra facultada para el dictado de la presente medida en atención a las prescripciones contenidas en el artículo 51 de la Instrucción SAFJP N° 22/03.
+Por ello,
+LA GERENTE DE CONTROL DE INVERSIONES DE LA SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE JUBILACIONES Y PENSIONES
+DISPONE:
+ARTICULO 1° — Sustitúyese el artículo 2° de la Disposición Gerencial N° 070-067/03 por el texto indicado a continuación:
+"ARTICULO 2° — Reemplazar las especificaciones de archivos contenidas en el Anexo III de la Resolución N° 207/97 por el texto que se acompaña y forma parte de la presente disposición, denominado "RESOLUCION N° 207/97 - ANEXO III - INSTRUCCIONES PARA LA GENERACION Y TRANSMISION DE INFORMACION", correspondientes a los formularios de movimientos ID2-1, ID2-2, ID2-4, ID2-6, ID2-7 e ID2-9 de la Cartera del Fondo y a los formularios de movimientos ID3-1, ID3-2, ID3-4, ID3-6, ID3-7 e ID3-9 de la Cartera del Encaje, por cuanto se amplía a dos (2) posiciones el campo de datos. denominado, "Código de Operación"."
+ARTICULO 2° — La presente tendrá vigencia a partir del Informe Diario del Fondo de Jubilaciones y Pensiones correspondiente al día 19 de noviembre de 2003.
+ARTICULO 3° — Regístrese, comuníquese, notifíquese a las Administradoras de Fondos de Jubilaciones y Pensiones por intermedio del Sistema de Telecomunicaciones de la SAFJP, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — NORMA RIAVITZ, Gerente de Control de Inversiones.
+——————
+NOTA: Esta Disposición se publica sin el Anexo. La documentación no publicada puede ser consultada en la Sede Central de esta Dirección Nacional (Suipacha 767, Ciudad Autónoma de Buenos Aires), y en la página web de la SAFJP (www.safjp.gov.ar).
+e. 18/11 N° 432.579 v. 18/11/2003
+— ACLARACION —
+SUPERINTENDENCIA DE ADMINISTRADORAS DE FONDOS DE JUBILACIONES Y PENSIONES
+Disposición Gerencial N° 070/069/2003
+En la edición del 18 de noviembre de 2003, en la que se publicó como aviso oficial la mencionada Disposición Gerencial, se deslizó el siguiente error de imprenta:
+DONDE DICE: DISPOSICION GENERAL N° 070/069/2003
+DEBE DECIR: DISPOSICION GERENCIAL N° 070/069/2003
+e. 20/11 N° 432.579 v. 20/11/2003
+

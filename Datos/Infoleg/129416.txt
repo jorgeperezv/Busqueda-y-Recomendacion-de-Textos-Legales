@@ -1,0 +1,43 @@
+Dirección Nacional de Aeronavegabilidad
+AERONAVEGABILIDAD
+Disposición 62/2007
+Modificación del Reglamento de Aeronavegabilidad de la República Argentina, en la Parte 21, correspondiente a "Emisión de Certificado de Aeronavegabilidad Estándar para Aeronaves Categoría Normal, Utilitaria, Acrobática, Commuter, Transporte, Globos Libres Tripulados y Aeronaves de Clase Especial".
+Bs. As., 8/6/2007
+VISTO el Reglamento de Aeronavegabilidad de la República Argentina, lo propuesto por la Dirección Aviación de Transporte, lo informado por la Subdirección Nacional y
+CONSIDERANDO:
+Que la sistemática evolución de las Normas y Procedimientos de Aeronavegabilidad, como también la experiencia lograda con su aplicación, conduce a que periódicamente se revisen y actualicen las Partes constitutivas del Reglamento de Aeronavegabilidad de la República Argentina.
+Que la Sección 21.183 fue enmendada para incorporar requisitos para la emisión de certificados de aeronavegabilidad para las aeronaves importadas.
+Que la presente propuesta de enmienda fue publicada en el Boletín Oficial Nº 31.015 del 20 de octubre de 2006 para realizar comentarios y propuestas.
+Que, vencido el plazo para realizar comentarios y observaciones, se recibieron siete comentarios los cuales fueron cuidadosamente analizados y evaluados para la confección de la regla final.
+Que, analizados estos comentarios se juzgó conveniente separar la Sección 21.183 de la propuesta inicial para facilitar su implementación por parte de los usuarios en general y los operadores comerciales en particular, mientras continúa el estudio del resto de la propuesta de la enmienda original.
+Que de los siete comentarios recibidos solamente dos se refieren al párrafo en cuestión y fueron considerados en la confección de la regla final, excepto uno de ellos que no fue receptado por entender que su admisión reduciría el nivel de seguridad operacional por debajo del umbral mínimo aceptable, conforme a los estándares internacionales actuales, aclarados en los fundamentos técnicos oportunamente expuestos al peticionante.
+Que el Artículo 2º del Decreto Nº 1496/87 faculta a la Dirección Nacional de Aeronavegabilidad para llevar a cabo las adaptaciones, modificaciones y complementaciones al Reglamento de Aeronavegabilidad de la República Argentina.
+Por ello:
+EL DIRECTOR NACIONAL DE AERONAVEGABILIDAD
+DISPONE:
+1º) Sustituir en el Reglamento de Aeronavegabilidad de la República Argentina (Decreto Nº 1496/ 87, t.o. Disposición Nº 213/99/DNA, B.O. 21 SET 99) la Parte 21, Sección 21.183 "Emisión de Certificado de Aeronavegabilidad Estándar para Aeronaves Categoría Normal, Utilitaria, Acrobática, Commuter, Transporte, Globos Libres Tripulados y Aeronaves de Clase Especial.", párrafos (c) y (d) por el siguiente texto:
+"(c) Aeronaves importadas.
+El solicitante de un certificado de aeronavegabilidad estándar para una aeronave importada cuyo certificado tipo hubiese sido emitido en concordancia con la Sección 21.29 de esta Parte, o reconocido bajo la Disposición 04/91 o complementarias de la DNA, tiene derecho a obtener dicho certificado si:
+(1) La Autoridad de Aviación Civil del país de bandera certifica que esa aeronave conforma con el diseño tipo mencionado y está en condiciones de operación segura. Dicha certificación debe ser efectuada bajo la forma de un certificado de aeronavegabilidad para exportación o, en su defecto, documento equivalente cuando aquella no emite dichos certificados de aeronavegabilidad para exportación (entendiéndose por documento equivalente a todo instrumento diverso de tal certificado emitido por la autoridad del país de bandera, a idénticos fines e igual valor probatorio), dentro de los 60 días corridos previos a la presentación de la solicitud a la DNA o posteriormente a la misma, y además
+(2) En caso que el peso máximo de despegue de la aeronave sea superior a 5700 kg, la misma,
+(i) ha sido sometida a una inspección del tipo Chequeo "C" o equivalente, dentro de los 60 días corridos previos a la emisión del certificado requerido en (1), en:
+(A) Las instalaciones del titular de un certificado de explotador de servicios aéreos emitido bajo la Parte 121 ó 135 que tenga una organización de mantenimiento apropiada y habilitada para ese tipo de aeronave, o
+(B) Un taller aeronáutico de reparación habilitado para esa marca y modelo de aeronave por:
+1. La DNA, o
+2. La Autoridad de Aviación Civil de un país o grupo de países que cuente con un Acuerdo Bilateral de Aeronavegabilidad o con un Memorando Técnico de Entendimiento con la República Argentina, o
+3. la Autoridad de Aviación Civil de un país o grupo de países que cuente con un Acuerdo Bilateral de Aeronavegabilidad o con un Memorando Técnico de Entendimiento con algún país indicado en el párrafo precedente, y
+(ii) Exista, tanto un Formulario DNA 337 que contenga una certificación de su aeronavegabilidad como un informe de aeronave, en los términos que la autoridad aeronáutica establezca, emitido por:
+(A) El titular de un certificado de explotador de servicios aéreos extendido bajo la Parte 121 o 135 que tenga una organización de mantenimiento apropiada, o
+(B) Un taller aeronáutico de reparación habilitado para esa marca y modelo de aeronave por la DNA, o
+(C) El Representante Técnico aceptado por la DNA, que haya sido designado por el titular de una organización que se encuentre tramitando un certificado de explotador de servicios aéreos bajo la Parte 121 o 135.
+El solicitante podrá pedir y la autoridad aeronáutica, si lo encuentra justificable conceder, una excepción que permita el ingreso de una aeronave que haya sido sometida a una inspección del tipo Chequeo "C" o equivalente hasta dentro de los 180 días corridos previos a la emisión del certificado requerido en el párrafo (c)(1) Dicho requisito de inspección no se aplica para las aeronaves nuevas.
+(d) Aeronaves usadas y excedentes de las Fuerzas Armadas argentinas.
+El solicitante de un certificado de aeronavegabilidad estándar para una aeronave usada o excedente de las Fuerzas Armadas argentinas tiene derecho a dicho certificado si:
+(1) Presenta evidencias que la aeronave conforma con el diseño tipo aprobado bajo un certificado tipo o un certificado tipo suplementario emitidos en concordancia con la Subparte B de la Parte 21, o la Sección 21.29 de esta Parte, o reconocidos bajo la Disposición 04/91 o complementarias de la DNA, y tiene cumplidas las Directivas de Aeronavegabilidad aplicables;
+(2) La aeronave (excepto aeronave certificada experimentalmente a la cuál previamente le ha sido emitido un certificado de aeronavegabilidad diferente bajo esta sección) ha sido inspeccionada de acuerdo con los requisitos de inspección de 100 horas establecidos en la Sección 43.15 de la Parte 43 y ha sido encontrada aeronavegable por:
+(i) Un taller aeronáutico de reparación habilitado bajo la Parte 145, o
+(ii) El titular de un certificado de explotador de servicios aéreos emitido bajo la Parte 121 o 135, y que tenga una organización de mantenimiento e inspección apropiada para el tipo de dicha aeronave; y
+(3) La DNA considera, después de inspeccionar la aeronave, que la misma cumple con el diseño tipo aprobado y está en condiciones de operar con seguridad."
+2º) La presente disposición entrará en vigencia a partir del día siguiente de su publicación en el Boletín Oficial.
+3º) Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Julio C. Lombardi.
+

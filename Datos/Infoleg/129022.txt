@@ -1,0 +1,44 @@
+Administración Federal de Ingresos Públicos
+FACTURACION Y REGISTRACION
+Resolución General 2265
+Procedimiento. Régimen especial de emisión y almacenamiento electrónico de comprobantes originales. Resolución General Nº 2177 y su modificación. Norma modificatoria y complementaria.
+Bs. As., 6/6/2007
+VISTO la Resolución General Nº 2177 y su modificación, y
+CONSIDERANDO:
+Que mediante la citada norma se estableció un régimen especial, de carácter obligatorio y otro de carácter opcional, para la emisión y almacenamiento electrónico de comprobantes originales, respaldatorios de las operaciones de compraventa de cosas muebles, locaciones y prestaciones de servicios, locaciones de cosas y obras y las señas o anticipos que congelen precio.
+Que en virtud del relevamiento de situaciones especiales en los procesos de facturación de determinadas entidades prestadoras de servicios públicos y de las presentaciones efectuadas por las mismas, vinculadas a la escasa cantidad de comprobantes emitidos, resulta necesario modificar la norma del visto.
+Que han tomado la intervención que les compete la Dirección de Legislación, las Subdirecciones Generales de Fiscalización, de Servicios al Contribuyente, de Sistemas y Telecomunicaciones, de Asuntos Jurídicos y la Dirección General Impositiva.
+Que la presente se dicta en ejercicio de las facultades conferidas por el Artículo 7º del Decreto Nº 618 del 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1º — Modifícase la Resolución General Nº 2177 y su modificación, en la forma que se indica a continuación:
+a) Incorpórase como último párrafo del Artículo 5º, el siguiente:
+"Sin perjuicio de lo indicado en el párrafo anterior, los sujetos obligados por este artículo podrán emitir los demás comprobantes electrónicos originales admitidos en el presente régimen.".
+b) Sustitúyese el Artículo 6º, por el siguiente:
+"ARTICULO 6º.- Las empresas prestadoras de servicios públicos —incluidas las entidades cooperativas — que además desarrollen cualquiera de las actividades enunciadas en el Anexo I, podrán optar por no cumplir con lo dispuesto en el presente título siempre que la cantidad de comprobantes emitidos —por las actividades y en las condiciones del Anexo I— sea inferior o igual a CIEN (100) mensuales.
+A tal efecto, deberán comunicar dicha situación mediante la transferencia electrónica de datos a través de la página "web" de este Organismo (http:/ /www.afip.gov.ar), conforme al procedimiento dispuesto por la Resolución General Nº 1345, sus modificatorias y complementarias, seleccionando la opción "Regímenes de Facturación y Registración (REAR/RECE/RFI)".
+c) Sustitúyese el Capítulo D por el siguiente:
+"D – EMISION DE NOTAS DE CREDITO, NOTAS DE DEBITO Y FACTURAS O DOCUMENTOS EQUIVALENTES CLASE "A". SITUACIONES ESPECIALES.
+ARTICULO 10.- Cuando se emitan notas de crédito y notas de débito y éstas tengan vinculación con los comprobantes electrónicos originales alcanzados por la obligatoriedad, las mismas podrán confeccionarse de acuerdo con lo normado por la Resolución General Nº 100, sus modificatorias y complementarias, en tanto sus montos totales mensuales no superen el DIEZ POR CIENTO (10%) de los montos totales mensuales consignados en los comprobantes electrónicos originales de emisión obligatoria. Si se supera dicho porcentaje deberán emitirse electrónicamente.
+Lo dispuesto en el párrafo anterior también será de aplicación cuando se trate de facturas o documentos equivalentes originales, que respalden operaciones en las que se haya entregado el bien o prestado el servicio en el local, oficina o establecimiento.
+De producirse la situación mencionada en los párrafos precedentes, esta Administración Federal podrá disponer un régimen de información mensual.".
+d) Sustitúyese el inciso a) del Artículo 28, por el siguiente:
+"a) Respecto de los duplicados de los comprobantes indicados en los incisos a) y c) del Artículo 3º, cuya emisión es obligatoria: a partir de las fechas dispuestas en los incisos a), b) o último párrafo del Artículo 35, según corresponda.".
+e) Sustitúyese en el inciso b) del Artículo 28 la expresión "... en el Artículo 6º ..." por la expresión "... en el último párrafo del Artículo 5º ...".
+f) Incorpóranse como tercer y cuarto párrafos del Artículo 35, los siguientes:
+"La comunicación a que se hace referencia en el último párrafo del Artículo 6º, se encontrará disponible a partir del día 30 de junio de 2007.
+Para las empresas prestadoras de servicios públicos que también desarrollen cualquiera de las actividades mencionadas en los puntos 2. y 3. del Anexo I, la obligatoriedad de emisión de comprobantes originales será de aplicación a partir del día 1 de julio de 2007, inclusive.".
+Art. 2º — La comunicación a que se refiere el último párrafo del Artículo 6º de la Resolución General Nº 2177 y su modificación, deberá efectuarse mediante la presentación de una nota —en los términos de la Resolución General Nº 1128—, en la que se consignarán los siguientes datos:
+a) Las actividades desarrolladas, y
+b) la cantidad de comprobantes emitidos en los últimos SEIS (6) meses, detallando:
+1. El número del Código de Autorización de Impresión (C.A.I.).
+2. La numeración utilizada.
+3. Tipo de comprobante.
+4. Punto de venta.
+5. Número de comprobante.
+6. Fecha de emisión.
+El procedimiento establecido en este artículo, regirá hasta el día 29 de junio de 2007, inclusive.
+Art. 3º — La presente resolución general será de aplicación a partir del día de su publicación en el Boletín Oficial, inclusive.
+Art. 4º — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+

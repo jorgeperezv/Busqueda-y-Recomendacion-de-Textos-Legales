@@ -1,0 +1,52 @@
+AUTORIDAD REGULATORIA NUCLEAR
+Resolución 43/2007
+Reconócese el temario de contenidos mínimos para cursos de revisión y actualización en protección radiológica de médicos especialistas en medicina nuclear.
+Bs. As., 2/5/2007
+VISTO la Ley Nº 24.804, su Decreto Reglamentario Nº 1390/98, la Norma AR 8.11.1 "Permisos Individuales para el empleo de material radiactivo o radiaciones ionizantes en seres humanos", lo actuado por la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS – SUBGERENCIA CONTROL DE INSTALACIONES RADIACTIVAS CLASE II Y III, lo propuesto por el CONSEJO ASESOR EN APLICACIONES DE RADIOISOTOPOS Y RADIACIONES IONIZANTES (CAAR), y
+CONSIDERANDO:
+Que conforme los Criterios 10, 11 y 12 de la Norma citada en el VISTO, los médicos solicitantes de permisos individuales para el empleo de material radiactivo o radiaciones ionizantes en seres humanos, deberán poseer una adecuada formación teórica y práctica en dicha materia.
+Que la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS – SUBGERENCIA CONTROL DE INSTALACIONES RADIACTIVAS CLASE II y III ha recomendado al CAAR la evaluación de un temario de contenidos mínimos para el dictado de cursos para la revisión y actualización en protección radiológica de médicos especialistas en medicina nuclear.
+Que respecto del mismo, el CAAR realizó la evaluación correspondiente, recomendando en su Acta de Reunión Nº 739 reconocer el referido temario de contenidos mínimos.
+Que la SUBGERENCIA DE ASUNTOS JURIDICOS ha tomado en el trámite la intervención que le compete.
+Que el Directorio de la AUTORIDAD REGULATORIA NUCLEAR es competente para el dictado del presente acto conforme lo establece el Artículo 22, inciso e) de la Ley Nº 24.804.
+Por ello, en su reunión del día 23 de abril de 2007 (Acta Nº 5)
+EL DIRECTORIO DE LA AUTORIDAD REGULATORIA NUCLEAR
+RESOLVIO:
+Artículo 1º — Reconocer el "Temario de contenidos mínimos para cursos de revisión y actualización en protección radiológica de médicos especialistas en medicina nuclear", que se adjunta como anexo a la presente Resolución, como actualización y formación suficiente para los médicos solicitantes de renovaciones de permisos individuales para el empleo de material radiactivo o radiaciones ionizantes en seres humanos.
+Art. 2º — Establecer que la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS realizará una evaluación anual del temario de contenidos mínimos y realizará, de ser necesarias, las modificaciones pertinentes.
+Art. 3º — Comuníquese a la SECRETARIA GENERAL, al CONSEJO ASESOR EN APLICACIONES DE RADIOISOTOPOS Y RADIACIONES IONIZANTES (CAAR) y a la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS a sus efectos, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL para su publicación en el BOLETIN OFICIAL DE LA REPUBLICA ARGENTINA, publíquese en el Boletín de este Organismo y archívese en el REGISTRO CENTRAL. — Raúl O. Racana.
+ANEXO A LA RESOLUCION
+DEL DIRECTORIO Nº 43/07.
+TEMARIO DE CONTENIDOS MINIMOS
+PARA LA REVISION Y LA
+ACTUALIZACION EN PROTECCION
+RADIOLOGICA DE MEDICOS
+ESPECIALISTAS EN MEDICINA NUCLEAR
+1.- Revisión de conceptos y aspectos generales:
+1.1 Magnitudes y unidades, Tipos de radiación de interés en medicina nuclear. Actividad (A). Dosis absorbida (D). Dosis equivalentes (H). Dosis efectivas (E) y dosis efectiva comprometida.
+1.2 Tipos de exposición: según la ubicación de la fuente (externa e interna); según el grupo expuesto (ocupacional, médica y del público). Exposiciones Potenciales.
+1.3 Principios básicos de radioprotección. Sistema de protección radiológica: Justificación de la práctica, Optimización de la protección radiológica y Limitación de Dosis. Restricción de dosis. Cultura de la Seguridad.
+1.4 Radioprotección operativa: Distancia, tiempo, blindaje. Monitoraje de área y monitoraje personal. Medidas básicas de seguridad radiológica aplicables al manejo de fuentes abiertas. Gestión de residuos radiactivos. Contaminación radiactiva, personal y de área, su detección y control.
+2.- Radiobiología aplicada a la medicina nuclear
+2.1 Efectos a nivel molecular, celular y tisular: Revisión de conceptos y nuevos paradigmas.
+2.2 Radiosensibilidad tumoral, factores que modifican la respuesta celular a la radiación.
+2.3 Radiosensibilidad individual: factores condicionantes.
+2.4 Implicancias radiobiológicas en la respuesta de tejidos sanos y tumorales.
+3.- Fuentes de exposición en Medicina Nuclear
+3.1 Novedades, desarrollo de nuevos radiofármacos y aspectos de protección radiológica asociados.
+3.2 Fuentes empleadas en diagnóstico. Radioprotección y radionucleidos emisores de positrones, PET, PET-CT.
+3.3 Fuentes empleadas en terapia. Nuevas tendencias, sus implicancias en la radioprotección. Radioprotección en terapias con emisores beta: tratamiento del dolor óseo, radiosinovectomía, radioinmunoterapia, otros.
+4.- Protección del paciente
+4.1 Justificación genérica y específica. Papel del médico especialista en medicina nuclear. Balance riesgo/beneficio.
+4.2 Optimización de la radioprotección. Criterios para la elección del radiofármaco. Criterios para la elección de la actividad óptima del radiofármaco. Niveles de referencia de actividad y tiempo de práctica para estudios diagnósticos. Análisis de guías internacionales.
+4.3 Diseño de la Instalación y control de calidad del equipamiento, su relación con la protección radiológica del paciente.
+4.4 Protección radiológica durante el embarazo y la lactancia (ICRP 84, ARN PI 3/04) Análisis de casos de evaluación de dosis fetal.
+4.5 Dosimetría clínica en prácticas terapéuticas (adquisición de datos desde imágenes del paciente, metodología y correcciones necesarias para utilizarlas en el cálculo de dosis), metodología MIRD (incertezas, modelos biocinéticos específicos); dosis trazadora y dosis nominal.
+4.6 Análisis de casos prácticos concretos. Prevención de efectos adversos. Información al paciente y acompañantes.
+5.- Sistema de calidad en instalaciones de medicina nuclear.
+Alcance. Aspectos de control de calidad de equipos, gestión de radiofármacos, gestión de pacientes, equipamiento de radioprotección, obtención de imágenes, vigilancia radiológica, capacitación y entrenamiento del personal.
+6.- Accidentes e incidentes en medicina nuclear:
+Investigación de exposiciones accidentales. Acciones a seguir en caso de exposición accidental. Análisis de casos reales y lecciones aprendidas.
+7.- Marco regulatorio:
+Normas Regulatorias. Sistema de autorización de prácticas. Licencias de Operación y Permisos Individuales. Requisitos. Responsabilidades.
+

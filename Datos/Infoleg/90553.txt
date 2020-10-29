@@ -1,0 +1,1603 @@
+Ministerio de Salud
+SALUD PUBLICA
+Resolución 600/2003
+Apruébase la Norma de Organización y Funcionamiento de los Servicios de Cirugía Cardiovascular e incorpórase la misma al Programa Nacional de Garantía de Calidad de la Atención Médica.
+Bs. As., 20/11/2003
+VISTO el Expediente Nº 1-2002-12546-02-7 del Registro del Ministerio de Salud, y
+CONSIDERANDO:
+Que las políticas tienen por objetivo primero y prioritario asegurar el acceso de todos los habitantes de la Nación a los Servicios de Salud, entendiendo por tales al conjunto de los recursos y acciones de carácter promocional, preventivo, asistencial y de rehabilitación, sean éstos de carácter público estatal, no estatal o privados; con fuerte énfasis en el primer nivel de atención.
+Que en el marco de las políticas del Ministerio de Salud de la Nación se desarrolla el PROGRAMA NACIONAL DE GARANTIA DE CALIDAD DE LA ATENCION MEDICA, en el cual se agrupan un conjunto de acciones destinadas a asegurar la calidad de las prestaciones en dichos Servicios.
+Que entre dichas acciones se encuentran la elaboración de guías de diagnóstico, tratamiento y procedimientos de patologías y normas de organización y funcionamiento de los Servicios de Salud.
+Que las citadas guías y normas se elaboran con la participación de Entidades Académicas, Universitarias y Científicas de profesionales asegurando de esa forma la participación de todas las áreas involucradas en el Sector Salud.
+Que la DIRECCION DE CALIDAD EN SERVICIOS DE SALUD, ha coordinado el proceso de elaboración de la NORMA DE ORGANIZACION Y FUNCIONAMIENTO DE LOS SERVICIOS DE CIRUGIA CARDIOVASCULAR, de acuerdo con la normativa vigente contando con la participación del COLEGIO ARGENTINO DE CIRUJANOS CARDIOVASCULARES, FUNDACION FAVALORO y CAPITULO ARGENTINO DE PERFUSION y ASISTENCIA CIRCULATORIA (C.A.P.A.C.).
+Que la DIRECCION NACIONAL DE POLITICAS DE RECURSOS HUMANOS EN SALUD, LA SUBSECRETARIA DE POLITICAS REGULACION Y FISCALIZACION, coordinadora general del PROGRAMA NACIONAL DE GARANTIA DE CALIDAD DE LA ATENCION MEDICA, Y LA SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS han tomado la intervención de su competencia y avalan su incorporación al PROGRAMA NACIONAL DE GARANTIA DE CALIDAD DE LA ATENCION MEDICA.
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS ha tomado la intervención de su competencia.
+Que la presente medida se adopta en uso de las atribuciones contenidas por la "Ley de Ministerios T.O. 1992", modificada por Ley Nº 25.233.
+Por ello:
+EL MINISTRO DE SALUD
+RESUELVE:
+Artículo 1º — Apruébase la NORMA DE ORGANIZACION Y FUNCIONAMIENTO DE LOS SERVICIOS DE CIRUGIA CARDIOVASCULAR, que como Anexo forma parte integrante de la presente Resolución.
+Art. 2º — Incorpórase la NORMA DE ORGANIZACION Y FUNCIONAMIENTO DE LOS SERVICIOS DE CIRUGIA CARDIOVASCULAR, que se aprueba en el artículo precedente al PROGRAMA NACIONAL DE GARANTIA DE CALIDAD DE LA ATENCION MEDICA.
+Art. 3º — Difúndase a través de la Coordinación General del Programa la citada norma, a fin de asegurar el máximo conocimiento y aplicación de la misma en el marco de dicho Programa Nacional referido en el artículo 2º precedente.
+Art. 4º — La norma que se aprueba por la presente Resolución podrá ser objeto de observación por las Autoridades Sanitarias Jurisdiccionales y por las Entidades Académicas, Universitarias, Científicas de Profesionales dentro del plazo de sesenta (60) días a partir de la fecha de su publicación en el Boletín Oficial y en caso de no ser observada entrará en vigencia a los noventa (90) días de dicha publicación.
+Art. 5º — En el caso que la autoridad jurisdiccional realizara alguna adecuación a la presente norma para su aplicación a nivel de la jurisdicción deberá comunicar a la coordinación general del Programa dicha adecuación, la que recién entrará en vigencia a los sesenta (60) días de su registro a nivel nacional a través del acto administrativo correspondiente.
+Art. 6º — Agradecer al COLEGIO ARGENTINO DE CIRUJANOS CARDIOVASCULARES, FUNDACION FAVALORO y CAPITULO ARGENTINO DE PERFUSION y ASISTENCIA CIRCULATORIA (C.A.P.A.C.) por la importante colaboración brindada a este Ministerio.
+Art. 7º — Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Ginés M. González García.
+ANEXO
+Normas de Organización y Funcionamiento
+SERVICIO DE CIRUGIA CARDIOVASCULAR
+Introducción:
+* La presente Norma de Organización y Funcionamiento se inscribe en el marco de las Políticas Nacionales de Salud y dentro del Programa Nacional de Garantía de la Calidad de la Atención Médica creado por Resol. Sec. Nº: 432/92.
+* Su finalidad es lograr un nivel adecuado de la Calidad de la Atención en los Servicios de Cirugía Cardiovascular.
+* Para su elaboración se ha tomado como guía la Categorización por niveles de Riesgo de los Establecimientos Asistenciales con internación fijados por Resolución de la Secretaría de Salud del ex MS y AS. Nº 282/94, basada en la factibilidad de resolución de los riesgos de enfermar y morir del ser humano y no en la complejidad de los recursos disponibles.
+* Para ello se definen a los niveles de la siguiente manera:
+NIVEL I:
+* Constituye esencialmente la puerta de entrada a la red de servicios o sistema en la mayor parte de los casos. Realiza acciones de promoción y protección de la salud, así como el diagnóstico temprano de daño, atención de la demanda espontánea de morbilidad percibida, búsqueda de demanda oculta, control de salud de la población e internación para la internación de pacientes de bajo riesgo con mecanismos explicitados de referencia y contra referencia.
+NIVEL II:
+* Puede constituir la puerta de entrada al sistema. Realiza las mismas acciones que en el bajo riesgo, a los que se agrega un mayor nivel de resolución para aquellos procesos mórbidos y/o procedimientos diagnósticos y terapéuticos que exceden la resolución del bajo riesgo.
+NIVEL III:
+* Excepcionalmente constituye la puerta de entrada al sistema. Puede realizar acciones de bajo y mediano riesgo pero debe estar en condiciones de resolver total o parcialmente aquellos procesos mórbidos y/o procedimientos diagnósticos y/o terapéuticos que requieran el mayor nivel de resolución vigente en la actualidad tanto sea por el recurso humano capacitado como así también en el recurso tecnológico disponible.
+* En base a las definiciones precedentes se analizan a continuación los requerimientos mínimos en cada nivel en lo que hace a
+1-Planta física
+2-Equipamiento tecnológico
+3-Recursos humanos
+4-Marco normativo de funcionamiento
+Definición del Servicio de Cirugía Cardiovascular
+* Se define, como Servicio de Cirugía Cardiovascular de una unidad de atención de la salud aquel destinado a resolver acciones de promoción, prevención, control, diagnóstico y/o tratamiento, procedimientos quirúrgicos, ablaciones, transplantes, implantes, explantes, recuperación y reinserción social de pacientes con patología cardiovascular.
+* Dicha especialidad comprende la resolución de cirugía vascular, y cirugía cardiaca según procedimientos de: Corazón y Pericardio, Arterias y Venas de la Cavidad Torácica, Arterias y Venas de la Cavidad Abdominopelvianas, Arterias y Venas del Cuello, Arterias y Venas de los Miembros Superiores e Inferiores, Tórax y Transplantes Cardíaco, Pulmonar, Cardiopulmonar y Renal.
+* El perfil de los recursos humanos capacitados y habilitados para el desarrollo de los procedimientos enunciados es siguiente:
+Corazón y Pericardio: Especialista en Cirugía Cardiovascular
+Arterias y Venas de la Cavidad Torácica: Especialista en Cirugía Cardiovascular
+Arterias y Venas de la Cavidad Abdominopelvianas: Especialista en Cirugía Vascular y/o Especialista en Cirugía Cardiovascular
+Arterias y Venas del Cuello: Especialista en Cirugía Vascular y/o Especialista en Cirugía Cardiovascular
+Arterias y Venas de los Miembros Superiores e Inferiores: Especialista en Cirugía Vascular y/o Especialista en Cirugía Cardiovascular
+Tórax: Especialista en Cirugía Vascular, Especialista en Cirugía Torácica y/o Especialista en Cirugía Cardiovascular .
+Transplante: Especialista en Cirugía Cardiovascular, Transplantes Cardíaco, Pulmonar, Cardiopulmonar y Renal.
+Cirugía endovascular: cirujanos vasculares certificados por autoridad competente.
+* Cualquiera sea el nivel de resolución de la unidad de atención de salud en el cual se inserta el servicio de cirugía cardiovascular, según sus niveles de riesgo, su misión es la de: prevenir, diagnosticar y tratar las enfermedades quirúrgicas cardiovasculares, como así también realizar acciones de capacitación e investigación básica en la especialidad.
+* La docencia contempla la formación de pregrado, de postgrado como así también la educación continua y a distancia.
+* La investigación clínica se apoya en la investigación básica y en los estudios epidemiológicos, como así también en el desarrollo de programas que permitan evaluar la incidencia y la prevalencia de las diversas patologías quirúrgicas cardiovasculares por regiones o áreas geográficas.
+* El servicio de cirugía cardiovascular será compatible y complementario al perfil y al programa anual según nivel de resolución de la unidad de atención de salud en el cual funciona.
+* Cualquiera sea el tipo de estructura organizacional del servicio, el mismo debe cumplir con las normas de organización y funcionamiento, de diagnóstico y tratamiento y de procedimientos emanadas de la autoridad nacional, provincial y/o municipal, entes reguladores jurisdiccionales, y/o de la Conducción/Gerencia/Dirección de la Unidad de Salud.
+* El Servicio de Cirugía Cardiovascular debe contar con Normas e Indicadores propios del Servicio o de la Unidad de Atención de Salud tales como: los de estructura, producción, rendimiento, calidad, demanda, impacto, y encuestas de satisfacción, entre otros que permitan realizar el: seguimiento, control, supervisión, monitoreo, evaluación y auditoría de los procesos de gestión del sistema en cuanto a la "Eficiencia", "Eficacia", y "Efectividad" del modelo de atención de la salud, con el objeto de reconocer y caracterizar la estructura, los procesos, los resultados y la satisfacción de los usuarios en cuanto a la "Calidad de la Atención Médica del Servicio de Cirugía Cardiovascular", como del "Sistema de Gestión de la Calidad de la Unidad de Atención de la Salud".
+* La Tecnología/Servicio de Cirugía Cardiovascular debe contar con las siguientes Tecnologías / Servicios
+Tecnologías/Servicios Nucleares:
+Atención Ambulatoria Programada (Clínica Médica/Cardiología)
+Atención de Urgencia/Emergencia
+Atención de Internación (Clínica Médica/Cardiología) —con criterios de Cuidados Progresivos— Docencia e Investigación
+Tecnologías/Servicios de Apoyo
+Diagnóstico y Tratamiento
+Diagnósticos por Estudios de Anatomía Patológica
+Diagnósticos por Estudios de Laboratorio de Análisis Clínicos
+Diagnósticos por Imágenes
+Electrodiagnósticos
+Diagnósticos y Tratamientos Hemodinámicos
+Diagnósticos y Tratamientos Infectológicos
+Diagnósticos y Tratamientos Radioisotópicos
+Diagnósticos y Tratamientos Sociales
+Tratamientos Anestesiológicos
+Tratamientos de Dialísis
+Tratamientos Kinésicos
+Tratamientos Hematológicos
+Tratamientos Hemoterapéuticos
+Tratamientos Nutricionales
+Diagnóstico de histocompatibilidad y cross mach si solicita autorización para transplante (el mismo puede ser externo a la institución)
+Y todos aquéllos cuya incorporación de tecnología viabilicen el cumplimiento de las acciones del servicio.
+Complementarias
+Información/Estadísticas
+Comunicación
+Confort (Vestuarios/Dormitorios de Guardia/Salas de Estar)
+Conservación y Operación de Planta
+Limpieza
+Seguridad y Vigilancia
+Transporte (intra y extra nodo)
+Abastecimientos y Procesamientos
+Abastecimientos
+Alimentación
+Esterilización*
+Farmacia
+Lavadero*
+* Los elementos de lavadero y esterilización por carriles distintos que no se crucen y señalizados por color según normas para elementos sucios y limpios.
+Conducción y Administración
+Dirección/Gerencia
+Administración
+C.A.T.A.
+Consejo de Administración
+Comités
+Y todas aquéllas cuya incorporación de tecnología viabilicen el cumplimiento de la gestión de la tecnología/servicio.
+* El tipo de Prestaciones según Procedimientos y Nivel de Resolución que se brindarán para los tres Niveles de Riesgo en sus distintas Modalidades Operativas son las que a continuación se describen
+Bajo Riesgo
+Modalidades Operativas
+Consulta Ambulatoria Programada
+Consulta Ambulatoria de Urgencia
+Internación de Cuidados Mínimos
+Docencia e Investigación
+Mediano Riesgo
+Modalidades Operativas
+Consulta de Emergencia
+Internación de Cuidados Intermedios, e Intensivos
+Internación en Unidad Coronaria
+Docencia e Investigación
+Prestaciones Quirúrgicas
+Implica todos los códigos 07 del nomenclador nacional más los tratamientos no nomenclados para ICC
+Biopsia de pericardio
+Colocación de marcapaso endocavitario definitivo
+Extracción de marcapaso no infectado.
+Pericardiotomía exploradora (taponamiento, sangrado, cuerpo extraño)
+Marcapaso epicárdico aislado
+Colocación o extracción de Mobin Udin o similares
+Colocación de balón de contrapulsación
+Exploración arterial o venosa en cuello
+Resección de paquete varicoso único
+Biopsia de arteria periférica
+Safenectomía, ligadura y/o resecciones escalonadas unilaterales
+Safenectomía, ligadura y/o resecciones escalonadas bilaterales
+Operación de Linton, Cocket o similares
+Arteriorrafía aislada
+Canalización arterial medicamentosa a presión contínua
+Colocación de cánula arteriovenosa para díalisis
+Ligadura arterial o venosa única, de vaso profundo
+Trombectomía venosa profunda
+Endarterectomía localizada
+Embolectomía
+Derivación venosa
+Fístula arteriovenosa para diálisis
+Tratamiento quirúrgico de fístula arteriovenosa
+By pass femoropoplíteo con vena de otro miembro
+By pass femorofemoral
+By pass axilofemoral
+Arteriorrafía de troncos periféricos
+Aneurismas o pseudoaneurismas periféricos
+Acceso vascular para hemodiálisis (con vena o prótesis)
+Extracción de alambre esternal
+Cambio de generador de marcaso
+Plástica de bolsillo de marcapaso y/o cateter
+Pericardiocentésis (diagnóstica o terapéutica)
+Colocación o extracción de Mobin Udin o similares
+Colocación de balón de contrapulsación
+Alto Riesgo
+Modalidades Operativas
+Consulta de Emergencia
+Internación de Cuidados Intensivos
+Internación en Unidad Coronaria
+Docencia e Investigación
+Prestaciones Quirúrgicas
+Extracción de marcapaso infectado.
+Colocación de desfibrilador (por toracotomía o endocavitario)
+Canulación de arteria y vena para circulación extracorpórea en angioplastía coronaria
+Tratamiento del ductus
+Pericarditis constrictiva sin circulación extracorpórea
+Plásticas Valvulares
+Cardiorrafía
+Reemplazo de válvula cardíaca por prótesis o injerto
+Doble reemplazo valvular cardíaco
+Reemplazo de una válvula cardíaca y plástica de la otra
+Cierre de defectos auriculares y/o ventriculares
+Tratamiento quirúrgico de las cardiopatías congénitas complejas
+Resección de aneurisma ventricular como única intervención
+Resección de aneurisma ventricular y revascularización coronaria
+Cerclaje o envoltura de aorta torácica
+By pass subclavio - subclavio
+Tratamiento de la coartación aórtica
+Cerclaje de la arteria pulmonar
+Derivación sistémico-pulmonar
+By pass de aorta ascendente a cervicobraquiales
+Plástica de las ramas de las arterias pulmonares sin circulación extracorpórea
+Tratamiento de la interrupción del arco aórtico
+Tratamiento del aneurisma de aorta ascendente y descendente
+Tratamiento del aneurisma toracoabdominal
+Operación de Cabrol
+Operación de Benntal-De Bono
+Tratamiento del aneurisma del arco aórtico y sus ramas
+By pass Apico-Aórtico
+Puente aortocoronario con vena o arteria radial
+By pass mamario coronario
+Transposición corregida
+Transposición de grandes vasos
+Anastomosis atriopulmonar
+Corrección anatómica de la transposición completa
+Ventana aortopulmonar
+Tratamiento de anomalías coronarias
+Anomalías parciales del retorno venoso pulmonar
+Embolectomía de arteria pulmonar
+Pseudoaneurisma anastomótico de aorta
+Derivación sistémico-pulmonar + ligadura de colaterales aberrantes
+Reparación de fístula arteriovenosa
+Trombectomía venosa ileo cava
+Ligadura, cerclaje o clipaje de vena cava
+Arteriorrafía de ramas viscerales y troncos periféricos
+Embolectomía visceral por laparotomía
+Endarterectomía aortoilíaca o visceral
+Reparación de fístula arteriovenosa
+Arteriorrafía de ramas viscerales
+Aneurisma de aorta abdominal e ilíaca (no complicado)
+By pass aortoilíaco
+By pass aortoaórtico
+By pass aortofemoral
+By pass ileofemoral
+By pass aortobifemoral
+By pass aortorrenal
+By pass aortoabdominal con ramas viscerales
+Cirugía de banco de arteria renal con reimplante o autotrasplante
+Aneurisma de aorta abdominal complicado
+Tumor de glomus carotídeo
+Endarterectomía carotídea
+Tratamiento de tortuosidades, hiperplasias y aneurismas carotídeos o vertebrales
+By pass subclavio Silviano (tiempo extracraneal)
+By pass axilobifemoral
+By pass infrapatelar con vena de otro miembro
+Tratamiento plàstico de las mediastinitis (con epiplón o músculo pectoral mayor)
+Transplante Cardíaco
+Transplante Cardio-Pulmonar
+Transplante Pulmonar
+Transplante Renal
+Implante de Sistemas de Circulación Asistida
+Implante de Balón de Contrapulsación
+Implante de Corazón Artificial Asistido
+——————
+NOTA: No se aceptarán los procedimientos quirúrgicos que no sean de uso corriente en los Servicios de primer nivel internaciónal y que estén dados a conocer en las publicaciones nacionales e internaciónales y basados en la evidencia de la bibliografía mundial.
+RECURSOS FISICOS - Planta Física y Equipamiento
+TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES EN UNIDADES DE ATENCION DE SALUD DE BAJO RIESGO
+Capítulo B.I. — Bajo Riesgo -
+B.I CONDICIONES GENERALES DE UNA UNIDAD DE ATENCION DE SALUD EN LA QUE SE REALICEN TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES DE BAJO RIESGO
+B.I.1. Accesibilidad Física: Tipo y Posibilidad de Traslado
+* Se denomina accesibilidad física a la relación entre la ubicación de los recursos existentes y la localización de los usuarios, es decir a los factores físicos que facilitan o entorpecen la utilización de los servicios.
+* Los accesos a la Unidad deben posibilitar un ingreso sin dificultades de los medios de transporte disponibles y necesarios según las patologías que resuelve dicha Unidad de Atención de Salud.
+* Las Unidades de Atención de Salud que brinden Tratamientos Quirúrgicos Cardiovasculares deberán disponer de algún tipo de medio de traslado ya sea de la propia unidad o de la red de servicios pero a disposición de la misma y acorde a la necesidad, tanto para recibir como para derivar a aquellos pacientes que no puedan hacerlo en forma ambulatoria.
+* La accesibilidad física, según la localización de la Unidad de Atención de Salud, será por:
+Vía Terrestre: acceso por senderos, caminos de tierra y/o pavimentados
+Vía Fluvial: atracadero.
+Vía Aérea: área cercana para aterrizaje de helicópteros (plaza, claro, cancha, etc.)
+* El tipo y características de la unidad de terrestre cumplirá con las normativas vigentes. En el caso de las unidades de traslado fluviales y aéreas, contarán con el mismo equipamiento que las terrestres.
+B.I.2. Accesos y Circulaciones
+* La Unidad de Atención de Salud se relaciona con el entorno a través de sus accesos, así como los distintos locales de la Unidad se vinculan mediante las circulaciones. Estas podrán materializarse por pasillos y galerías cubiertos con solados continuos, salvándose los desniveles con rampas de pendiente reglamentaria.
+* Los accesos posibilitarán el control de ingresos y estarán debidamente identificados. En todos los casos las circulaciones serán independientes espacialmente de las áreas de trabajo y no presentarán barreras arquitectónicas.
+* El acceso a la Unidad de Atención de Salud y las circulaciones podrán ser indiferenciadas, estimándose conveniente programar las actividades de abastecimiento para evitar las interferencias con el público.
+B.I.3. Características Constructivas
+B.I.3.1. Estructuras:
+* Deberán resistir las solicitaciones originadas por las cargas permanentes, las sobrecargas y las cargas accidentales, que puedan producirse por el uso o por fenómenos que tengan relación con su ubicación geográfica.
+B.I.3.2. Cerramientos:
+* Determinarán la compartimentación funcional necesaria según las prestaciones que brinde la Unidad de Atención de Salud cumpliendo con los requisitos básicos de separación y seguridad, para garantizar el normal desarrollo de las funciones específicas de cada local. Se materializarán mediante las modalidades constructivas y los materiales que aseguren dichas condiciones.
+* Los solados, parámentos y Cielo rasos se realizarán con materiales que resistan sin degradarse ante los procedimientos de limpieza, desinfección, decontaminación y esterilización usuales, posibilitando un mantenimiento sencillo, como también la resistencia necesaria a la propagación del Fuego.
+B.I.3.3. Instalaciones:
+* Deberán asegurar el abastecimiento adecuado y oportuno del suministro eléctrico y de fluidos, como también la evacuación y tratamiento de los efluentes contando con todos los elementos para su comando y control (se debe tener en cuenta circuitos diferenciados para los efluentes patológicos). Estos elementos deberán conferir a las instalaciones confiabilidad, seguridad, continuidad de uso, sencillo y bajo costo de mantenimiento.
+* Todas las instalaciones responderán a los reglamentos técnicos, nacionales y/o jurisdiccionales vigentes para cada tipo y uso de local.
+B.I.3.3.a. Instalación Eléctrica:
+* Contará con sistema de puesta a tierra para todos los circuitos de tomacorrientes (monofásicos y trifásicos) conectados al correspondiente dispositivo que cumpla con los fines propuestos. Las instalaciones poseerán los dispositivos de seguridad eléctrica: protecciones termomagnéticas y fusibles. La línea de tierra se conectará a jabalina verificándose que la misma cumpla con las normas vigentes .
+* Contará con instalación o dispositivos para luz de emergencia en accesos, circulaciones, locales para enfermería, y todos aquellos locales que por razones operativas así lo requieran.
+* Grupos electrógenos acordes con los gastos de electricidad
+B.I.3.3.b. Gases Medicinales:
+* De ser necesario, contará con el abastecimiento y suministro, centralizado o individual, de aquellos gases (oxígeno, vacío, aire comprimido, etc.) que se requieran. En estos casos deberán garantizar la seguridad tanto para las personas como para el medio físico, natural y construido. Los gases medicinales deben estar en lugar de fácil acceso a los vehículos proveedores y aislados del público e instalaciones por medidas de seguridad.
+B.I.3.3.c. Instalación de Incendio:
+* Deberá contar como mínimo con mataFuego.s del tipo y clase adecuado según usos en: circulaciones y aquellos locales donde existan factores de riesgo.
+B.I.4. Condiciones de Seguridad
+* La Unidad de Atención de Salud deberá contar entre los distintos Comités con el de Seguridad. Todos los servicios contarán con un representante cuya tarea consistirá en el reconocimiento de todos los riesgos de las personas y del medio físico natural y construido, priorizándolos y estableciendo las acciones, además de concientizar y difundir las medidas para que todos los usuarios de la unidad de atención salud cumplan y hagan cumplir lo dispuesto.
+Entre los riesgos a reconocer están:
+* Control ambiental
+* Electricidad
+* Gases tóxicos
+* Incendios
+* Infecciones
+* Radiaciones
+* Residuos biopatogénicos
+* Residuos peligrosos
+* Y cualquier otro Riesgo que el Comité de Seguridad determinara
+* Se establecerán las medidas preventivas y contingentes, el plan de emergencias, la frecuencia de simulacros de emergencias y el programa de capacitación del personal y asignación de roles.
+* Cada Unidad de Atención de Salud elaborará los planes de acciones según lo establecido por su Comité.
+B.I.5. Comunicación (Medios de Comunicación y Señalización)
+* Se considera como medio de comunicación a todos aquellos canales o vías de comunicación establecidas ya sea por redes de servicios telefónicos, telefonía celular, radios, carteles indicadores visuales, medios sonoros, indicadores, señales o cualquier otro medio que posibilite establecer los mecanismos de información necesaria tanto para todos los usuarios. Como también para establecer los sistemas de referencia y contrarreferencia para asegurar la resolución según niveles de riesgos con criterio de complejidad creciente.
+* Cada Unidad de Atención de Salud deberá contar con cualquiera de los medios enunciados o cualquier otro que permita la ubicación rápida y efectiva localización y/o ubicación de los servicios, medios de salida, locales públicos y/o cualquier otro sitio que fuera necesario comunicar, etc.
+* Cada Unidad de Atención de Salud deberá contar con cualquiera de los medios enunciados que aseguren la efectivización de las derivaciones o pases a unidades de atención de salud, de mayor o menor nivel de resolución según funcione como efector de referencia o contrareferencia.
+Debería contar por lo menos con un medio eléctrico de emergencia por los posibles cortes de energía.
+B.I.6. Condiciones de Operación de Planta de la Unidad de Atención de Salud
+* La Unidad de Atención de Salud garantizará la permanente disponibilidad de los Recursos Físicos en operación y deberá contar con un plan de mantenimiento integral ya sea propio, contratado o tercerizado que garantice el normal funcionamiento continuo e ininterrumpido de forma oportuna, eficiente y efectiva.
+B.I.7. Servicios Complementarios
+* Contará con los servicios de Información/Estadísticas, Comunicación (dimensionada acorde al rol de la unidad y el nivel de resolución que brinde), Confort (Vestuarios, Dormitorios de Guardia, Salas de Estar, etc.), Conservación y Operación de Planta (según criterios del punto B.I.6.), Limpieza, Seguridad y Vigilancia y Transporte para traslado intra y extra nodo para pacientes no ambulatorios y/o con minusvalías.
+B.I.7.1. Locales Húmedos
+Nota: todos estos locales para este nivel de resolución podrán ser compartidos o exclusivos y estarán dimensionados acorde a la cantidad de unidades funcionales áreas complementarias y número de usuarios a las que brinden su apoyo.
+B.I.7.1.a. Sanitarios
+* Son las áreas destinadas a la higiene de pacientes y/o personal (propio o contratado)
+* En cualquier caso, estarán vinculados con el resto de las áreas mediante circulaciones cerradas; no pudiendo en ningún caso constituirse en servidumbre de paso.
+* Contarán con puertas de acceso de una luz libre que permita el paso cómodo de sillas de rueda. La apertura será hacia afuera o corredizas.
+* La accesibilidad a cualquiera de los artefactos no constituirá ningún impedimento, o barrera arquitectónica.
+* Relación de los Sanitarios según sus Usos.
+Serán consideradas como mínimas las siguientes relaciones:
+Dormitorios/Habitaciones un Núcleo Sanitario cada 4
+Camas.Estar/Comedor un Núcleo Sanitario cada 25 Residentes
+Consultorios un Núcleo Sanitario cada 4 Consultorios
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: De Angulos redondeados, Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de sillas de ruedas.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+B.I.7.1.b Constitución De Los Núcleos Sanitarios
+Individuales (Para uso exclusivo)
+Inodoro
+Lavabo
+Ducha
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espejo y recipiente con tapa.
+Particulares (Para uso exclusivo de un área)
+Idem individual
+Bidet
+Generales (Para uso de cualquier usuario)
+Inodoro
+Mingitorio
+Lavabo
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espejo, recipiente con tapa.
+Personal (Para uso del personal)
+Sanitario completo
+Inodoro
+Bidet
+Lavabo
+Ducha
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espera, recipiente con tapa.
+Inodoro Clínico (Para uso del personal)
+Inodoro Clínico
+Lavabo (Constituirá un Recinto cerrado e Independiente, y con las condicionantes ambientales de higiene y seguridad que aseguren su correcto funcionamiento).
+B.I.7.1.c Vestuarios Personal
+* La superficie mínima será de 3 m² y aumentará 0.50 m² por persona según sexos y cantidad; su relación de lado mínimo de 1.50 m y se ajustará a la normativa vigente jurisdiccional de locales de ese tipo.
+* Contará con armarios y bancos de apoyo.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de sillas de ruedas.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+* Todas las unidades contarán con los servicios enunciados de forma exclusiva o compartidos y estarán dimensionados acorde a las necesidades de cada Unidades de Atención de Salud.
+B.I.8. Servicios de Abastecimiento y Procesamiento
+* Deberá contar con todos los servicios de abastecimientos y procesamientos (alimentación, farmacia, lavadero, y esterilización) sean con personal y equipos propios, contratados o tercerizados que aseguren los suministros y procesamientos en forma oportuna, eficiente y efectiva.
+* Todos los Servicios contarán con las unidades funcionales y áreas complementarias necesarias y dimensionadas acorde a los requerimientos de la Unidad.
+* Contará con depósitos para: abastecimientos de farmacia, materiales en general, materiales de mantenimiento, residuos comunes y biopatogénicos, con locales para Abastecimiento y Procesamientos periféricos de materiales limpios y usados, locales para cocina, lavadero y esterilización con sus correspondientes locales para procesamientos periféricos de alimentación y de esterilización, y locales para acumulación de residuos biopatogénicos
+Estos locales podrán estar agrupados constituyendo un Centro de Abastecimiento y Procesamiento o en su defecto separados debidamente relacionados mediante circulaciones apropiadas.
+Deben tener circulación propia fuera del uso público.
+B.I.9. Grados de Relación de la Tecnología/Servicio de Tratamientos Quirúrgicos Cardiovasculares con la totalidad de las Tecnologías/Servicios de la de la Unidad de Atención de Salud
+Directa: locales adyacentes o comunicados mediante una abertura.
+Semidirecta: locales vinculados a través de una circulación horizontal con distancias cortas y vertical, por medios mecánicos de tipo montacamillas.
+Indirecta: locales en distintos niveles, vinculados mediante escaleras o circulaciones con distancias muy importantes.
+Indiferente: Locales cuya ubicación es indistinta, sea cual fuere la misma.
+Las unidades de quirófanos, recuperación cardiovascular y unidad coronaria deberían preferentemente estar ubicadas en la misma planta física con adecuado acceso de comunicación y aislamiento.
+Ver Cuadro 1-9
+Capítulo B.II - Bajo Riesgo -
+B.II. LOS RECURSOS FISICOS NECESARIOS PARA EL DESARROLLO DE TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES EN UN EFECTOR DE BAJO RIESGO EN SUS DISTINTAS MODALIDADES OPERATIVAS SON LAS SIGUIENTES:
+B.II.1. Consultorios Externos para brindar las prestaciones de Atención Ambulatoria Programada.
+B.II.2. Guardia de Urgencia/Emergencia para Atención de Emergencias
+B.II.1 Consultorios Externos
+* Las Unidades de Atención de Salud que cuenten con Consultorios Externos para Prestaciones de Cirugía Cardiovascular contarán con las siguientes Unidades Funcionales y Areas Complementarias.
+B.II.1.a. Unidades Funcionales
+B.II.1.a.1 Consultorios
+* Son las áreas destinadas a la Atención Personalizada Ambulatoria en la "Modalidad de Consulta Ambulatoria Programada para Cirugía Cardiovascular" con criterio integral de atención para acciones de promoción y protección de la salud (control), atención de patologías, rehabilitación y reinserción social.
+* Se asegurarán las condiciones de confort, respeto a la privacidad del paciente en todos los aspectos especialmente en las de Examen Físico y Vestuario.
+* Se desarrollarán las siguientes actividades y tareas: entrevistas, revisión de Historias Clínicas, indicaciones y registros, exámenes físicos de control y de atención de patologías.
+* Cuando se realicen prestaciones que requieran preparación o higiene del paciente y/o prestaciones de Enfermería, contará con sanitario tipo individual incluido.
+* La Superficie mínima será de 7,50 m² con un lado mínimo de 2,50 m y sus condiciones ambientales procurarán privacidad, protecciones de seguridad y buena ventilación.
+* El equipamiento mínimo con que deberá contar es: lavabo, toallero para descartables, escritorio, sillas, camilla, balanza, negatoscopio, tensiómetro, armario, recipiente con tapa y papelero y carro de suministros y curaciones o equipamiento que reemplace al enunciado pero que posibilite el desarrollo de las acciones.
+* Además de las instalaciones generales contará con boca de techo o de pared y localizada en el área de examen, un mínimo de 3 tomacorrientes simples y bocas necesarias acorde a la tecnología utilizada para voz y datos e iluminación general de 200 Lux.
+* Como indicador referencial de rendimiento para consultas de primera vez, por cada consultorio ; se estima una producción mínima de 2 Consultas/Hora y una producción máxima de 3 Consultas / Hora ; para consultas ulteriores la producción estimada de mínima será de 3 Consultas/Hora y una producción máxima de 4 Consultas/Hora. En ambos casos deberán compatibilizarse siempre con la política operacional del Area
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de sillas de ruedas, y/o camillas.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+B.II.1.b. Areas Complementarias
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la Demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Consultorios— a las que brinden su apoyo.
+B.II.1.b.1. Secretaría/Recepción
+* Son las áreas destinadas a la atención de personas con el objeto de brindar información, realizar la recepción, verificar turnos, llamar a los pacientes y realizar el registro y control (manuales o sistematizados) de Historias Clínicas y Planillas de Citaciones.
+* La Superficie mínima será de 4,00 m², con un lado mínimo de 2.00 m
+* Contará con las instalaciones generales.
+* El equipamiento mínimo será: sillas, mesa mostrador o equivalente, papelero, perchero, armario y archivo.
+* Como indicador referencial de producción, se estima una producción mínima y máxima de atención de 24 Personas/Hora y 36 Personas/Hora, respectivamente.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de sillas de ruedas.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+B.II.1.b.2. Esperas
+* Son las áreas destinadas a la espera de personas e información y divulgación de acciones de Educación por medios masivos de comunicación.
+* Deben ser independientes de las circulaciones y obtener un fácil ordenamiento del público en relación a las áreas a servir.
+* La Superficie mínima será de 4,00 m².
+* El equipamiento mínimo será: 4 sillas, papelero, perchero y espacio para sillas de ruedas. Como referencia una producción de 16 Personas/Hora.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas y sin Molduras.
+Cielo rasos: Superficies Fácilmente lavables, Lisas.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+B.II.1.b.3 Oficinas para Conducción
+* Son las áreas destinadas a las funciones técnicas o administrativas.
+* Las actividades más destacadas serán: entrevistas, trabajo de gabinetes, reuniones de programación, coordinación y supervisión.
+* La Superficie mínima será de 10,00 m² con un lado mínimo de 3,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar serán: privacidad y seguridad.
+* El equipamiento mínimo con que contará será: mesa con cajones o similar, sillas, pizarrón o pizarra y papelero.
+* Contará con todas las instalaciones generales y si la tecnología utilizada lo requiriera con las bocas de voz y dato necesarios para el cumplimiento de los fines propuestos.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 0.80m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+B.II.1.b.4. Estación de Enfermería Periférico
+* Son las áreas destinadas al almacenamiento y procesamiento de elementos.
+* Las actividades que se desarrollarán son: recepción de materiales recuperables y descartables, instrumental, medicamentos, ropa, equipos y materiales de uso y procesamiento de elementos (actividad que incluye su clasificación, fraccionamiento y/o manipuleo de material recuperable o descartable, instrumental, medicamentos y ropa), preparación de carros de suministros y curaciones, disposición de elementos sin usar, envío de residuos ordenados de acuerdo a los procedimientos y normas vigentes.
+* La Superficie mínima será de 10,00 m² con un lado mínimo de 3,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: asepsia y seguridad.
+* El equipamiento mínimo con que deberá contar es: mesada con pileta, armario para drogas, estantes, accesorio para soporte de suero, toallero, soporte para bolsas de residuos (comunes y biopatogénicos), nebulizador, aspirador, estetoscopio, tensiómetro universal, martillo para reflejos, reloj de tiempo real y heladera de 7 Pies (mínimo), carrito para curaciones, ropa o similares y todo aquel equipamiento que sea necesario para el desarrollo de los fines de la prestación y del modelo de atención.
+* Contará con todas las instalaciones generales.
+* Como indicador referencial de producción para 12 a 15 camas y para trabajar una persona.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de carritos, u otros elementos de abastecimientos.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+Lugar destinado para almacenar las bolsas de residuos comunes y patológicas por separado, aisladas de las zonas de circulación del público.
+B.II.1.b.5. Estación de Alimentación Periférico
+* Son las áreas destinadas al abastecimiento y procesamiento periférico de alimentos.
+* Las actividades que se desarrollarán son: recepción de alimentos preparados, control, conservación de raciones, preparación de colaciones o refrigerios; disposición de elementos usados y lavado y almacenamiento de vajilla de colaciones y/o refrigerios.
+* Contará con superficie mínima de 6 m² con un lado mínimo de 2.50 m.
+* Las condiciones ambientales imprescindibles son las de asepsia y seguridad.
+* El equipamiento mínimo con que deberá contar es: mesada con pileta, alacena alta y bajo mesada, anafe, heladera de 7 Pies, soporte para bolsas de residuos, toallero (carro térmico opcional), y todo aquel equipamiento que sea necesario para el desarrollo de los fines de la prestación y del modelo de atención.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de carritos, u otros elementos de abastecimientos.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+Las dimensiones deberían variar en m2 de acuerdo a la capacidad de producción de alimentos.
+B.II.1.b.6. Depósitos
+* Es el Servicio destinado al almacenamiento transitorio o definitivo de elementos, materiales, herramientas, equipos y/o residuos.
+B.II.1.b.6.1. Depósitos Indiferenciados
+* Area destinada al estacionamiento transitorio o definitivo de elementos cuyo uso es indistinto de acuerdo a las necesidades.
+* Se dimensionará en función del volumen de cosas que deberán guardarse.
+* El equipamiento mínimo con que deberá contar es: sector para estantes, y sector para armarios cerrados.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos para abastecimientos
+Ventilación adecuada
+B.II.1.b.6.2. Depósitos de Medicamentos
+* Area destinada al estacionamiento transitorio o definitivo de medicamentos que puede llegar a constituir con el área de preparación un solo local.
+* Si bien puede ser un local independiente, es conveniente que integre el grupo de los Servicios de Abastecimiento y Procesamiento (Abastecimiento, Esterilización, Lavadero, Farmacia y Alimentación).
+* Se dimensionará en función del volumen de medicamentos y/o drogas que deberán guardarse.
+* El equipamiento mínimo con que deberá contar es: sector para estantes, sector para armarios cerrados y mesadas con pileta. Refrigerador para medicamentos que lo necesiten y extractores de humedad.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos para abastecimientos
+Ventilación adecuada
+B.II.1.b.6.3. Depósitos de Limpieza
+* Area destinada al estacionamiento transitorio o definitivo de elementos y utensilios de Limpieza.
+* Es conveniente que se encuentren localizados en cada Servicio y/o Tecnología de forma periférica y centralizar sólo aquellos elementos, materiales, maquinarias y/o equipos de uso eventual.
+* Se dimensionará en función de los elementos y/o utensilios que deberán guardarse.
+* El equipamiento mínimo con que deberá contar es: sector para estantes, sector para armarios cerrados y mesadas con pileta.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos de abastecimientos
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+B.II.1.b.6.4. Depósitos de Residuos Comunes y/o Biopatogénicos
+* Area destinada al estacionamiento transitorio de aquellos desechos o elementos materiales orgánicos o inorgánicos en estado sólido o semisólido, que por sus condiciones pueden afectar directa o indirectamente a las personas o causar contaminación del suelo del agua o de la atmósfera, que serán generados con motivos de brindar servicios de atención de salud.
+Se considerará el cumplimiento en un todo de acuerdo a la o las normativas vigentes según lo dictado por el Ministerio de Salud de la Nación.
+* Se dimensionará en función de la cantidad de residuos que deberán estacionarse transitoriamente
+* El equipamiento mínimo con que deberá contar es: sector para estantes, sector para armarios y mesadas con pileta profunda.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20m de dos Hojas.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+B.II.2. Guardia de Urgencia/Emergencia
+* Las Unidades de Atención de Salud que cuenten con Guardia de Urgencia/Emergencias para Prestaciones de Tratamientos Quirúrgicos Cardiovasculares no programados contarán con las siguientes Unidades Funcionales y Areas Complementarias. Las mismas deberán contar con fácil acceso vehicular del exterior.
+B.II.2.a. Unidades Funcionales
+* Las Unidades de Atención de Salud que cuenten con Guardia de Urgencia/Emergencia para Prestaciones de Tratamientos Quirúrgicos Cardiovasculares No Programados contarán con las mismas características enunciadas para las Unidades Funcionales (B.II.1.a.1) de los Consultorios Externos más todas aquellas Unidades Funcionales que requiera el Servicio/Tecnología de Guardia acorde al Rol de esa Unidad de Atención de Salud.
+Deben contar c/u con equipo de resucitación cardiovascular.
+B.II.2.b. Areas Complementarias
+* Las Unidades de Atención de Salud que cuenten con Guardia de Emergencia para Prestaciones de Tratamientos Quirúrgicos Cardiovasculares No Programadas contarán con las mismas características enunciadas para las Areas Complementarias (B.II.1.b.1/6) de los Consultorios Externos más todas aquellas Areas Complementarias que requiera el Servicio de Guardia/Emergencias acorde al Rol de esa Unidad de Atención de Salud.
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la Demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Consultorios— a las que brinden su apoyo.
+UNIDADES DE SALUD DE MEDIANO RIESGO
+Capítulo I — Mediano Riesgo-
+M.I CONDICIONES GENERALES DE UNA UNIDAD DE ATENCION DE SALUD EN LA QUE SE REALICEN TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES DE MEDIANO RIESGO
+M.I.1. Accesibilidad Física: Tipo y Posibilidad de Traslado
+* Se denomina accesibilidad física a la relación entre la ubicación de los recursos existentes y la localización de los usuarios, es decir a los factores físicos que facilitan o entorpecen la utilización de los servicios.
+* Los accesos a la Unidad deben posibilitar un ingreso sin dificultades de los medios de transporte disponibles.
+* Las Unidades de Atención de Salud que brinden Servicio de Cirugía Cardiovascular deberán disponer de algún tipo de medio de traslado ya sea de la propia unidad o de la red de servicios pero a disposición de la misma y acorde a la necesidad, tanto para recibir como para derivar a aquellos pacientes que no puedan hacerlo en forma ambulatoria.
+* La accesibilidad física, según la localización de la Unidad de Atención de Salud, será por:
+Vía Terrestre: acceso por senderos, caminos de tierra y/o pavimentados
+Vía Fluvial: atracadero.
+Vía Aérea: área cercana para aterrizaje de helicópteros (plaza, claro, cancha, etc.)
+* El tipo y características de la unidad de terrestre cumplirá con las normativas vigentes. En el caso de las unidades de traslado fluviales y aéreas, contarán con el mismo equipamiento que las terrestres.
+M.I.2. Accesos y Circulaciones
+* La Unidad de Atención de Salud se relaciona con el entorno a través de sus accesos, así como los distintos locales de la Unidad se vinculan mediante las circulaciones. Estas podrán materializarse por pasillos y galerías cubiertos con solados continuos, salvándose los desniveles con rampas de pendiente reglamentaria.
+* Los accesos posibilitarán el control de ingresos y estarán debidamente identificados. En todos los casos las circulaciones serán independientes espacialmente de las áreas de trabajo y no presentarán barreras arquitectónicas.
+* Preferentemente los accesos y circulaciones serán diferenciados en técnicos y públicos. Se deberá contar con acceso para unidades de traslado.
+M.I.3. Características Constructivas
+M.I.3.1. Estructuras:
+* Deberán resistir las solicitaciones originadas por las cargas permanentes, las sobrecargas y las cargas accidentales, que puedan producirse por el uso o por fenómenos que tengan relación con su ubicación geográfica.
+M.I.3.2. Cerramientos:
+* Determinarán la compartimentación funcional necesaria según las prestaciones que brinde la Unidad cumpliendo con los requisitos básicos de separación, para asegurar el normal desarrollo de las funciones específicas de cada local. Se materializarán mediante las modalidades constructivas y los materiales que garanticen dichas condiciones.
+* Los solados, parámentos y Cielo rasos se realizarán con materiales que resistan sin degradarse los procedimientos de limpieza, desinfección, decontaminación y esterilización usuales, posibilitando un mantenimiento sencillo, como también la resistencia necesaria a la propagación del Fuego.
+M.I.3.3. Instalaciones:
+* Deberán asegurar el abastecimiento adecuado y oportuno del suministro eléctrico y de fluidos, como también la evacuación y tratamiento de los efluentes contando con todos los elementos para su comando y control. Estos elementos deberán conferir a las instalaciones confiabilidad, seguridad, continuidad de uso y sencillo mantenimiento.
+* Las instalaciones responderán a los reglamentos técnicos, nacionales y/o jurisdiccionales
+M.I.3.3.a. Instalación Eléctrica:
+* Deberá contar con sistema de puesta a tierra para todos los circuitos de tomacorrientes (monofásicos y trifásicos) conectados a el/los dispositivo/s que surja/n necesario/s según cálculo. Estos deberán independizarse según lo exijan los equipos con que cuente la Unidad para que cumpla con los fines propuestos y las medidas de seguridad necesarias. Las instalaciones poseerán los dispositivos de seguridad eléctrica: protecciones termomagnéticas y fusibles .
+* La línea de tierra se conectará a jabalina verificándose que la misma cumpla con las normas vigentes .
+* Contará con sistema de emergencia central, manual o automático, para suministro de energía eléctrica en accesos, circulaciones, Servicio de Guardia/Emergencia, Internación/Recuperación de Pacientes, Centro Quirúrgico, Unidades de Terapia Intensiva y Coronaria y todos aquellos Servicios o Tecnologías que por su función necesiten suministro sin interrupción.
+* Contará con sistema de energía eléctrica de emergencia de arranque manual o automático para el abastecimiento de bocas de iluminación, ventilación y tomas de equipamiento. De ser manual el sistema de iluminación será de encendido automático alimentado por baterías.
+* Además de los enunciados contarán con sistema de emergencia centralizado automático de suministro de energía eléctrica todos los Servicios de: Centro Quirúrgico, Guardia/Emergencia, Internación/ Recuperación de Pacientes y Terapias Intensivas, Unidad Coronaria y Hemodinamia que viabilicen la resolución del Segundo Nivel de Riesgo.
+* En los Servicios y/o Equipos donde es imprescindible continuidad del suministro, contará con UPS (Fuente de Alimentación Interrumpida), con salida regulada que asegure la supresión de los picos de línea
+* Los circuitos en quirófanos estarán aislados mediante transformador de aislación convenientemente dimensionados para la carga eléctrica a aplicar, dicho circuito incluirá el correspondiente monitor de aislación de línea.
+M.I.3.3.b. Gases medicinales:
+* Contará con el abastecimiento y suministro, centralizado o individual, de aquellos gases (oxígeno, vacío, aire comprimido, etc.) que se requieran. En estos casos deberán garantizar la seguridad tanto para las personas como para el medio físico, natural y construido.
+M.I.3.3.c. Instalación de incendio:
+* Deberá contar como mínimo con matafuegos del tipo y clase adecuado en circulaciones y en aquellos locales donde existan factores de riesgo.
+* Contará con instalación de acuerdo a las normas vigentes de cada Jurisdicción.
+* Dispondrá de los medios de salida apropiados para una rápida evacuación, debidamente señalizada.
+M.I.3.3.d. Aislamiento térmico:
+* El sistema de acondicionamiento térmico cumplirá los requisitos necesarios para no generar contaminación ambiental, así como también mantener la temperatura adecuada de acuerdo a las áreas a calefaccionar teniendo en cuenta la función y sus dimensiones.
+* Dicho sistema contemplará la sectorización de la Unidad según grados de asepsia.
+M.I.4. Condiciones de Seguridad
+* La Unidad de Atención de Salud deberá contar entre los distintos Comités con el de Seguridad. Todos los Servicios y/o Tecnologías contarán con un representante cuya tarea consistirá en el reconocimiento de todos los Riesgos de las personas y del medio ambiente, priorizándolos y estableciendo las acciones, además de concientizar y difundir las medidas para que todos los usuarios de la Unidad de Atención Salud cumplan y hagan cumplir lo dispuesto.
+Entre los riesgos a reconocerse están:
+* Control ambiental
+* Electricidad
+* Gases tóxicos
+* Incendios
+* Infecciones
+* Radiaciones
+* Residuos biopatogénicos
+* Residuos peligrosos
+* Y cualquier otro Riesgo que el Comité de Seguridad determinara
+* Se establecerán las medidas preventivas y contingentes, el plan de emergencias, la frecuencia de simulacros de emergencias y el programa de capacitación del personal y asignación de roles.
+* Cada Unidad de Atención de Salud elaborará los planes de acciones según lo establecido por su Comité.
+M.I.5. Comunicación (Medios de Comunicación y Señalización)
+* Se considera como medio de comunicación a todos aquellos canales o vías de comunicación establecidas ya sea por redes de servicios telefónicos, telefonía celular, radios, carteles indicadores visuales, medios sonoros, indicadores, señales o cualquier otro medio que posibilite establecer los mecanismos de información necesaria tanto para los usuarios como para establecer los sistemas de Referencia y Contrarreferencia para consolidar la resolución según Niveles de Riesgos con criterio de Complejidad creciente.
+* Cada Unidad de Atención de Salud deberá contar con cualquiera de los medios enunciados o cualquier otro que permita la ubicación rápida y efectiva localización y/o ubicación de los servicios, medios de salida, locales públicos, y/o cualquier otro sitio que fuera necesario comunicar, etc.
+* Cada Unidad de Atención de Salud deberá contar con cualquiera de los medios enunciados que aseguren la efectivización de las derivaciones o pases a Unidades de Atención de Salud de mayor o menor Nivel de Resolución, según funcione como efector de referencia o contrareferencia.
+M.I.6. Condiciones de Operación de Planta de la Unidad de Atención de Salud
+* La Unidad de Atención de Salud garantizará la permanente disponibilidad de los Recursos Físicos en operación y deberá contar con un plan de mantenimiento integral ya sea propio, contratado o tercerizado que garantice el normal funcionamiento continuo e ininterrumpido de forma oportuna, eficiente y efectiva.
+M.I.7. Servicios Complementarios
+* Contará con los servicios de Información/Estadísticas, Comunicación (dimensionada acorde al rol de la unidad y el nivel de resolución que brinde), Confort (Vestuarios, Dormitorios de Guardia, Salas de Estar, etc.), Conservación y Operación de Planta (según criterios del punto B.I.6.), Limpieza, Seguridad y Vigilancia y Transporte para traslado intra y extra nodo para pacientes no ambulatorios y/o con minusvalías.
+M.I.7.1. Locales Húmedos
+Nota: todos estos locales podrán ser compartidos o exclusivos y estarán dimensionados acorde a la cantidad de unidades funcionales a las que brinden su apoyo.
+M.I.7.1.a. Sanitarios
+* Son las áreas destinadas a la higiene de pacientes y/o personal
+* En cualquier caso, estarán vinculados con el resto de las áreas mediante circulaciones cerradas; no pudiendo en ningún caso constituirse en servidumbre de paso.
+* Contarán con puertas de acceso de una luz libre que permita el paso cómodo de sillas de rueda. La apertura será hacia afuera o corredizas.
+* La accesibilidad a cualquiera de los artefactos no constituirá ningún impedimento, o barrera arquitectónica.
+* Relación de los Sanitarios según sus Usos.
+Serán Consideradas como Mínimas las Siguientes Relaciones:
+Dormitorios/Habitaciones un Núcleo Sanitario cada 4 Camas
+Estar/Comedor un Núcleo Sanitario cada 25 Residentes
+Consultorios un Núcleo Sanitario cada 4 Consultorios
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: De Angulos redondeados, Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 0.90m
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.I.7.1.b Constitución De Los Núcleos Sanitarios
+Individuales (Para uso exclusivo)
+Inodoro
+Lavabo
+Ducha
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espejo y Recipiente con Tapa.
+Particulares (Para uso exclusivo de un área)
+Idem individual
+Bidet
+Generales (Para uso de cualquier usuario)
+Inodoro
+Mingitorio
+Lavabo
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espejo, recipiente con tapa.
+Personal (Para uso del personal)
+Sanitario completo
+Inodoro
+Bidet
+Lavabo
+Ducha
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espera, recipiente con tapa.
+Inodoro Clínico (Para uso del personal)
+Inodoro Clínico
+Lavabo
+Constituirá un Recinto cerrado e Independiente, y con las condicionantes ambientales de higiene y seguridad que aseguren su correcto funcionamiento.
+M.I.7.1.c Vestuarios Personal
+* La superficie mínima será de 3 m² y aumentará 0.50 m² por persona según sexos y cantidad; su relación de lado mínimo de 1.50 m y se ajustará a la normativa vigente jurisdiccional de locales de ese tipo.
+* Contará con armarios y bancos de apoyo.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 0.90m
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+* Todas las Unidades contarán con los servicios enunciados de forma exclusiva o compartidos y estarán dimensionados acorde a las necesidades de cada establecimiento
+M.I.8. Servicios de Abastecimiento y Procesamiento
+* Deberá contar con todos los servicios de abastecimientos y procesamientos (alimentación, farmacia, lavadero, y esterilización) sean con personal y equipos propios, contratados o tercerizados que aseguren los suministros y procesamientos en forma oportuna, eficiente y efectiva.
+* Todos los Servicios contarán con las unidades funcionales y áreas complementarias necesarias y dimensionadas acorde a los requerimientos de la Unidad.
+M.I.8.1 Abastecimientos
+* Contará con depósito central único sectorizado o depósitos individuales para cada tipo de abastecimientos, y depósitos periféricos limpios y usados en cada servicio para abastecimientos de: Materiales en General, de Mantenimiento, Farmacia, y/o Despacho de Farmacia, Alimentación, Lavadero, y Esterilización, local para acumulación de residuos y locales periféricos en cada servicio para residuos comunes y biopatogénicos.
+M.I.8.2. Procesamientos
+* Contará con todos los Locales necesarios para realizar los procesamientos de: Alimentación, Lavadero, Esterilización, y Residuos.
+Así mismo cada servicio que lo requiera contará con locales para procesamientos periféricos limpios y usados para Enfermería, Alimentación, Ropería, Limpieza, etc.
+M.I.9. Grados de Relación de la Tecnología/Servicio de Tratamientos Quirúrgicos Cardiovasculares con la totalidad de las Tecnologías/Servicios de la Unidad de Atención de Salud
+Directa: locales adyacentes o comunicados mediante una abertura.
+Semidirecta: locales vinculados a través de una circulación horizontal con distancias cortas y vertical, por medios mecánicos de tipo montacamillas.
+Indirecta: locales en distintos niveles, vinculados mediante escaleras o circulaciones con distancias muy importantes.
+Indiferente: Locales cuya ubicación es indistinta, sea cual fuere la misma.
+Ver Cuadro 1-9
+Capítulo II — Mediano Riesgo -
+M.II. LOS RECURSOS FISICOS NECESARIOS PARA EL DESARROLLO DE TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES EN UN EFECTOR DE MEDIANO RIESGO EN SUS DISTINTAS MODALIDADES OPERATIVAS SON LAS SIGUIENTES:
+M.II.1. Consultorios Externos para brindar las prestaciones de Atención Ambulatoria Programada.
+M.II.2. Guardia de Urgencia/Emergencia para Atención de Emergencias/Urgencias.
+M.II.3. Internación de Cuidados Básicos, Intermedios, Intensivos y Unidad Coronaria para la Atención de Internación con Criterio de Cuidados Progresivos.
+M.II.4. Unidades Móviles de Traslado Sanitario para la Atención Domiciliaria. Emergencias/ Urgencias
+M.II.5. Quirófanos, Centros Quirúrgicos y Recuperación de Pacientes para el desarrollo de Tratamientos Quirúrgicos Cardiovasculares, Ambulatorios Programados y de Emergencias en Cirugía Cardiovascular de Mediano Riesgo
+M.II.1 Consultorios Externos
+* Las Unidades de Atención de Salud que cuenten con Consultorios Externos para Prestaciones de Tratamientos Quirúrgicos Cardiovasculares contarán con las siguientes Unidades Funcionales y Areas Complementarias.
+M.II.1.a. Unidades Funcionales
+* Responderán a las mismas características establecidas para las Unidades Funcionales (B.II.1.a.1.) del Bajo Riesgo.
+M.II.1.b Areas Complementarias
+* Responderán a las mismas características establecidas para las Areas Complementarias (B.II.1.b.1./6) del Bajo Riesgo.
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la Demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Consultorios— a las que brinden su apoyo.
+M.II.2. Guardia de Urgencia/Emergencia
+* Las Unidades de Atención de Salud que cuenten con Guardia de Urgencia/Emergencia para Prestaciones de Cirugía Cardiovascular No Programadas o de Urgencia contarán con las siguientes Unidades Funcionales y Areas Complementarias.
+M.II.2.a. Unidades Funcionales
+* Las Unidades de Atención de Salud que cuenten con Guardia de Urgencia/Emergencia para Prestaciones de Cirugía Cardiovascular No Programadas y de Urgencia contarán con las mismas características enunciadas para las Unidades Funcionales (B.II.1.a.1) de los Consultorios Externos más todas aquellas Unidades Funcionales que requiera el Servicio de Guardia acorde al Rol de esa Unidad de Atención de Salud.
+M.II.2.a.1. Sala para Estabilización de Pacientes
+* Son las áreas destinadas a la Atención de Pacientes en estado Semi-Crítico en la "Modalidad de Guardia de Urgencia/Emergencia para el Servicio/Tecnología de Cirugía Cardiovascular" con criterio integral de atención para acciones de atención de patologías y estabilización del paciente para derivación o pase al Nivel de Atención Referencial.
+* Se desarrollarán actividades que permitan la Compensación/Estabilización del Paciente tales como el control de signos vitales, tratamientos, y/o curaciones, preparación para intervenciones de Urgencia, o eventual traslado a un mayor Nivel de Resolución etc.
+* Se asegurarán la Humanización y Personalización a la atención del paciente y acompañantes mediante una adecuada relación Equipo de Salud/Paciente, condiciones de confort, respeto a la privacidad del paciente en todos los aspectos especialmente en las de Examen Físico/Tratamiento y Vestuario.
+* Toda la información médica y de enfermería deberá ser volcada a la Historia Clínica del paciente conjuntamente con los estudios de diagnóstico y tratamientos practicados.
+* Cuando se realicen prestaciones que requieran preparación o higiene del paciente y/o prestaciones de Enfermería, es deseable que se cuente con sanitarios tipo individual incluido.
+* Contará con superficie mínima de 12,00 m² (con sanitario incluido) con un lado mínimo de 3,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: privacidad, protecciones de seguridad, visuales y sonoras.
+* El equipamiento mínimo con que deberá contar es: lavabo, toallero para descartables, escritorio, sillas, camilla, balanza, negatoscopio, recipiente con tapa y papelero y carro de suministros y curaciones o equipamiento que reemplace al enunciado pero que posibilite el desarrollo de las acciones. Así como disponer de: Aparato Electrocardiografo, Desfibrilador-Cardioversor, Ambou Pediátrico y de Adultos, Aparato de Rehabilitación Respiratoria, Monitoreo de presión, volumen, y otras señales que sean necesarias, oxímetro, oxicapnógrafo, drenajes, respirador volumétrico y/o por presión y todo aquel equipo que sea necesario para Estabilizar al Paciente.
+* Además de las instalaciones generales contará con boca de techo o de pared y localizada en el área de examen de 700 Lux, un mínimo de 8 tomacorrientes simples e iluminación general de 300 Lux, Alarma de Paro.
+* Contará con el suministro de todos los Gases Medicinales, e Instalación de Incendio.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables,
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20m de dos Hojas Vaivén.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.1.b. Areas Complementarias
+* Las Unidades de Atención de Salud que cuenten con Guardia de Emergencia para Prestaciones de Cirugía Cardiovascular No Programadas o de Urgencia contarán con las mismas características enunciadas para las Areas Complementarias (B.II.1.b.1/6) de los Consultorios Externos más todas aquellas Areas Complementarias que requiera el Servicio de Guardia acorde al Rol de esa Unidad de Atención de Salud. Ejemplo: Habitación para Dormitorio de Guardia, etc.
+M.II.1.b.1. Habitación para Dormitorio de Guardia
+* Son las Areas Destinadas a las Actividades de Reposo o Descanso del Personal
+* Sus características generales deberán responder a las siguientes consideraciones:
+* Los Dormitorios/Habitaciones tendrán una Capacidad Mínima de (Dos) Camas.
+* La Separación entre Camas será Mayor o Igual a 1,00 m.
+* Los Dormitorios / Habitaciones estarán Vinculados entre sí y con el Resto Mediante Circulaciones Cerradas y no se Admitirán Servidumbres de Paso a través de estos Locales.
+* Contarán con Iluminación y Ventilación Natural Acorde a las Dimensiones del Local y de Acuerdo al Código de la Edificación Considerando a Dicho Local como de Primera.
+* La Superficie Mínima por Cama será de 4.50 m². con un Lado Mínimo de 2,00 m Admitiéndose una Tolerancia de 10 % en las Superficies Totales.
+* La Altura Mínima del Local será de 2.60 m (o de Acuerdo a Código Jurisdiccional) y Altura Máxima de 3,00 m.
+* El Volumen de Aire Mínimo será de 10.80 m³/Cama.
+* En Correspondencia con cada Cama se Contará con: Mesa de Luz, Guardarropa-Armario o Módulo Individual para el Guardado de Efectos Personales, Aplique Fijo de Pared, Alarma de Paro, un Tomacorriente Monofásico y Luz General o Central.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: De Angulos redondeados, Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 0.90m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la Demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Consultorios— a las que brinden su apoyo.
+M.II.3. Internación de Cuidados Básicos, Intermedios
+* Las Unidades de Atención de Salud que cuenten con Internación de Cuidados Básicos e Intermedios para Prestaciones de Cirugía Cardiovascular contarán con las siguientes Unidades Funcionales y Areas Complementarias.
+M.II.3.a. Unidades Funcionales
+M.II.3.a.1. Habitación para Internación de Cuidados Básicos e Intermedios
+* Son las Areas Destinadas a las Actividades de Reposo, Descanso, Recuperación, Tratamiento, Rehabilitación y Reinserción Social de los Pacientes.
+* Sus Características Generales deberán Responder a las siguientes Consideraciones:
+Los Dormitorios/Habitaciones tendrán una Capacidad Máxima de No más de (Cuatro) Camas. Se tenderá a Brindar una Oferta Variada de Número de Camas por Habitación.
+* La Separación mínima entre Camas será Mayor o Igual a 1.20 m.
+* La Separación mínima entre Camas y Pared Debe Ser Mayor o Igual a 0.60 m.
+* La Separación mínima entre Camas o entre Cama y Pared Debe Permitir la Fácil Movilización de Sillas de Ruedas o Camilla de Transporte y Posibilitar el Fácil Traslado de las mismas a la Cama o Viceversa.
+* Contará con Lavamanos Próximo al Area para Higiene del Personal.
+* Los Dormitorios/Habitaciones estarán Vinculados entre sí y con el Resto Mediante Circulaciones Cerradas y no se Admitirán Servidumbres de Paso a través de estos Locales.
+* Contarán con Iluminación y Ventilación Natural Acorde a las Dimensiones del Local y de Acuerdo al Código de la Edificación y/o Reglamentaciones Jurisdiccionales vigentes, considerando a dicho Local como de Primera.
+* La Superficie Mínima por Cama será de 7.5 m² con un Lado Mínimo de 2.20 m Admitiéndose una Tolerancia de 10% en las Superficies Totales.
+* La Altura Mínima del Local será de 2.60 m (o de Acuerdo a Código Jurisdiccional) y Altura Máxima de 3,00 m.
+* El Volumen de Aire Mínimo será de 10.80 m³/Cama.
+* Contará con el número de Camas Articuladas que resulten necesarias de acuerdo al tipo de prestaciones, que brinde.
+* Las Camas No Articuladas Tendrán Respaldar y Piecera y Superficie mínima de 0.80x1.90 m.
+* En Ningún Caso Podrán Reemplazarse las Camas por Cuchetas, Catres o Sofá-Camas.
+* En Correspondencia con cada Cama se Contará con: Mesa de Luz, Guardarropa-Armario o Módulo Individual para el Guardado de Efectos Personales, Aplique Fijo de Pared, Luz de Examen Timbre para Llamada de Enfermería, Alarma de Paro, dos Tomacorrientes Monofásicos y Luz General o Central.
+* La Unidad Contará como Mínimo con un Porcentaje entre 20% y el 40% de Barandas de Seguridad del Total de las Camas de Dotación.
+* En correspondencia con cada cama contará con todo los servicios de gases medicinales.
+* Características Constructivas:
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20m de dos Hojas.
+Climatización adecuada para invierno y verano.
+M.II.3.a.2. Internación de Cuidados Intensivos y Unidad Coronaria
+* Las Unidades de Atención de Salud que cuenten con Internación de Cuidados Intensivos y Unidad Coronaria para Prestaciones de Cirugía Cardiovascular contarán con las siguientes Unidades Funcionales y Areas Complementarias.
+M.II.3.a. Unidades Funcionales
+M.II.3.a.2. Puesto o Cama para Internación de Cuidados Intensivos y/o Unidad Coronaria
+* Son las Areas Destinadas a las Actividades de Reposo, Descanso, Tratamiento y Recuperación de los Pacientes priorizando el máximo de seguridad para el Paciente, cumpliéndose condiciones de humanización, privacidad, aislamiento, bio-psicofísicas, asepsia y confort necesarios, y disponiendo de los recursos físicos, humanos e insumos necesarios de acuerdo a los fines.
+* Se desarrollarán actividades acordes a la modalidad operativa tales como, recuperación y rehabilitación de tratamientos post-quirúrgicos de pacientes.
+* Se asegurarán la humanización y personalización a la atención del paciente, mediante una adecuada relación Equipo de Salud/Paciente, condiciones de confort, y respeto a la privacidad del paciente en todos los aspectos.
+* Toda la información médica deberá ser volcada a la Historia Clínica del paciente conjuntamente con la evolución del mismo.
+* Se localizará en relación directa al sector Guardia/Emergencias, Quirófano o Centro Quirúrgico, y Hemodinamia.
+* Contará con superficie mínima de 12,00 m² (con sanitario incluido) con un lado mínimo de 3,00 m, y su crecimiento según el número de puestos de recuperación, estará acorde a la demanda de cirugías.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: privacidad, protecciones de seguridad, asepsia, visuales y sonoras.
+* La unidad funcional de recuperación de pacientes deberá contar con presión positiva en todo el local, así como también con un área o local aislado con presión negativa para alojar a pacientes de características particulares, con el mismo equipamiento de todos los puestos o camas.
+* El equipamiento mínimo con que deberá contar cada puesto o cama es: lavabo, toallero para descartables, cama articulada, negatoscopio, recipiente con tapa y papelero, carro para suministros o equipamiento que reemplace al enunciado pero que posibilite el desarrollo de las acciones. Así como disponer de: Poliducto apto para áreas críticas, cada puesto deberá contener: seis tomacorrientes tipo Schuko, y seis tomacorrientes IRAM, dos bocas para oxígeno, dos bocas para aire comprimido, dos bocas para aspiración, un regulador de presión de oxígeno, un regulador de presión de aire comprimido, un flow-meter de oxigeno, un flow-meter de aire comprimido, un regulador de aspiración, alarma de paro cardíaco, y llamada de enfermera.
+* Cada puesto o cama de recuperación contará con un monitor de parámetros fisiológicos con posibilidad de registrar un ECG de tres derivaciones, dos presiones invasivas, una presión no invasiva, oximetría de pulso, capnografía y volumen minuto, una central de monitoreo, un respirador completo (por paciente cardiovascular), dos bombas de infusión a jeringa (por paciente cardiovascular), dos bombas de infusión volumétricas (por paciente cardiovascular), un electrocardiógrafo de doce derivaciones, un desfibrilador, un marcapasos externo (por paciente cardiovascular), y un equipo para balón de contrapulsación.
+* Además de las instalaciones generales contará con puesta a tierra, línea monofásica y trifásica y sistema de iluminación de emergencia interrumpida a través UPS para todos aquellos equipos o sistemas tanto de iluminación como de aparatología médica considerados críticos.
+Se contará con alimentación de emergencia a través de un grupo electrógeno para todos los otros circuitos adicionales. Tanto los circuitos en permanente así como los de emergencia deberán ser alimentados mediante transformadores de aislación con monitores de aislación que indiquen la impedancia a tierra.
+El cableado de puesta a tierra para —la tierra médica— será diferenciada de —la tierra funcional — del resto de la Unidad de Atención de Salud, dicho conductor deberá conectarse en la unión central de tierras (equi-potencial).
+* Los sistemas de acondicionamiento que se adopten para ventilación deberán cumplir con las condiciones de asepsia inherentes al de los quirófanos.
+* Contará con el suministro de todos los Gases Medicinales, e Instalación de Incendio, y de Seguridad.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables,
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20m de dos Hojas Vaivén.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+Climatización adecuada para invierno y verano.
+M.II.3.b. Areas Complementarias
+* Las Unidades de Atención de Salud que cuenten con Guardia de Emergencia para Prestaciones de Cirugía Cardiovascular No Programadas o de Urgencia contarán con las mismas características enunciadas para las Areas Complementarias (B.II.1.b.1/6) de los Consultorios Externos más todas aquellas Areas Complementarias que requiera el Servicio de Guardia acorde al Rol de esa Unidad de Atención de Salud. Ejemplo: Habitación para Dormitorio de Guardia, etc.
+M.II.3.b.1. Supervisión de Enfermería
+* Son las Areas Destinadas al Registro de los Cuidados y Tratamientos de los Pacientes.
+* De Acuerdo al Tipo de Unidad de Atención de Salud y al Rol de la misma se Recepcionarán o se Archivarán las Historias Clínicas.
+* Se recepcionarán las Placas, Informes y Prescripciones Médicas para su Implementación.
+* Se devolverán o Archivarán aquellas Historias Clínicas de los Pacientes que Ingresen.
+* Se Realizarán todas las Actividades de Programación, Coordinación y Supervisión de Enfermería.
+* Contará con Superficie mínima de 6,00 m² con un Lado Mínimo de 3,00 m.
+* Las Condicionantes Ambientales Imprescindibles con que Deberá Contar son: Asepsia y Seguridad.
+* El Equipamiento Mínimo con que Deberá Constar es: Mesada (de acero inoxidable) Mostrador o Similar con Casilleros, Armario Cerrado, Panel para Informaciones, Papelero, Fichero para Historias Clínicas, y todos aquellos que resulten necesarios.
+* Contará con todas las Instalaciones Generales; Además de Llamada para Enfermería, y Alarma de Paro.
+* Como Indicador Referencial de Producción se Estima para una Capacidad entre 24 y 30 Camas y para Trabajar 3 Personas.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20m de dos Hojas.
+M.II.3.b.2. Estación de Enfermería Periférico Limpio
+* Son las Areas Destinadas al Almacenamiento y Procesamiento de Elementos.
+* Las Actividades que se Desarrollarán son las de Recepción de Materiales Recuperables y Descartables, Instrumental, Medicamentos, Ropa, Equipos y Materiales de Uso y las de Procesar los Elementos Realizando su Clasificación, Fraccionamiento y/o Manipuleo de Material Recuperable o Descartable.
+Instrumental - Medicamentos - Ropa Preparación de Carritos de Suministros y Curaciones y Disposición de Elementos Sin Usar. Envío de Residuos.
+* Contará con Superficie mínima de 10,00 m² con un Lado Mínimo de 3,00 m.
+* Las Condicionantes Ambientales Imprescindibles con que Deberá Contar son:
+Asepsia y las de Seguridad.
+* El Equipamiento Mínimo con que Deberá Contar es Mesada con Pileta, Armario para Drogas, Estantes, Accesorio para Soporte de Suero, Toallero, Soporte para Bolsas de Residuos (Comunes y Biopatogénicos) Nebulizador, Aspirador, Estetoscopio, Otoscopio, Oftalmoscopio, Tensiómetro, Universal, Martillo para Reflejos, Carro de Paro Reloj de Tiempo Real y Heladera de 7 Pies (Mínimo), Carrito para Curaciones, y Ropa o Similares.
+* Contará con todas las Instalaciones Generales.
+* Como Indicador Referencial de Producción para 12 a 15 Camas y para Trabajar una Persona.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20m de dos Hojas.
+También debería tener una hornalla a gas.
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la Demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Consultorios— a las que brinden su apoyo.
+M.II.4. Unidades Móviles de Traslado Sanitario
+* El tipo y características de la unidad de terrestre cumplirá con las normativas vigentes. En el caso de las unidades de traslado fluviales y aéreas, contarán con el mismo equipamiento que las terrestres.
+M.II.5. Quirófanos o Centros Quirúrgicos
+* Son las áreas destinadas para la realización de Tratamientos Quirúrgicos Cardiovasculares Programados o de Urgencia con el máximo de seguridad para el Paciente y Personal, cumpliéndose condiciones de Aislamiento, Bio-Psicofísicos, asepsia y confort necesarios y disponiendo de los Recursos Humanos, Físicos, y materiales adecuados a los fines propuestos.
+* En los casos en que se cuente con más de tres unidades funcionales —Quirófano— el mismo constituirá un Centro Quirúrgico
+M.II.5.a. Unidades Funcionales
+Zona de Circulación Restringida
+M.II.5.a.1. Quirófano y/o Quirófanos
+* Son las áreas destinadas para la realización de Tratamientos Quirúrgicos Cardiovasculares Programados o de Urgencia con el máximo de seguridad para el Paciente y Personal, cumpliéndose condiciones de Aislamiento, Bio-Psicofísicos, asepsia y confort necesarios y disponiendo de los Recursos Físicos, insumos y personal adecuados.
+* Se asegurarán la Humanización y Personalización del paciente mediante una adecuada relación Médico/Paciente, a través apropiadas condiciones de Confort, respeto por la privacidad del paciente en todos los aspectos especialmente en los referidos a las Prácticas Quirúrgicas.
+* Se realizará la Programación de la Cirugía Ambulatoria mediante Turnos según el tipo de prestación que se trate, asegurando una óptima atención mediante normas expresas, y adecuada organización.
+* Cuando la Unidad de Atención de Salud cuente con más de un Quirófano, éstos deberán estar organizados con criterios de restricción por nivel de asepsia y se respetarán estrictamente las Normas de Asepsia establecidas para cada Zona: Restringida, Semirrestringida, Transferencia y Sin Restricción. Estas Zonas poseen distintas características establecidas por el Nivel de Asepsia y el Grado de Restricción de Circulación de personas y abastecimientos.
+* Las Actividades de Conducción, Supervisión Médica, Anestesiología, y Enfermería formará parte de la Zona Semirrestringida.
+* Toda la Información Médica deberá ser volcada a la Historia Clínica del paciente conjuntamente con los estudios de Diagnósticos y Tratamientos Practicados y las Técnicas y Procedimientos Quirúrgicos desarrollados, así como el seguimiento del paciente hasta el alta final del Tratamiento.
+* El abastecimiento asegurará la provisión continua, interrumpida y adecuada en calidad, cantidad de todo tipo de materiales y/o insumos.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: privacidad, protecciones de seguridad, visuales y sonoras.
+* Contará con superficie mínima de 24,00 m² con un lado mínimo de 4,50 m, para Cirugía Mediana, y 30,00 m² para Cirugía Mayor, con un lado mínimo de 5,00 m.
+* Se acondicionará a la zona restringida con presión positiva.
+* Para toda área quirúrgica se recomienda la adopción de las normas ASHRAE.
+* La inyección de aire exterior será del 100%, con una cantidad mínima de 10 renovaciones por hora de aire exterior y envío de toda la extracción al exterior.
+* En cuanto a la Climatización, la temperatura ambiente recomendables es de 18° a 24°C y la Humedad relativa entre 45 y 55%.
+* Los sistemas que se adopten para ventilación deberán cumplir con las condiciones de asepsia inherentes al tipo y Nivel de Riesgo de la intervención. Los filtros de aire se compondrán de tres etapas pre-filtro, filtro de mediana eficiencia y filtro absoluto o de alta eficiencia (última etapa 99,99% para partículas de 0,3 micrones, hasta 0,5 micrones).
+El aire que se inyecte mediante sistema forzado en un quirófano deberá estar siempre libre de impurezas y con la temperatura y humedad anteriormente mencionada, para lo cual en todos los casos se tendrán en cuenta los siguientes puntos: Presión del Interior del Quirófano respecto de las áreas adyacentes, tipo de inyección 100% aire exterior, cantidad mínima de aire que debe inyectarse medida en volúmenes del área por hora, eficiencia de los filtros, cantidad de etapas de filtro, caída de presión en filtros, sistema de regulación de caudal y ubicación de bocas de inyección y retorno.
+* Con relación a la iluminación, deberá ser General (2000 Lux, preferentemente de espectro similar al solar) y sobre el campo operatorio Focalizada (de 3000-10000 Lux, preferentemente luz fría, para Cirugía Mediana y 50.000 a 100.000 Lux para Cirugía Mayor).
+* El equipamiento mínimo con que deberá contar es: mesa de cirugía rodante con movimiento universal accesible por los cuatro costados, equipo de anestesia completo (mesa de anestesia, mesa para drogas anestésicas y respirador), mesa e instrumental quirúrgico completas aptas para cirugía cardiovascular, monitor de parámetros fisiológicos con posibilidad de registrar: un ECG de 3 derivaciones, dos presiones invasivas, una presión no invasiva, oximetría de pulso capnografía, detección de oxígeno y gases anestésicos y volúmen minuto (deberá contar con un monitor repetidor que pueda ser visualizado por el cirujano), seis bombas de infusión a jeringa, un electrobisturí de doble mango independiente apto para corte uni y bipolar, un esternótomo, balón de contrapulsación, un desfibrilador apto para paletas internas, un medidor de tiempo de coagulación, dos mesas auxiliares, dos carros portabolsas, tarima, mesa de transporte, y todo aquel equipamiento que surja necesario según tipo de prestación quirúrgica, técnica y tecnología aplicada.
+* Además de las instalaciones generales contará con puesta a tierra, línea monofásica y trifásica y sistema de iluminación de emergencia interrumpida a través UPS para todos aquellos equipos o sistemas tanto de iluminación como de aparatología médica considerados críticos.
+Se contará con alimentación de emergencia a través de un grupo electrógeno para todos los otros circuitos adicionales. Tanto los circuitos en permanente así como los de emergencia deberán ser alimentados mediante transformadores de aislación con monitores de aislación que indiquen la impedancia a tierra.
+El cableado de puesta a tierra para —la tierra médica— será diferenciada de —la tierra funcional— del resto de la Unidad de Atención de Salud, dicho conductor deberá conectarse en la unión central de tierras (equi-potencial). Este cableado será único para el sector de quirófanos y diferenciado del de los otros Servicios/Tecnologías.
+* Contará como mínimo con columnas (dos) o poliductos para brindar los suministros necesarios de líquidos, fluidos y corriente eléctrica acorde al nivel de Resolución de las prestaciones quirúrgicas que se desarrollen, y estarán convenientemente alojados en columnas verticales que provengan del techo para posibilitar la libre circulación en forma perimetral.
+En los casos en que por razones de altura no sea posible colocarlos en columnas de techo es aconsejable colocar poliductos en pared con las prestaciones necesarias acorde al nivel de resolución.
+* Contará como mínimo con doce tomacorrientes tipo Schuko y doce tomacorrientes tipo IRAM, cuatro bocas para oxígeno, cuatro bocas para aire comprimido, y tres bocas para aspiración, dos reguladores de presión de oxígeno, dos reguladores de presión de aire comprimido, dos flow-meter de oxígeno, dos flow-meter de aire comprimido y dos reguladores de aspiración.
+En los casos en que la Unidad trabaje con óxido nitroso se deberá agregar una boca a la columna y/o poliducto.
+* En todos los casos, sean columnas o poliductos se contará con un toma adicional apto para el conexionado de un equipo portátil con Arco en "C", según normas vigentes.
+* Todos los quirófanos contarán con Alarma de Paro.
+* Deberá contar con todas las condiciones generales de seguridad de la Unidad de Atención de Salud.
+*Como indicador referencial de rendimiento por cada Quirófano, su producción deberá estimarse según el tiempo de duración del tratamiento quirúrgico y el correspondiente al de limpieza, desinfección y esterilización para una nueva intervención.
+Como consecuencia de la modalidad operativa del servicio y/o tecnología se llevará a cabo este análisis, para luego realizar la programación del Servicio/Tecnología.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables, sin comunicación con red cloacal.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rrasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos y Sellados Perimetralmente, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de camillas y o sillas de ruedas.
+Deberían contar con un Quirófano "sucio" con el mismo equipamiento que los otros, con personal aislado y en sector de la misma planta.
+Si se trata de un centro quirúrgico, se podría contar con un recuperador de sangre (cell service) para toda la unidad.
+Prevención de gases volátiles inflamables con el uso de electrobisturí.
+NOTA: Contará con en número de Unidades Funcionales que de acuerdo a la Demanda se necesiten.
+M.II.5.a.2. Lavado Final del Equipo Quirúrgico
+* Es el área destinada al lavado final del Equipo Quirúrgico.
+* Estará en relación directa al Centro Quirúrgico.
+* Contará con las mismas condicionantes Ambientales, de Climatización, de Ventilación y Presión que el Quirófano.
+* Contará con superficie mínima aproximada de 6,00 m² con un lado mínimo de 2,50 m.
+* El equipamiento mínimo con que deberá contar el Area de Lavado es: dispositivo proveedor de jabón o proveedor de solución antiséptica con accionamiento no manual, mesada o pileta integral para lavado quirúrgico con su correspondiente equipo de accionamiento a codo y pedal o cualquier otro mecanismo que cumpla con los requisitos de procedimientos de lavado final ya sea manual o automático.
+* El equipamiento mínimo con que deberá contar el Area de Vestuario es: portabolsas para ropa limpia, portabolsas para ropa usada, armario para material limpio.
+* Contará con las instalaciones generales y de seguridad correspondientes al Quirófano.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso de elementos de transporte.
+M.II.5.a.3. Recuperación de Paciente (Post-Quirúrgico)
+* Son las áreas destinadas a la recuperación de pacientes post-quirúrgicos, con el máximo de seguridad para el Paciente, cumpliéndose condiciones de humanización, privacidad, aislamiento, biopsicofísicas, asepsia y confort necesarios y disponiendo de los recursos físicos, humanos e insumos necesarios de acuerdo a los fines.
+* Se desarrollarán actividades que permitan la recuperación post-quirúrgicos del paciente.
+* Se asegurarán la humanización y personalización a la atención del paciente, mediante una adecuada relación Equipo de Salud/Paciente, condiciones de confort, y respeto a la privacidad del paciente en todos los aspectos.
+* Toda la información médica deberá ser volcada a la Historia Clínica del paciente conjuntamente con la evolución del mismo.
+* Se localizará en el área de zona anexa al quirófano o centro quirúrgico, relacionado directamente, pudiéndose ubicar en la zona de circulación semirestringida.
+* Contará con superficie mínima de 12,00 m² (con sanitario incluido) con un lado mínimo de 3,00 m, y su crecimiento según el número de puestos de recuperación, estará acorde a la demanda de cirugías.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: privacidad, protecciones de seguridad, asepsia, visuales y sonoras.
+* La unidad funcional de recuperación de pacientes deberá contar con presión positiva en todo el local, así como también con un área o local aislado con presión negativa para alojar a pacientes de características particulares, con el mismo equipamiento de todos los puestos o camas.
+* El equipamiento mínimo con que deberá contar cada puesto o cama es: lavabo, toallero para descartables, cama articulada, negatoscopio, recipiente con tapa y papelero, carro para suministros o equipamiento que reemplace al enunciado pero que posibilite el desarrollo de las acciones. Así como disponer de: Poliducto apto para áreas críticas, cada puesto deberá contener: seis tomacorrientes tipo Schuko, y seis tomacorrientes IRAM, dos bocas para oxígeno, dos bocas para aire comprimido, dos bocas para aspiración, un regulador de presión de oxígeno, un regulador de presión de aire comprimido, un flow-meter de oxigeno, un flow-meter de aire comprimido, un regulador de aspiración, alarma de paro cardíaco, y llamada de enfermera.
+* Cada puesto o cama de recuperación contará con un monitor de parámetros fisiológicos con posibilidad de registrar un ECG de tres derivaciones, dos presiones invasivas, una presión no invasiva, oximetría de pulso, capnografía y volúmen minuto, una central de monitoreo, un respirador completo (por paciente cardiovascular), dos bombas de infusión a jeringa (por paciente cardiovascular), dos bombas de infusión volumétricas (por paciente cardiovascular), un electrocardiógrafo de doce derivaciones, un desfibrilador un marcapasos externo (por paciente cardiovascular), y un equipo para balón de contrapulsación.
+* Además de las instalaciones generales contará con puesta a tierra, línea monofásica y trifásica y sistema de iluminación de emergencia interrumpida a través UPS para todos aquellos equipos o sistemas tanto de iluminación como de aparatología médica considerados críticos.
+Se contará con alimentación de emergencia a través de un grupo electrógeno para todos los otros circuitos adicionales. Tanto los circuitos en permanente así como los de emergencia deberán ser alimentados mediante transformadores de aislación con monitores de aislación que indiquen la impedancia a tierra.
+El cableado de puesta a tierra para —la tierra médica— será diferenciada de —la tierra funcional— del resto de la Unidad de Atención de Salud, dicho conductor deberá conectarse en la unión central de tierras (equi-potencial).
+* Los sistemas de acondicionamiento que se adopten para ventilación deberán cumplir con las condiciones de asepsia inherentes al de los quirófanos.
+* Contará con el suministro de todos los Gases Medicinales, e Instalación de Incendio, y de Seguridad.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20 m de dos Hojas Vaivén.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.5.b Areas Complementarias
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Quirófano— a las que brinden su apoyo.
+Zona de Circulación Semirrestringida
+M.II.5.b.1. Local para Abastecimientos y Procesamientos Periféricos limpios
+* Son las áreas destinadas al almacenamiento de elementos y materiales.
+* Las actividades que se desarrollarán son: recepción de elementos, materiales recuperables y descartables, instrumental, medicamentos, ropa, equipos y materiales de uso.
+* Contará con superficie mínima de 4,00 m² con un lado mínimo de 2,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: asepsia y seguridad.
+* El equipamiento mínimo con que deberá contar es: mesada con pileta, armario para drogas, estantes, accesorio para soporte de suero, toallero, reloj de tiempo real y carrito para suministros y ropa o similares.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos de transporte para abastecimientos, procesamientos y o instrumental o equipos.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.5.b.2 Local para Abastecimientos y Procesamientos Periféricos usados
+* Son las áreas destinadas a la limpieza y depósito transitorio de elementos y materiales usados.
+* Las actividades que se desarrollarán son: recepción de elementos, materiales e instrumental usados u otros.
+* Contará con superficie mínima de 4,00 m² con un lado mínimo de 2,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: asepsia y seguridad.
+* El equipamiento mínimo con que deberá contar es: mesada con pileta, estantes, toallero y carrito para suministros o similares.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos de transporte para abastecimientos, procesamientos.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+En toda la zona restringida y aséptica debería prohibirse los centros de comidas o refrigerios.
+Nota: De contar con un solo Quirófano estas dos Areas Complementarias podrán constituir un solo Local.
+M.II.5.b.3 Depósitos
+* Es la Tecnología / Servicio destinado al almacenamiento transitorio o definitivo de elementos, materiales, herramientas, equipos y/o residuos.
+M.II.5.b.3.a. Depósito de Equipos
+* Son las áreas destinadas al estacionamiento transitorio de equipos médicos.
+* Contará con superficie mínima de 4.00 m² con un lado mínimo de 2.00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: asepsia y seguridad.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos de transporte para abastecimientos de instrumental y o equipos.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.5.b.4 Sala de Reunión de Profesionales
+* Son las áreas destinadas a las funciones técnicas o administrativas.
+* Las actividades más destacadas serán: entrevistas, trabajo de gabinetes, reuniones de programación, coordinación y supervisión.
+* Contará con superficie mínima de 6,00 m² con un lado mínimo de 2,50 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar serán: privacidad y seguridad.
+* El equipamiento mínimo con que contará será: mesa con cajones o similar, sillas, pizarrón o pizarra y papelero.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo, 0.80 m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.5.b.5 Oficinas para Anestesiología
+* Son las áreas destinadas a las funciones técnicas de anestesiología.
+* Las actividades más destacadas serán: reuniones técnicas, de programación, coordinación y supervisión.
+* Contará con superficie mínima de 10,00 m² con un lado mínimo de 3,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar serán: privacidad y seguridad.
+* El equipamiento mínimo con que contará será: mesa con cajones o similar, sillas, pizarrón o pizarra y papelero.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo, 0.80 m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.5.b.6 Oficinas para Conducción
+* Son las áreas destinadas a las funciones técnicas o administrativas.
+* Las actividades más destacadas serán: entrevistas, trabajo de gabinetes, reuniones de programación, coordinación y supervisión.
+* Contará con superficie mínima de 10,00 m² con un lado mínimo de 3,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar serán: privacidad y seguridad.
+* El equipamiento mínimo con que contará será: mesa con cajones o similar, sillas, pizarrón o pizarra y papelero.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo, 0.80 m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+Zona de Cambio y Transferencia
+M.II.5.b.7 Transferencia del Equipo de Salud
+* Es el área destinada al vestuario final del Equipo de Salud.
+* Estará en relación directa al Centro Quirúrgico.
+* Contará con las mismas condicionantes Ambientales, de Climatización, de Ventilación y Presión que el Quirófano.
+* Contará con superficie mínima aproximada de 6,00 m² con un lado mínimo de 2,50 m.
+* El equipamiento mínimo con que deberá contar el Area de Vestuario es: portabolsas para ropa limpia, portabolsas para ropa usada, armario para material limpio, y guardarropas dimensionado acorde a la demanda.
+* Contará con las instalaciones generales y de seguridad correspondientes al Quirófano.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso de elementos de transporte.
+M.II.5.b.8 Transferencia de Paciente No Ambulatorio
+* Es el área destinada a la interfase entre el área semirestringida y restringida, constituye el sistema de esclusa para transferir desde un área hacia la otra a un Paciente No Ambulatorio; el mismo se materializará, mediante el deslizamiento únicamente del plano horizontal, el que podrá ser desde cualquiera de sus dos lados de la camilla.
+* Por otra parte contemplará el estacionamiento transitorio de camillas.
+* Contará con superficie mínima de 4,00 m² y un lado mínimo de 2,00 m, o bien la superficie que sea necesaria según el sistema constructivo que posea el dispositivo de transferencia.
+M.II.5.b.9 Sala de Pre-anestesia
+* Son las áreas destinadas a la preparación pre-anestésica de pacientes para la realización de Tratamientos Quirúrgicos, con el máximo de seguridad tanto para el Paciente, como el Personal, cumpliéndose condiciones de humanización, privacidad, aislamiento, psicofísicas, asepsia y confort necesarios y disponiendo de los recursos físicos, humanos e insumos necesarios de acuerdo a los fines.
+* Se desarrollarán actividades que permitan la preparación pre-anestésica de pacientes para la realización de tratamientos quirúrgicos.
+* Se asegurarán la Humanización y Personalización a la atención del paciente, mediante una adecuada relación Equipo de Salud/Paciente, condiciones de confort, respeto a la privacidad del paciente en todos los aspectos.
+* Toda la información médica deberá ser volcada a la Historia Clínica del paciente conjuntamente con los estudios de diagnóstico y tratamientos practicados.
+* Se localizará en el área de zona de cambio y transferencia de pacientes, pudiéndose ubicar en la zona de circulación semirestringida.
+* Contará con superficie mínima de 12,00 m² (con sanitario incluido) con un lado mínimo de 3,00 m, y crecerá acorde a la demanda del quirófano, y la modalidad operativa del equipo de profesionales anestesistas.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: privacidad, protecciones de seguridad, visuales y sonoras.
+* El equipamiento mínimo con que deberá contar es: lavabo, toallero para descartables, camilla, negatoscopio, recipiente con tapa y papelero, carro para anestesia, para suministros o equipamiento que reemplace al enunciado pero que posibilite el desarrollo de las acciones. Así como disponer de: Aparato para y Electrocardiograma, Desfibrilador -Cardioversor, Ambou Pediátrico y de Adultos, Aparato de Rehabilitación Respiratoria, Monitoreo de presión, volumen, y otras señales que sean necesa- rias, y todo aquel equipo que sea necesario para la preparación pre-anestésica y/o estabilización del paciente.
+* Además de las instalaciones generales contará con boca de techo o de pared y localizada en el área de preparación de 700 Lux, un mínimo de 8 tomacorrientes simples e iluminación general de 300 Lux, Alarma de Paro.
+* Contará con el suministro de todos los Gases Medicinales, e Instalación de Incendio.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20 m de dos Hojas Vaivén.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.5.b.10 Estacionamiento Transitorio de camillas y/o Sillas de ruedas
+* Son las áreas destinadas al estacionamiento transitorio de camillas y/o sillas de ruedas.
+* Contará con superficie mínima de 4,00 m² con un lado mínimo de 2,00 m.
+M.II.5.b.11 Locales Húmedos Sanitarios / Vestuarios para Personal
+* Son las áreas destinadas al cambio de ropa e Higiene del Personal afectado al Area.
+* Los Vestuarios separados por Sexos contarán con superficie mínima de 1 m² por persona considerando la simultaneidad de uso y el Sanitario que corresponderá es el establecido como Sanitario Particular en el Acápite "Locales Húmedos".
+* Las condicionantes ambientales imprescindibles con que deberá contar serán: privacidad y seguridad.
+* El equipamiento mínimo con que contará el Vestuario será: un armario individual por persona estableciéndose la cantidad de acuerdo al número de personas que desarrollen su actividad por turnos y bancos.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo, 0.80 m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+Zona de Circulación sin Restricción
+M.II.5.b.12 Secretaría / Recepción
+* Son las áreas destinadas a la atención de personas con el objeto de brindar información sobre los Tratamientos Quirúrgicos Ambulatorios, realizar la recepción, verificar turnos, llamar a los pacientes y realizar el registro y control (manuales o sistematizados) de Historias Clínicas y Planillas de Citaciones.
+* Su superficie mínima será de 4,00 m² con un lado mínimo de 2,00 m.
+* Contará con las instalaciones generales.
+* El equipamiento mínimo será: sillas, mesa mostrador o equivalente, papelero, perchero, armario y archivo.
+* Como indicador referencial de producción, se estima una producción mínima y máxima de atención de 24 Personas/Hora y 36 Personas/Hora, respectivamente.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo, 0.80 m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+Centro de cómputos interconectado a todas las áreas necesarias.
+M.II.5.b.13 Oficina para entrevista a familiares
+* Son las áreas destinadas a Informar a los Familiares sobre todo lo relacionado con el Estado del Paciente.
+* Las actividades más destacadas serán: reuniones de informativas a Familiares, etc.
+* Contará con superficie mínima de 4,00 m² con un lado mínimo de 2,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar serán: privacidad y seguridad.
+* El equipamiento mínimo con que contará será: mesa, sillas, pizarrón o pizarra y papelero.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo, 0.80 m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.5.b.14 Esperas
+* Son las áreas destinadas a la espera de personas e información y divulgación de acciones de Educación por medios masivos de comunicación.
+* Deben ser independientes de las circulaciones y obtener un fácil ordenamiento del público en relación a las áreas a servir.
+* Su superficie mínima será de aproximadamente 4,00 m² con un lado mínimo de 1,20 m.
+* El equipamiento mínimo será: 4 sillas, papelero, perchero y espacio para sillas de ruedas. Como referencia una producción de 16 Personas/Hora.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+M.II.5.b.15 Depósitos
+* Es el Servicio destinado al almacenamiento transitorio o definitivo de elementos, materiales, herramientas, equipos y/o residuos.
+M.II.5.b.15.1. Depósitos de Medicamentos
+* Area destinada al estacionamiento transitorio o definitivo de medicamentos que puede llegar a constituir con el área de preparación un solo local.
+* Si bien puede ser un local independiente, es conveniente que integre el grupo de los Servicios de Abastecimiento y Procesamiento (Abastecimiento, Esterilización, Lavadero, Farmacia y Alimentación).
+* Se dimensionará en función del volumen de medicamentos y/o drogas que deberán guardarse.
+* El equipamiento mínimo con que deberá contar es: sector para estantes, sector para armarios cerrados y mesadas con pileta.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos de transporte para abastecimientos y procesamientos.
+Ventilación adecuada.
+M.II.5.b.15.2. Depósitos de Limpieza
+* Area destinada al estacionamiento transitorio o definitivo de elementos y utensilios de Limpieza.
+* Es conveniente que se encuentren localizados en cada Servicio de forma periférica y centralizar sólo aquellos elementos, materiales, maquinarias y/o equipos de uso eventual.
+* Se dimensionará en función de los elementos y/o utensilios que deberán guardarse.
+* El equipamiento mínimo con que deberá contar es: sector para estantes, sector para armarios cerrados y mesadas con pileta.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos de transporte para abastecimientos.
+Ventilación adecuada.
+M.II.5.b.15.3. Depósitos de Residuos Comunes y/o Biopatogénicos
+* Area destinada al estacionamiento transitorio de aquellos desechos o elementos materiales orgánicos o inorgánicos en estado sólido o semisólido, que por sus condiciones pueden afectar directa o indirectamente a las personas o causar contaminación del suelo del agua o de la atmósfera, que serán generados con motivos de brindar servicios de atención de salud.
+Se considerará el cumplimiento en un todo de acuerdo a la normativa vigente según reglamentaciones vigentes del Ministerio de Salud y Acción Social.
+* Se dimensionará en función de la cantidad de residuos que deberán estacionarse transitoriamente.
+* El equipamiento mínimo con que deberá contar es: sector para estantes, sector para armarios y mesadas con pileta profunda.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 1.20 m de dos Hojas.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Quirófano y/o Quirófanos— a las que brinden su apoyo.
+UNIDADES DE SALUD DE ALTO RIESGO
+Capítulo I — Alto Riesgo
+A.I CONDICIONES GENERALES DE UNA UNIDAD DE ATENCION DE SALUD EN LA QUE SE REALICEN TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES DE ALTO RIESGO
+A.I.1. Accesibilidad Física: Tipo y Posibilidad de Traslado
+* Se denomina accesibilidad física a la relación entre la ubicación de los recursos existentes y la localización de los usuarios, es decir a los factores físicos que facilitan o entorpecen la utilización de los servicios.
+* Los accesos a la Unidad deben posibilitar un ingreso sin dificultades de los medios de transporte disponibles.
+* Las Unidades de Atención de Salud que brinden Servicio de Cirugía Cardiovascular deberán disponer de algún tipo de medio de traslado ya sea de la propia unidad o de la red de servicios pero a disposición de la misma y acorde a la necesidad, tanto para recibir como para derivar a aquellos pacientes que no puedan hacerlo en forma ambulatoria.
+* La accesibilidad física, según la localización de la Unidad de Atención de Salud, será por:
+Vía Terrestre: acceso por senderos, caminos de tierra y/o pavimentados.
+Vía Fluvial: atracadero.
+Vía Aérea: área cercana para aterrizaje de helicópteros (plaza, claro, cancha, etc.).
+* El tipo y características de la unidad de terrestre cumplirá con las normativas vigentes. En el caso de las unidades de traslado fluviales y aéreas, contarán con el mismo equipamiento que las terrestres.
+A.I.2. Accesos y Circulaciones
+* La Unidad de Atención de Salud se relaciona con el entorno a través de sus accesos, así como los distintos locales de la Unidad se vinculan mediante las circulaciones. Estas podrán materializarse por pasillos y galerías cubiertos con solados continuos, salvándose los desniveles con rampas de pendiente reglamentaria.
+* Los accesos posibilitarán el control de ingresos y estarán debidamente identificados. En todos los casos las circulaciones serán independientes espacialmente de las áreas de trabajo y no presentarán barreras arquitectónicas.
+* Preferentemente los accesos y circulaciones serán diferenciados en técnicos y públicos. Se deberá contar con acceso para unidades de traslado.
+A.I.3. Características Constructivas
+A.I.3.1. Estructuras:
+* Deberán resistir las solicitaciones originadas por las cargas permanentes, las sobrecargas y las cargas accidentales, que puedan producirse por el uso o por fenómenos que tengan relación con su ubicación geográfica.
+A.I.3.2. Cerramientos:
+* Determinarán la compartimentación funcional necesaria según las prestaciones que brinde la Unidad cumpliendo con los requisitos básicos de separación, para asegurar el normal desarrollo de las funciones específicas de cada local. Se materializarán mediante las modalidades constructivas y los materiales que garanticen dichas condiciones.
+* Los solados, paramentos y Cielo rasos se realizarán con materiales que resistan sin degradarse los procedimientos de limpieza, desinfección, decontaminación y esterilización usuales, posibilitando un mantenimiento sencillo, como también la resistencia necesaria a la propagación del Fuego.
+A.I.3.3. Instalaciones:
+* Deberán asegurar el abastecimiento adecuado y oportuno del suministro eléctrico y de fluidos, como también la evacuación y tratamiento de los efluentes contando con todos los elementos para su comando y control. Estos elementos deberán conferir a las instalaciones confiabilidad, seguridad, continuidad de uso y sencillo mantenimiento.
+* Las instalaciones responderán a los reglamentos técnicos, nacionales a jurisdiccionales
+A.I.3.3.a. Instalación Eléctrica:
+* Deberá contar con sistema de puesta a tierra para todos los circuitos de tomacorrientes (monofásicos y trifásicos) conectados a el/los dispositivo/s que surja/n necesario/s según cálculo. Estos deberán independizarse según lo exijan los equipos con que cuente la Unidad para que cumpla con los fines propuestos y las medidas de seguridad necesarias. Las instalaciones poseerán los dispositivos de seguridad eléctrica: protecciones termomagnéticas y fusibles.
+* La línea de tierra se conectará a jabalina verificándose que la misma cumpla con las normas vigentes.
+* Contará con sistema de emergencia central, manual o automático, para suministro de energía eléctrica en accesos, circulaciones, Servicio de Guardia/Emergencia, Internación/Recuperación de Pacientes, Centro Quirúrgico, Unidades de Terapia Intensiva y Coronaria y todos aquellos Servicios o Tecnologías que por su función necesiten suministro sin interrupción.
+* Contará con sistema de energía eléctrica de emergencia de arranque manual o automático para el abastecimiento de bocas de iluminación, ventilación y tomas de equipamiento. De ser manual el sistema de iluminación será de encendido automático alimentado por baterías.
+* Además de los enunciados contarán con sistema de emergencia centralizado automático de suministro de energía eléctrica todos los Servicios de: Centro Quirúrgico, Guardia/Emergencia, Internación/ Recuperación de Pacientes y Terapias Intensivas, Unidad Coronaria y Hemodinamia que viabilicen la resolución del Tercer Nivel de Riesgo.
+* En los Servicios y/o Equipos donde es imprescindible continuidad del suministro, contará con UPS (Fuente de Alimentación Interrumpida), con salida regulada que asegure la supresión de los picos de línea
+* Los circuitos en quirófanos estarán aislados mediante transformador de aislación convenientemente dimensionados para la carga eléctrica a aplicar, dicho circuito incluirá el correspondiente monitor de aislación de línea.
+A.I.3.3.b. Gases medicinales:
+* Contará con el abastecimiento y suministro, centralizado o individual, de aquellos gases (oxígeno, vacío, aire comprimido, etc.) que se requieran. En estos casos deberán garantizar la seguridad tanto para las personas como para el medio físico, natural y construido.
+A.I.3.3.c. Instalación de incendio:
+* Deberá contar como mínimo con mataFuego.s del tipo y clase adecuado en circulaciones y en aquellos locales donde existan factores de riesgo.
+* Contará con instalación de acuerdo a las normas vigentes de cada Jurisdicción.
+* Dispondrá de los medios de salida apropiados para una rápida evacuación, debidamente señalizada.
+A.I.3.3.d. Aislamiento térmico:
+* El sistema de acondicionamiento térmico cumplirá los requisitos necesarios para no generar contaminación ambiental, así como también mantener la temperatura adecuada de acuerdo a las áreas a calefaccionar teniendo en cuenta la función y sus dimensiones.
+* Dicho sistema contemplará la sectorización de la Unidad según grados de asepsia.
+A.I.4. Condiciones de Seguridad
+* La Unidad de Atención de Salud deberá contar entre los distintos Comités con el de Seguridad. Todos los Servicios y/o Tecnologías contarán con un representante cuya tarea consistirá en el reconocimiento de todos los Riesgos de las personas y del medio ambiente, priorizándolos y estableciendo las acciones, además de concientizar y difundir las medidas para que todos los usuarios de la Unidad de Atención Salud cumplan y hagan cumplir lo dispuesto.
+Entre los riesgos a reconocerse están:
+* Control ambiental
+* Electricidad
+* Gases tóxicos
+* Incendios
+* Infecciones
+* Radiaciones
+* Residuos biopatogénicos
+* Residuos peligrosos
+* Y cualquier otro Riesgo que el Comité de Seguridad determinara
+* Se establecerán las medidas preventivas y contingentes, el plan de emergencias, la frecuencia de simulacros de emergencias y el programa de capacitación del personal y asignación de roles.
+* Cada Unidad de Atención de Salud elaborará los planes de acciones según lo establecido por su Comité.
+A.I.5. Comunicación (Medios de Comunicación y Señalización)
+* Se considera como medio de comunicación a todos aquellos canales o vías de comunicación establecidas ya sea por redes de servicios telefónicos, telefonía celular, radios, carteles indicadores visuales, medios sonoros, indicadores, señales o cualquier otro medio que posibilite establecer los mecanismos de información necesaria tanto para los usuarios como para establecer los sistemas de Contrarreferencia para consolidar la resolución según Niveles de Riesgos con criterio de Complejidad creciente.
+* Cada Unidad de Atención de Salud deberá contar con cualquiera de los medios enunciados o cualquier otro que permita la ubicación rápida y efectiva localización y/o ubicación de los servicios, medios de salida, locales públicos, y/o cualquier otro sitio que fuera necesario comunicar, etc.
+* Cada Unidad de Atención de Salud deberá contar con cualquiera de los medios enunciados que aseguren la efectivización de las derivaciones o pases a Unidades de Atención de Salud de mayor o menor Nivel de Resolución, según funcione como efector de referencia o contrareferencia.
+A.I.6. Condiciones de Operación de Planta de la Unidad de Atención de Salud
+* La Unidad de Atención de Salud garantizará la permanente disponibilidad de los Recursos Físicos en operación y deberá contar con un plan de mantenimiento integral ya sea propio, contratado o tercerizado que garantice el normal funcionamiento continuo e ininterrumpido de forma oportuna, eficiente y efectiva.
+A.I.7. Servicios Complementarios
+* Contará con los servicios de Información/Estadísticas, Comunicación (dimensionada acorde al rol de la unidad y el nivel de resolución que brinde), Confort (Vestuarios, Dormitorios de Guardia, Salas de Estar, etc.), Conservación y Operación de Planta (según criterios del punto B.I.6.), Limpieza, Seguridad y Vigilancia y Transporte para traslado intra y extra nodo para pacientes no ambulatorios y/o con minusvalías.
+A.I.7.1. Locales Húmedos
+Nota: todos estos locales podrán ser compartidos o exclusivos y estarán dimensionados acorde a la cantidad de unidades funcionales a las que brinden su apoyo.
+A.I.7.1.a. Sanitarios
+* Son las áreas destinadas a la higiene de pacientes y/o personal
+* En cualquier caso, estarán vinculados con el resto de las áreas mediante circulaciones cerradas; no pudiendo en ningún caso constituirse en servidumbre de paso.
+* Contarán con puertas de acceso de una luz libre que permita el paso cómodo de sillas de rueda. La apertura será hacia afuera o corredizas.
+* La accesibilidad a cualquiera de los artefactos no constituirá ningún impedimento, o barrera arquitectónica.
+* Relación de los Sanitarios según sus Usos.
+Serán Consideradas como Mínimas las Siguientes Relaciones:
+Dormitorios / Habitaciones un Núcleo Sanitario cada 4 Camas
+Estar / Comedor un Núcleo Sanitario cada 25 Residentes
+Consultorios un Núcleo Sanitario cada 4 Consultorios
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: De Angulos redondeados, Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 0.90 m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+A.I.7.1.b Constitución De Los Núcleos Sanitarios
+Individuales (Para uso exclusivo)
+Inodoro
+Lavabo
+Ducha
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espejo y Recipiente con Tapa.
+Particulares (Para uso exclusivo de un área)
+Idem individual
+Bidet
+Generales (Para uso de cualquier usuario)
+Inodoro
+Mingitorio
+Lavabo
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espejo, recipiente con tapa.
+Personal (Para uso del personal)
+Sanitario completo
+Inodoro
+Bidet
+Lavabo
+Ducha
+Accesorios: portarrollos de papel higiénico, toallero, percha doble, espera, recipiente con tapa.
+Inodoro Clínico(Para uso del personal)
+Inodoro Clínico
+Lavabo
+Constituirá un Recinto cerrado e Independiente, y con las condicionantes ambientales de higiene y seguridad que aseguren su correcto funcionamiento.
+A.I.7.1.c Vestuarios Personal
+* La superficie mínima será de 3 m² y aumentará 0.50 m² por persona según sexos y cantidad; su relación de lado mínimo de 1.50 m y se ajustará a la normativa vigente jurisdiccional de locales de ese tipo.
+* Contará con armarios y bancos de apoyo.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo de Paso Libre, 0.90 m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+* Todas las Unidades contarán con los servicios enunciados de forma exclusiva o compartidos y estarán dimensionados acorde a las necesidades de cada establecimiento.
+A.I.8. Servicios de Abastecimiento y Procesamiento
+* Deberá contar con todos los servicios de abastecimientos y procesamientos (alimentación, farmacia, lavadero, y esterilización) sean con personal y equipos propios, contratados o tercerizados que aseguren los suministros y procesamientos en forma oportuna, eficiente y efectiva.
+* Todos los Servicios contarán con las unidades funcionales y áreas complementarias necesarias y dimensionadas acorde a los requerimientos de la Unidad.
+A.I.8.1 Abastecimientos
+* Contará con depósito central único sectorizado o depósitos individuales para cada tipo de abastecimientos, y depósitos periféricos limpios y usados en cada servicio para abastecimientos de: Materiales en General, de Mantenimiento, Farmacia, y/o Despacho de Farmacia, Alimentación, Lavadero, y Esterilización, local para acumulación de residuos y locales periféricos en cada servicio para residuos comunes y biopatogénicos.
+A.I.8.2. Procesamientos
+* Contará con todos los Locales necesarios para realizar los procesamientos de: Alimentación, Lavadero, Esterilización, y Residuos.
+Así mismo cada servicio que lo requiera contará con locales para procesamientos periféricos limpios y usados para Enfermería, Alimentación, Ropería, Limpieza, etc.
+A.I.9. Grados de Relación de la Tecnología / Servicio de Tratamientos Quirúrgicos Cardiovasculares con la totalidad de las Tecnologías / Servicios de la Unidad de Atención de Salud
+Directa: locales adyacentes o comunicados mediante una abertura.
+Semidirecta: locales vinculados a través de una circulación horizontal con distancias cortas y vertical, por medios mecánicos de tipo montacamillas.
+Indirecta: locales en distintos niveles, vinculados mediante escaleras o circulaciones con distancias muy importantes.
+Indiferente: Locales cuya ubicación es indistinta, sea cual fuere la misma.
+Ver Cuadro 1-9
+Capítulo II — Alto Riesgo
+A.II LOS RECURSOS FISICOS NECESARIOS PARA EL DESARROLLO DE TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES EN UN EFECTOR DE ALTO RIESGO EN SUS DISTINTAS MODALIDADES OPERATIVAS SON LAS SIGUIENTES:
+A.II.1. Consultorios Externos para brindar las prestaciones de Atención Ambulatoria Programada.
+A.II.2. Guardia de Emergencia para Atención de Emergencias.
+A.II.3. Internación de Cuidados Básicos, Intermedios, Intensivos y Unidad Coronaria para la Atención de Internación con Criterio de Cuidados Progresivos.
+A.II.4. Unidades Móviles de Traslado Sanitario para la Atención Domiciliaria de Urgencias.
+A.II.5. Quirófanos, Centros Quirúrgicos y Recuperación de Pacientes para el desarrollo de Tratamientos Quirúrgicos Cardiovasculares, Programados y de Emergencias en Cirugía Cardiovascular de Alto Riesgo
+A.II.1 Consultorios Externos
+* Las Unidades de Atención de Salud que cuenten con Consultorios Externos para Prestaciones de Tratamientos Quirúrgicos Cardiovasculares contarán con las siguientes Unidades Funcionales y Areas Complementarias.
+A.II.1.a. Unidades Funcionales
+* Responderán a las mismas características establecidas para las Unidades Funcionales (B.II.1.a.1.) del Bajo Riesgo.
+A.II.1.b Areas Complementarias
+* Responderán a las mismas características establecidas para las Areas Complementarias (B.II.1.b.1. / 6) del Bajo Riesgo.
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Consultorios— a las que brinden su apoyo.
+A.II.2. Guardia de Emergencias
+* Las Unidades de Atención de Salud que cuenten con Guardia de Emergencias para Prestaciones de Cirugía Cardiovascular No Programadas o de Urgencia contarán con las siguientes Unidades Funcionales y Areas Complementarias.
+A.II.2.a. Unidades Funcionales
+* Las Unidades de Salud que cuenten con Guardia de Urgencia/Emergencia para Prestaciones de Clínica Quirúrgica Cardiovascular No Programadas y de Urgencia contarán con las mismas características enunciadas para las Unidades Funcionales (B.II.1.a.1) de los ConsultorioExternos más todas aquellas Unidades Funcionales que requiera el Servicio de Guardia acorde al Rol de esa Unidad de Atención de Salud. Ejemplo. Shock -Room
+A.II.2.a.1. Shock - Room
+* Son las áreas destinadas a la Atención de Pacientes en estado Crítico en la "Modalidad de Guardia de Emergencias para el Servicio de Cirugía Cardiovascular" con criterio integral de atención para acciones de atención de patologías y estabilización del paciente para luego pasar al servicio/ tecnología o Modalidad Operativa que corresponda.
+* Se desarrollarán actividades que permitan la Compensación/Estabilización del Paciente tales como el control de signos vitales, tratamientos, y/o curaciones, preparación para intervenciones de Urgencia, o eventual traslado a un Nivel de mayor Resolución etc.
+* Se asegurarán la Humanización y Personalización a la atención del paciente y acompañantes mediante una adecuada relación Equipo de Salud/Paciente, condiciones de confort, respeto a la privacidad del paciente en todos los aspectos especialmente en las de Examen Físico y Vestuario.
+* Toda la información médica deberá ser volcada a la Historia Clínica del paciente conjuntamente con los estudios de diagnóstico y tratamientos practicados.
+* Cuando se realicen prestaciones que requieran preparación o higiene del paciente y/o prestaciones de Enfermería, es deseable que se cuente con sanitarios tipo individual incluido.
+* Contará con superficie mínima de 12,00 m² (con sanitario incluido) con un lado mínimo de 3,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: privacidad, protecciones de seguridad, visuales y sonoras.
+* El equipamiento mínimo con que deberá contar es: lavabo, toallero para descartables, escritorio, sillas, camilla, balanza, negatoscopio, recipiente con tapa y papelero y carro de suministros y curaciones o equipamiento que reemplace al enunciado pero que posibilite el desarrollo de las acciones. Así como disponer de: Aparato para Electrocardiograma, Portátil de Rayos X, Desfibrilador - Cardioversor, Ambou de Adultos, Aparato de Rehabilitación Respiratoria, Monitoreo de presión, volumen, y otras señales que sean necesarias, oxímetro, oxicapnógrafo, drenajes, y todo aquel equipo que sea necesario para Estabilización de Paciente.
+* Además de las instalaciones generales contará con boca de techo o de pared y localizada en el área de examen de 3000 Lux, un mínimo de 8 tomacorrientes simples e iluminación general de 1000 Lux, Alarma de Paro cardíaco y llamada de Enfermería
+* Contará con el suministro de todos los Gases Medicinales, Instalaciones de Incendio y Seguridad
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables y Angulos Redondeados.
+Paredes: Superficies Lavables Lisas, sin Molduras, Angulos Redondeados, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Angulos Redondeados, Lisas Aislantes y Resistentes al Fuego.
+Puertas: Ancho Mínimo de Paso Libre, 1.20 m de dos Hojas.
+A.II.1.b. Areas Complementarias
+* Las Unidades de Salud que cuenten con Guardia de Emergencia para Cirugía Cardiovascular No Programadas o de Emergencia contarán con las mismas características enunciadas para las Areas Complementarias (B.II.1.b.1 / 6) de los Consultorios Externos más todas aquellas Areas Complementarias que requiera el Servicio de Emergencia (M.II.1.b.1.) acorde al Rol de esa Unidad de Atención de Salud.
+NOTA: Contará con aquellas Areas Complementarias que de acuerdo a la Demanda requiera, y éstas podrán ser compartidas o exclusivas y estarán dimensionados acorde a la cantidad de unidades funcionales —Consultorios Shock-Room— a las que brinden su apoyo.
+A.II.3 Internación de Cuidados Básicos e Intermedios
+* Las Unidades de Atención de Salud que cuenten con Internación de Cuidados Básicos e Intermedios para Prestaciones de Cirugía Cardiovascular contarán con las siguientes Unidades Funcionales y Areas Complementarias.
+A.II.1.a. Unidades Funcionales
+* Responderán a las mismas características establecidas para las Unidades Funcionales (M.II.3.a.1.) y (M.II.3.a.2.) del Mediano Riego.
+A.II.3.b. Areas Complementarias
+* Las Unidades de Atención de Salud que cuenten con Internación de Cuidados Básicos e Intermedios contarán con las mismas características enunciadas para las Areas Complementarias (M.II.3.b.1 / 15) de los del Mediano Riesgo más todas aquellas Areas Complementarias que requiera el Servicio de Internación acorde al Rol de esa Unidad de Atención de Salud
+A.II.4. Unidades Móviles de Traslado Sanitario
+* El tipo y características de la unidad de terrestre cumplirá con las normativas vigentes. En el caso de las unidades de traslado fluviales y aéreas, contarán con el mismo equipamiento que las terrestres.
+A.II.5. Quirófanos o Centros Quirúrgicos
+* Son las áreas destinadas para la realización de Tratamientos Quirúrgicos Cardiovasculares Programados o de Urgencia con el máximo de seguridad para el Paciente y Personal, cumpliéndose condiciones de Aislamiento, Bio-Psicofísicos, asepsia y confort necesarios y disponiendo de los Recursos Humanos, Físicos, y materiales adecuados a los fines propuestos.
+* En los casos en que se cuente con más de tres unidades funcionales —Quirófano— el mismo constituirá un Centro Quirúrgico
+A.II.5.a. Unidades Funcionales
+* Responderán a las mismas características establecidas para las Unidades Funcionales (M.II.3.a.1../ 3) del Mediano Riesgo, acorde al Rol de la Unidad de Atención de Salud
+Zona de Circulación Restringida
+A.II.5.a.1. Quirófanos / Centro Quirúrgico
+* Responderán a las mismas características establecidas para el Mediano Riesgo (M.II.1.a.1 / 3)
+* Además de las actividades de Conducción, Supervisión Médica, Anestesiología y Enfermería, la del Perfusionista formará parte también de la Zona Semirrestringida.
+* El equipamiento mínimo con que deberá contar además del enunciado para el Mediano Riesgo, será una bomba de circulación extracorpórea
+A.II.5. b. Areas Complementarias
+* Responderán a las mismas características establecidas para el Mediano Riesgo (M.II.1.b.1 / 15) y a las que a continuación se detallan.
+Zona de Circulación Semirrestringida
+* Responderán a las mismas características establecidas para el Mediano Riesgo (M.II.1.a.1 / 15) del
+A.II.5.b.1 Depósitos
+* Es el Servicio/Tecnología destinado al almacenamiento transitorio o definitivo de elementos, materiales, herramientas, equipos y/o residuos.
+A.II.5.b.1.a. Depósito de Equipos (Bombas)
+* Son las áreas destinadas al estacionamiento transitorio de equipos médicos, como ser balón de contrapulsación, bomba tipo Roller (extracorpórea), bomba centrífuga (para asistencia circulatoria), y material descartable, entre otros.
+* Contará con superficie mínima de 4.00 m² con un lado mínimo de 2.00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar son: asepsia, humedad ambiente adecuada para ese tipo de equipos y seguridad.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: de acceso de luz libre, que permita el paso cómodo de elementos de transporte para abastecimientos de instrumental y o equipos
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+A.II.5.b.2 Oficina para Perfusionista
+* Son las áreas destinadas a las funciones técnicas del perfusionista
+* Las actividades más destacadas serán: reuniones técnicas, de programación, coordinación y supervisión.
+* Contará con superficie mínima de 6,00 m² con un lado mínimo de 3,00 m.
+* Las condicionantes ambientales imprescindibles con que deberá contar serán: privacidad y seguridad.
+* El equipamiento mínimo con que contará será: mesa con cajones o similar, sillas, pizarrón o pizarra y papelero.
+* Contará con todas las instalaciones generales.
+* Características Constructivas
+Pisos: Resistentes al Desgaste, Lisos, Antideslizantes, Lavables, Continuos, Impermeables.
+Zócalos: Impermeables.
+Paredes: Superficies Lavables Lisas, sin Molduras, Aislantes y Resistentes al Fuego.
+Cielo rasos: Superficies Fácilmente lavables, Lisas Aislantes y Resistentes al Fuego.
+Aberturas: Cerramientos Efectivos, con Protección contra Insectos y Asoleamiento.
+Puertas: Ancho Mínimo, 0.80m.
+Ventanas: Medidas Necesarias para Brindar las Condiciones mínimas de Habitabilidad.
+Zona de Circulación sin Restricción
+* Responderán a las mismas características establecidas para el Mediano Riesgo (M.II.1.a.1 / 15)
+A.II.5. b. Areas Complementarias
+* Responderán a las mismas características establecidas para el Mediano Riesgo (M.II.1.b.1 / 15)
+RECURSOS HUMANOS
+TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES EN UNIDADES DE ATENCION DE SALUD DE BAJO RIESGO
+Capítulo B.III. — Bajo Riesgo -
+B.III PERFIL DE LOS RECURSOS HUMANOS QUE INTERVIENEN EN LA REALIZACIÓN DE TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES DE BAJO RIESGO EN SERVICIOS O UNIDADES DE ATENCION DE SALUD
+B.III.1. Consultorios Externos / Guardia
+* Los actos médicos estarán a cargo de un profesional médico con título habilitante de "Especialista en Cirugía Cardiovascular" y/o "Vascular" otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente que responderá organizacionalmente acorde a la modalidad operativa del Servicio o de la Unidad de Atención de Salud en la que se encuentre inserta. Se desarrollarán aquellos procedimientos enunciados oportunamente, y acorde al nivel de riesgo que dicho Servicio o Unidad de Atención de salud resuelva. Por otra parte participará con la totalidad de los profesionales del Servicio o de la Unidad de Atención de Salud con el objeto de responder al criterio de atención de la salud en su forma integral e integrada.
+* Los Consultorios Externos como la Guardia, podrán ser atendidos por un profesional médico con título habilitante de la Especialidad Básica, en este caso "Especialista en Cirugía General" y realizando la educación profesional para graduados de postgrado en escuelas médicas, con capacitación en servicio a tiempo completo y en un plazo determinado a fin de prepararlos para la práctica integral, científica, técnica y social de la especialidad (Especialista en Cirugía Cardiovascular y/o Vascular) —Programa de Residencias Médicas— la Residencia aunque aun no haya recibido el Título de Especialista en Cirugía Cardiovascular y/o Vascular, supervisado por el encargado del nivel que debe poseer dicho Título de Especialista.
+* Los actos médicos serán asistidos en caso de ser necesario por los "Colaboradores de la Salud" como son los: Enfermeros Profesionales o Auxiliares de Enfermería, como así también contará con personal capacitado, acorde al nivel para la realización de actividades administrativas técnicas y de atención al público.
+* En cuanto a la relación médico / colaboradores de la salud, la misma responderá a la demanda y el nivel de resolución que se brinde en el servicio o la unidad de atención de salud.
+Capítulo M.III. — Mediano Riesgo
+M.III PERFIL DE LOS RECURSOS HUMANOS QUE INTERVIENEN EN LA REALIZACION DE TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES DE MEDIANO RIESGO EN SERVICIOS O UNIDADES DE ATENCION DE SALUD
+M.III.1. Consultorios Externos
+M.III.2. Guardia de Urgencia/Emergencia.
+M.III.3. Internación de Cuidados Básicos, Intermedios, Intensivos y Unidad Coronaria
+M.III.4. Unidades Móviles de Traslado Sanitario
+M.III.5. Quirófanos, Centros Quirúrgicos y Recuperación de Pacientes
+* Los actos médicos estarán a cargo de un profesional médico con título habilitante de "Especialista en Cirugía Cardiovascular" y/ó "Vascular" otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente que responderá organizacionalmente acorde a la modalidad operativa del Servicio o de la Unidad de Atención de Salud en la que se encuentre inserta. Se desarrollarán aquellos procedimientos enunciados oportunamente, y acorde al nivel de riesgo que dicho Servicio o Unidad de Atención de salud resuelva. Por otra parte participará con la totalidad de los profesionales del Servicio o de la Unidad de Atención de Salud con el objeto de responder al criterio de atención de la salud en su forma integral e integrada.
+* Los Consultorios Externos, la Guardia, la Internación y Quirófanos podrán ser atendidos por un profesional médico con título habilitante de la Especialidad Básica, en este caso "Especialista en Cirugía General" y realizando la educación profesional para graduados de postgrado en escuelas médicas, con capacitación en servicio a tiempo completo y en un plazo determinado a fin de prepararlos para la práctica integral, científica, técnica y social de la especialidad (Especialista en Cirugía Cardiovascular y/o Vascular) —Programa de Residencias Médicas— la Residencia aunque aun no haya recibido el Título de Especialista en Cirugía Cardiovascular y/o Vascular, supervisado por el encargado del nivel que debe poseer dicho Título de Especialista.
+* Los profesionales médicos que realicen en Quirófano procedimientos donde se utilicen radiaciones deberán tener aprobado y registrado por el Ministerio de Salud de la Nación, el "Curso de Radiofísica Sanitaria" acorde a la normativas vigentes.
+* Los actos médicos serán asistidos en caso de ser necesario por los "Colaboradores de la Salud" como son los: Enfermeros Profesionales o Auxiliares de Enfermería, así como también contará con personal capacitado acorde al nivel para la realización de actividades administrativas técnicas y de atención al público.
+* En cada Unidad Funcional Quirófano se deberá contar con Un (1) Profesional Médico Especialista en Anestesiología con experiencia en Cirugía Cardiovascular y/o Vascular.
+* En cuanto a la relación médico/colaboradores de la salud, la misma responderá a la demanda y el nivel de resolución que se brinde en el servicio o la unidad de atención de salud.
+* Los Quirófanos, Centros Quirúrgicos y Area de Recuperación de Pacientes, deberán contar con los "Colaboradores de la Salud" que a continuación se detallan:
+En quirófanos (área restringida)
+* En cada Unidad Funcional Quirófano deberá contarse con:
+Un (1) Jefe de Quirófano que deberá ser Licenciado en Enfermería o Instrumentadora Quirúrgica con Cinco (05) años de experiencia en la especialidad.
+Una (1) Instrumentadora con Tres (03) años o más en la especialidad certificados por un Jefe de Servicio de la Especialidad.
+Un (1) "Colaborador de la Salud" cuyo perfil podrá ser Instrumentadora Quirúrgica en formación y que podrá asistir hasta Cuatro (4) Unidades Funcionales Quirófano.
+Una (1) Enfermera Circulante por cada quirófano
+Un (1) "Colaborador de la Salud" cada 4 quirófanos, quien debe tener título de Enfermera Profesional o Instrumentadora Quirúrgica con mas de (2) dos años de antigüedad en la especialidad.
+Por otra parte y acorde a la demanda y a la política operacional del servicio podrá contar con 1 (Un) Técnico o un Auxiliar en Anestesiología.
+En cuanto a los recursos humanos de apoyo para tareas eventuales de limpieza cuya capacitación y perfil estará delimitado para actividades afines a áreas con restricciones por grados de asepsia se cuantificará acorde a las condicionantes funcionales, la demanda y en ningún caso serán inferiores a Una (1) persona, cada dos unidades funcionales quirófano.
+En áreas de Recuperación de Pacientes (Post-Quirúrgico) deberá contarse con:
+Un (1) Jefe de Recuperación Cardiovascular profesional médico especialista en Cardiología y/ o Terapia Intensiva con título habilitante otorgado por la autoridad jurisdiccional competente, con Curso aprobado de "Recuperación Cardiovascular" habilitante, otorgado por la Sociedad Científica autorizada.
+Un (1) Profesional Médico Especialista en Cardiología y Recuperación Cardiovascular de Guardia, con Curso aprobado de "Recuperación Cardiovascular" habilitante, otorgado por la Sociedad Científica autorizada, las 24 hs cuantificado acorde a la demanda y a la reglamentación vigente.
+Un (1) Jefe de Enfermería con título habilitante de Licenciado en Enfermería otorgado por la autoridad jurisdiccional competente.
+"Colaboradores de la Salud" con título habilitante de Enfermería Profesional otorgado por la autoridad jurisdiccional competente; especializada en Recuperación Cardiovascular, con experiencia probada de acuerdo a lo establecido en las políticas operacionales del servicio y cuantificada en función de la demanda.
+En cuanto a los recursos humanos de apoyo para tareas eventuales de limpieza cuya capacitación y perfil estará delimitados para actividades afines a áreas con restricciones por grados de asepsia se cuantificará acorde a las condicionantes funcionales, la demanda y en ningún caso serán inferiores a Una (1) persona, cada dos unidades funcionales puesto o cama.
+* En caso de contar con un Servicio de Cirugía Cardiovascular en una Unidad de Atención de Salud, el mismo deberá contar con:
+* Jefe de Servicio a cargo de un profesional médico con título habilitante de "Especialista en Cirugía Cardiovascular" y/ó "Vascular" otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente con un mínimo de 10 (diez) años de experiencia en la especialidad médica mencionada, y con antecedentes expresos de formación en administración de servicios de salud, por otra parte será el responsable administrativo y asistencial ante las autoridades de la Unidad de Atención de Salud si así fuese establecido por la política y el plan de la estructura organizacional.
+* De acuerdo a lo establecido por las políticas y el plan de la estructura organizacional el jefe de servicio entre otras deberá cumplir las siguientes funciones:
+— Organizar el servicio a su cargo respondiendo los objetivos y al plan definido para la Unidad de Atención de Salud.
+— Cumplir con las normativas de organización y funcionamiento, de diagnóstico y tratamiento y procedimientos y gestión del servicio acorde a los fines establecidos.
+— Cumplir y hacer cumplir todas las reglamentaciones vigentes, tanto las propias del servicio, como las emanadas de la superioridad intra y extra institucional.
+— Gerenciar mediante un sistema de gestión de calidad los recursos físicos, como humanos a su cargo.
+— Planificar, Programar e Implementar las acciones necesarias para el cumplimiento de las políticas y el plan de la estructura organizacional con criterios de incremento de la productividad a través de la utilización de conceptos de mejoramiento continuo, el reconocimiento cualificado y cuantificado de las necesidades de los usuarios para dar cumplimiento a su satisfacción y el diseño de los resultados mediante el control sistemático y controlando con eficacia los procesos.
+— Organizar, Coordinar, Observar, Inspeccionar, Supervisar, Monitorear, Evaluar, Fiscalizar, y Verificar tanto los procesos como los resultados y su impacto biopsicosocial.
+— Cuantificar y Cualificar la dotación del recurso humano, tanto profesionales médicos como colaboradores de la salud del servicio a su cargo, considerando la demanda a cubrir.
+— Participar en la selección del personal médico, técnico, auxiliar y administrativo.
+— Asignar responsabilidades y tareas a todos los recursos humanos a su cargo con el objeto de evaluar la calidad de la atención del servicio, la satisfacción de los usuarios internos y externos, la relación costo-beneficio y la interrelación del servicio a su cargo con el resto de los servicios de la Unidad de Atención de Salud.
+— Dimensionar, Planificar y Programar financieramente los recursos (físicos, humanos y financieros) necesarios para dar cumplimiento a los objetivos del servicio teniendo en cuenta los criterios de oportunidad, costos adecuados y utilización de tecnología apropiada.
+— Organizar, Coordinar y Supervisar el registro sistémico ininterrumpido por el lapso que fijen las políticas de la Unidad de Atención de Salud que serán las que posibilitaran reconocer el grado de mejora continua y los desvíos que puedan producirse alejándose de los objetivos fijados en las políticas de la Unidad de Atención de Salud.
+— Planificar, Programar y Ejecutar programas de capacitación y mejora continua de los procesos de gestión de la calidad y de los resultados, así como también la satisfacción de todos los actores potencializando la estimulación de la capacitación continua.
+— Seleccionar y designar responsables en las comisiones, comités o grupos de trabajo en los intervenga el servicio ejemplo: Comités de Prevención de Infecciones, Docencia e Investigación, etc.)
+— Organizar y Promover actividades de Investigación Clínica y Experimental así como también Capacitación Continua en las distintas temáticas del Servicio.
+* Respondiendo también a la política operacional la Unidad de Atención de Salud contará con:
+Personal Profesional Propio como ser:
+— Médicos de Planta, los que deberán poseer: Título habilitante de "Especialista en Cirugía Cardiovascular y/o Vascular otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente
+— Entre las funciones que desarrollarán se encuentran las de atención de pacientes, ambulatorios, no ambulatorios e internados; docencia e investigación entre otras.
+— Formarán parte de los equipos que desarrollen los procedimientos quirúrgicos del servicio.
+—Colaboradores de la Salud con título habilitante de Enfermería Profesional otorgado por la autoridad jurisdiccional competente; especializado en Cardiovascular y/o Vascular y cuantificado en función de la demanda.
+— Personal Administrativo, con el perfil que surja del rol y el Nivel de Riesgo de la Unidad de Atención de Salud.
+— Personal de Apoyo para Tareas Complementarias entre otras la de Limpieza, Seguridad etc, acorde con el perfil que surja del rol y el Nivel de Riesgo de la Unidad de Atención de Salud.
+Capítulo A.III. — Alto Riesgo
+A.III PERFIL DE LOS RECURSOS HUMANOS QUE INTERVIENEN EN LA REALIZACION DE TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES DE ALTO RIESGO EN SERVICIOS O UNIDADES DE ATENCION DE SALUD
+A.III.1. Consultorios Externos
+A.III.2. Guardia de Emergencia.
+A.III.3. Internación de Cuidados Básicos, Intermedios, Intensivos y Unidad Coronaria
+A.III.4. Unidades Móviles de Traslado Sanitario
+A.III.5. Quirófanos, Centros Quirúrgicos y Recuperación de Pacientes
+* Responderán a los mismas perfiles delimitados para el Mediano Riesgo y se incorporan las requisitos que a continuación se detallan:
+* Los actos médicos estarán a cargo de un profesional médico con título habilitante de "Especialista en Cirugía Cardiovascular" otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente que responderá organizacionalmente acorde a la modalidad operativa del Servicio o de la Unidad de Atención de Salud en la que se encuentre inserta. Se desarrollarán aquellos procedimientos enunciados oportunamente, y acorde al nivel de riesgo que dicho Servicio o Unidad de Atención de salud resuelva. Por otra parte participará con la totalidad de los profesionales del Servicio o de la Unidad de Atención de Salud con el objeto de responder al criterio de atención de la salud en su forma integral e integrada.
+* Los profesionales médicos que realicen en Quirófano procedimientos donde se utilicen radiaciones deberán tener aprobado y registrado por el Ministerio de Salud de la Nación, el "Curso de Radiofísica Sanitaria" acorde a la normativas vigentes.
+* Los tratamientos quirúrgicos que se realicen en Quirófano cuyos procedimientos requieran de la asistencia de un Perfusionista, acorde a las políticas operacionales del servicio, podrá ser un profesional médico especialista en Cardiología o Colaborador de la Salud —Perfusionista— que deberá poseer en cualquiera de los casos, curso habilitante otorgado por el Capítulo Argentino de Perfusión y Asistencia Circulatoria (C.A.P.A.C.), dependiente del Consejo de Cirugía Cardiovascular o por la autoridad jurisdiccional competente.
+* Contará el Servicio de Cirugía Cardiovascular en una Unidad de Atención de Salud, con:
+* Jefe de Servicio, a cargo de un profesional médico con título habilitante de "Especialista en Cirugía Cardiovascular" otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente con un mínimo de 10 (diez) años de experiencia en la especialidad médica mencionada, y con antecedentes expresos de formación en administración de servicios de salud, por otra parte será el responsable administrativo y asistencial ante las autoridades de la Unidad de Atención de Salud si así fuese establecido por la política y el plan de la estructura organizacional.
+* En los casos que por razones de estructura organizacional y demanda lo requiriera el servicio de cirugía cardiovascular contará con un:
+* Subjefe de Servicio, que deberá reunir los siguientes requisitos: un profesional médico con título habilitante de "Especialista en Cirugía Cardiovascular" otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente con un mínimo de 10 (diez) años de experiencia en la especialidad médica mencionada, y con antecedentes expresos de formación en administración de servicios de salud, por otra parte será el responsable administrativo y asistencial ante las autoridades de la Unidad de Atención de Salud si así fuese establecido por la política y el plan de la estructura organizacional; y ante su ausencia dicha responsabilidad será delegada a un profesional médico de planta especialista en Cirugía Cardiovascular.
+— De acuerdo a lo establecido por las políticas y el plan de la estructura organizacional el subjefe de servicio entre otras deberá cumplir las siguientes funciones:
+— Ante la ausencia del jefe del servicio el subjefe deberá asumir todas las funciones del mismo.
+— Participar activamente en colaboración con el jefe del servicio, en las actividades de organización, coordinación, supervisión, fiscalización monitorización y evaluación de los procesos, resultados e impacto biopsicosocial del servicio.
+— Participar e intervenir en las actividades de capacitación continua, investigación clínica y experimental.
+— Supervisar e Intervenir en la implementación del registro sistémico ininterrumpido de los indicadores de calidad, producción, satisfacción de usuarios y rendimiento entre otros.
+— Promover e Implementar rutinas de buen uso y mantenimiento integral en todo lo concerniente a equipamiento médico con criterios de utilización de tecnología adecuada.
+* De acuerdo a lo establecido por los criterios de las políticas el plan de la estructura organizacional y los criterios de gestión acorde al mismo, podrá o no contarse con un:
+* Jefe de Sector o de Sección, cuyo perfil estará delimitado por un profesional médico habilitante de "Especialista en Cirugía Cardiovascular" otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente con un mínimo de 6 (seis) años de experiencia en la especialidad médica mencionada, que de acuerdo a lo establecido por las políticas y el plan de la estructura organizacional entre otras, deberá cumplir con las siguientes funciones:
+— Colaborar con la superioridad en las tareas asistenciales, administrativas, de docencia e investigación.
+— Coordinar y controlar la actividad asistencial y administrativa del sector.
+— Colaborar con el jefe en la conducción y evaluación del personal.
+* Cuando las Unidades de Atención de Salud cuenten con Centros Quirúrgicos cuyo número de quirófanos según lo estime la conducción del establecimiento lo justifique contarán con un:
+* Coordinador de Centro Quirúrgico, el mismo estará a cargo de un profesional médico habilitante de "Especialista en Cirugía Cardiovascular" otorgado por el Colegio Argentino de Cirujanos Cardiovasculares, y la autoridad jurisdiccional competente con un mínimo de 6 (seis) años de experiencia en la especialidad médica mencionada.
+— De acuerdo a lo establecido por las políticas y el plan de la estructura organizacional el Coordinador de Centro Quirúrgico, entre otras deberá cumplir las siguientes funciones:
+— Coordinar y supervisar la labor de los profesionales médicos cirujanos cardiovasculares, anestesistas perfusionista, colaboradores de la salud y de todos aquellos recursos humanos que brindan apoyo en el desarrollo de los tratamientos quirúrgicos cardiovasculares.
+— Coordinar la puesta en operación, el funcionamiento y la programación diaria de las actividades del centro quirúrgico con la conducción de las distintas disciplinas participantes en el desarrollo de los tratamientos quirúrgicos cardiovasculares (Tratamientos Quirúrgicos, Cardiología Anestesiología, Perfusión, Enfermería, Instrumentación Quirúrgica, Análisis Clínicos, Imagenología, Esterilización, entre otras)
+— Verificar el cumplimiento de las normativas de organización y funcionamiento, de diagnóstico y tratamiento y procedimientos y gestión del servicio acorde a los fines establecidos, así como también las reglamentaciones vigentes, tanto las propias del servicio, como las emanadas de la superioridad intra y extra institucional.
+— Controlar y supervisar el normal suministro oportuno, en forma, cantidad, calidad y acorde a la tecnología adecuada (recursos humanos, recursos físicos, acondicionados con todas las medidas de seguridad, instalaciones y mantenimiento necesarios e insumos, medicamentos, material descartable, instrumental, ropa, entre otras,) que permitan el normal desarrollo de los procedimientos quirúrgicos cardiovasculares.
+— Coordinar, Supervisar y Controlar el estricto cumplimiento de las rutinas de mantenimiento preventivo para evitar interferencias en el servicio así como también la fuera de servicio del Centro Quirúrgico de la Unidad de Atención de Salud; dichas tareas deberán ser coordinamente implementadas con la conducción del Servicio de Conservación y Mantenimiento Integral de dicha unidad.
+— Reconocer e Instrumentar las herramientas de estadística necesarias para elaborar los registros, acorde a los objetivos del servicio y a estándares de calidad preestablecidos mediante la aplicación de sistemas de gestión de calidad con criterios de oportunidad, accesibilidad, integralidad, interdisciplina, atención personalizada y buen uso de la tecnología apropiada.
+— Verificar el cumplimiento del sistema de gestión de calidad de los recursos físicos y humanos a su cargo, acorde a la planificación establecida por la conducción del servicio.
+Verificar e Implementar el cumplimiento de las acciones necesarias para satisfacer las políticas y el plan de la estructura organizacional con los criterios enunciados por la conducción.
+— Organizar, Coordinar, Observar, Inspeccionar, Supervisar, Monitorear, Evaluar, Fiscalizar, y Verificar tanto los procesos como los resultados y su impacto biopsicosocial.
+* Con relación a todos los Recursos Humanos Intervinientes, en el Servicio de Cirugía Cardiovascular el perfil de los mismos (calificado y cuantificado) deberá responder sean ellos "Profesionales Médicos", "Colaboradores de la Salud", "Personal de Apoyo", "Administrativos" u otros, en todos los casos, al nivel de resolución de la unidad, las políticas, el plan de la estructura organizacional y a todas las normativas vigentes en el marco de este Programa, así como las Jurisdiccionales o las de Marco Nacional.
+* Para el Dimensionamiento de la Dotación del Personal (en su totalidad), y según los distintos perfiles estará condicionado por, el nivel de riesgo que resuelva, la política operacional del Servicio o de la Unidad de Atención de Salud (horarios de atención, cargas horarias asignadas según funciones, etc), y por la demanda a cubrir .
+MARCO NORMATIVO DE FUNCIONAMIENTO
+TRATAMIENTOS QUIRURGICOS CARDIOVASCULARES EN UNIDADES DE ATENCION DE SALUD DE BAJO / MEDIANO Y ALTO RIESGO
+* La dependencia funcional del Servicio de Cirugía Cardiovascular para los tres niveles de riesgo emanará de las políticas y del plan de la estructura organizacional establecido para el rol de la Unidad de Atención de Salud. Esto implica que dicha dependencia estará delimitada por el mismo
+* En cuanto a las pautas de funcionamiento general para los tres niveles de riesgo, deberán considerarse las siguientes:
+* El servicio de Cirugía Cardiovascular programará sus actividades de acuerdo con los objetivos de la Unidad de Atención de Salud en que se encuentre inserto, desarrollando las acciones acorde al Nivel de Riesgo potencializando las de prevención, promoción, atención de las patologías quirúrgicas cardiovasculares y/o vasculares, realizar los diagnósticos y tratamientos adecuados y rehabilitar y reinsertar biosicosocialmente al paciente y su entorno familiar. Así como también desarrollar actividades de capacitación continua e investigación clínica y experimental en la especialidad.
+* Las actividades de promoción, prevención y educación continua para la salud, se realizarán tanto para el equipo de salud como pacientes y grupo de pertenencia en colaboración con todas las disciplinas que tienen incumbencia en la materia y que conforman la Unidad de Atención de Salud.
+* En aquellas Unidades de Atención de Salud cuyo rol contemple la Atención Domiciliaria la misma estará caracterizada por las políticas y el plan de la estructura organizacional. Así mismo se definirá cual será la modalidad de atención a implementar como también la calidad y cantidad de recursos humanos que intervendrán para el desarrollo de las mismas
+* El Equipo de Salud integrante del Servicio de Cirugía Cardiovascular participará activamente en todas aquellas actividades relacionadas con: Comités Científicos, Ateneos (Clínicos, Anatomoclínicos Quirúrgicos, Epidemiológicas, de Bioseguridad, etc.), Bioética, Actualización de Manuales de Funcionamiento, Diagnóstico y Tratamiento y Procedimientos, Auditorias Médicas Internas, Docencia e Investigación, entre otras.
+* En las Unidades de Atención de Salud cuyo rol defina la capacitación de post-grado para Residencias Médicas en la especialidad de Cirugía Cardiovascular y/o Vascular, la misma deberá responder a las normativas vigentes tanto jurisdiccionales como nacionales.
+* Las actividades relacionadas con la Docencia y la Investigación se desarrollarán con criterio interdisciplinario, integral y sistémico entendiendo como sistema a todos los servicios integrantes de la Unidad de Atención de Salud.
+* En cuanto a las pautas de gestión administrativa, las mismas estarán acordes a las políticas, el plan de la estructura organizacional y el sistema de gestión de calidad seleccionado para implementar el rol de la Unidad de Atención de Salud, respondiendo entre otras a las siguientes funciones:
+— Realizar la planificación y programación financiera respondiendo a los objetivos y a la demanda a cubrir con su correspondiente plan de inversiones reconocimiento de gastos operativos, así como también proyecto de gastos de funcionamiento con relación a los recursos humanos, físicos y mantenimiento.
+* Toda documentación referida a los actos médicos deberá registrarse y conservarse, así como también contar con el Consentimiento Informado del Paciente, el que deberá ser incorporado a la Historia Clínica. Dicha documentación deberá mantenerse actualizada y acorde a todas las reglamentaciones vigentes sean de carácter legal, de gestión, de calidad, de auditoria, u otras; necesarias para gerenciar un Servicio de Atención de la Salud.
+GLOSARIO DE TERMINOS
+ACCION DE SALUD
+Todo tipo de intervención dirigida a grupos, individuos o aspectos del medio social o físico, que modifica directa o indirectamente las necesidades de salud de la población. Según sea la modalidad de la intervención, las acciones podrán ser de promoción, protección, atención de patología, rehabilitación y reinserción social.
+ACTIVIDAD
+Conjunto de tareas relacionadas con una misma finalidad.
+ACTOR
+Cada uno de los grupos comunitarios o institucionales y personas significativas, involucrados en situaciones o acciones directa o indirectamente relacionadas con la salud.
+AREA QUIRURGICA
+Conjunto de Locales (Unidades Funcionales y Areas Complementarias) pertenecientes al Centro Quirúrgico, cuyo acceso se encuentra acotado por criterios de restricción y grados de asepsia.
+AREAS COMPLEMENTARIAS
+Espacios en los que se realizan las actividades que apoyan y complementan la actividad principal, o sea los espacios adyacentes a las unidades funcionales utilizadas para realizar todas las tareas complementarias, las que caracterizan el servicio / tecnología
+CARACTERIZACION
+Estudio de una situación calificándola y cuantificándola. Reconocimiento de una Unidad de Atención Salud con el objeto de orientar sobre las funciones que desarrolla, se efectúa a través de cinco parámetros: (RF)
+— Tipo de las Acciones
+— Nivel de Resolución
+— Grupo Etáreo
+— Especialidad
+— Modalidad Operativa
+CATEGORIZACION
+Reconocimiento de una Unidad de Salud con el Objeto de Identificar el Nivel de Riesgo que está en condiciones de resolver, en función del riesgo de enfermar o morir de las personas (Resolución Ministerial Nº 282/94)
+CENTRO QUIRURGICO
+Conjunto de Unidades Funcionales, Areas Complementarias y Circulaciones necesarias para desarrollar las actividades quirúrgicas
+CONSERVACION Y MANTENIMIENTO INTEGRAL
+Arte de aplicación de conocimientos científicos y empíricos en la conservación y el mantenimiento integral de los elementos, equipos e infraestructura física
+CONTROL:
+Es una medida de cumplimiento o de reajuste en la realización de las actividades y tareas con el fin de cumplir con los objetivos pre-establecidos
+ESTRUCTURA ORGANIZATIVA
+Es una técnica administrativa por la cual una organización define la manera en que están dispuestas y relacionadas sus diferentes funciones, o sea que es la forma adoptada por la organización.
+Por lo tanto es el modo en que se interrelacionan las distintas dependencias de una organización, dichas dependencias se caracterizan por sus funciones, roles, límites y niveles jerárquicos.
+EVALUACION DE TECNOLOGIAS EN SALUD
+Análisis de los conocimientos, procedimientos, y tecnología utilizada en las Unidades de Atención de Salud
+LOCAL
+Lugar Monofuncional o Polifuncional delimitado Espacialmente.
+MANTENIMIENTO
+Cuidados técnicos indispensables al funcionamiento regular y permanente de los equipos y de la infraestructura
+MANTENIMIENTO CORRECTIVO
+Es el que se realiza mediante tareas de reparación, con el objetivo de componer los R.F. que hubieran salido de servicio.
+MANTENIMIENTO PREDICTIVO
+Es el que se realiza mediante tareas de verificación, con el objetivo de detectar las posibles fallas y programar su reparación antes que sucedan. (estanqueidad, ruidos, consumo, temperatura, desajustes, etc.) (RF)
+MANTENIMIENTO PREVENTIVO
+Es el que se realiza mediante tareas de reposición o recambio, con el objetivo de completar o renovar los insumos que requieren los R.F. según el programas establecido por los manuales de operación y funcionamiento (filtros, lubricantes, combustible, piezas, regulaciones, ajustes, etc.)
+MODALIDAD OPERATIVA
+Es el modo en que se desarrollan las distintas actividades (en una Unidad de Salud) correspondientes a un Servicio/ Tecnología, tales como: Atención Ambulatoria, Atención de Urgencias / Emergencia, Atención de Internación, Atención Domiciliaria, y Docencia e Investigación.
+OPERACION
+Ejecución de las medidas consideradas necesarias a conducción de un objetivo
+OPERACION DE LA UNIDAD DE ATENCION DE SALUD
+Ejecución de las medidas funcionales de la unidad de atención de salud
+OPERACION DE PLANTA
+Son las tareas que se realizan para mantener los Recursos Físicos en funcionamiento interrumpidos durante el período de tiempo que se los requiera para realizar las actividades de atención de la salud.
+ORGANIZACION
+Es un conjunto de personas con los medios adecuados que funcionan para alcanzar un fin determinado. (DLE)
+Conjunto de actores interrelacionados funcionalmente para el cumplimiento de objetivos comunes, mediante el desarrollo de actividades para las cuales es necesaria la utilización de conocimientos transformadores de elementos materiales y/o simbólicos en bienes y servicios (Suarez-Felcman).
+Unidades sociales, o agrupaciones humanas, deliberadamente construídas o reconocidas para alcanzar fines específicos (Etzioni).
+Estructura jerárquica de la institución, en la quedan claros los distintos niveles de autoridad y responsabilidades
+PARTICIPACION
+Desde la óptica organizacional, se refiere a la orientación evaluativa - receptiva de un individuo en relación a un objeto caracterizado en término de intensidad y dirección (Etzioni).
+PLANEAMIENTO
+Trazado del plan de una obra.
+PLANIFICACION
+Actividades que establecen los objetivos, los requisitos y la metodología para dar cumplimiento a las políticas pre-establecidas de la Unidad de Atención de salud
+Establecimiento de programas con indicación del objetivo y las etapas a seguir.
+POLITICA
+Es la expresión formal de los propósitos que en cuanto a la visión tiene la Organización, comprende la fijación de objetivos, metas responsables, mercados de competencia, definiciones de usuarios, indicadores de eficiencia, eficacia, efectividad, y satisfacción de los usuarios, entre otros.
+PROCESO
+Serie de acciones interrelacionadas en una secuencia lógica para obtener resultados preestablecidos
+PROCESO INTEGRAL y SISTEMATICO Manera por la cual se realiza una operación, según determinadas normas dirigido a todos los sectores de la unidad, pero separada de los elementos entre los cuales se pueda encontrar o definir alguna relación.
+PROGRAMACION
+Instrucciones para la realización de una secuencia de tareas (y tiempos establecidos para realizarlos).
+RECURSO EXTRASECTORIAL
+Es el recurso humano, físico y material integrante del equipamiento social, que realiza acciones de salud sin pertenecer al sector salud.
+RECURSO FISICO EN SALUD
+Medio, "espacio-instrumento", para acceder a la salud, condicionado por el entorno físico, socioeconómico y tecnológico, concebido en un proceso de desarrollo a partir de su formulación, hasta su operación. Su papel no se restringe a envolvente «fisicoespacial» de actividades de atención de salud, sino que lo ampliamos en su reconocimiento como elemento de apoyo concurrente a la ejecución de la actividad y como integrante del equipamiento social, con la participación conjunta de los recursos sectoriales y extrasectoriales, ya partir de la interacción de los recursos humanos, financieros y jurídicos.
+Es el medio-espacio-instrumento utilizado para la atención de la salud que está condicionado por el contorno físico-bio-psico social-económico y tecnológico del país.
+RECURSO SECTORIAL
+Es el recurso humano, físico y material perteneciente al sector salud, tanto público, de la seguridad social como privado.
+SECTOR
+Subconjunto de un departamento. Ejemplo: Sector ambulatorio de cardiología. sector de cuidado intensivo cardiológico.
+SELECCION DE TECNOLOGIA
+Es la selección fundamentada entre los distintos conjuntos de conocimientos. especialmente principios científicos. que se aplican en la solución de determinado problema práctico. buscando escoger el conjunto que mejor responda a las necesidades.
+SERVICIO
+Conjunto de Modalidades Operativas Referidas a un Servicio / Tecnología determinada.
+SERVICIO / TECNOLOGIA
+Conocimiento utilizado o utilizable para la transformación a escala social de elementos materiales y/o simbólicos en bienes y servicios a escala social (Felcman).
+Conjunto de conocimientos empleados en la producción y comercialización de bienes y servicios y que está integrada no sólo por conocimientos científicos, sino también por conocimientos empíricos que resultan de observaciones, experiencias, aptitudes específicas, tradición (oral o escrita) (Jorge Sábato).
+Conjunto de métodos, técnicas, know how, etc. (conocimientos en general) que sirven a la producción de bienes y servicios (Suarez).
+Aquellas ciencias sobre relaciones de causa-efecto que habrán de producir el resultado deseado (Thompson).
+Son las acciones que un individuo realiza sobre un objeto con o sin la ayuda de herramientas o recursos mecánicos con el objeto de provocar algún cambio sobre ese objeto. El objeto o materia prima puede ser un ser viviente, humano o de lo contrario, un símbolo o un objeto inanimado. (Perrow).
+Conocimiento que se aplica para la obtención de un bien o servicio.
+Comprende no solamente componentes físicos (hardware), sino también los que se pueden determinar por analogía tomada de la informática, componentes lógicos (software).
+SISTEMA DE GESTION
+Es el conjunto de la estructura organizacional, de responsabilidades, procedimientos, de procesos y de recursos, que se establecen para llevar a cabo una gestión.
+SISTEMA DE GESTION CALIDAD
+Conocimiento utilizable o utilizado que operando en áreas tecnológicas administrativas, transforma mediante sucesivas elaboraciones algunos símbolos en otros con el objeto de desarrollar n procesos básicos de la actividad administrativa en las organizaciones.
+Son las que condicionan la actividad fundamental de la organización indirectamente; son intermediarias entre ésta y el contexto y existen sólo en función de las tecnologías básicas a las que necesariamente deben adaptarse y servir.
+Todos los procesos destinados a recoger y analizar información, así como aquellos utilizados para planificar, implementar y controlar cursos de acción. Existen con el objeto de dar apoyo a las actividades de transformación desarrolladas a través de tecnologías básicas. A estas tecnologías que sirven a las básicas y son a intermediarias de éstas con el contexto y sus determinantes, se las define como tecnologías administrativas o de gestión.
+En resumen, los sistemas de gestión calidad provoca la transformación de la información (proveniente del objeto a ser transformado, de la tecnología básica de los medios, de los productos y del contexto) en acción o, sea en decisión.
+En esta área de sistema de gestión de calidad es donde se producen los denominados procesos administrativos —planificar, ejecutar y controlar— que pueden ser definidos como el conjunto de medios necesarios para lograr determinados fines.
+TAREA
+Es una acción simple que se desarrolla sin Interrupción.
+TECNOLOGIA
+Conjunto de conocimientos, especialmente principios científicos que se aplican a un determinado ramo de actividad. Ciencia que trata de la técnica.
+TECNOLOGIA APROPIADA
+Conocimientos, procedimientos y tecnología adecuados a las condiciones físicas ambientales, humanas, bio-psicosociales y especialmente financieras para el logro de un fin.
+TECNOLOGIA BASICA
+Es aquella cuya presencia hace a la actividad fundamental de la organización, ya que su inexistencia acarrearía para la organización la no satisfacción de algunos o la totalidad de sus objetivos, dada la imposibilidad de transformar elementos materiales y/o simbólicos en bienes y servicios o sea en el producto principal de la misma.
+Es el conjunto de conocimientos que se utilizan para provocar la transformación directa de elementos (materiales simbólicos) en el producto principal o esencial de la organización.
+En este sentido en nuestro campo específico vemos que una organización existe, dada la existencia de ciertas tecnologías básicas generadas por el conocimiento médico y sus estrategias de intervención.
+TECNOLOGIA DE OPERACION
+Se reconoce como tecnología de operación la organización del desarrollo de la aplicación de las técnicas. Hace referencia a la modalidad de ejecución de las acciones de salud, las reglas de juego de los distintos participantes, usuarios y prestadores.
+TECNOLOGIAS / SERVICIOS NUCLEARES
+Son aquellas tecnologías que constituyen el núcleo central en toda organización de salud. Sin embargo este núcleo técnico es siempre un representante incompleto de lo que debe hacer la organización para alcanzar los resultados deseados (ej: consulta externa).
+Son las correspondientes a sectores de transformación. En nuestro caso en particular están representadas por la atención ambulatoria programada, la atención de urgencia/emergencia, la atención domiciliaria, la atención de internación, docencia e investigación.
+TECNOLOGIAS / SERVICIOS DE APOYO
+Son las que necesariamente deben adaptarse y servir a las tecnologías nucleares para alcanzar los resultados deseados. Algunas se vinculan más directamente a la transformación del objetivo final y por lo tanto a la atención directa
+UNIDAD DE ATENCION DE SALUD
+Ambito generado para desarrollar fundamentalmente Acciones de Salud tales como: Promoción, Prevención, Control, Atención de Patología y Rehabilitación
+Conjunto de elementos funcionalmente agrupados, en donde se ejecutar actividades afines a la salud. Puede variar en número, dimensión y denominación, en función de la capacidad operacional, finalidad y técnicas adoptadas.
+Conjunto de personas, recursos materiales y tecnológicos interactuantes, cuya finalidad es dar solución a problemas y cuidar la de salud de la población, mediante la realización de accjones sobre los individuos y el medio natural o construido
+ZONA
+Parte de un Servicio Definido por una Propiedad Común.
+

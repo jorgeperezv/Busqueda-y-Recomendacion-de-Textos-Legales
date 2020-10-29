@@ -1,0 +1,42 @@
+MINISTERIO DE SALUD
+Resolución 518/2007
+Confórmase el Comité de Seguridad de la Información. Integración. Responsabilidades. Atribuciones.
+Bs. As., 9/5/2007
+VISTO el expediente Nº 2002-385/07-9 del registro del MINISTERIO DE SALUD y lo establecido por la Decisión Administrativa Nº 669 de fecha 20 de diciembre de 2004 y la Disposición Nº 6 de fecha 3 de agosto de 2005 de la DIRECCION NACIONAL DE LA OFICINA DE TECNOLOGIAS DE LA INFORMACION, y
+CONSIDERANDO:
+Que mediante lo indicado por la Decisión Administrativa Nº 669/2004, que trata sobre la Política Modelo de Seguridad de la Información para Organismos de la Administración Pública Nacional se ha dispuesto que los organismos comprendidos en los incisos a) y b) del artículo 8º de la Ley 24.156 y sus modificatorios, deberán dictar o adaptar la "Política de Seguridad del Organismo" a la "Política de Seguridad Modelo" que fuera aprobada por Disposición Nº 6/05 DNOTI.
+Que en tal sentido corresponde proceder a la constitución del citado Comité el que estará integrado por representantes de todas las áreas sustantivas, designando a todos los funcionarios y agentes que cumplirán funciones en la formulación y aplicación de la Política a implementar, garantizando el apoyo manifiesto de las autoridades a las iniciativas de seguridad, asignando atribuciones y responsabilidades.
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS ha tomado la intervención de su competencia.
+Que la presente medida se dicta en uso de las atribuciones conferidas por la Ley de Ministerios (T.O. 1992), modificada por la Ley Nº 25.233.
+Por ello,
+EL MINISTRO DE SALUD
+RESUELVE:
+Artículo 1º — Confórmase en el ámbito de la SUBSECRETARIA DE COORDINACION el "COMITE DE SEGURIDAD DE LA INFORMACION", cuya integración, responsabilidades y atribuciones se detallan en los ANEXOS I y II que forman parte integrante de la presente resolución.
+Art. 2º — Coordinará el COMITE DE SEGURIDAD DE LA INFORMACION el Señor Subsecretario de Coordinación conforme a lo dispuesto en el artículo 3º de la Decisión Administrativa Nº 669/2004.
+Art. 3º — Facúltase al Señor Subsecretario de Coordinación la firma para la aprobación del Manual de Gestión de Seguridad de la Información y sus modificatorias, como Coordinador del COMITE DE SEGURIDAD DE LA INFORMACION, quien será responsable de coordinar las acciones del Comité e impulsar la implementación y cumplimiento del citado manual.
+Art. 4º — Será Responsable de Seguridad de la Información María Cecilia FERNANDEZ (D.N.I. Nº 13.599.102) quien cumplirá funciones relativas a la seguridad de los sistemas de información del Organismo, lo cual incluye la supervisión de todos los aspectos inherentes a los temas tratados en la Política de Seguridad de la Información.
+Art. 5º — Regístrese, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Ginés M. González García.
+ANEXO I
+INTEGRANTES DEL COMITE DE SEGURIDAD DE LA INFORMACION
+Tal como se indica en el art. 2º de la Decisión Administrativa Nº 669/2004, las máximas autoridades de los organismos comprendidos en el art. 7º de la presente medida, deberán conformar en sus ámbitos un Comité de Seguridad de la Información integrado por representantes de las Direcciones Nacionales o Generales o equivalentes del organismo.
+A tal efecto el Comité mencionado estará integrado por:
+Director Nacional de Regulación y Fiscalización
+Director Nacional de Prestaciones Médicas
+Director Nacional de Políticas de Recursos Humanos en Salud
+Director Nacional de Emergencias Sanitarias
+Director Nacional de Programas Sanitarios
+Director Nacional de Salud Materno Infantil
+Director General de Administración
+Director General de Asuntos Jurídicos
+ANEXO II
+RESPONSABILIDADES DEL COMITE DE SEGURIDAD DE LA INFORMACION
+1. Revisar y proponer al Coordinador del Comité de Seguridad de la Información del organismo para su aprobación, la Política y las responsabilidades generales en materia de seguridad de la información.
+2. Monitorear cambios significativos en los riesgos que afectan a los recursos de información frente a las amenazas más importantes.
+3. Tomar conocimiento y supervisar la investigación y el monitoreo de los incidentes relativos a la seguridad.
+4. Aprobar las principales iniciativas para incrementar la seguridad de la información.
+5. Acordar y aprobar metodologías y procesos específicos relativos a la seguridad de la información.
+6. Garantizar que la seguridad sea parte del proceso de planificación de la información.
+7. Evaluar y coordinar la implementación de controles específicos de seguridad de la información para nuevos sistemas o servicios.
+8. Promover la difusión y apoyo, a la seguridad de la información dentro del Organismo.
+9. Coordinar el proceso de administración de la continuidad de la operatoria de los sistemas de tratamiento de información del Organismo frente a interrupciones imprevistas.
+

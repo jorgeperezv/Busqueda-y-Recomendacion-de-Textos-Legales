@@ -1,0 +1,70 @@
+Administración Federal de Ingresos Públicos
+IMPUESTOS
+Resolución General 2271
+Procedimiento. Impuestos Varios. Determinación e ingreso de retenciones y percepciones. Sistema de Control de Retenciones. (SICORE). Procedimientos, plazos y condiciones. Nueva versión del programa aplicativo. Resolución General Nº 2233. Norma modificatoria y complementaria.
+Bs. As., 15/6/2007
+VISTO la Resolución General Nº 2233, y
+CONSIDERANDO:
+Que la citada norma establece el procedimiento denominado Sistema de Control de Retenciones (SICORE) que deben observar los agentes designados a los fines de informar e ingresar las retenciones y/o percepciones practicadas conforme a las disposiciones previstas para determinados regímenes e impuestos.
+Que atento la sustitución del régimen de retención del impuesto al valor agregado aplicable a las operaciones de comercialización de granos no destinados a la siembra y legumbres secas, se entiende aconsejable disponer la utilización de una nueva versión del sistema mencionado en el considerando anterior.
+Que asimismo corresponde efectuar determinadas adecuaciones a la norma del visto, a los fines de facilitar a los sujetos alcanzados la aplicación del citado procedimiento.
+Que han tomado la intervención que les compete la Dirección de Legislación, las Subdirecciones Generales de Recaudación, de Fiscalización, de Sistemas y Telecomunicaciones y de Asuntos Jurídicos y la Dirección General Impositiva.
+Que la presente se dicta en ejercicio de las facultades conferidas por el Artículo 11 de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones y el Artículo 7º del Decreto Nº 618 del 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1º — Los contribuyentes y responsables comprendidos en las disposiciones de la Resolución General Nº 2233, a efectos de cumplir con las obligaciones de información e ingreso de las retenciones y/o percepciones que efectúen, deberán utilizar el programa aplicativo denominado "SICORE SISTEMA DE CONTROL DE RETENCIONES - Versión 7.1", cuyas características, funciones y aspectos técnicos para su uso, se especifican en el Anexo de esta resolución general.
+Art. 2º — Modifícase la Resolución General Nº 2233, de la forma que se indica a continuación:
+- Sustitúyese el último párrafo del Artículo 8º, por el siguiente:
+"Aquellos responsables pasibles de retenciones y/o percepciones que no posean Clave Unica de Identificación Tributaria (C.U.I.T.) o, en su caso, Código Unico de Identificación Laboral C.U.I.L.), deberán solicitar la Clave de Identificación (C.D.I.) en la dependencia de_este Organismo que corresponda a la jurisdicción de su domicilio, a los fines que los agentes de retención informen las mismas con dicha clave, excepto de tratarse de sujetos comprendidos en las disposiciones de la Resolución General Nº 2126, en cuyo caso los agentes de retención deberán consignar como Clave Unica de Identificación Tributaria (C.U.I.T.) 23-00000000-0.".
+Art. 3º — Apruébanse el Anexo que forma parte de esta resolución general y el programa aplicativo denominado "SICORE SISTEMA DE CONTROL DE RETENCIONES - Versión 7.1".
+Art. 4º — Las disposiciones que se establecen por la presente entrarán en vigencia el día de su publicación en el Boletín Oficial, inclusive y surtirán efecto, respecto de:
+a) Lo dispuesto en los Artículos 1º y 3º, para las retenciones y percepciones practicadas a partir del día 1 de julio de 2007, inclusive.
+b) Lo previsto en el Artículo 2º, para las retenciones y percepciones efectuadas desde el día 1 de mayo de 2007, inclusive.
+Art. 5º — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO RESOLUCION GENERAL N° 2271
+"SICORE SISTEMA DE CONTROL DE RETENCIONES - Versión 7.1"
+INFORMACION E INGRESO DE LOS IMPORTES DE LAS RETENCIONES PRACTICADAS
+Esta aplicación deberá ser utilizada por los agentes de retención y/o percepción —y por aquellos a cuyo cargo se encuentren ingresos excepcionales o especiales, cuando las normas expresamente lo dispongan—, a efectos de confeccionar la declaración jurada informativa y determinativa mensual o, en su caso, semestral, así como para generar volantes de pago y certificados, según se indica en estas instrucciones.
+Los datos identificatorios de cada responsable deben encontrarse cargados en el "S.I.Ap. – Sistema Integrado de Aplicaciones - Versión 3.1 Release 2" y, al acceder al programa, se deberá consignar la información nominativa de las retenciones y/o percepciones practicadas.
+La veracidad de los datos que se ingresen será responsabilidad del agente de retención y/o percepción.
+1. Descripción general del sistema
+La función principal del sistema es generar la declaración jurada del agente de retención y/o percepción (F. 744), los volantes de pago (F. 799/ S) para el ingreso de las retenciones y/o percepciones —en forma individual o global, según corresponda —, y los certificados por cada retención realizada, teniéndose en cuenta las normas vigentes.
+La aplicación permite generar el archivo para ser transferido electrónicamente, de acuerdo con lo establecido en la Resolución General Nº 1345, sus modificatorias y complementarias.
+2. Requerimientos de "hardware" y "software"
+2.1. PC 486 DX2 o superior.
+2.2. Memoria RAM mínima: 16 Mb.
+2.3. Memoria RAM recomendable: 32 Mb.
+2.4. Disco rígido con un mínimo de 5 Mb. Disponibles.
+2.5. Disquetera 3½" HD (1.44 Mbytes).
+2.6. "Windows 95" o superior o NT.
+2.7. Instalación previa del "S.I.Ap.- Sistema Integrado de Aplicaciones - Versión 3.1 Release 2".
+3. Metodología general para la confección de la declaración jurada
+Al ingresar en la aplicación, a fin de generar la declaración jurada, se deberán cubrir los conceptos correspondientes que prevé el sistema, considerando las instrucciones contenidas en la "Ayuda".
+Aclaraciones:
+I. Datos del agente de retención y/o percepción:
+a) Carácter: agente de retención y/o percepción, agente esporádico y/o exportador, según corresponda.
+Se deberá entender como "agente esporádico" a aquel que realice las operaciones en forma no habitual, de modo que el importe global de las retenciones y/o percepciones no supere el tope establecido por el Artículo 10 de la Resolución General N° 2233, pudiendo ejercer la opción prevista en su Título II (presentación de declaración jurada semestral).
+A efectos de ejercer la opción, se deberá consignar la marca en el concepto "agente esporádico" en la declaración jurada correspondiente al período en el que se produzca la situación prevista en el primer párrafo del Artículo 10 de la citada Resolución General, desde el mes en que comienza el régimen hasta junio o diciembre, según el semestre de que se trate. Cuando en el transcurso de un semestre se supere el parámetro fijado por el mencionado Artículo 10, se modificará el mes de cierre que refleje tal situación, consignando el que corresponda.
+b) Período fiscal.
+c) Secuencia [original = (0); rectificativas = (1 a 9)].
+II. Retenciones y/o percepciones por impuesto. Regímenes de retención y/o percepción
+El sistema tiene incorporados los impuestos y regímenes de retención y percepción —incluyendo alícuotas, escalas y, en su caso, importes mínimos sujetos a la retención y/o percepción— contenidos en las Tablas de los Anexos II y III, y sus respectivos códigos.
+Cuando exista imposibilidad de informar —conforme lo requiere la aplicación— los datos referidos al porcentaje aplicado y/o la fecha de publicación, de las exclusiones parciales de retenciones y/o percepciones otorgadas por este Organismo, se podrá consignar, únicamente, el importe de las retenciones y/o percepciones. A dicho fin, no se insertará marca en el campo "Régimen de Exclusión" de la sección "Datos de la Retención/Percepción".
+Cuando no pueda consignarse respecto de cada uno de los comprobantes que dieron origen a la o las retenciones practicadas, los datos relativos a los campos "Tipo" o "Fecha Comprobante" o "Número", a los fines de su información deberá seleccionarse la opción "Otro Comprobante" del campo "Tipo" de la sección "Datos del comprobante" de la ventana "Detalle de Retenciones", completando los demás datos atribuibles a tal opción.
+III. Certificado de Retención
+El sistema emitirá, cuando se requiera su generación y según se trate de un sujeto domiciliado en el extranjero o en el país, un "Certificado de Retención" prenumerado, por cada una de las retenciones practicadas, que contendrá los datos identificatorios de la operación realizada, código de control interno para su validación por parte de este Organismo y el período de la declaración jurada en la cual será informada dicha retención.
+El certificado podrá ser rectificado cuando se originen retenciones practicadas en exceso o en defecto, o se advierta cualquier otro dato consignado erróneamente, en cuyo caso el agente de retención podrá seleccionarlo y modificar el o los campos necesarios y generar un nuevo certificado con el número de control correspondiente, que será entregado al sujeto retenido, en sustitución del emitido anteriormente.
+IV. Volante de pago F. 799/S y volante electrónico de pago (VEP)
+El agente de retención y/o percepción utilizará el volante de pago F. 799/S, generado por el sistema o el volante electrónico de pago (VEP), para el ingreso de las retenciones y/o percepciones —individuales o globales— que se practiquen entre los días 1 al 15 de cada mes, o las individuales que se efectúen en la segunda quincena del mes.
+El agente de retención y/o percepción podrá efectuar los ingresos a cuenta que desee hasta el vencimiento de la declaración jurada o, en su caso, cuando el régimen lo prevea.
+V. Declaración Jurada
+En la declaración jurada se incorporará nominativamente cada una de las retenciones y/o percepciones efectuadas respecto de cada régimen, según la Tabla contenida en el Anexo III y el sistema determinará automáticamente el importe global a ingresar, discriminado por impuesto, según la Tabla contenida en el Anexo II.
+Las rectificaciones de retenciones y/o percepciones practicadas darán origen a una declaración jurada rectificativa.
+VI. Compensación
+Los exportadores que efectúen la compensación que trata en el Artículo 7º de la Resolución General N° 2233 deberán consignar los importes de las retenciones y/o percepciones practicadas que hubieran imputado contra el crédito fiscal pertinente, en "Compensaciones" de la ventana "Resultado", del aplicativo.
+VII. Importación y exportación de datos
+El sistema permite la importación y exportación de datos desde la propia aplicación u otros archivos, a fin de que el agente de retención y/o percepción centralice el total de la información proporcionada por las sucursales en la declaración jurada que generará la casa matriz.
+———
+NOTA: Se deberán considerar las instrucciones que el sistema brinda en la "Ayuda" del programa aplicativo, a la que se accede con la tecla de función F1.
+

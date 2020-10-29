@@ -1,0 +1,35 @@
+MINISTERIO DE ECONOMIA Y PRODUCCION
+SECRETARIA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA
+Resolución N° 290/2004
+Bs. As., 26/10/2004
+VISTO el Expediente N° S01:0131681/2003 del Registro del MINISTERIO DE ECONOMIA Y PRODUCCION, y
+CONSIDERANDO:
+Que la SECRETARIA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA del MINISTERIO DE ECONOMIA Y PRODUCCION está realizando un importante esfuerzo para informatizar la gestión de los trámites que las empresas y particulares realizan ante ella.
+Que la informatización prevista demandará efectuar el mantenimiento de los sistemas que existen y de los que se incorporen en el futuro.
+Que resulta económicamente conveniente encarar algunos desarrollos con capacidad técnica propia y simultáneamente propender al desarrollo de la mencionada capacidad técnica.
+Que en el ámbito de esta Secretaría existe un grupo técnico que realiza habitualmente tareas de desarrollo y mantenimiento de sistemas.
+Que la Dirección de Legales del Area de Industria, Comercio y Minería, dependiente de la Dirección General de Asuntos Jurídicos del MINISTERIO DE ECONOMIA Y PRODUCCION ha tomado la intervención que le compete.
+Que el dictado de la presente medida no implica erogación alguna para el ESTADO NACIONAL.
+Que la presente resolución, se dicta en ejercicio de las facultades otorgadas por el Decreto N° 25 de fecha 27 de mayo de 2003.
+Por ello,
+EL SECRETARIO DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA
+RESUELVE:
+ARTICULO 1° — Confórmase la UNIDAD DE ADMINISTRACION, DESARROLLO Y MANTENIMIENTO DE SISTEMAS, la cual dependerá de la Unidad de Control de Gestión y Mejora Normativa dependiente de la SECRETARIA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA del MINISTERIO DE ECONOMIA Y PRODUCCION.
+ARTICULO 2° — Que el dictado de la presente medida no implica erogación alguna para el ESTADO NACIONAL.
+ARTICULO 3° — Se faculta para incorporar en la Unidad que se crea en Artículo 1° de la presente medida, a los agentes que actualmente realizan desarrollo y/o mantenimiento de sistemas en el ámbito de la SUBSECRETARIA DE INDUSTRIA y de la SUBSECRETARIA DE POLITICA Y GESTION COMERCIAL ambas dependientes de la SECRETARIA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA, de acuerdo con las modalidades y cronogramas que determine la Unidad de Control de Gestión y Mejora Normativa de esta Secretaría.
+ARTICULO 4° — Asígnase la función de Coordinador de la UNIDAD DE ADMINISTRACION, DESARROLLO Y MANTENIMIENTO DE SISTEMAS al señor Programador de Sistemas y Arquitecto Don Luis Gabriel DI PAOLO (M.I. N° 16.558.143).
+ARTICULO 5° — Apruébase el Anexo que, con UNA (1) hoja establece las funciones de la UNIDAD DE ADMINISTRACION, DESARROLLO Y MANTENIMIENTO DE SISTEMAS, el que forma parte integrante de la presente resolución.
+ARTICULO 6° — Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Lic. ALBERTO JUAN DUMONT, Secretario de Industria, Comercio y de la PyME.
+ANEXO
+FUNCIONES DE LA UNIDAD DE ADMINISTRACION,
+DESARROLLO Y MANTENIMIENTO DE SISTEMAS.
+1. — Proveer el mantenimiento de los sistemas específicos de la SECRETARIA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA del MINISTERIO DE ECONOMIA Y PRODUCCION.
+2. — Desarrollar los sistemas que se le soliciten y administrar sus respectivas bases de datos, cumpliendo con las normativas de desarrollo dictadas por el MINISTERIO DE ECONOMIA Y PRODUCCION y la OFICINA NACIONAL DE TECNOLOGIA DE LA INFORMACION dependiente de la SUBSECRETARIA DE GESTION PUBLICA de la JEFATURA DE GABINETE DE MINISTROS.
+3. — Determinar los planes de contingencia frente a fallas o roturas de equipos y/o sistemas.
+4. — Ejecutar los planes de contingencia cuando corresponda.
+5. — Coordinar con las autoridades técnicas del MINISTERIO DE ECONOMIA Y PRODUCCION los mecanismos de resguardo para los sistemas y la información.
+6. — Colaborar con la Unidad de Control de Gestión y Mejora Normativa en la determinación de las necesidades en materia de sistemas y/o insumos relacionados con la informática.
+7. — Colaborar con la Unidad de Control de Gestión y Mejora Normativa en el diseño del plan de sistemas.
+8. — Desarrollar sitios web para la SUBSECRETARIA DE INDUSTRIA y de la SUBSECRETARIA DE POLITICA Y GESTION COMERCIAL, ambas dependientes de la SECRETARIA DE INDUSTRIA, COMERCIO Y DE LA PEQUEÑA Y MEDIANA EMPRESA.
+e. 28/10 N° 462.717 v. 28/10/2004
+

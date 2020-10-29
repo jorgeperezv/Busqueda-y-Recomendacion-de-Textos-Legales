@@ -1,0 +1,52 @@
+Administración Federal de Ingresos Públicos
+SISTEMA UNICO DE LA SEGURIDAD SOCIAL
+Resolución General 1751
+Sistema Unico de la Seguridad Social (SUSS). Regímenes de retención y percepción. Procedimiento para el ingreso e información de las retenciones y/o percepciones practicadas. Resolución General Nº 757. Su modificación.
+Bs. As., 12/10/2004,
+VISTO la Resolución General Nº 757, y
+CONSIDERANDO:
+Que la citada norma estableció el procedimiento que se debe observar para el ingreso e información de las retenciones y/o percepciones practicadas, con motivo de los regímenes establecidos y/o implementados por esta Administración Federal, a efectos de optimizar el ingreso de los importes correspondientes a las obligaciones con destino a los distintos subsistemas de la seguridad social.
+Que en virtud de la evaluación efectuada, cabe disponer respecto del mencionado procedimiento determinadas adecuaciones con relación a la presentación de los elementos para la información e ingreso de las retenciones y/o percepciones efectuadas, habilitar una actualización del programa aplicativo e incorporar nuevos códigos de regímenes de retención y/o percepción.
+Que han tomado la intervención que les compete las Direcciones de Asesoría Legal y Técnica, de Gestión de la Recaudación de los Recursos de la Seguridad Social, de Informática de los Recursos de la Seguridad Social, de Programas y Normas de Recaudación y de Informática Tributaria.
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 11 de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones, y por el artículo 7º del Decreto Nº 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1º — Modifícase la Resolución General Nº 757, en la forma que se detalla a continuación:
+a) Sustitúyese el artículo 2º, por el siguiente:
+"ARTICULO 2º — La información nominativa y la determinación global a que se refiere el artículo anterior, así como la generación de la respectiva declaración jurada, deberán realizarse mediante la utilización del programa aplicativo denominado "SIJP - Retenciones y Percepciones - Versión 3.0 Release 1", cuyas características, funciones y aspectos técnicos para su uso se especifican en el Anexo I.
+Dicho programa aplicativo se encuentra disponible en la página "Web" de esta Administración Federal (http://www.afip.gov.ar). A tal fin, se deberá acceder a la mencionada página "Web", seleccionar el submenú "Descarga de Programas" y luego el hipervínculo "Seguridad Social".
+Asimismo, su funcionamiento requiere tener preinstalado el sistema denominado "S.I.Ap. - Sistema Integrado de Aplicaciones - Versión 3.1 Release 2".
+b) Sustitúyese el artículo 3º, por el siguiente:
+"ARTICULO 3º — Los sujetos indicados en el artículo 1º deberán presentar a esta Administración Federal:
+a) UNO (1) o más disquetes de TRES PULGADAS Y MEDIA (3½") HD, rotulados con indicación de: SIJP - Retenciones y Percepciones, apellido y nombres, denominación o razón social, Clave Unica de Identificación Tributaria (C.U.I.T.), número de disquete, período que se declara (mes y año) y secuencia, y
+b) el formulario de declaración jurada informativa y determinativa F. 910, por original.
+Cuando los regímenes de retención y/o percepción lo establezcan expresamente, los elementos dispuestos en los incisos precedentes también deberán ser presentados en los casos en que no se hayan practicado retenciones y/o percepciones. A tal fin, dichos elementos se presentarán sin consignar dato alguno y dentro de los plazos de vencimiento dispuestos para ello.".
+c) Sustitúyese el artículo 4º, por el siguiente:
+"ARTICULO 4º — La presentación de los elementos establecidos en el artículo anterior —soporte magnético y formulario de declaración jurada informativa y determinativa— se efectuará en la forma y condiciones que, para cada caso, se indican a continuación:
+a) Contribuyentes y/o responsables comprendidos en los sistemas de control diferenciado dispuestos por las Resoluciones Generales Nº 3282 (DGI) y Nº 3.423 (DGI) —Capítulo II— y sus correspondientes modificatorias y complementarias: en el puesto Sistema de Atención al Contribuyente (SAC) de la dependencia de este organismo que efectúa el control de sus obligaciones tributarias.
+b) Sujetos no comprendidos en el inciso anterior: mediante transferencia electrónica de datos, vía Internet". A tal fin, se deberá ingresar a la página "Web" de este organismo (http://www.afip.gov.ar), seleccionar el hipervínculo "Trámites con Clave Fiscal" y presionar el botón "Ingreso al Sistema" de la ventana "Clave Fiscal Menú Principal". Para acceder al sistema se debe ingresar —además de la Clave Unica de Identificación Tributaria (C.U.I.T.)— la "Clave Fiscal" otorgada por esta Administración Federal.
+Asimismo, en el caso de que no se encuentre operativo el sistema de transferencia electrónica de datos, vía "Internet", la presentación de los elementos deberá efectuarse de acuerdo con lo regulado en el inciso a) precedente.".
+d) Sustitúyese el artículo 6º, por el siguiente:
+"ARTICULO 6º — El ingreso del saldo a favor del fisco, resultante de la declaración jurada informativa y determinativa, se efectuará mediante depósito bancario, en los términos del Título I de la Resolución General Nº 1217, en las instituciones bancarias habilitadas en la dependencia de esta Administración Federal, que efectúa el control de las obligaciones tributarias del agente de retención y/ o percepción.
+La única constancia del pago realizado será el comprobante F. 107, emitido por el sistema o, en su caso, el dispuesto por la Resolución General Nº 3886 (DGI).
+Asimismo, el mencionado ingreso del saldo a favor del fisco podrá efectuarse mediante el régimen optativo de pago electrónico establecido por la Resolución General Nº 942, su modificatoria y sus complementarias.".
+e) Sustitúyese el artículo 8º, por el siguiente:
+"ARTICULO 8º — La cancelación de intereses resarcitorios y multas deberá efectuarse en la forma y condiciones que, para cada caso, se indican a continuación:
+a) Sujetos comprendidos en los sistemas de control diferenciado dispuestos por las Resoluciones Generales Nº 3282 (DGI) y Nº 3423 (DGI) —Capítulo II— y sus correspondientes modificatorias y complementarias: en la institución bancaria habilitada en la respectiva dependencia, mediante el volante de obligación F. 105, entregado por este organismo. La única constancia del pago realizado será el comprobante F. 107, emitido por el sistema o, en su caso, el dispuesto por la Resolución General Nº 3886 (DGI).
+b) Demás contribuyentes y/o responsables: en las instituciones bancarias habilitadas por este organismo, utilizando para ello el formulario F. 801/E, por original. Dicho formulario no será considerado como comprobante de pago, sino sólo informativo. El sistema emitirá un tique que acreditará la cancelación respectiva.".
+f) Sustitúyese el artículo 9º, por el siguiente:
+"ARTICULO 9º — Apruébanse los Anexos I y II, que forman parte de la presente, el programa aplicativo denominado "SIJP - Retenciones y Percepciones - Versión 3.0 Release 1" y el formulario de declaración jurada F. 910.".
+g) Sustitúyese en el Anexo I, en su título, las expresiones "S.I.Ap. SISTEMA INTEGRADO DE APLICACIONES" y "SIJP - RETENCIONES Y PERCEPCIONES - VERSION 3.0", por la expresión "PROGRAMA APLICATIVO. CARACTERISTICAS, FUNCIONES Y ASPECTOS TECNICOS".
+h) Sustitúyese en el Anexo II, en su título, las expresiones "S.I.Ap. SISTEMA INTEGRADO DE APLICACIONES" y "SIJP - RETENCIONES Y PERCEPCIONES - VERSION 3.0", por la expresión "METODOLOGIA PARA LA GENERACION DEL ARCHIVO INFORMATICO Y LA DECLARACION JURADA".
+i) Sustitúyese en el Anexo II, en su punto 2 "Datos Identificatorios", inciso b), segundo párrafo, la expresión "SIJP - Retenciones y Percepciones - Versión 3.0", por la expresión "SIJP - Retenciones y Percepciones - Versión 3.0 Release 1".
+j) Sustitúyese en el Anexo II, su punto 3 "Declaración Jurada", por el siguiente:
+"3. Declaración Jurada:
+a) En la declaración jurada se incorporará nominativamente cada una de las retenciones y/o percepciones efectuadas, en forma independiente, respecto de cada régimen, según el inciso b) del punto 4. de este Anexo y el sistema determinará automáticamente el importe global a ingresar.
+b) El programa aplicativo permite generar la declaración jurada sin consignar dato alguno, a efectos de su presentación cuando no se hayan practicado retenciones y/o percepciones, de acuerdo con lo establecido expresamente por el respectivo régimen.".
+k) Sustitúyese en el Anexo II, en su punto 4 "Ingreso de Retención/Percepción", su inciso b), por el siguiente:
+"b) Régimen: El agente de retención y/o percepción deberá seleccionar el régimen por el cual informa e ingresa, conforme el listado que el programa aplicativo desplegará, según se detalla seguidamente:
+Art. 2º — Apruébase el programa aplicativo denominado "SIJP - Retenciones y Percepciones - Versión 3.0 Release 1".
+Art. 3º — Las disposiciones establecidas en los artículos precedentes serán de aplicación para las presentaciones de declaraciones juradas —soporte magnético y formulario F. 910— y pagos que se efectúen a partir del día 18 de octubre de 2004, inclusive, aun cuando correspondan a períodos anteriores al citado mes.
+Art. 4º — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+

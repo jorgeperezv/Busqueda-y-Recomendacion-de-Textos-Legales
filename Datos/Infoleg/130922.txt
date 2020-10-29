@@ -1,0 +1,272 @@
+MINISTERIO DE SALUD
+Resolución 883/2007
+Apruébase la creación del Sistema Nacional Unico de Información Sanitaria, con el objeto de fortalecer y hacer disponible la información sanitaria de los diferentes sistemas existentes en el sector salud.
+Bs. As., 2/8/2007
+VISTO el Expediente Nº 2002-11639/07-2 del registro del MINISTERIO DE SALUD, y
+CONSIDERANDO:
+Que coexisten en el sector salud sistemas de información estadística, epidemiológica, de procuración y transplante de órganos (SINTRA) y de gestión, correspondientes a los Programas Nacionales: PLAN NACER, REMEDIAR y PROFE del ámbito del MINISTERIO DE SALUD, así como también los sistemas de Registros de la SUPERINTENDENCIA DE SERVICIOS DE SALUD y los sistemas provinciales para la gestión y evaluación sanitaria.
+Que en cada uno de los sistemas mencionados confluye la información de las jurisdicciones provinciales y locales.
+Que, no obstante los consensos logrados en cuanto a la obtención y tratamiento de los datos, cada uno de los múltiples sistemas y niveles existentes, administran instrumentos y procedimientos propios para la producción, tratamiento y difusión de la información.
+Que si bien la información obtenida a partir de los sistemas implementados constituye de por sí una valiosa herramienta de decisión, la falta de integración de dichos instrumentos acarrea como consecuencia la subutilización de sus aplicaciones y la disparidad en su desarrollo, con las consecuentes desventajas en cuanto a la validación, integridad, seguridad y disponibilidad de la información, así como su rápida obtención en forma confiable y actualizada.
+Que asimismo, el contexto de la información sobre las condiciones de salud de la población, conforme su actual diseño de sistemas y registros fragmentados y aislados, resiente la calidad adecuada y necesaria para la toma de decisiones, la planificación, evaluación, atención y gestión de los servicios y programas de salud.
+Que en virtud de ello constituye una necesidad primaria contar con un sistema que asegure la calidad, oportunidad e integralidad de la información del sector salud, mediante un Sistema Nacional Unico de Información Sanitaria.
+Que la SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS y la SECRETARIA DE PROGRAMAS SANITARIOS, así como las áreas ministeriales con desarrollo informático de sistemas de información tales como, la DIRECCION DE ESTADISTICAS E INFORMACION EN SALUD, la DIRECCION DE INFORMATICA, el SISTEMA NACIONAL DE VIGILANCIA DE LA SALUD, el PLAN NACER, el PROGRAMA REMEDIAR y el INSTITUTO NACIONAL CENTRAL UNICO COORDINADOR DE ABLACION E IMPLANTE (INCUCAI), han participado en la iniciativa del proyecto de integración, coincidiendo acerca de la necesidad de contar con el referido sistema único de información.
+Que por otra parte, a través del CO.FE.SA., en el seno de la III Reunión Ordinaria llevada cabo en la Ciudad de San Rafael, PROVINCIA DE MENDOZA, del 26 al 28 de abril del año 2007, también las jurisdicciones provinciales han concordado en la conveniencia de organizar con carácter federal la información sanitaria del país.
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS ha tomado la intervención de su competencia.
+Que se actúa en virtud de lo normado por la Ley de Ministerios, t.o. por decreto Nº 438 del 12 de marzo de 1992, modificada por la ley 25.233.
+Por ello,
+EL MINISTRO DE SALUD
+RESUELVE:
+Artículo 1º — Apruébase la creación del SISTEMA NACIONAL UNICO DE INFORMACION SANITARIA (S.U.I.S.), en el ámbito de la SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS, con el objeto de fortalecer y hacer disponible la información sanitaria de los diferentes sistemas existentes en el sector salud, mediante el desarrollo de un proyecto de tecnología de la información, de acuerdo a los alcances y modalidades establecidos en el ANEXO UNICO que forma parte integrante de la presente.
+Art. 2º — Confórmase en el ámbito de la SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS UN (1) Comité Técnico que será presidido por el señor Secretario del área.
+El Comité Técnico estará integrado por UN (1) miembro titular y UN (1) alterno en representación de las siguientes áreas: DIRECCION DE ESTADISTICAS E INFORMACION EN SALUD; DIRECCION DE INFORMATICA; SISTEMA NACIONAL DE VIGILANCIA DE LA SALUD (SNVS); PLAN NACER, PROGRAMA REMEDIAR y Dirección del SINTRA INSTITUTO NACIONAL CENTRAL UNICO COORDINADOR DE ABLACION E IMPLANTE (INCUCAI), a fin de llevar adelante el proyecto tecnológico que se crea por el artículo primero, quedando facultado el Presidente del Comité a integrar a otras áreas y/o expertos cuando fuere conducente para el cumplimiento de los objetivos del proyecto. La integración del Comité no originará erogación alguna.
+Art. 3º — El Presidente del Comité determinará el funcionamiento del mismo, mediante el dictado de un Reglamento de Funcionamiento del Comité y designará UN (1) Secretario titular y UN (1) alterno.
+Art. 4º — La coordinación de las acciones que demande el cumplimiento de los objetivos del proyecto estará a cargo de la SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS.
+Art. 5º — Facúltase a la SECRETARIA DE POLITICAS, REGULACION Y RELACIONES SANITARIAS a dictar las normas procedimentales que resulten necesarias para el cumplimiento de los objetivos del Programa.
+Art. 6º — Invítase a las jurisdicciones provinciales a integrar el SISTEMA NACIONAL UNICO DE INFORMACION SANITARIA que se crea por la presente y a nombrar un referente titular y uno alterno, a los efectos de integrar la Comisión Nacional del SISTEMA NACIONAL UNICO DE INFORMACION SANITARIA (S.U.I.S.) que se constituirá como órgano federal del Sistema, a través del cual se lograrán los consensos y la articulación que demande su implementación en las provincias adherentes.
+Art. 7º — Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Ginés M. González García.
+ANEXO UNICO
+Sistema Nacional Unico
+de Información Sanitaria
+Proyecto específico
+Secretaría de Políticas,
+Regulación y Relaciones Sanitarias
+Ministerio de Salud de la Nación
+Buenos Aires, julio de 2007
+Contenido
+Presentación
+Situación actual de la información en el sector salud
+Propuesta
+Visión
+Objetivos generales
+Objetivos específicos
+Etapas del Proyecto
+Estructura detallada de las tareas de iniciación
+FASE I — Gestión de proyecto
+FASE II — Infraestructura de tecnología
+FASE III — Integración de los sistemas existentes
+FASE IV — Diseño, desarrollo e implementación del sistema
+FASE V — Ampliación de las prestaciones del sistema
+Cronograma del plan de ejecución
+Presentación
+La información sobre las condiciones de salud de la población y sus determinantes, los recursos destinados a su atención y su utilización, así como el gasto que ello implica y su efectividad, constituyen insumos imprescindibles para la elaboración de planes y programas de intervención y para la toma de decisión en política sanitaria. Para el Ministerio de Salud de la Nación, en su carácter de organismo rector de las políticas nacionales y los Ministerios de Salud Provinciales, responsables de los sistemas provinciales de salud, contar con un sistema que le asegure calidad, oportunidad e integralidad de la información, es una necesidad primaria.
+Con el fin de generar herramientas que favorezcan la toma de decisiones y optimicen la gestion de la información, se presenta el Proyecto para la integración de un Sistema Nacional Unico de Información Sanitaria.
+Situación actual de la información en el sector salud
+La República Argentina no cuenta con un sistema nacional de información de salud integrado sino que se encuentra disperso en cada uno de los subsectores que lo conforma (público, de obras sociales y de seguros privados). Cada uno de éstos administra instrumentos y procedimientos propios para obtener datos indispensables para el desarrollo de sus funciones. Dentro de cada subsector, tampoco es posible encontrar verdaderos sistemas de información, por cuanto al interior de los mismos se replica la fragmentación en los diversos niveles y organizaciones.
+A nivel nacional, el Ministerio de Salud ha desarrollado importantes sistemas que brindan información entre los cuales se destacan:
+• El Sistema Estadístico de Salud (SES), creado por una ley específica, con una estructura que sigue la organización federal del país, con niveles provinciales y locales interrelacionados, es el de mayor importancia en cuanto a su continuidad histórica y cobertura territorial nacional.
+La información elaborada por el sistema tiene fines esencialmente estadísticos y es coordinado en el nivel nacional por la Dirección de Estadísticas e Información de Salud (DEIS) del Ministerio de Salud de la Nación. Las grandes líneas de acción para la obtención y tratamiento de la información son consensuadas con las jurisdicciones provinciales y locales, que mantienen su autonomía para la producción y difusión de la información.
+El Sistema Estadístico de Salud comprende 3 subsistemas:
+1) Subsistema de Estadísticas Vitales: que registra nacimientos, defunciones, defunciones fetales y matrimonios.
+2) Subsistema de Estadística de Servicios de Salud: que contiene el Conjunto Mínimo de Datos Básicos (CMDB) de Interés Nacional. Incluye información sobre:
+• Estadísticas de Pacientes Internados.
+• Estadísticas de Movimiento de Pacientes y Utilización de Camas.
+• Estadísticas de Consultas Médicas Ambulatorias
+• Estadísticas de Recursos de Salud
+Todos ellos referidos al subsistema público nacional, provincial y municipal
+3) Subsistema de cobertura, demanda, utilización de servicios y gasto directo en salud: basado en encuestas a la población.
+• Asimismo, se han desarrollado otros tres sistemas con fines eminentemente epidemiológicos:
+• El Sistema Nacional de Vigilancia de la Salud (SNVS), sobre enfermedades transmisibles y no transmisibles.
+El SNVS es el Sistema de Vigilancia de la Salud utilizado actualmente en la Argentina como plataforma oficial de la Vigilancia Epidemiológica. Sus inicios datan de mediados del año 2001, en el marco de las actividades del Programa de Vigilancia de la Salud y Control de Enfermedades.
+El SNVS como sistema de información utiliza la herramienta de software SNVS y como mecanismo de comunicación la red Internet, para transmitir datos epidemiológicos de vigilancia de diversas estrategias de vigilancia (Notificación Obligatoria C2, Vigilancia de Laboratorio, Unidades Centinelas de Diarreas, Hepatitis, Influenza, Neumonías, Vigilancia de Lesiones, etc.) Actualmente se encuentra en uso en todas las provincias con 668 nodos activos de vigilancia C2 y 545 nodos de notificación de laboratorio en prueba piloto.
+• El Sistema de Vigilancia Epidemiológica sobre SIDA,
+• El Sistema Nacional de Información Perinatológica, contiene información perinatológica de 200 hospitales en todo el país, cubriendo el 30% de los nacimientos.
+• El Instituto Nacional Central Unico Coordinador de Ablación e Implante (INCUCAI) desarrolló e implementó el Sistema Nacional de Información de Procuración y Trasplante (SINTRA) para registrar, administrar, gestionar y fiscalizar en tiempo real la actividad de procuración y transplante de órganos, tejidos y células en todo el territorio nacional. Comprende un Registro Nacional de insuficiencia renal crónica Terminal (IRCT), listas de espera para trasplante, Registro de Procuración de órganos y tejidos, de trasplantes, de expresiones de voluntad de donación y de donantes voluntarios de CPH. Si bien es operado y supervisado desde el INCUCAI, cuenta con nodos provinciales de gestión que permiten a cada provincia operar y fiscalizar todos los procesos y registros.
+• El programa Proyecto de Inversión en Salud Materno Infantil Provincial (Plan Nacer) desarrolló 5 (cinco) Subsistemas, a saber:
+1. Subsistema de Inscripción. Nominalización de la población.
+2. Subsistema de Gestión de Padrones. Consolidación a nivel provincial y nacional de la población nominalizada.
+3. Subsistema de Cálculo de Trazadoras. Medición y cálculo del cumplimiento de las metas sanitarias.
+4. Subsistema de Liquidación de Prestaciones. Sistema de facturación de los efectores.
+5. Subsistema de Gestión de Cuentas Corrientes de Efectores. Sistema de administración de las cuentas de efectores.
+Los subsistemas 1, 4 y 5 son de uso exclusivamente provinciales, mientras que los dos restantes se utilizan tanto a nivel provincial como nacional. Cabe aclarar que la utilización de los Sistema de Gestión de Padrones y Sistema de Cálculo de Trazadoras son requisito exclusivo del Plan, mientras que los restantes surgen de decisiones provinciales y se pueden encontrar integrados a otros sistemas.
+Otros programas nacionales (Remediar, Médicos Comunitarios, PROFE, etc.) han desarrollado sistemas de registro e información específicos para su gestión.
+• La Superintendencia de Servicios de Salud, a su vez, cuenta con los siguientes sistemas de registros:
+• Padrón de Beneficiarios de los Agentes Nacionales del Sistema de Salud.
+• Registro de Prestadores.
+• Registro de datos generales de Obras Sociales nacionales y provinciales y hospitales públicos.
+Por otra parte todas las provincias han generado con diferentes alcances y desarrollo tecnológico, sistemas de información para la gestión y evaluación sanitaria.
+Sin embargo, esta situación de multiplicidad de sistemas y registros que no se encuentra integrada a nivel nacional (y con frecuencia tampoco local), no permite o limita fuertemente, contar con la disponibilidad de información en tiempo real y calidad adecuada para la toma de decisiones, la planificación, la evaluación, la gestión de los servicios y programas y la atención de la población.
+En síntesis, los sistemas de información (informatizados o no) actualmente utilizados por los diferentes programas, áreas de prestación de servicios, instituciones dependientes y direcciones del Ministerio de Salud de la Nación y en ámbitos jurisdiccionales presentan las siguientes características:
+1. Desintegración en el uso: La desintegración ocurre al estar los sistemas aislados entre sí, física y lógicamente.
+2. Disparidad en el desarrollo: La disparidad de desarrollo en los sistemas ocurre al crearse e implementarse cada uno por separado utilizando técnicas y herramientas de desarrollo diferentes.
+3. Disparidad en la cultura de trabajo: La disparidad ocurre al crearse para cada sistema una modalidad de trabajo y desempeño en el grupo de personas que lo utilizan.
+4. Misma misión institucional: El objetivo final de todos los sistemas tienen en común el registro o prestación de algún servicio o producto a los ciudadanos de todo el país en beneficio de su salud y/o bienestar.
+Las primeras tres características anteriores en combinación presentan las siguientes desventajas desde el punto de vista de la manipulación y administración de la información:
+1. No se puede compartir la información de una forma rápida y confiable.
+2. No se puede controlar la validación, integridad, seguridad y disponibilidad de la información.
+3. El trabajo de carga de información se multiplica y se vuelve ineficiente.
+4. Los recursos humanos no se vinculan para optimizar esfuerzos sino que por el contrario trabajan de forma desintegrada y aislada, repitiendo en muchos casos las mismas tareas.
+5. Cada necesidad nueva de gestión de información requiere el diseño de un sistema nuevo aislado del resto, en donde el resultado final depende de los recursos disponibles y asignados en cada circunstancia.
+En este contexto no es posible el análisis adecuado y oportuno de la información para ayudar a la toma de decisiones de las autoridades sanitarias nacionales y provinciales, como así tampoco instrumentar o registrar de forma confiable la gestión de procesos por parte de los actores.
+La diversidad de programas y necesidades complejas, dispares y cambiantes que debe afrontar el modelo sanitario de salud de nuestro país es un permanente atenuante y factor desmotivante para afrontar el cambio. Sin embargo, el hecho de que todos los sistemas tengan en común el registro o prestación de un producto o servicio de salud al ciudadano, propone un escenario desafiante en donde una solución sin duda es posible.
+Propuesta
+Se propone el desarrollo de un proyecto de tecnología de la información que permita integrar y hacer disponible la información, con etapas de implementación gradual de largo plazo, que permita resolver las necesidades del Ministerio de Salud de la Nación y los Ministerios Provinciales, respecto de la gestión de información de sus programas o prestaciones para la comunidad.
+La propuesta contempla —en su concepción básica— la construcción de un repositorio de información desarrollado a partir de la informatización de las transacciones realizadas por los usuarios / pacientes en el sistema de salud, sea a partir de los actuales mecanismos de registro y comunicación de datos, como a partir de futuros desarrollos tales como la "historia clínica única informatizada" y la "tarjeta sanitaria".
+Visión
+Contribuir al fortalecimiento del Ministerio de Salud de la Nación y los Ministerios de Salud Provinciales en su función de rectoría del sistema de salud, así como a la mejora en la toma de decisiones de todos los actores del sistema de salud a través de la optimización de la gestión en las organizaciones en los diversos subsectores y niveles mediante la integración y conformación de un sistema nacional único de información sanitaria.
+Objetivos generales
+• Crear la Ficha Unica del Ciudadano como eje central para el registro de la información, de forma tal que permita unificar y centralizar la información sanitaria (en todos sus niveles) en un repositorio único por cada ciudadano.
+• Implementar la columna vertebral del sistema nacional único de información sanitaria mediante la digitalización en todos los niveles de atención de la salud, del Conjunto Mínimo de Datos Básicos (CMDB). Este identificará al usuario, al efector y los datos relevantes seleccionados del proceso de atención.
+• Generar la base de información sobre recursos de salud que identifiquen efectores (servicios/complejidad/capacidades) y al recurso humano.
+• Integrar de forma gradual los sistemas existentes, entre sí, y con el CMDB de forma tal de unificar toda la información de todos los niveles de atención a partir de la Ficha Unica del Ciudadano, en una plataforma tecnológica normalizada.
+• Optimizar y simplificar el trabajo humano, aportando las garantías de calidad, integridad y confianza en la información, jerarquizando y revalorizando de esta manera la información de la actividad sanitaria en salud.
+• Disponer de herramientas de monitoreo, evaluación y análisis de la información como soporte para la gestión sanitaria en la toma de decisiones.
+Objetivos específicos
+1) Crear en el ámbito de la Secretaría de Políticas, Regulación y Relaciones Sanitarias, un Comité Técnico, responsable del diseño y desarrollo de las diversas etapas del sistema nacional único de información sanitaria.
+2) Conformar una Comisión Nacional integrada por un referente de cada provincia, como ámbito de información y consenso para el diseño, desarrollo e implementación del sistema nacional único de información sanitaria.
+3) Fortalecer el CMDB de Interés Nacional ya aprobado, mediante la digitalización en todos los establecimientos del país.
+4) Desarrollo, aprobación e implementación del CMDB del primer nivel de atención.
+5) Desarrollar e implementar el Sistema de Recursos de Salud conformado inicialmente por el registro de instituciones y servicios (digitalización del sistema de Habilitación Categorizante de establecimientos con internación y sin internación) y el registro de profesiones (acuerdo MERCOSUR).
+6) Implementar la medición del producto hospitalario y la obtención de los indicadores asociados por la metodología de IR-DRGs en hospitales seleccionados.
+7) Diseñar, normalizar y procurar la provisión de la infraestructura de tecnología a los efectores, los Ministerios de Salud Provinciales y al Ministerio de Salud de la Nación para desarrollar los nuevos procesos incluidos en el proyecto.
+8) Proveer asistencia técnica y capacitación en servicio, a los diversos efectores y unidades funcionales de los ministerios comprendidos en el proyecto.
+9) Crear herramientas de evaluación, análisis y monitoreo de la información.
+Resultados esperados
+Resultado correspondiente a los objetivos 1 y 2: La conformación del Comité Técnico y Comisión Nacional como punto de partida para la gestión del proyecto.
+Resultado correspondiente al objetivo 3: implementación del CMDB aprobados de Interés Nacional con la digitalización en todos los establecimientos del país con un único aplicativo.
+Resultado correspondiente al objetivo 4: Implementación en efectores del primer nivel de atención de todas las provincias del CMDB del primer nivel de atención.
+Resultado correspondiente al objetivo 5: Implementación gradual del Sistema de Habilitación Categorizante de instituciones con y sin internación.
+Resultado correspondiente al objetivo 6: Implementación de la medición del producto hospitalario y la obtención de los indicadores asociados de complejidad de la casuística y efectividad clínica, en hospitales públicos seleccionados de las diversas provincias, por la metodología de los Grupos Relacionados del Diagnóstico que surgen de la carga del Conjunto Mínimo de Datos Básicos (CMDB), aprobados como de interés Nacional y Provincial, así como su agrupación en IR-DRGs (Grupos relacionados por el diagnóstico refinados, de uso internacional).
+Resultado correspondiente al objetivo 7: Infraestructura tecnológica normalizada (hardware, software y comunicaciones). Provisión de infraestructura de tecnología a los efectores, los Ministerios de Salud Provinciales y al Ministerio de Salud de la Nación para desarrollar los nuevos procesos incluidos en el proyecto.
+Resultado correspondiente al objetivo 8: Provisión de asistencia técnica y capacitación en servicio, a los diversos efectores y unidades funcionales de los ministerios comprendidos en el proyecto.
+Resultado correspondiente al objetivo 9: Lograr hacer disponible la información para ayudar a la toma de decisiones de las autoridades sanitarias nacionales y provinciales, como así también publicar información útil y relevante para la comunidad.
+Etapas del Proyecto
+Estructura detallada de las tareas de iniciación
+A continuación se muestra un diagrama de tareas de iniciación necesarias para comenzar el proyecto. Las tareas de iniciación están coordinadas y gestionadas por el comité, quedando bajo su responsabilidad la asignación de tareas a terceros.
+FASE 1 – Gestión de proyecto Constitución de un comité
+Se deberá formalizar la constitución de un Comité Técnico (de Dirección del Proyecto), en el ámbito de la Secretaría de Política, Regulación y Relaciones Sanitarias, presidido por el Secretario y constituido por:
+— Dirección de Estadísticas e Información en Salud
+— Dirección de Informática del Ministerio de Salud
+— Representante de la Dirección de Epidemiología (SNVS)
+— Representante del sistema informático de Programa Plan Nacer.
+— Representante de sistemas informáticos de Programa Remediar
+— Dirección del proyecto SINTRA (INCUCAI)
+— Representante del proyecto de Grupos Relacionados por el Diagnóstico de uso internacional (IR-DGR).
+Dicho comité deberá tener la jerarquía organizacional necesaria para tomar decisiones relacionadas a la utilización y gestión de los sistemas de información sanitaria existentes en el Ministerio de Salud de la Nación, así como intervenir en el diseño de nuevas estrategias para el desarrollo de futuros sistemas. Todo proyecto o programa nuevo o existente en el ámbito del Ministerio de Salud de la Nación que requiera informatizar sus registros o procedimientos, deberá ajustarse a las políticas en el uso de la tecnología para la gestión de información establecidas por este comité.
+Sus funciones y responsabilidades serán:
+— Elaborar el documento marco de referencia del Sistema Nacional Unico de Información Sanitaria.
+— Elaborar y coordinar los proyectos específicos que se desprendan del documento marco.
+— Definir y seleccionar los recursos humanos propios necesarios para la ejecución, gestión y administración de los proyectos específicos.
+— Definir las políticas para el uso de la tecnología orientada a la gestión de información.
+— Dar apoyo y soporte a los programas o proyectos en el ámbito del Ministerio de Salud de la Nación que requieran implementar sistemas de información en salud.
+Asimismo será necesario conformar una Comisión Nacional, será el nexo entre el Comité Técnico y los ministerios provinciales, para lograr la comunicación necesaria en el diseño del sistema, monitoreo, implementación y resolución de problemas. El referente provincial será designado por el Ministro de Salud Provincial, debiendo reunir condiciones técnicas adecuadas y pudiendo ejercer acciones en su provincia acorde a las necesidades del proyecto.
+Creación del documento principal
+Se creará un documento que sirva como marco de referencia para el desarrollo de un Sistema Nacional de Información Sanitaria. El mismo deberá contener una reseña histórica, un diagnóstico de situación, la visión y objetivos globales y de largo plazo esperados, y los resultados esperados para cada objetivo establecido. El comité será responsable de la elaboración de este documento, que será consensuado en la Comisión Nacional, sometido a consideración del COFESA y finalmente aprobado por el Ministerio de Salud de la Nación.
+Creación del primer documento de proyecto
+Se creará un documento de proyecto específico dentro del marco de referencia establecido en el primer documento para el desarrollo e implementación de una primera etapa de trabajo. El mismo deberá contener objetivos específicos y un plan de trabajo para su ejecución. Cada proyecto específico deberá seguir los pasos establecidos precedentemente para su elaboración, consenso y aprobación.
+Definición y selección del recurso humano
+Se definirá un organigrama funcional bajo la coordinación del comité para la gestión y administración de los proyectos que se ejecuten en el contexto del marco de referencia. El organigrama deberá contar al menos con las siguientes áreas y funciones:
+— Area de gestión de proyectos
+- Serán sus funciones la elaboración de proyectos, identificación y gestión de requerimientos, elaboración de protocolos y procedimientos, de informes y de diagnósticos. De seguimiento y depuración de los sistemas. De representar al comité cuando sea necesario.
+— Area de capacitación y soporte técnico
+- Serán sus funciones la elaboración de manuales de usuario, diseño de protocolos e instructivos, brindar soporte técnico a usuarios, diseñar y ejecutar planes de capacitación a los distintos actores.
+— Area de tecnología
+- Serán sus funciones la creación, administración, configuración y mantenimiento de la infraestructura de tecnología. Incluyendo:
+? Elección del hardware, software y comunicaciones utilizados
+? Administración y mantenimiento de las redes y comunicaciones
+? Administración y mantenimiento de las aplicaciones y sistemas
+? Administración y mantenimiento de las bases de datos
+? Administración y mantenimiento de la arquitectura en su conjunto
+? Diseño, análisis y seguimiento de la arquitectura funcional de los sistemas
+? Elaboración de los planes de seguridad informática
+? Soporte técnico a usuarios que estén fuera del alcance del área de capacitación
+FASE II — Infraestructura de tecnología
+Realizar un relevamiento de situación
+Dicho relevamiento se hará con el objetivo de identificar:
+En el ámbito del Ministerio de Salud de la Nación:
+— Hardware y software utilizado por los sistemas actuales
+— Servicios de comunicaciones actualmente contratados (usos, costos y tecnologías)
+— Recurso humano bajo funciones técnicas para el desarrollo o administración
+— Espacio físico y condiciones actualmente utilizadas por la dirección de informática
+En el ámbito de los Ministerios Provinciales de Salud:
+— Servicios de comunicaciones actualmente contratados (usos, costos y tecnologías)
+— Recurso humano bajo funciones técnicas para el desarrollo o administración
+— Espacio físico y condiciones actualmente utilizadas por la dirección de informática
+Diseñar la infraestructura de tecnología
+Objetivos:
+— Diseñar e implementar la infraestructura de tecnología para soportar el proyecto en el nivel central del Ministerio de Salud de la Nación.
+— Diseñar e implementar la estrategia para la comunicación de datos con los Ministerios Provinciales de Salud.
+— Proveer el equipamiento necesario para garantizar la conectividad del sistema en los Ministerios Provinciales de Salud.
+Premisas de diseño:
+— La arquitectura deberá ser de alta disponibilidad y el proyecto una solución global de largo plazo. Los recursos de equipamiento y administración serán propios.
+— El diseño de la infraestructura deberá permitir el desarrollo e implementación de múltiples subsistemas integrados entre sí, que podrán desarrollarse, implementarse o deshabilitarse cuando se necesite de forma independiente.
+— Los niveles de confiabilidad, seguridad y disponibilidad de los sistemas que se sumen a la infraestructura serán los propios de la infraestructura.
+— La estrategia de comunicaciones contará con cuatro canales de acceso a los sistemas:
+1. Internet
+Utilizado por todos los actores ajenos a los Ministerios de Salud
+2. Acceso para el Ministerio de Salud de la Nación a través de su red interna
+Utilizado por los usuarios internos del Ministerio de Salud de la Nación
+3. Acceso para los Ministerios provinciales a través de la red ministerial provincial
+Utilizado por los usuarios internos de los Ministerios de Salud Provinciales
+4. Acceso directo al sistema desde la sala de servidores
+Utilizado como último recurso de emergencia ante fallo de los otros canales de acceso
+El diseño incluye:
+En el ámbito del Ministerio de Salud de la Nación:
+— Diseño del espacio físico para la implementación de la sala de cómputos y servidores
+— Diseño del sistema de alimentación eléctrica
+— Diseño del sistema de refrigeración
+— Diseño de los espacios mecánicos y disposición para el alojamiento de los servidores
+— Selección de las plataformas hardware que se utilizarán
+— Selección de las plataformas software que se utilizarán
+— Definición de la estrategia de comunicaciones
+En el ámbito de los Ministerios Provinciales de Salud:
+— Definición del equipamiento provincial para garantizar la comunicación con la red nacional
+Elaborar los requerimientos de contrataciones
+—Adecuación del espacio físico para la sala de administración y servidores
+— Sistema de alimentación eléctrica
+— Sistema de refrigeración
+— Hardware, comunicaciones, gabinetes y UPS
+— Licencias de software
+Implementar la infraestructura
+El equipo de trabajo del área de tecnología deberá elaborar los requerimientos para la contratación de servicios y armar el equipamiento adquirido de forma tal que el resultado final de la arquitectura cuente con:
+— Un espacio físico adecuado para el alojamiento de los servidores.
+— Un sistema de alimentación eléctrica de emergencia funcionando que garantice disponibilidad energética aún durante cortes prolongados.
+— Un sistema de refrigeración que garantice las condiciones de temperatura y humedad las 24 horas.
+— Una red de servidores de alta disponibilidad.
+— Una red de comunicaciones entre todos los ministerios provinciales y nación.
+— Un documento escrito con las políticas generales de control de acceso a los recursos y un plan de seguridad informática.
+FASE III — Integración de los sistemas existentes
+Realizar un relevamiento de situación
+Dicho relevamiento se hará con el objetivo de identificar en el ámbito de los programas existentes del Ministerio de Salud de la Nación la situación en la cual se encuentran para determinar qué nivel de migración requieren. Se pondrá especial atención en el equipamiento utilizado, recurso humano asignado, procedimientos y registros implementados y nivel de implementación. La dirección de cada programa deberá definir cuál es la estrategia más adecuada para la integración de sus sistemas informáticos a la nueva arquitectura de tecnología.
+Diseñar el plan de migración
+Existirán 4 niveles de migración. Para cada programa se evaluará qué nivel corresponde aplicar según su desarrollo y situación actual, la cual se desprenderá del relevamiento anterior. Todos los niveles de migración incluyen un nivel 0 necesario para incorporarse a la nueva arquitectura.
+• Nivel 0: Reasignación de direcciones IP internas y públicas para los servidores de los sistemas. Esta condición necesaria para todos los sistemas unifica las redes de servidores de la arquitectura y la utilización de un mismo proveedor de Internet.
+• Nivel 1: Migración física. Sólo es necesario migrar el equipamiento físico utilizado por el sistema a la nueva sala de servidores. La ubicación e interconexión en la nueva sala es responsabilidad de los administradores de la nueva arquitectura.
+• Nivel 2: Migración de hardware: El sistema se migra a servidores de la nueva arquitectura y se deja de utilizar los servidores actuales. Su plataforma software sigue siendo la misma.
+• Nivel 3: Migración lógica: El sistema migra su plataforma de SO o RDBMS en sus servidores actuales o en servidores de la nueva arquitectura.
+• Nivel 4: El sistema se rediseña por completo bajo el framework del nuevo diseño para el sistema SNUIS. El sistema se desarrollará como parte del SNUIS.
+Vínculo entre sistemas
+Debido a que los sistemas deberán pasar por la fase de migración a la infraestructura, la interconexión lógica de los mismos ahora es de fácil implementación ya que los servidores de bases de datos compartirán las mismas redes y tendrán acceso entre ellas. Los mecanismos estarán orientados a que se realicen las modificaciones en los sistemas que requieran vincularse con otros a través de las técnicas de acceso a bases de datos remotas.
+Orden de migración
+Una vez establecidos los niveles de migración para cada programa se deberá establecer una orden de migración con los plazos adecuados para realizar las tareas de migración. Dichos plazos dependerán del nivel de migración de cada programa.
+FASE IV — Diseño, desarrollo e implementación del sistema
+Los componentes clásicos para el desarrollo del software del nuevo sistema SNUIS (requerimientos, análisis funcional, diseño, desarrollo, implementación y mantenimiento) se desarrollarán en el documento técnico específico para el desarrollo del software. Aquí se pretende establecer los lineamientos generales, los módulos iniciales que se implementarán y sus principales características.
+Desde la perspectiva sanitaria, el SNUIS en esta primera etapa implementará:
+n La Ficha Unica del Ciudadano como unidad central de información. Esta Ficha será el repositorio de los datos del ciudadano para todos los registros que se recolecten desde cualquier sistema o programa de atención de salud en cualquiera de sus niveles.
+n La recolección de datos desde el nivel local y provincial del Conjunto Mínimo de Datos Básicos (CMDB) aprobados de interés nacional (información estadística de pacientes internados, de consultas médicas ambulatorias, de movimiento de pacientes y utilización de camas y de recursos de salud), desarrollado por la DEIS, aprobados por todos los componentes provinciales del SES, y consensuado en COFESA, en aplicación desde enero de 2005.
+n El desarrollo, aprobación e implementación del Conjunto Mínimo de Datos Básicos del primer nivel de atención.
+n La recolección de información de los recursos en salud según el Sistema de Habilitación Categorizante.
+n Los instrumentos que permitan generar reportes y estadísticas para la elaboración de los indicadores relevantes que serán puestos a disposición de las autoridades sanitarias y la comunidad en general según corresponda.
+n Articular los datos con las bases de datos institucionales nacionales (SINTyS, SSS, RENAPER, ANSES, etc.)
+El SNUIS desde la perspectiva de un proyecto de desarrollo de software de arquitectura web deberá contar con los siguientes componentes principales:
+n Portal de acceso central publicado en Internet bajo un dominio propio.
+n Componente de gestión de usuarios. SNUIS contará con un módulo de gestión de usuarios para el alta, baja y modificación de las cuentas de usuario. Cada usuario tendrá una única cuenta de acceso a SNUIS y podrá tener uno o más sistemas asociados a la cuenta. La gestión de las cuentas de usuario estará a cargo de los responsables y administradores de cada sistema en particular.
+n Servicio de noticias de acceso público. Donde se deberá publicar todas las noticias y novedades del sector salud nacionales y provinciales. Deberá contar con responsables para la actualización permanente de este servicio.
+n Repositorio de documentación pública. En este repositorio se podrán publicar todo tipo de documentos escritos con la intención de crear un canal de distribución y difusión de información escrita (leyes, resoluciones, proyectos, documentos de programas, informes, revistas, folletos, etc.).
+n Repositorio de documentación restringida. Pensado para el intercambio de documentos, entre usuarios de SNUIS. Los documentos publicados en este repositorio podrán ser descargados sólo por los usuarios autorizados por el usuario que publica el documento. Los usos de este servicio son múltiples pero se destaca el envío de documentos entre grupos de trabajo.
+n Registros únicos y compartidos de SNUIS. Este componente incluye todos los registros o padrones que deben ser únicos y compartidos por todos los usuarios y sistemas (establecimientos y profesionales de salud, padrón de ciudadanos, instituciones de financiamiento, prestadores, nomencladores de enfermedades o patologías, etc.). Estos registros tendrán un único canal de actualización que podrá ser utilizado por todos los sistemas que deban actualizados.
+n Ficha Unica del Ciudadano. Con el registro de cada nuevo ciudadano a SNUIS se creará la Ficha correspondiente, la misma se constituye en el instrumento de gestión de todos los sistemas para el registro y consulta de la información del ciudadano. La Ficha se podrá crear desde cualquier sistema que instrumente el registro de un ciudadano. La Ficha será el eje de todos los sistemas y contendrá toda la información asociada al ciudadano, independientemente de cuál haya sido el sistema usado para el registro.
+n Componentes comunes de SNUIS. Se desarrollarán componentes funcionales comunes para que sean utilizados por todos los subsistemas:
+m ABM de formularios. SNUIS tendrá un componente de gestión de formularios on line único y normalizado para todos los subsistemas. Este componente incluye la apariencia, forma de operación, validación y ayuda on line del formulario.
+m  Componente de ficha para instrumentar la Ficha Unica del Ciudadano.
+m  Componente de lista. Para mostrar, buscar e ingresar a registros de datos.
+m  Componente buscador. Para buscar un registro particular de una población numerosa.
+m  Componente de reporte. Para armar y crear un reporte en tiempo real.
+m  Componente de menú. Para mostrar y gestionar un menú de opciones para el usuario.
+FASE V — Ampliación de las prestaciones del sistema
+Una vez instalada y funcionando la infraestructura tecnológica como soporte del sistema, logrado el desarrollo troncal mediante el registro del CMDB de todos los niveles y la base de recursos del sistema, y en proceso de integración los subsistemas de los programas nacionales, se estará en condiciones de iniciar una quinta fase consistente en tres caminos principales:
+a) integrar los desarrollos informáticos de los organismos descentralizados.
+b) incorporar progresivamente al registro a usuarios y efectores del subsector privado.
+c) ampliar los desarrollos informáticos según las necesidades de áreas o programas o incorporar nuevos subsistemas.
+Cronograma del plan de ejecución
+

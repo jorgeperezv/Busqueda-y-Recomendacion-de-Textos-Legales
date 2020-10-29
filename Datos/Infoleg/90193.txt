@@ -1,0 +1,52 @@
+MINISTERIO DE TRABAJO, EMPLEO Y SEGURIDAD SOCIAL
+ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL
+Resolución N° 1209/2003
+Bs. As., 30/10/2003
+VISTO el Expediente N° 024-99-808726480-790 del Registro de esta ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL (ANSES), y
+CONSIDERANDO:
+Que la información es un activo, y como tal debe ser protegido, contra su uso no autorizado, divulgación, modificación, daño o pérdida.
+Que para hacer efectiva dicha protección es necesario contar con adecuados controles de acceso lógico que garanticen que el uso de sistemas, datos y correo electrónico esté limitado a los agentes autorizados y por el tiempo que estos se desempeñen en esta Administración.
+Que el uso abusivo de la identificación de usuario otorgada a tal efecto, así como la comunicación de la clave personal a terceras personas hace responsable al agente frente a esta Administración y, supletoriamente, frente a los órganos jurisdiccionales que entiendan en la acción judicial pertinente.
+Que los niveles de conducción poseen la indelegable responsabilidad de cumplir con los procedimientos fijados para resguardar la información contra su uso no autorizado, divulgación, modificación, daño o pérdida.
+Que el otorgamiento de una identificación de usuario y una clave personal al agente que se incorpora a la Organización, significa entregarle los medios para acceder a toda la información que esta Administración maneja, como es, la información de gestión, la comunicación a través de correo electrónico o, eventualmente, el uso de Internet.
+Que los niveles gerenciales son responsables de la autorización otorgada al personal para acceder a dicha información.
+Que en tal sentido resulta necesario ejercer acciones inmediatas ante la desvinculación de un agente que fuera oportunamente autorizado, a fin de dar de baja el acceso otorgado.
+Que el acápite 9.2 sobre Administración de accesos de usuarios de la norma IRAM-ISO/IEC 17799/2002 establece en su punto 9.2.1. de Registración de usuarios, que: "El acceso a servicios de información multiusuario debe ser controlado a través de un proceso formal de registración de usuarios, el cual debe incluir los siguientes puntos …h) cancelar inmediatamente los derechos de acceso de los usuarios que cambiaron sus tareas o se desvincularon de la organización".
+Que la normativa que por la presente se aprueba, se dicta en el marco de la POLITICA DE SEGURIDAD INFORMATICA fijada por la Resolución D.E.-N. N° 262/99, cuyo Artículo 1° establece que su cumplimiento es "responsabilidad primaria de sus mandos medios y superiores, los que garantizarán su aplicación por parte del personal a su cargo".
+Que la presente Resolución se dicta en uso de las facultades conferidas por el artículo 3° del Decreto N° 2741/91, el artículo 36 de la Ley N° 24.241 y el Decreto N° 106/03.
+Por ello,
+EL DIRECTOR EJECUTIVO DE LA ADMINISTRACION NACIONAL DE LA SEGURIDAD SOCIAL
+RESUELVE:
+ARTICULO 1° — Apruébase la normativa sobre eliminación de la identificación de un usuario ante la desvinculación del agente que figura en el Anexo I como parte integrante de la presente.
+ARTICULO 2° — Remítase la misma al Comité de Seguridad Informática para su aprobación y posterior inclusión en el Manual de Procedimientos de la Organización.
+ARTICULO 3° — Regístrese, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — SERGIO T. MASSA, Director Ejecutivo.
+ELIMINACION DE LA IDENTIFICACION DE UN USUARIO ANTE LA DESVINCULACIÓN DEL AGENTE
+I. Introducción
+La información es un activo de la Organización que debe ser protegido contra su uso no autorizado, divulgación o modificación, daño o pérdida.
+Para hacer efectiva dicha protección es necesario contar con adecuados controles de acceso lógico que garanticen que el uso de sistemas, datos y correo electrónico está limitado a los agentes autorizados y por el tiempo que éstos se desempeñen en esta Administración.
+II. Objetivo
+Normar el procedimiento de comunicación de la desvinculación del personal que presta servicios en ANSES, cualquiera fuera la modalidad de servicio, a la Gerencia Unidad Seguridad, Informática, para proceder a la eliminación de la identificación de usuario y los permisos de acceso correspondientes.
+III. Alcance
+Esta norma es de aplicación en el caso que un agente se desvincule de ANSES cualquiera sea la causa de dicha desvinculación.
+No debe ser aplicada en caso que un agente sea derivado a otra dependencia.
+IV. Responsabilidad
+Será responsable de la comunicación a la Gerencia Unidad Seguridad Informática de la desvinculación de ANSES del personal a su cargo, el gerente de segundo nivel o jefe de UDAI correspondiente
+En los casos de coordinaciones dependientes de una gerencia sustantiva, el responsable del procedimiento que se norma será el gerente de la misma.
+V. Detalle de Tareas
+Ante la toma de conocimiento por parte del gerente/jefe de UDAI respectivo, de la desvinculación de un agente de su dependencia, sea cual fuere su modalidad de servicio, se ejecutarán las siguientes acciones.
+Gerente
+1. Informará inmediatamente, a los Sub-Administradores de la Aplicación para rehabilitación de usuarios y cambio de grupo (ED01), dado que la efectivización de la acción tiene un tiempo de demora que depende de las tareas en ejecución en el computador central.
+2. Enviará una nota a la Gerencia Sistemas y Telecomunicaciones o Gerencia Unidad Seguridad Informática, según el nivel de la gerencia actuante, comunicando la fecha a partir de la cual dicho agente no podrá hacer uso de sus permisos de accesos a la información, correo electrónico y/o Internet.
+3. Con anterioridad al envío de la nota y a los efectos de agilizar la tarea, se enviará un fax de la misma totalmente conformada. Ello significa que deberá contar con número, firma y sello del gerente actuante.
+Sub-Administradores de la Aplicación para rehabilitación de usuarios y cambio de grupo (ED01)
+4. Si el agente que se desvincula tiene permisos de acceso sobre aplicaciones que se ejecutan en el computador central deberá:
+a) Pasar el usuario del mencionado agente, al grupo residual.
+b) cambiar la clave de dicho usuario a través de la opción 1.2 Cambio de PASSWORD, utilizando una combinación de caracteres numéricos donde no se utilice la repetición en grupos. No es necesario que dicha clave se recuerde y es obligatorio no comunicarla al usuario.
+Gerencia Unidad Seguridad Informática
+5. Ante la recepción del fax bloquea la clave de acceso a red, correo electrónico, Internet y computador central y comunica a la gerencia correspondiente su cumplimiento.
+6. Elimina el usuario de la estructura de grupos visible a través de la Aplicación para rehabilitación de usuarios y cambio de grupo (ED01), para evitar que los sub-administradores puedan rehabilitarla.
+7. Ante la llegada de la nota procede a eliminar definitivamente los accesos y la identificación del usuario y comunica a la gerencia correspondiente su cumplimiento.
+8. Realizará semanalmente el cruce de los usuarios bloqueados/activos con las novedades de baja generadas por la Gerencia Recursos Humanos.
+Esta instancia es definitiva y, se hubiere o no recibido fax/nota de la gerencia responsable, en caso de encontrar el usuario activo/bloqueado con fecha de baja en las mencionadas novedades, procede a eliminar definitivamente los accesos y la identificación del usuario y comunica a la gerencia correspondiente su cumplimiento.
+e. 12/11 N° 431.582 v. 12/11/2003
+

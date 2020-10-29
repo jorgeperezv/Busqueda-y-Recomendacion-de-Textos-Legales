@@ -1,0 +1,30 @@
+Administración Federal de Ingresos Públicos
+IMPUESTOS
+Resolución General 1590
+Impuesto a las Ganancias. Artículos 8°, 14 y 15, artículo agregado a continuación del 15, 129 y 130 de la ley del citado gravamen. Transacciones internacionales. Precios de Transferencia. Resolución General N° 1122, sus modificatorias y complementarias. Norma complementaria.
+Bs. As., 5/11/2003
+VISTO la Resolución General N° 1122, sus modificatorias y complementarias,
+CONSIDERANDO:
+Que la citada resolución general estableció formalidades, requisitos y demás condiciones que los sujetos alcanzados por las disposiciones de los artículos 8°, 14, 15, el artículo agregado a continuación del 15, 129 y 130 de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones, deben observar a efectos de demostrar la correcta determinación de los precios, montos de las contraprestaciones o márgenes de ganancia establecidos en transacciones realizadas entre partes vinculadas o con sujetos domiciliados, constituidos o ubicados en países de baja o nula tributación, así como los precios fijados en operaciones de exportación e importación de bienes entre partes independientes.
+Que la Ley N° 25.784 ha introducido modificaciones al artículo 8° de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones, que hacen necesaria la revisión y adecuación de las obligaciones previstas por la Resolución General N° 1122, sus modificatorias y complementarias, así como de los datos contenidos en el correspondiente programa aplicativo.
+Que hasta tanto finalicen las tareas conducentes a lo expuesto en el párrafo anterior, se entiende aconsejable disponer un plazo especial para que los contribuyentes y responsables comprendidos en la citada resolución general, cumplan con las obligaciones de presentación dispuestas por la aludida norma.
+Que para facilitar la lectura e interpretación de las normas, se considera conveniente la utilización de notas aclaratorias y citas de textos legales, con números de referencia, explicitados en un Anexo complementario.
+Que han tomado la intervención que les compete las Direcciones de Legislación y de Asesoría Técnica.
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 7º del Decreto N° 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1° — A los fines del cumplimiento de las obligaciones establecidas en el artículo 16 de la Resolución General N° 1122, sus modificatorias y complementarias (1.1.), y, en su caso, de las indicadas en los artículos 2° y 3° de la Resolución General N° 1339 (1.2.), cuyos vencimientos operen en los meses de noviembre y diciembre de 2003 y en enero de 2004, serán consideradas en término las presentaciones que los contribuyentes y responsables comprendidos en los artículos 2° y 5°, inciso e), de la Resolución General N° 1122, sus modificatorias y complementarias (1.3.), efectúen hasta el día 13 de febrero de 2004, inclusive.
+Art. 2º — Apruébase el Anexo que forma parte de esta resolución general.
+Art. 3º — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO RESOLUCION GENERAL N° 1590
+NOTAS ACLARATORIAS Y CITAS DE TEXTOS LEGALES
+Artículo 1°.
+(1.1.) Presentación de soporte magnético y delos formularios de declaración jurada F. 741 y F.742.
+(1.2.) Artículos 2° y 3° de la Resolución General N° 1339.
+"ARTICULO 2° — Los sujetos que hayan efectuado en el semestre que se informa, operaciones de exportación e importación que en su conjunto sumen un valor FOB total a fecha de embarque de hasta QUINIENTOS MIL PESOS ($ 500.000.-), podrán presentar, en sustitución del soporte magnético y del respectivo formulario de declaración jurada F. 741, una nota, con carácter de declaración jurada, conteniendo la información que se indica en el Anexo I de la presente.
+ARTICULO 3° — Los sujetos que hayan efectuado en el semestre que se informa operaciones de exportación e importación que en su conjunto sumen un valor FOB total a fecha de embarque superior a QUINIENTOS MIL PESOS ($ 500.000.-) e inferior a CINCO MILLONES DE PESOS ($ 5.000.000.-), podrán presentar el soporte magnético con el respectivo formulario de declaración jurada F. 741 sin informar el precio mayorista, y una nota, con carácter de declaración jurada, conforme al modelo que se consigna en el Anexo II de esta resolución general, indicando que las operaciones declaradas no merecieron ajustes.
+Cuando se efectúe la carga de datos en el programa aplicativo correspondiente, en el campo "Precio Mayorista" de la pantalla "Operaciones a Informar" de la carpeta "Datos del Sujeto del Exterior", se consignará "9999,99"."
+(1.3.) Sujetos comprendidos en el artículo 69 de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones y los enunciados en el inciso b) y en el inciso agregado a continuación del inciso d), ambos del artículo 49 de la ley del gravamen (artículo 2° de la Resolución General N° 1122, sus modificatorias y complementarias).
+Sujetos que realicen operaciones de importación o exportación de bienes con empresas independientes domiciliadas, constituidas o ubicadas en el exterior, cuando resulte de aplicación el penúltimo párrafo del artículo 8° de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones (artículo 5°, inciso e), de la Resolución General N° 1122, sus modificatorias y complementarias).
+

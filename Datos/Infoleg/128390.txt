@@ -1,0 +1,44 @@
+Administración Federal de Ingresos Públicos
+IMPUESTOS
+Resolución General 2256
+Impuesto a la Ganancia Mínima Presunta. Determinación e ingreso del gravamen. Resolución General Nº 2.011 y su modificación. Nueva versión del programa aplicativo.
+Bs. As., 18/5/2007
+VISTO la Resolución General Nº 2011 y su modificación, y
+CONSIDERANDO:
+Que la citada norma establece las formalidades, plazos y demás condiciones que deberán observar los contribuyentes y responsables alcanzados por el impuesto a la ganancia mínima presunta, a fin de cumplir con las obligaciones de determinación e ingreso del saldo de impuesto resultante.
+Que el avance alcanzado en el desarrollo de los procesos informáticos así como razones de buena administración tributaria, hacen necesario disponer la utilización de una nueva versión del programa aplicativo para la confección de la respectiva declaración jurada.
+Que han tomado la intervención que les compete la Dirección de Legislación y las Subdirecciones Generales de Recaudación, de Sistemas y Telecomunicaciones y de Asuntos Jurídicos y la Dirección General Impositiva.
+Que la presente se dicta en ejercicio de las facultades conferidas por los Artículos 17 y 19 del Título V de la Ley Nº 25.063 y sus modificaciones, el Artículo 11 de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones y el Artículo 7º del Decreto Nº 618 del 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1º — Los contribuyentes y responsables comprendidos en las disposiciones de la Resolución General Nº 2011 y su modificación, a efectos de cumplir con las obligaciones de determinación e ingreso del impuesto a la ganancia mínima presunta, deberán utilizar exclusivamente el programa aplicativo denominado "GANANCIA MINIMA PRESUNTA – Versión 7.0", en sustitución de la versión anterior, cuyas características, funciones y aspectos técnicos para su uso se especifican en el Anexo de esta resolución general.
+El referido sistema se podrá transferir desde la página "web" de este Organismo (http:// www.afip.gov.ar).
+Art. 2º — Las declaraciones juradas que se presenten a partir del 1º de julio de 2007, inclusive, se deberán confeccionar utilizando el programa aplicativo que se aprueba por la presente.
+No obstante, la citada versión podrá ser utilizada opcionalmente por los sujetos pasivos del impuesto desde la fecha de publicación de esta resolución general en el Boletín Oficial, inclusive.
+Art. 3º — Cuando corresponda efectuar la presentación de una declaración jurada rectificativa —cuya originaria o rectificativa haya sido generada mediante la utilización de una versión anterior a la que se aprueba por esta resolución general—, la misma deberá confeccionarse utilizando el programa aplicativo "GANANCIA MINIMA PRESUNTA - Versión 6.1".
+Art. 4º — Los formularios de declaración jurada Nº 715 correspondientes al impuesto a la ganancia mínima presunta confeccionados con el programa aplicativo denominado "GANANCIA MINIMA PRESUNTA – Versión 7.0", se presentarán únicamente conforme al procedimiento de transferencia electrónica de datos a través de "Internet", previsto en la Resolución General Nº 1345, sus modificatorias y complementarias.
+Art. 5º — Apruébanse el Anexo que forma parte de la presente y el programa aplicativo denominado "GANANCIA MINIMA PRESUNTA – Versión 7.0".
+Art. 6º — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO RESOLUCION GENERAL Nº 2256
+SISTEMA "GANANCIA MINIMA PRESUNTA - Versión 7.0"
+La generación de la declaración jurada, que deberán presentar los contribuyentes y responsables del gravamen, se efectuará en forma automática mediante un proceso computarizado que comprende desde el ingreso de datos hasta la producción del archivo a remitir y el formulario de declaración jurada.
+Los datos identificatorios de cada contribuyente deben encontrarse cargados en el "S.I.Ap. - Sistema Integrado de Aplicaciones - Versión 3.1 - Release 2" y, al acceder al programa, se deberá ingresar la información correspondiente para la liquidación del impuesto.
+La veracidad de los datos que se ingresen será responsabilidad del contribuyente o responsable.
+1. Descripción general del sistema
+La función principal del sistema es generar la declaración jurada anual del impuesto a la ganancia mínima presunta, tomando en cuenta la valuación contable y los ajustes previstos por las normas legales vigentes, a los efectos de obtener la valuación fiscal.
+El sistema permite ingresar los datos correspondientes a los bienes situados en el país y en el exterior, en forma separada. Además, contempla la posibilidad de informar el cómputo del impuesto sobre los créditos y débitos en cuentas bancarias y otras operatorias como crédito para cancelar los anticipos y el saldo de la declaración jurada.
+2. Requerimientos de "hardware" y "software"
+2.1. PC 486 DX2 o superior.
+2.2. Memoria RAM mínima: 16 Mb.
+2.3. Memoria RAM recomendable: 32 Mb.
+2.4. Disco rígido con un mínimo de 3 Mb. disponibles.
+2.5. Disquetera 3½" HD (1.44 Mbytes).
+2.6. "Windows" 95 o superior o NT.
+2.7. Instalación previa del "S.I.Ap. – Sistema Integrado de Aplicaciones – Versión 3.1 - Release 2".
+3. Metodología general para la confección de la declaración jurada
+La confección del formulario de declaración jurada Nº 715 se efectúa cubriendo cada uno de los campos identificados en las respectivas pantallas, y teniendo en cuenta las disposiciones de la Ley Nº 25.063, Título V de Impuesto a la Ganancia Mínima Presunta, sus modificaciones y sus normas reglamentarias y complementarias.
+Para todos los sujetos pasivos del impuesto, excepto los comprendidos en el Artículo 2º, incisos c) y e) del Título V de la Ley Nº 25.063 y sus modificaciones, que cierren ejercicios irregulares, la liquidación correspondiente al período complementario se identificará informando en el campo "Establecimiento" el valor 90. Los responsables sustitutos que se encuentren en la misma situación, asignarán en el campo "Establecimiento" los valores 91 a 99, en forma correlativa y progresiva.
+———
+NOTA: El sistema prevé un módulo de "Ayuda", al cual se accede con la tecla de función F1 o a través de la barra de menú, que contiene indicaciones para facilitar el uso del programa aplicativo.
+

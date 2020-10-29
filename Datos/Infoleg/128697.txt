@@ -1,0 +1,37 @@
+Instituto Nacional Central Unico Coordinador de Ablación e Implante
+TRASPLANTE DE ORGANOS Y TEJIDOS
+Resolución 122/2007
+Modificación de la Resolución Nº 110/2005, en lo que respecta al Módulo 2 del Sistema Nacional de Información de Procuración y Trasplante de la República Argentina, como así también los formularios y certificados de constancias elaborados para la implementación del denominado registro.
+Bs. As., 30/5/2007
+VISTO las funciones asignadas al INSTITUTO NACIONAL CENTRAL UNICO COORDINADOR DE ABLACION E IMPLANTE por la Ley Nº 24.193 (t.o. Ley Nº 26.066) y la Resolución INCUCAI Nº 110/05; y
+CONSIDERANDO:
+Que la Resolución citada en el visto aprueba el Módulo 2 del Sistema Nacional de Información de Procuración y Trasplante de la República Argentina (SINTRA), denominado Listas de Pacientes en Espera de Organos y Tejidos, como así también los formularios y certificados de constancias elaborados para la implementación del denominado registro.
+Que en esta instancia resulta necesario efectuar modificaciones tendientes a optimizar y actualizar el sistema informático en consonancia con las exigencias de la práctica cotidiana.
+Que las Direcciones Científico Técnica y Médica y los Departamentos de Asuntos Jurídicos y de Informática, han tomado la intervención de su competencia.
+Que la medida que se adopta ha sido considerada y aprobada por el Directorio en su sesión ordinaria del día 30 mayo 2007 según consta en el Acta Nº 15.
+Que se actúa en uso de las competencias otorgadas por el artículo 44 de la Ley 24.193 y Decreto Nº 512/95.
+Por ello:
+EL DIRECTORIO DEL INSTITUTO NACIONAL CENTRAL UNICO COORDINADOR DE ABLACION E IMPLANTE
+RESUELVE:
+Artículo 1º — Modifícanse los Formularios 20 - Indicación de evaluación pretrasplante y 26 - No inclusión en lista de espera sugerido por el centro de diálisis y las constancias de los mismos, conforme los modelos obrantes en el ANEXO I, que forman parte de la presente resolución.
+Art. 2º — Apruébanse las modificaciones efectuadas a la Resolución INCUCAI Nº 110/05, conforme lo establecido en el ANEXO II que también integra la presente.
+Art. 3º — La presente medida entrará en vigencia el día siguiente al de su publicación oficial.
+Art. 4º — Regístrese, comuníquese. Notifíquese a quienes corresponda. Dése a la Dirección Nacional del Registro Oficial para su publicación. Cumplido, archívese. — Armando M. Perichón. — Martín Torres.
+ANEXO I
+FORMULARIOS Y CONSTANCIAS
+ANEXO II
+MODIFICACIONES A LA RESOLUCION INCUCAI Nº 110/05.
+ANEXO I - SISTEMA NACIONAL DE INFORMACION DE PROCURACION Y TRASPLANTE DE LA REPUBLICA ARGENTINA - MODULO 2, LISTAS DE PACIENTES EN ESPERA DE ORGANOS Y TEJIDOS.
+- Sustitúyese el párrafo tercero del punto 3.- Se inicia el proceso de inscripción en lista de espera, por el siguiente texto:
+"En cualquier momento el paciente podrá revocar la decisión de no querer trasplantarse, no resultando necesaria su actualización anual."
+- Modifícase el apartado 3 de Los actores que intervendrán en cada instancia serán: del punto A- Proceso de inscripción: Actores, formularios y procedimientos, por el siguiente texto: "
+3.- Jefe, subjefe o médico a cargo con cuenta de usuario del equipo de trasplante."
+- Modíficase el texto del punto B - Descripción de las etapas del proceso de inscripción: Indicación de evaluación pretrasplante: Etapas: por el siguiente texto:
+"El formulario o la constancia deberán ser firmadas por el jefe o subjefe del equipo de trasplante o el director médico del centro de diálisis y por el paciente".
+- Sustitúyese el tercer párrafo de Estudios Inmunológicos por el siguiente texto:
+"Una vez que el laboratorio fue habilitado por el equipo de trasplante, aún sin haber efectuado la evaluación pre trasplante, el laboratorio podrá completar los estudios inmunológicos del paciente, debiendo cumplimentar las siguientes etapas: ..."
+- Sustitúyese el apartado 6) del punto VII) Actualización en Lista de Espera por el siguiente texto:
+"6- Agregar cross match contra panel, HLA. El laboratorio que actualiza un cross match podrá ser diferente del que efectuó la tipificación de los antígenos de histocompatibilidad."
+Sustitúyese el párrafo tercero del punto X) Acceso a la información por el siguiente texto:
+"Los laboratorios de histocompatibilidad tendrán acceso a la ficha de los pacientes a los cuales le hayan efectuado algún estudio."
+

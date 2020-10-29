@@ -1,0 +1,21 @@
+MINISTERIO DE ECONOMIA Y PRODUCCION
+SECRETARIA DE AGRICULTURA, GANADERIA, PESCA Y ALIMENTOS
+INSTITUTO NACIONAL DE VITIVINICULTURA
+Resolución N° C.5/2007
+Mendoza, 11/5/2007
+VISTO el Expediente Nº 311-000258/2002-2, las Resoluciones Nros. A.21 - P. de fecha 27 de febrero de 2007 y C.26 de fecha 19 de setiembre de 2002, y
+CONSIDERANDO:
+Que a través del citado expediente se tramita la convocatoria a empresas informáticas para el desarrollo de la presentación en formato electrónico de Declaraciones Juradas On Line, exigidas a la Industria, vinculadas con los sectores vitivinícolas y de alcoholes.
+Que la empresa CeyC S.H., ha suscripto con este Instituto, en fecha 9 de junio de 2006, un Convenio de Cooperación para el Desarrollo de Aplicativos para la Presentación de Declaraciones Juradas en Línea.
+Que mediante Resolución Nº A.21-P. de fecha 27 de febrero del corriente año, se creó una comisión que tiene a su cargo el estudio, análisis y elaboración de pautas y especificaciones técnicas que deberán contemplarse en la aplicación para la presentación de Declaraciones Juradas On Line, emitiendo los informes pertinentes para la homologación de los distintos módulos que a tal efecto las empresas contratadas generen.
+Que el Punto 1º de la Resolución Nº C.26 de fecha 19 de setiembre de 2002 establece, entre otras, la obligatoriedad de que los aplicativos desarrollados por dicha empresa, sean homologados por este Organismo.
+Que a fojas 607 la mencionada Comisión, ha informado que el Sistema de Transferencia Electrónica, Subsistema Vinos, desarrollado por la empresa citada, cumple con las especificaciones técnicas establecidas por el I.N.V.
+Que en virtud de lo expuesto, corresponde efectuar la homologación pertinente.
+Que Subgerencia de Asuntos Jurídicos del I.N.V. ha tomado la intervención de su competencia.
+Por ello, y en uso de las facultades conferidas por las Leyes Nros. 14.878 y 24.566 y los Decretos Nros. 1279/03 y 1241/05,
+EL PRESIDENTE DEL INSTITUTO NACIONAL DE VITIVINICULTURA
+RESUELVE:
+1º — A partir de la fecha de la presente resolución, homológase el módulo correspondiente al Subsistema Vinos, Formularios: MV-01 (DECLARACION JURADA MENSUAL DE BODEGAS Y FABRICAS DE MOSTO - EXISTENCIA Y MOVIMIENTO DE VINOS Y OTROS PRODUCTOS); MV-01C (DECLARACION MENSUAL DE FRACCIONAMIENTOS Y DE PRODUCTOS LIBRADOS AL CONSUMO INTERNO; MV-02 (SOLICITUD DE TRASLADO); MV-05 (COMUNICACION DE MOVIMIENTOS VARIOS DE PRODUCTOS VINICOS); 1848 (DOCUMENTO DE EXPORTACION); ANEXO I FORMULARIO 1848 (TALON DE CONFORMIDAD EXPORTACION), COMUNICACION DE MOVIMIENTOS DE VINOS ENTRE BODEGAS Y FRIGORIFICOS y CERTIFICADO DE ANALISIS, COMUNICACION DE INGRESO A FABRICA DE ESPUMOSO ANEXA, COMUNICACION DE MOVIMIENTOS DE VINOS ENTRE FABRICAS DE ESPUMOSOS Y FRIGORIFICOS, MV-01 (DECLARACION JURADA MENSUAL DE FABRICAS DE ESPUMOSOS EXISTENCIA Y MOVIMIENTO DE VINOS Y OTROS PRODUCTOS), COMUNICACION DE MOVIMIENTOS DE VINOS ENTRE FABRICAS DE ESPUMOSOS Y FRIGORIFICOS, que forman parte del Sistema de Transferencia Electrónica de Declaraciones Juradas, desarrollado por la empresa Empresa CeyC S.H., denominado Vid@Itec. Versión 1.0.
+2º — Regístrese, comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial para su publicación y cumplido, archívese. — Lic. RAUL HORACIO GUIÑAZU, Presidente, Instituto Nacional de Vitivinicultura.
+e. 16/5 Nº 545.756 v. 16/5/2007
+

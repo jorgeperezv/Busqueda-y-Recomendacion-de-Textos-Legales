@@ -1,0 +1,102 @@
+Administración Federal de Ingresos Públicos
+SISTEMA UNICO DE LA SEGURIDAD SOCIAL
+Resolución General 1606
+Sistema Unico de la Seguridad Social (SUSS). Ley Nº 24.700, artículo 4º. Contribución sobre vales alimentarios o cajas de alimentos. Regímenes de percepción e información. Resolución General Nº 1557 y su modificatoria. Su modificación.
+Bs. As., 28/11/2003
+VISTO la Resolución General Nº 1557 y su modificatoria Nº 1587, y
+CONSIDERANDO:
+Que la resolución general citada en primer término instrumentó un régimen de percepción aplicable sobre el importe nominal consignado en los vales alimentarios y/o cajas de alimentos, emitidos y entregados por las empresas autorizadas por el Ministerio de Trabajo, Empleo y Seguridad Social.
+Que dicha norma también estableció un régimen de información a cargo de las mencionadas empresas emisoras de vales alimentarios y/o cajas de alimentos.
+Que los regímenes de percepción e información implementados tienen como fin optimizar el ingreso de la contribución instaurada por la Ley Nº 24.700, en su artículo 4º, destinada al financiamiento del subsistema de asignaciones familiares.
+Que la entidad representativa de las empresas emisoras de vales alimentarios y/o cajas de alimentos planteó distintas inquietudes con relación a los referidos regímenes.
+Que debido a ello y al análisis efectuado, mediante la Resolución General Nº 1587 se dispuso que los sujetos alcanzados deberán actuar como agentes de percepción e información a partir del día 1 de diciembre de 2003, inclusive.
+Que finalizada la evaluación respecto de la presentación realizada por la entidad representativa del sector, cabe adecuar determinados aspectos de los regímenes de percepción e información, a efectos de evitar equívocas interpretaciones y facilitar su aplicación.
+Que en igual sentido, y teniéndose en cuenta razones de índole operativa, se procede a reformular la información que deben suministrar a este organismo las mencionadas empresas emisoras de vales alimentarios y/o cajas de alimentos.
+Que por otra parte, el procedimiento transitorio dispuesto por la Resolución General Nº 1557 y su modificatoria, en sus artículos 15 y 16, respecto de la presentación en soporte papel de la información sobre los importes de las percepciones sufridas, ha devenido en abstracto dado que esta Administración Federal aprobó la versión 22 del programa aplicativo denominado "Sistema Integrado de Jubilaciones y Pensiones".
+Que consecuentemente, para informar el importe de las percepciones sufridas en cada período, los sujetos pasibles de esta percepción —al momento de determinar los aportes y contribuciones con destino al Sistema Unico de la Seguridad Social (SUSS)—, deben utilizar la citada versión del mencionado programa aplicativo.
+Que han tomado la intervención que les compete las Direcciones de Asesoría Legal y Técnica, de Gestión de la Recaudación de los Recursos de la Seguridad Social, de Gestión de la Fiscalización de los Recursos de la Seguridad Social, de Programas y Normas de Recaudación, de Programas y Normas de Fiscalización y de Informática de la Seguridad Social.
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 22 de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones y por el artículo 7º del Decreto Nº 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1º — Modifícase la Resolución General Nº 1557 y su modificatoria, en la forma que se detalla a continuación:
+a) Sustitúyese el artículo 2º, por el siguiente:
+"– Conceptos excluidos
+Artículo 2º — Quedan excluidos del aludido régimen, los montos correspondientes a los vales alimentarios y/o cajas de alimentos que soliciten:
+a) Los empleadores para:
+1. Incrementar los beneficios sociales de sus trabajadores, según lo previsto por el Decreto Nº 815, de fecha 20 de junio de 2001, en sus artículos 2º y 3º (2.1.).
+2. Su entrega a trabajadores no comprendidos por la Ley de Contrato de Trabajo Nº 20.744 y sus modificaciones, de acuerdo con lo establecido en su artículo 2º (2.2.).
+b) Las asociaciones, organizaciones sin fines de lucro u otras entidades (sindicatos, sociedades filantrópicas, de beneficencia, etc.) para su posterior entrega a personas físicas que no mantienen una relación laboral con ellas.".
+b) Incorpórase en el artículo 4º, como segundo párrafo, el siguiente:
+"Cuando las empresas emisoras de vales alimentarios y/o cajas de alimentos —obligadas a actuar como agentes de percepción, conforme a lo dispuesto en el artículo anterior—, entreguen vales y/ o cajas a su personal dependiente, que no hayan sido solicitados a otras empresas emisoras, autorizadas por la autoridad de aplicación (3.1.), deberán determinar, en el momento en que se produzca la aludida entrega, un importe equivalente a la percepción que se establece en este Capítulo A. Dicha suma se ingresará e informará de acuerdo con lo establecido por los artículos 9º y 10.".
+c) Sustitúyese el artículo 6º, por el siguiente:
+"- Determinación del importe a percibir
+Artículo 6º — El monto de la percepción a practicar se determinará aplicando la alícuota del CATORCE POR CIENTO (14%) establecida por el artículo 4º de la Ley Nº 24.700, sobre el importe nominal de los vales alimentarios y/o cajas de alimentos alcanzados por el presente régimen.
+Cuando se devuelvan, por cualquier causa, vales alimentarios y/o cajas de alimentos, el importe de las percepciones que fueron practicadas sobre su valor nominal será:
+a) Consignado en el comprobante que respalda la devolución realizada,
+b) reintegrado al sujeto que sufrió la respectiva percepción, e
+c) informado a este organismo mediante el régimen que se establece en el Capítulo B de la presente.
+El saldo a favor del agente de percepción que resulte del reintegro de las percepciones practicadas, a que se refiere el párrafo precedente, se lo deberá individualizar, exteriorizar y computar en la declaración jurada informativa y determinativa de las percepciones practicadas —formulario F. 910, previsto por la Resolución General Nº 757—, inmediata siguiente al momento en que se produjo la devolución.".
+d) Sustitúyese el artículo 7º, por el siguiente:
+"- Comprobante justificativo de la percepción
+Artículo 7º — Los agentes de percepción quedan obligados a entregar al sujeto pasible de la misma, en el momento de efectuarla, un comprobante o documento que contendrá los datos que se detallan en el Anexo II de la presente.
+Será considerado como comprobante válido para acreditar la percepción efectuada, el documento o constancia utilizado para respaldar la entrega de los vales alimentarios y/o cajas de alimentos, siempre que posea los datos a que se refiere el párrafo precedente.
+El registro de los documentos indicados deberá quedar en poder de su emisor, para su archivo en forma cronológica y por año calendario. Asimismo, dicho archivo deberá ser accesible por cada sujeto pasible de percepción.
+Cuando se trate de vales alimentarios y/o cajas de alimentos excluidos o no alcanzados por este régimen de percepción, en el comprobante que respalda la entrega de los vales y/o cajas se deberá consignar la leyenda "Vales Excluidos o no Alcanzados R.G. Nº 1557" y los datos indicados en el Anexo II, incisos a), b), c) y f).".
+e) Sustitúyese el artículo 11, por el siguiente:
+"Artículo 11. — Las empresas emisoras de vales alimentarios y/o cajas de alimentos actuarán además como agentes de información y, en consecuencia, estarán obligadas a suministrar a esta Administración Federal, información relativa a la totalidad de los vales alimentarios y/o cajas de alimentos —alcanzados, exceptuados o no alcanzados por el régimen de percepción dispuesto en el Capítulo A—, que fueran entregados en el lapso comprendido entre los días 6 de cada mes calendario y 5 del mes inmediato siguiente, ambas fechas inclusive.".
+f) Sustitúyese el artículo 13, por el siguiente:
+"Artículo 13. — El suministro de la información se efectuará hasta el decimoquinto día hábil administrativo, inclusive, de cada mes calendario, ante la dependencia de este organismo en la que se encuentre inscripto el agente de información.
+Dicha obligación también deberá cumplirse aunque no se hayan realizado operaciones.".
+g) Sustitúyese el artículo 15, por el siguiente:
+"CAPITULO D - DISPOSICIONES RELATIVAS A LOS CAPITULOS A Y B
+Artículo 15. — Para acreditar que la operación realizada se encuentra excluida del régimen de percepción —conforme a lo indicado en el artículo 2º, incisos a) y b)— o, en su caso, no alcanzada por dicho régimen, se deberá presentar al agente de percepción una nota en la que se consignará los motivos por los cuales la operación está excluida o no alcanzada.
+Dicha nota tendrá el carácter de declaración jurada y deberá contener la firma del titular o persona debidamente autorizada, en original y certificada mediante la intervención de una entidad bancaria, autoridad policial o escribano.
+La precitada obligación deberá cumplirse al inicio de la relación con el respectivo agente de percepción, y toda modificación se informará dentro del plazo de CINCO (5) días hábiles de producida.
+El agente de percepción deberá archivar y conservar la mencionada nota a efectos de justificar la falta de percepción, así como para su futura verificación por parte de este organismo.".
+h) Sustitúyese el artículo 16, por el siguiente:
+"Artículo 16. — Todos los sujetos que soliciten vales alimentarios y/o cajas de alimentos deberán proporcionar a la empresa emisora, obligada a actuar como agente de percepción e información, con relación a cada uno de los beneficiarios de dichos vales y/o cajas, los datos que se indican a continuación:
+a) Clave Unica de Identificación Tributaria (C.U.I.T.), Código Unico de Identificación Laboral (C.U.I.L.) o Clave de Identificación (C.D.I.).
+b) Importe asignado.".
+i) Sustitúyese a continuación del artículo 16, la expresión:
+"CAPITULO D - DISPOSICIONES GENERALES",
+por la expresión:
+"CAPITULO E - DISPOSICIONES GENERALES".
+j) Incorpórase en el Anexo I "Notas Aclaratorias y Citas de Textos Legales", la nota aclaratoria (2.2.), cuyo texto es el siguiente:
+"(2.2.) De acuerdo con lo establecido por la Ley Nº 20.744 y sus modificaciones, en su artículo 2º, las disposiciones de la Ley de Contrato de Trabajo no serán aplicables a:
+a) Los dependientes de la Administración Pública Nacional, Provincial o Municipal, excepto que por acto expreso se los incluya en la misma o en el régimen de las convenciones colectivas de trabajo.
+b) Los trabajadores del servicio doméstico.
+c) Los trabajadores agrarios.".
+k) Sustitúyese el Anexo II "Comprobante que Acredita la Percepción", por el que se consigna en el Anexo I de la presente.
+l) Sustitúyese el Anexo III "Requisitos, Especificaciones y Diseños de Registros", por el que se consigna en el Anexo II de la presente.
+Art. 2º — Apruébanse los Anexo I y II, que forman parte de esta resolución general.
+Art. 3º — Esta resolución general entrará en vigencia el día de su publicación en el Boletín Oficial y sus disposiciones tendrán efectos a partir del día 1 de diciembre de 2003, inclusive.
+Art. 4º — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO I - RESOLUCION GENERAL Nº 1606
+"ANEXO II - RESOLUCION GENERAL Nº 1557
+COMPROBANTE QUE ACREDITA LA PERCEPCION
+El comprobante que acredita la percepción practicada contendrá los siguientes datos:
+a) Numeración consecutiva y progresiva.
+b) La Clave Unica de Identificación Tributaria (C.U.I.T.) de la empresa emisora de vales alimentarios y/o cajas de alimentos.
+c) La Clave Unica de Identificación Tributaria (C.U.I.T.) del solicitante de los vales alimentarios y/o cajas de alimentos.
+d) Fecha de la percepción realizada.
+e) Importe de la percepción efectuada.
+f) Detalle de los montos nominales de los vales entregados, discriminados por Ley Nº 24.700 y/o Decreto Nº 815/01 y/o excluidos o no alcanzados.".
+ANEXO II - RESOLUCION GENERAL Nº 1606
+"ANEXO III - RESOLUCION GENERAL Nº 1557
+REQUISITOS, ESPECIFICACIONES Y DISEÑOS DE REGISTROS
+A - ELEMENTOS A PRESENTAR
+Los agentes de información deberán presentar los siguientes elementos:
+a) Soportes magnéticos, rotulados con indicación de: "Régimen de Percepción Resolución General Nº 1557", apellido y nombres, denominación o razón social del agente de percepción e información, Clave Unica de Identificación Tributaria (C.U.I.T.), desde/hasta con indicación del mes y año.
+b) Una nota, por duplicado y en los términos de la Resolución General Nº 1128, con el detalle de los soportes magnéticos presentados y cualquier otra especificación que sea necesaria. El original de la citada nota sellado servirá como constancia de presentación.
+La mencionada nota deberá contar con la firma en original del titular o persona debidamente autorizada, precedida de la fórmula indicada en el artículo 28 "in fine" de la Reglamentación de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones.
+Las empresas emisoras de vales alimentarios y/o cajas de alimentos, responsables del régimen de información, presentarán los elementos indicados en los incisos precedentes —soportes magnéticos y nota— en la dependencia de este organismo, a cuyo cargo se encuentre el control de sus obligaciones tributarias.
+No serán admitidas las presentaciones que se realicen mediante envío postal o cualquier otra forma indirecta de remisión.
+B - DISEÑO DE REGISTRO DEL SOPORTE MAGNETICO A PRESENTAR
+- Nombre de Archivo:
+Desde/hasta con indicación del mes (mm), año (aaaa), Clave Unica de Identificación Tributaria (C.U.I.T.) del agente de percepción e información y de la extensión txt.
+- Contenido de Campos:
+- Contenido de Campos:
+- Contenido de Campos:
+(1) Se informará "747" en todos los casos, salvo cuando se trate de vales alimentarios y/o cajas de alimentos excluidos o no alcanzados por el régimen de percepción, en cuyo caso se informará "000".".
+

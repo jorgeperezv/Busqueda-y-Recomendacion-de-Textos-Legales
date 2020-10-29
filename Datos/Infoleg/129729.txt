@@ -1,0 +1,38 @@
+MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA
+Resolución 823/2007
+Autorízase el uso de un sistema de software libre, cuyo único titular de los Derechos de Autor es el citado Ministerio. Licencia de Uso.
+Bs. As., 25/6/2007
+VISTO que el SISTEMA DE INFORMACION UNIVERSITARIA (SIU), dependientente de la SECRETARIA DE POLITICAS UNIVERSITARIAS del MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA, ha desarrollado el software SIU-TOBA, y
+CONSIDERANDO:
+Que el SIU-TOBA es una herramienta generada a partir del uso de software libre orientada a la construcción de aplicaciones web, que puede resultar de interés y aprovechamiento para otras instituciones.
+Que la naturaleza y el grado de innovación contenido en el SIU-TOBA lo convierte en una herramienta de estudio, capacitación y aprendizaje invalorable.
+Que el estado actual de desarrollo del sistema SIU-TOBA permite y facilita su difusión y utilización por terceras partes que contribuirán sin duda a probar y mejorar el mismo, dentro de un ambiente colaborativo.
+Que este Ministerio que apoya y promueve los avances tecnológicos, es el único titular de los derechos de Autor del SIU-TOBA.
+Que existe el interés de promover el uso de software libre no sólo desde el sistema universitario, sino también desde la Administración Pública Nacional y de las administraciones provinciales y municipales del país.
+Que la DIRECCION GENERAL DE ASUNTOS JURIDICOS, ha tomado la intervención que le compete.
+Por ello,
+EL MINISTRO DE EDUCACION, CIENCIA Y TECNOLOGIA
+RESUELVE:
+Artículo 1º — Autorízase el uso del sistema SIUTOBA, conforme los términos y condiciones plasmados en la "Licencia de Uso" que como Anexo forma parte integrante de la presente Resolución.
+Art. 2º — Toda institución u organismo interesado en el uso del SIU-TOBA, podrá obtenerlo ingresando a la página web del Sistema Universitario de Información – SIU (http://www.siu.edu.ar), y prestando conformidad a los términos de la Licencia de Uso aprobada por la presente. Toda mejora que el Sistema Universitario de Información realice sobre el SIU-TOBA, será puesto a disposición en la misma página y bajo las mismas condiciones de uso.
+Art. 3º — Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Daniel F. Filmus.
+ANEXO
+"LICENCIA DE USO"
+El MINISTERIO DE EDUCACION, CIENCIA Y TECNOLOGIA, en adelante el Licenciante, autoriza a utilizar el SIU-TOBA según las cláusulas y condiciones que a continuación se exponen:
+OBJETO DE LA LICENCIA
+Se permite el uso, copia, modificación y distribución del software SIU-TOBA y su documentación en forma gratuita y a perpetuidad.
+El uso del software SIU-TOBA implica la aceptación de los términos y condiciones fijados en la presente licencia de uso, el no cumplimiento de algunas de las cláusulas implica automáticamente la revocación de la autorización brindada en la presente licencia de uso.
+TITULARIDAD DE DERECHOS
+El LICENCIANTE es titular de los derechos de autor sobre el SIU-TOBA. No está permitido remover el texto contenido en los programas fuentes que describe la titularidad de derechos.
+Si se modifica el SIU-TOBA, se debe dejar constancia de los cambios realizados de manera que quien reciba o use la versión modificada sepa que el SIU-TOBA fue modificado.
+Cuando el SIU-TOBA se distribuye, hay que respetar las siguientes condiciones según sea el caso en que se produce:
+n Si se distribuye el SIU-TOBA se debe incorporar el texto de la presente licencia.
+n Si se distribuye una versión adaptada o mejorada del SIU-TOBA, la licencia bajo la cual se distribuye debe contener y respetar todas las condiciones definidas en la presente licencia.
+n Si se distribuye junto a un sistema desarrollado, en forma total o parcial, con SIU-TOBA, la licencia del sistema desarrollado debe contener y respetar las condiciones definidas en la presente licencia en lo que respecta a SIU-TOBA. El sistema desarrollado debe contener, en la ayuda en línea o en el "acerca de", la leyenda que indica que fue desarrollado con SIU-TOBA.
+CONTRAPRESTACION, EXCLUSION DE GARANTIA Y LIMITACION DE RESPONSABILIDAD:
+Como consecuencia de que el SIU-TOBA se licencia como gratuito, no existirá garantía alguna por la que se deba responder. El LICENCIANTE pone a disposición el programa "como está", sin ningún tipo de garantías, quien lo utiliza declara conocer este hecho y aceptarlo mediante el uso del programa. El riesgo que el programa esté en perfectas condiciones y funcione como tal corre por cuenta de quien lo recibe, al igual que los gastos necesarios para su servicio, reparación o corrección en el supuesto en que dicho programa contenga defectos.
+El LICENCIANTE no será responsable por ningún tipo de daño resultado del uso o incapacidad de uso del programa, incluyendo de manera enunciativa mas no limitativa la pérdida de información, inexactitud en la información, pérdidas sufridas por el usuario del programa o por terceras personas o la incapacidad del programa para operar con otros programas.
+El LICENCIANTE tampoco será responsable por bugs o errores en las versiones entregadas.
+INCLUMPLIMIENTO
+La violación de alguna de las cláusulas y condiciones establecidas en la presente revoca automáticamente la licencia y habilita a El LICENCIANTE a iniciar las acciones legales que crea convenientes.
+

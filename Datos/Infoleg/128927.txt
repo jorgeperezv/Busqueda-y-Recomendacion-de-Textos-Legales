@@ -1,0 +1,45 @@
+INSTITUTO NACIONAL CENTRAL UNICO COORDINADOR DE ABLACION E IMPLANTE
+Resolución 127/2007
+Sistema Nacional de Información de Procuración y Trasplante de la República Argentina. Registro Nacional de Insuficiencia Renal Crónica Terminal. Actualización de formularios y procedimientos de registros.
+Bs. As., 30/5/2007
+VISTO las funciones asignadas al INSTITUTO NACIONAL CENTRAL UNICO COORDINADOR DE ABLACION E IMPLANTE por la Ley N° 24.193 (t.o. Ley N° 26.066) y la Resolución INCUCAI N° 148/04; y
+CONSIDERANDO:
+Que la Resolución citada en el visto aprueba el Módulo 1 del Sistema Nacional de Información de Procuración y Trasplante de la República Argentina (SINTRA), denominado Registro Nacional de Insuficiencia Renal Crónica Terminal, como así también los formularios y certificados de constancias elaborados para la implementación del denominado registro.
+Que en esta instancia resulta necesario efectuar modificaciones tendientes a optimizar y actualizar el sistema informático e incorporar una nueva herramienta que permita el registro de los movimientos transitorios de pacientes en diálisis.
+Que la Dirección Científico Técnica y los Departamentos de Asuntos Jurídicos y de Informática, han tomado la intervención de su competencia.
+Que la medida que se adopta ha sido considerada y aprobada por el Directorio en su sesión ordinaria del día 30 de mayo de 2007 según consta en el Acta N° 15.
+Que se actúa en uso de las competencias otorgadas por el artículo 44 de la Ley 24.193 y Decreto N° 512/95.
+Por ello:
+EL DIRECTORIO DEL INSTITUTO NACIONAL CENTRAL UNICO COORDINADOR DE ABLACION E IMPLANTE
+RESUELVE:
+Artículo 1° — Modifícanse los formularios "Ingreso de Pacientes a Diálisis - 02 DRI" y "Reingreso de Pacientes a Diálisis - 03 DRIR" conforme los modelos obrantes en los ANEXOS I y II, que forman parte de la presente resolución.
+Art. 2° — Apruébase el procedimiento para el "Registro de Diálisis en Tránsito" y su correspondiente protocolo de implementación, conforme lo establecido en el ANEXO III que también integran la presente.
+Art. 3° — La presente medida entrará en vigencia el día siguiente al de su publicación oficial.
+Art. 4° — Regístrese, comuníquese. Notifíquese a quienes corresponda. Dése a la Dirección Nacional del Registro Oficial para su publicación. Cumplido, archívese. — Armando M. Perichón. — Martín Torres.
+ANEXO I
+ANEXO II
+ANEXO III
+REGISTRO DE DIALISIS EN TRANSITO
+El registro de diálisis en tránsito es una nueva herramienta del Registro Nacional de IRCT y su finalidad es llevar el registro de los movimientos transitorios de pacientes en diálisis, es decir que los tratamientos transitorios queden debidamente registrados, no sean engorrosos de instrumentar y no modifiquen el DRI o DRIR del centro permanente del paciente.
+Las características más importantes de la diálisis en tránsito incluyen:
+Ÿ  El registro de diálisis en tránsito no interfiere con los DRI, DRIR o DEM de los tratamientos permanentes de los pacientes. Por el contrario, los registros de tránsito son un soporte de información adicional a los tratamientos permanentes.
+Ÿ  El registro de diálisis en tránsito no requiere fiscalización.
+Ÿ  El tiempo máximo para una diálisis en tránsito es de sesenta (60) días corridos.
+Durante una diálisis en tránsito, la referencia para los procesos de distribución de órganos y para el análisis estadístico es el centro de diálisis de origen, donde el paciente tiene un DRI o DRIR fiscalizado por el organismo jurisdiccional de ablación e implante correspondiente. La diálisis en tránsito es información adicional al tratamiento permanente.
+Procedimiento para el registro de una diálisis en tránsito:
+1. En el circuito los únicos que pueden intervenir son los centros de diálisis de origen y de destino.
+2. El paciente que recibirá tratamiento de forma transitoria debe estar confirmado en el centro de origen.
+3. Desde la ficha del paciente seleccionar "Crear registro de diálisis en tránsito".
+4. Se mostrará el formulario 05-TRA para completar por el centro de origen.
+5. Para crear el registro sólo es necesario especificar un responsable del centro de origen del registro de la diálisis en tránsito, el centro de destino y el motivo del tránsito. El registro de diálisis en tránsito se crea en situación PENDIENTE.
+6. Una vez creado, el centro de destino puede ver el registro en su opción de menú inicial "Pacientes con Tratamiento de Diálisis en Tránsito" y cuando reciba al paciente debe confirmar el ingreso en el registro completando en el formulario 05-TRA la fecha de primera diálisis del tránsito y el profesional responsable de confirmar la misma. El centro de destino al ratificar el ingreso del paciente, actualiza su situación a ACTIVO en el registro diálisis en tránsito.
+7. Cuando finalice el tránsito, el centro de destino deberá confirmar el egreso completando en el formulario 05-TRA la fecha de última diálisis del tránsito, la que no podrá superar en ningún caso los sesenta (60) días corridos. Si el centro de destino no completa el egreso pasado los ochenta (80) días corridos, el SINTRA completará automáticamente el egreso con el tiempo máximo de sesenta (60) días e inactivará el registro.
+8. Finalmente, el centro de origen deberá confirmar el reingreso del paciente a su tratamiento permanente, ingresando al formulario 05-TRA y confirmando el reingreso. Al confirmar el reingreso por el centro de destino, el registro diálisis en tránsito actualiza su situación a INACTIVO. Esta operación cierra el circuito.
+9. A efectos operativos y administrativos el centro de origen y el de destino podrán imprimir la constancia del formulario 05-TRA.
+NOTAS:
+Ÿ  Mientras un registro de diálisis en tránsito esté PENDIENTE, el centro de origen podrá eliminarlo o modificar los datos del formulario 05-TRA.
+Ÿ  El centro de origen sólo podrá confirmar el reingreso cuando el centro de destino especifique la fecha de última diálisis del tránsito.
+Ÿ  La constancia del formulario 05-TRA la podrán imprimir el centro de origen y el de destino una vez especificada la fecha de la última diálisis en tránsito.
+Ÿ  Mientras exista un registro de diálisis en tránsito PENDIENTE o ACTIVO no se podrá crear otro.
+Ÿ  Mientras exista un registro de diálisis en tránsito PENDIENTE o ACTIVO se mostrará en la ficha del paciente un mensaje de advertencia.
+

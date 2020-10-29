@@ -1,0 +1,23 @@
+ENTE NACIONAL REGULADOR DEL GAS
+Resolución 7/2007
+Bs. As., 11/6/2007
+VISTO el Expediente Nº 10.842 del Registro del ENTE NACIONAL REGULADOR DEL GAS (ENARGAS), lo dispuesto en los Decretos 436/2000 y 1023/2001 y en la Resolución ENARGAS Nº 330/96 y el Acta de Directorio Nº 310 del 03 de febrero de 2004 y
+CONSIDERANDO:
+Que mediante Resolución ENARGAS Nº 3613 del 17 de octubre de 2006 (fs. 1464 a 1476) el ENARGAS resolvió adjudicar el Concurso Privado Nº 03/2007 promovido para adquisición de Un (1) Servidor para Firewall (SR-005); TRES (3) Servidores de Web (SR-003); UN (1) Servidor para aplicaciones Corporativas (SR-006) y DOS (2) Servidores para aplicaciones Corporativas (SR-006), destinados a satisfacer las necesidades operativas de este Organismo, a la firma CASA SARMIENTO S.R.L. por ser ella quien presentó la mejor oferta técnica y económica. El monto total de la compra ascenderá a la suma de PESOS CIENTO TREINTA Y OCHO MIL SEISCIENTOS OCHO CON 06 CTVOS. ($138.608.06) (cfr. art. 4).
+Que dicho decisorio fue notificado a todos los oferentes mediante NOTA ENRG/GAyS Nº 8074 del 18 de octubre de 2006 (cfr. constancia de fs. 1477 a 1485).
+Que en consecuencia se emitió la Orden de Compra Nº 76 por el importe correspondiente a la compra autorizada.
+Que mediante MEMORANDUM ASI Nº 22/07 del 14 de febrero del presente año (fs. 1678) el AREA DE SISTEMAS INFORMATICOS informó a la GERENCIA DE ADMINISTRACION Y SISTEMAS sobre la necesidad de aumentar el espacio de almacenamiento de UNO (1) de los SIETE (7) servidores ya adquiridos, basando tal solicitud por cuestiones de capacidad y performance.
+Que así las cosas, a fs. 1682 se encuentra incorporada la comunicación interna que el AREA DE COMPRAS le envió al AREA DE PRESUPUESTO —ambas dependientes de la GERENCIA DE ADMINISTRACION Y SISTEMAS— a fin de que informe si existe crédito para afrontar dicho gasto, cuyo monto estimado asciende a la suma de PESOS CINCO MIL SETECIENTOS NUEVE CON VEINTITRES CENTAVOS ($ 5.709,23).
+Que la respuesta afirmativa del AREA DE PRESUPUESTO obra a fs. 1683.
+Que por ello, la GERENCIA DE ADMINISTRACION Y SISTEMAS solicita mediante el MEMORANDUM GAyS Nº 147/2007 autorización a esa Intervención, para hacer uso de la opción prevista en el art. 99 inc. a) del Decreto Nº 436/2000).
+Que el art. 99 inc. a) del Decreto Nº 436/2000 establece que es facultad de la Administración Pública "... Aumentar el total adjudicado hasta un VEINTE POR CIENTO (20%) o disminuirlo hasta un DIEZ POR CIENTO (10%) de su valor original en uno y otro caso, en las condiciones y precios pactados y con adecuación de los plazos respectivos".
+Que teniendo en cuenta que el valor estimado de la compra que propicia el AREA SISTEMAS INFORMATICOS resulta ser el CUATRO COMA DOCE POR CIENTO (4,12%) del monto adjudicado, esta Autoridad considera que están dadas las condiciones a fin de ejercer la facultad antes mencionada; y en consecuencia, que se instruya a la GERENCIA DE ADMINISTRACION Y SISTEMAS para que destine la suma PESOS CINCO MIL SETECIENTOS NUEVE CON VEINTITRES CENTAVOS ($ 5.709,23) para la adquisición de los elementos necesarios para aumentar el espacio de almacenamiento de UNO (1) de los SIETE (7) servidores oportunamente adquiridos.
+Que el Servicio Jurídico Permanente de este Organismo ha tomado la intervención que por derecho corresponde.
+Que la presente Resolución se dicta teniendo en cuenta la obligación impuesta a la Administración Pública en el Art. 11 y siguientes del Decreto Nº 1023/01y Decreto Nº 571/2007.
+Por ello
+EL INTERVENTOR DEL ENTE NACIONAL REGULADOR DEL GAS
+RESUELVE:
+ARTICULO 1º — Ejercer la facultad establecida en el art. 99 inciso a) del Decreto Nº 436/2000, y consecuentemente, instruir a la GERENCIA DE ADMINISTRACION Y SISTEMAS para que destine la suma de PESOS CINCO MIL SETECIENTOS NUEVE CON VEINTITRES CENTAVOS ($ 5.709,23) para la adquisición de los elementos necesarios para aumentar el espacio de almacenamiento de UNO (1) de los SIETE (7) servidores oportunamente adquiridos.
+ARTICULO 2º — Notifíquese a la firma CASA SARMIENTO S.R.L. en su condición de adjudicataria del Concurso Privado Nº 03/2006, y a las GERENCIAS INTERVINIENTES, publíquese, dése a la DIRECCION NACIONAL DE REGISTRO OFICIAL y archívese. — JUAN CARLOS PEZOA, Interventor, Ente Nacional Regulador del Gas.
+e. 21/6 Nº 548.935 v. 21/6/2007
+

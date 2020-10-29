@@ -1,0 +1,36 @@
+Administración Federal de Ingresos Públicos
+SISTEMA UNICO DE LA SEGURIDAD SOCIAL
+Resolución General 1752
+Sistema Unico de la Seguridad Social (SUSS). Artículo 9º del Decreto Nº 217/2003. Sistema informático de consulta para los trabajadores en relación de dependencia. Su implementación.
+Bs. As., 18/10/2004
+VISTO el artículo 9º del Decreto Nº 217 de fecha 17 de junio de 2003, y
+CONSIDERANDO:
+Que esta Administración Federal, de acuerdo con lo establecido por el citado artículo, debe contar con un sistema oficial de información respecto de los recursos de la seguridad social, para su consulta por parte de los cotizantes.
+Que los trabajadores autónomos, incluidos en el régimen general y/o en el Régimen Simplificado para Pequeños Contribuyentes (Monotributo), pueden consultar los pagos registrados en las bases de datos de este organismo y de la Administración Nacional de la Seguridad Social (ANSES), mediante la utilización del sistema informático denominado "SICAM - Sistema de Información para Contribuyentes Autónomos y Monotributistas".
+Que con relación a los trabajadores en relación de dependencia, comprendidos en el Sistema Integrado de Jubilaciones y Pensiones (SIJP), esta Administración Federal ha concluido con el desarrollo del sistema informático que les permitirá consultar información relativa a sus aportes, con destino a los distintos subsistemas de la seguridad social, declarados por sus empleadores, como también respecto del cumplimiento por parte de estos últimos de su obligación de pago.
+Que al respecto cabe indicar, que dicho proceso informático opera a través de la red de "Internet", con la información registrada en la base de datos de este organismo.
+Que en consecuencia, corresponde aprobar este nuevo sistema informático a fin de su utilización por parte de los trabajadores en relación de dependencia.
+Que han tomado la intervención que les compete las Direcciones de Asesoría Legal y Técnica, de Gestión de la Recaudación de los Recursos de la Seguridad Social, de Informática de los Recursos de la Seguridad Social, de Programas y Normas de Recaudación, de Servicios de Recaudación y de Servicios al Contribuyente y al Usuario Aduanero.
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 9º del Decreto Nº 217/03 y por el artículo 7º del Decreto Nº 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1º — Apruébase el sistema informático denominado "Aportes en línea" para su utilización por parte de los trabajadores en relación de dependencia, comprendidos en el Sistema Integrado de Jubilaciones y Pensiones (SIJP). (Denominación “Mis Aportes”, sustituida por la de “Aportes en línea”, por art. 1° de la Resolución General N° 3489/2013 de la AFIP B.O. 29/4/2013. Vigencia: a partir del primer día hábil del mes siguiente al de su publicación en el Boletín Oficial)
+Art. 2º — Mediante la utilización del sistema informático indicado en el artículo precedente, el trabajador en relación de dependencia podrá consultar, en la base de datos de esta Administración Federal, entre otras, la siguiente información:
+a) Si su empleador lo incluyó en las declaraciones juradas mensuales, determinativas y nominativas, de sus obligaciones con destino a los distintos subsistemas de la seguridad social.
+b) Si la remuneración y los aportes declarados por el empleador, en la declaración jurada a que se refiere el inciso anterior, coinciden con los importes consignados en su recibo de sueldo.
+c) Si los aportes con destino a los distintos subsistemas de la seguridad social fueron ingresados por su empleador.
+d) Si su empleador abonó las contribuciones patronales a su cargo.
+e) La denominación de la:
+1. Obra social a la que fueron transferidos sus aportes.
+2. Administradora de Fondos de Jubilaciones y Pensiones (AFJP), a la cual fueron transferidos sus aportes, siempre que se encuentre incorporado al Régimen de Capitalización previsto por la Ley Nº 24.241 y sus modificaciones.
+3. Aseguradora de Riesgos del Trabajo (ART), elegida por su empleador.
+Asimismo, dicho sistema informático posee una pantalla denominada "Buzón de Observaciones", en la cual el trabajador podrá formular sus interrogantes y/o inquietudes con relación a los datos que tiene este organismo.
+Para la utilización del mencionado sistema informático el trabajador deberá tener en cuenta lo establecido en su ayuda.
+Art. 3º — El sistema informático denominado "Aportes en línea" opera a través de la red de "Internet" y se encuentra disponible en la página "Web" de esta Administración Federal (http:// www.afip.gov.ar/misaportes). (Denominación “Mis Aportes”, sustituida por la de “Aportes en línea”, por art. 1° de la Resolución General N° 3489/2013 de la AFIP B.O. 29/4/2013. Vigencia: a partir del primer día hábil del mes siguiente al de su publicación en el Boletín Oficial)
+Art. 4º — El ingreso a este sistema informático se realizará mediante la utilización de una clave de acceso, a efectos de la protección de los datos personales del trabajador en relación de dependencia, y podrá efectuarse a través de la:
+a) Banca electrónica de la entidad bancaria con que opera habitualmente el trabajador o, en su caso, del banco donde se encuentra abierta la cuenta en la que el empleador le deposita su remuneración. Para ello, la entidad deberá estar homologada por este organismo y el trabajador deberá contar con la clave de acceso al "Home Banking" del respectivo banco.
+b) Página "Web" de este organismo (http:// www.afip.gov.ar/misaportes). A tal fin, se deberá ingresar al sistema y consignar —además del Código Unico de Identificación Laboral (C.U.I.L.)— la "Clave Fiscal" otorgada por esta Administración Federal.
+Los sujetos que no posean la aludida "Clave Fiscal", para su solicitud deberán observar lo establecido por la Resolución General Nº 1345, sus modificatorias y complementarias. Asimismo, podrán obtener más datos al respecto en la información contenida en la ayuda disponible en página "Web" de esta Administración Federal.
+Art. 5º — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+

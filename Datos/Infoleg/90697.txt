@@ -1,0 +1,23 @@
+Autoridad Regulatoria Nuclear
+ACTIVIDAD NUCLEAR
+Resolución 39/2003
+Establécese el rendimiento que deben poseer los equipos de telecobaltoterapia.
+Bs. As., 25/11/2003
+VISTO lo actuado por la GERENCIA DE SEGURIDAD RADIOLOGICA Y NUCLEAR, la Ley N° 24.804, la Norma AR 10.1.1., y
+CONSIDERANDO
+Que la Ley N° 24.804 otorga a esta ARN la facultad de dictar normas regulatorias en materia de seguridad radiológica, salvaguardias y protección física.
+Que la GERENCIA DE SEGURIDAD RADIOLOGICA Y NUCLEAR ha realizado una evaluación del valor del rendimiento de los equipos de telecobaltoterapia por debajo del cual la operación de esos equipos no sería recomendable.
+Que en su evaluación la GERENCIA DE SEGURIDAD RADIOLOGICA Y NUCLEAR ha informado que existen recomendaciones internacionales de la ORGANIZACION MUNDIAL DE LA SALUD (OMS) y del ORGANISMO INTERNACIONAL DE ENERGIA ATOMICA (OIEA) que consideran determinados rangos razonables de tiempos de irradiación en el caso de pacientes oncológicos.
+Que si se irradian pacientes en equipos de telecobaltoterapia con rendimientos excesivamente bajos y, por ende tiempos de irradiación largos, no se cumpliría con esas recomendaciones internacionales, y se incrementaría notablemente la probabilidad de complicaciones derivadas de la irradiación excesiva de los tejidos sanos circundantes.
+Que, asimismo, esa Gerencia indicó que desde el punto de vista radiobiológico existe consenso en que tasas de dosis inferiores a 3,33 mGy/s (20 cGy/minuto) en el tejido tumoral no resultarían aceptables.
+Que el criterio N° 90 de la Norma AR 10.1.1 establece que en las prácticas que involucren exposición médica de pacientes debe optimizarse el empleo de equipos y técnicas para que las dosis innecesarias, a los fines del procedimiento, resulten tan bajas como sea razonablemente posible.
+Que en el caso de la exposición médica de pacientes en la práctica de telecobaltoterapia, con el objeto de garantizar la protección del paciente y según lo establecido en el antedicho criterio N° 90, es conveniente introducir un valor mínimo aceptable del rendimiento de equipos de telecobaltoterapia de 5,83 mGy/s (35 cGy/minuto) bajo condiciones estandarizadas de irradiación.
+Que la mayor parte de los equipos de telecobaltoterapia instalados en el país poseen un rendimiento superior al mínimo propuesto.
+Que la SUBGERENCIA DE ASUNTOS JURIDICOS ha tomado la intervención que le compete.
+Por ello, en su reunión del día 24 de octubre de 2003 (Acta N° 10) y de conformidad con lo previsto en el Artículo 22 inciso e) de la Ley Nacional de la Actividad Nuclear N° 24.804
+EL DIRECTORIO DE LA AUTORIDAD REGULATORIA NUCLEAR
+RESOLVIO
+Artículo 1° — Establecer que los equipos de telecobaltoterapia deben poseer un rendimiento superior a 5,83 mGy/s (35 cGy/minuto) a 0,5 cm de profundidad en un fantoma de agua de dimensiones mínimas de 20x20x20 cm, para un campo de 10cmx10cm en su superficie y a una distancia fuente-superficie no menor al radio de giro del equipo de telecobaltoterapia.
+Art. 2° — Establecer que los titulares de Licencias de Operación de equipos de telecobaltoterapia que operan actualmente con rendimientos menores al valor establecido en el Artículo 1° de esta Resolución disponen de un plazo de CIENTO OCHENTA (180) días para adecuarse a los términos del citado Artículo.
+Art. 3° — Remítase copia a la GERENCIA DE SEGURIDAD RADIOLOGICA Y NUCLEAR a sus efectos, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL para su publicación en el BOLETIN OFICIAL de la REPUBLICA ARGENTINA, publíquese en el Boletín de este Organismo y archívese en el REGISTRO CENTRAL. — Diana A. Clein
+

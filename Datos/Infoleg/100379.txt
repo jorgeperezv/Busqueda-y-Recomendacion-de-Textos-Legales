@@ -1,0 +1,35 @@
+Administración Federal de Ingresos Públicos
+IMPUESTOS
+Resolución General 1757
+Impuesto al Valor Agregado. Malla antigranizo. Solicitud de acreditación, devolución o transferencia del saldo a favor. Resolución General Nº 1725. Nueva versión del programa aplicativo.
+Bs. As., 22/10/2004
+VISTO La Resolución General Nº 1725, y
+CONSIDERANDO:
+Que la citada resolución general precisó el procedimiento aplicable a la solicitud de devolución, acreditación o transferencia de los saldos a favor del impuesto al valor agregado, en el marco de la Ley Nº 25.174 y el Decreto Nº 1552 de fecha 29 de noviembre de 2001.
+Que la misma norma aprobó el programa aplicativo denominado "RECUPERO DE IVA - REGIMENES ESPECIALES - Versión 1.0" a ser utilizado a los fines mencionados en el considerando precedente.
+Que razones de administración tributaria hacen aconsejable reemplazar el mencionado programa aplicativo, por una nueva versión.
+Que han tomado la intervención que les compete las Direcciones de Legislación, de Informática de Fiscalización, de Información Estratégica para Fiscalización y de Programas y Normas de Fiscalización.
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 7º del Decreto Nº 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1º — Los sujetos alcanzados por la Resolución General Nº 1725, a fin de solicitar la acreditación, devolución o transferencia de los saldos a favor del impuesto al valor agregado, previstas en la Ley Nº 25.174 y el Decreto Nº 1552/ 01, deberán utilizar —a partir del día 1 de noviembre de 2004, inclusive—, exclusivamente el programa aplicativo denominado "RECUPERO DE IVA - REGIMENES ESPECIALES - Versión 2.0", cuyas características, funciones y aspectos técnicos para su uso se especifican en el Anexo de esta resolución general.
+El referido programa aplicativo podrá ser transferido de la página "web" de este organismo (http:/ /www.afip.gov.ar).
+Art. 2º — Apruébanse el Anexo que forma parte de esta resolución general y el programa aplicativo denominado "RECUPERO DE IVA - REGIMENES ESPECIALES - Versión 2.0".
+Art. 3º — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO RESOLUCION GENERAL Nº 1757
+SISTEMA "RECUPERO DE IVA - REGIMENES ESPECIALES - Versión 2.0"
+La utilización del sistema "RECUPERO DE IVA - REGIMENES ESPECIALES - Versión 2.0" requiere tener preinstalado el sistema informático "S.I.Ap. Sistema Integrado de Aplicaciones - Versión 3.1 - Release 2". Está preparado para ejecutarse en computadoras tipo AT 486 o superiores, con sistema operativo "Windows 95" o superior, con disquetera de TRES PULGADAS Y MEDIA (3½") HD (alta densidad), lectora/grabadora de CD ROM 2x o superior (requisito no indispensable), 32 Mb de memoria RAM y disco rígido con un mínimo de 50 Mb disponibles.
+El sistema permite:
+1. Cargar los datos a través del teclado o por importación de los mismos desde un archivo externo.
+2. Administrar la información por responsable.
+3. Generar archivos para la presentación en formato encriptado (disquetes de TRES PULGADAS Y MEDIA (3½") HD, alta densidad o CD ROM).
+4. Imprimir la declaración jurada que acompaña a los soportes que el responsable presenta.
+5. Emitir listados con los datos que se graban en los archivos para el control del responsable.
+6. Soportar impresoras predeterminadas por "Windows".
+7. Generar soportes de resguardo de la información del contribuyente.
+8. Acceder mediente la tecla F1 o a través de la barra de menú a un módulo de "Ayuda", el que contiene indicaciones para facilitar el uso del programa aplicativo.
+La función principal del sistema es generar el Formulario Nº 444/1 previsto como "Declaración Jurada Recupero de IVA Regímenes Especiales" y la generación de archivos de presentación en formato encriptado en disquete de TRES PULGADAS Y MEDIA (3½") HD (alta densidad) o CD ROM.
+La información deberá presentarse en uno o varios soportes (multivolumen) en caso de presentación en disquetes. Si la presentación es en CD ROM, se admitirá un solo soporte. Los mismos serán rotulados con indicación de apellido y nombres, denominación o razón social, Clave Unica de Identificación Tributaria (C.U.I.T.), período que se declara y carácter de la presentación originaria (O) o rectificativa (R).
+En caso de efectuarse una presentación rectificativa, se consignarán en ella todos los conceptos contenidos en la originaria, incluso aquellos que no hayan sufrido modificaciones.
+

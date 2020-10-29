@@ -1,0 +1,232 @@
+AUTORIDAD REGULATORIA NUCLEAR
+Resolución 64/2007
+Reconócese el curso "Terapia con Fuentes Abiertas", como formación teórica necesaria para postulantes de Permisos Individuales para el uso de fuentes radiactivas no selladas, soluciones y moléculas marcadas en terapia y el uso de fuentes radiactivas no selladas, radiocoloides en terapia.
+Bs. As., 26/7/2007
+VISTO la Ley Nacional de Actividad Nuclear Nº 24.804, su Decreto Reglamentario Nº 1390/98, el Expediente Nº 2431/06, lo actuado por la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS – SUBGERENCIA CONTROL DE INSTALACIONES RADIACTIVAS CLASE II Y III, lo propuesto por el CONSEJO ASESOR EN APLICACIONES DE RADIOISOTOPOS Y RADIACIONES IONIZANTES (CAAR), y
+CONSIDERANDO:
+Que la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS – SUBGERENCIA CONTROL DE INSTALACIONES RADIACTIVAS CLASE II Y III ha recomendado al CAAR, el reconocimiento del curso "Terapia con Fuentes Abiertas" organizado por la ASOCIACION ARGENTINA DE BIOLOGIA Y MEDICINA NUCLEAR (AABYMN).
+Que al respecto el CAAR ha realizado la evaluación de los contenidos correspondientes, recomendando en su Acta Nº 744 reconocer el curso "Terapia con Fuentes Abiertas" dirigido a profesionales de la Medicina Nuclear que poseen permiso individual para el uso de soluciones de I-131 en terapias.
+Que el citado curso está destinado a lograr la formación teórica necesaria para tramitar permisos individuales vinculados al uso de fuentes radiactivas no selladas, soluciones y moléculas marcadas en terapia (tratamiento de hemopatías y metástasis óseas, tratamiento paliativo del dolor por metástasis óseas) y al uso de fuentes radiactivas no selladas, radiocoloides en terapia, radiosinovectomía, uso de radiocoloides en terapia.
+Que la SUBGERENCIA DE ASUNTOS JURIDICOS ha tomado la intervención que le compete.
+Que el Directorio de la AUTORIDAD REGULATORIA NUCLEAR es competente para el dictado del presente acto, conforme lo establece el Artículo 22, inciso e) de la Ley Nº 24.804.
+Por ello, en su reunión del día 5 de julio de 2007 (Acta Nº 9)
+EL DIRECTORIO DE LA AUTORIDAD REGULATORIA NUCLEAR
+RESOLVIO:
+Artículo 1º — Reconocer el curso "Terapia con Fuentes Abiertas", como formación teórica necesaria para postulantes de Permisos Individuales para el uso de fuentes radiactivas no selladas, soluciones y moléculas marcadas en terapia y el uso de fuentes radiactivas no selladas, radiocoloides en terapia, que será dictado por la ASOCIACION ARGENTINA DE BIOLOGIA Y MEDICINA NUCLEAR (AABYMN).
+Art. 2º — Establecer que la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS evaluará anualmente el programa del curso cuyo contenido está indicado en el Anexo a la presente Resolución y establecerá, de ser necesarias, las modificaciones pertinentes.
+Art. 3º — Establecer que la vigencia del reconocimiento del curso indicado estará sujeta al cumplimiento, por parte de la AABYMN, de los siguientes requisitos:
+•Obtener el acuerdo de la AUTORIDAD REGULATORIA NUCLEAR ante cualquier cambio de las condiciones que sirvieron de base para otorgar el conocimiento del mismo.
+•Informar el cronograma del curso cada vez que sea dictado junto con la nómina del plantel docente que se hará cargo de su dictado.
+•Informar dentro de los TREINTA (30) días de la fecha de examen final, la nómina de alumnos que aprobaron el curso.
+Art. 4º — Comuníquese a la SECRETARIA GENERAL, al CONSEJO ASESOR EN APLICACIONES DE RADIOISOTOPOS Y RADIACIONES IONIZANTES (CAAR) y a la GERENCIA DE SEGURIDAD RADIOLOGICA, FISICA Y SALVAGUARDIAS - SUBGERENCIA CONTROL DE INSTALACIONES RADIACTIVAS CLASE II Y III a sus efectos, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL para su publicación en el BOLETIN OFICIAL DE LA REPUBLICA ARGENTINA, publíquese en el Boletín de este Organismo y archívese en el REGISTRO CENTRAL. — Raúl O. Racana.
+ANEXO A LA RESOLUCION DEL DIRECTORIO Nº 64/07
+MODULO INICIAL
+ASPECTOS DE RADIOPROTECCION
+Radiobiología
+Estimación Dosimétrica
+Dosimetría clínica: Análisis de los datos nucleares de los radionucleidos utilizados. Métodos de cálculo de la dosis absorbida. Organos blancos y órganos fuente. Cálculo de la actividad integrada. Cálculo del tiempo de residencia. Modelos biocinéticos específicos.
+Determinación de la dosis media absorbida en un órgano o tejido blanco. Selección del órgano fuente para el cálculo. ICRP
+Cálculo de la actividad a suministrar. Dosis trazadora. Dosis nominal. Estimación de dosis en órgano blanco. Hipótesis de cálculo. Incertezas en la estimación de la dosis absorbida. Dosis efectiva.
+Sistemas de limitación de dosis para trabajadores y público.
+Radioprotección operativa
+Seguridad radiológica en el uso de fuentes radiactivas en Radioterapia Metabólica.
+Aspectos generales de Radiofarmacia
+•Radioquímica
+•Nuevos radiofármacos
+•Características radioquímicas de los compuestos
+•Marcación, estabilidad, pureza radioquímica, controles.
+MODULO DE TRATAMIENTO DE LAS PATOLOGIAS TIROIDEAS
+RADIOFARMACIA Y RADIOPROTECCION
+Recomendaciones específicas de radioprotección.
+•Propiedades físicas
+•Radiobiología
+•Consideraciones biológicas
+•Dosimetría
+•Estrategias para aumentar la liberación del yodo 131
+•Estrategia para la localización de la enfermedad residual
+•Efectos colaterales
+•Seguridad radiológica
+Hipertiroidismo
+Enfermedad de Graves Basedow
+•Diagnóstico clínico
+•Signos y síntomas
+•Diagnóstico diferencial
+•Causas
+•Tratamiento
+Selección de tratamiento
+•Indicaciones de radioiodo
+•Contraindicaciones generales
+•Contraindicaciones relativas
+•Elección de la dosis
+•Evolución post tratamiento
+•Problemas asociados a la terapéutica con yodo 131
+•Carcinogénesis, daño genético
+Bocio Multinodular
+•Causa
+•Historia natural de la enfermedad
+•Hipertiroidismo en el bocio nodular
+•Tratamiento para el bocio nodular tóxico
+•Tratamiento para el bocio nodular No tóxico.
+Adenoma Tóxico
+•Patogénesis
+•Epidemiología
+•Historia natural
+•Presentación clínica
+•Diagnóstico
+•Tratamiento
+•selección
+•antes y después del tratamiento con radioiodo
+•Pronóstico
+•Casos clínicos. Retratamientos.
+Cáncer de tiroides
+Aspectos clínicos
+Epidemiología
+•Incidencia y distribución
+•Clasificación de los tumores de tiroides
+Causa de las neoplasias tiroideas
+•Oncógenes
+•Tumores familiares
+•Radiación y cáncer
+•Relación con Yodo 131
+•Cáncer e Hiperplasia tiroidea
+•Relación del cáncer con otras enfermedades
+•Cáncer y tiroiditis de Hashimoto
+•Tumores hereditarios
+•Cáncer oculto/microcarcinoma
+•Patología
+Tipos de carcinoma y curso de la enfermedad
+•Signos clínicos generales
+•Carcinoma Papilar
+•Carcinoma folicular
+•Tumor de Células de Hurthle
+•Carcinoma Insular
+•Carcinoma en tejido tiroideo aberrante
+•Ca indiferenciado
+Función biológica de los tumores
+Inmunología y cáncer de tiroides
+Diagnóstico
+•Algoritmo
+•Presentación de casos ilustrativos
+Estrategias de tratamiento quirúrgico
+•Estadificación
+•Manejo de la enfermedad de acuerdo al estadio
+•Presentación de casos ilustrativos
+•Manejo de la enfermedad en los niños
+•Consideraciones clínicas.
+•Estrategias de tratamiento.
+•Presentación de casos ilustrativos.
+Estrategias de Radioablación del remanente
+•Indicaciones de acuerdo a la estadificación
+•Protocolos-dosis-controversias
+•Barrido corporal diagnóstico
+•Efecto atontamiento (controversias)
+•Preparación del paciente
+•Dosaje de Tiroglobulina / Anticuerpos antitiroglobulina
+Seguimiento
+•De acuerdo a la estadificación - Controversias –
+•Seguimiento basado sólo en Tiroglobulina
+•Seguimiento con barridos corporales (controversias)
+•Barridos negativos con tiroglobulina positivas/ situación inversa
+•PET
+•Uso de Thyrogen
+•Terapias para re-diferenciación
+•Hasta cuándo realizar yodo 131
+•Casos clínicos. Retratamientos
+MODULO TRATAMIENTO DEL DOLOR OSEO
+RADIOPROTECCION
+•Recomendaciones específicas de radioprotección
+•Normativa vigente
+•Blindajes
+•Requerimientos y recomendaciones
+•Dosimetría para trabajadores
+RADIOFARMACIA
+•Radioquímica
+•Nuevos radiofármacos
+•Radiofármacos emisores Beta que se incorporan al metabolismo óseo
+•Sr89, Sm153 EDTMP
+•Características radioquímicas de los compuestos
+•Farmacocinética.
+•Marcación, estabilidad, pureza radioquímica, controles.
+ASPECTOS CLINICOS
+•Síndromes dolorosos y cáncer
+•Metástasis ósea. Fisiopatología.
+•Tratamientos analgésicos. Radioterapia externa. Hormonoterapia.
+•Radiofármacos emisores Beta que se incorporan al metabolismo óseo
+•Sr89, Sm153 EDTMP
+•Evaluación del paciente pretratamiento. Parámetros basales
+•Antecedentes de tratamientos previos. Dosis y respuesta clínica.
+•Metodología de aplicación. Farmacocinética.
+•Indicaciones. Presentación de casos ilustrativos.
+•Contraindicaciones. Presentación de casos ilustrativos.
+•Seguimiento. Toxicidad hematológica y Eficacia analgésica.
+•Casos clínicos. Retratamientos
+MODULO RADIOSINOVECTOMIA
+RADIOFARMACIA Y RADIOPROTECCION
+•Recomendaciones específicas de radioprotección
+•Radioquímica
+•Nuevos radiofármacos
+•Radiofármacos emisores Beta.
+•Características radioquímicas de los compuestos.
+•Farmacocinética
+•Marcación, estabilidad, pureza Radioquímica, controles.
+Aspectos Clínicos
+•Fisiopatología articular
+•Indicaciones específicas
+•Tratamientos previos.
+•Radiofármacos emisores Beta utilizados en radiosinovectomía.
+•Evaluación del paciente pretratamiento. Parámetros basales.
+•Antecedentes de tratamientos previos. Dosis y respuesta clínica.
+•Metodología de aplicación. Farmacocinética.
+•Indicaciones. Presentación de casos ilustrativos
+•Contraindicaciones. Presentación de casos ilustrativos
+•Seguimiento. Eficacia.
+•Casos clínicos. Retratamientos.
+MODULO DE TRATAMIENTO DE LINFOMAS CON ANTICUERPOS MONOCLONALES ANTI CD20
+RADIOPROTECCION
+•Recomendaciones específicas de radioprotección
+•Normativa vigente
+•Blindajes
+•Requerimientos y recomendaciones
+•Dosimetría para trabajadores
+RADIOFARMACIA
+•Radioquímica
+•Nuevos radiofármacos
+•Anticuerpos monoclonales
+•Características radioquímicas del compuesto
+•AC monoclonal anti CD20
+•Características del Y90
+•Marcación, estabilidad, pureza radioquímica, controles.
+•Ytrio 90 Ibritumomab Tiuxetan
+ASPECTOS CLINICOS
+•Linfomas. Clasificación clínica. Estadios
+•Estudios de estadificación
+•Tratamientos
+•Cuadro clínico
+•Tratamiento con Ytrio 90 Ibritumomab Tiuxetan
+•Experiencia internacional. Protocolos.
+•Evaluación previa y seguimiento
+•Metodologías de aplicación. Anticuerpo frío, secuencia de aplicaciones.
+•Presentación de casos ilustrativos.
+MODULO DE TRATAMIENTO DE TUMORES NEUROENDOCRINOS
+RADIOFARMACIA Y RADIOPROTECCION
+•Recomendaciones específicas de radioprotección
+•Radioquímica
+•Nuevos radiofármacos
+•Radiofármacos emisores Beta en el tratamiento de los TNE
+•Características radioquímicas de los compuestos
+•Farmacocinética
+•Marcación, estabilidad, pureza radioquímica, controles
+Aspectos clínicos
+•Características de los TNE
+•Fisiopatología
+•Tumores primarios. Metástasis
+•Tratamientos disponibles
+•Radiofármacos emisores Beta. Terapia de receptores
+•Evaluación del paciente pretratamiento. Parámetros basales.
+•Antecedentes de tratamientos previos. Dosis y respuesta clínica.
+•Metodología de aplicación. Farmacocinética
+•Indicaciones. Presentación de casos ilustrativos.
+•Contraindicaciones. Presentación de casos ilustrativos.
+•Seguimiento. Toxicidad y Eficacia.
+•Casos clínicos. Retratamientos.
+

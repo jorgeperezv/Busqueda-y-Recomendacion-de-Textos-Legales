@@ -1,0 +1,55 @@
+Administración Federal de Ingresos Públicos
+SISTEMA UNICO DE LA SEGURIDAD SOCIAL
+Resolución General 1599
+Sistema Unico de la Seguridad Social (SUSS). Resolución General N° 3834 (DGI), texto sustituido por la Resolución General N° 712, sus modificatorias y complementarias. Importes ingresados en exceso por error equivalentes a saldos adeudados en una misma declaración jurada. Procedimiento para su reafectación. Su implementación.
+Bs. As., 18/11/2003
+VISTO la Resolución General N° 3834 (DGI), texto sustituido por la Resolución General N° 712, sus modificatorias y complementarias, y
+CONSIDERANDO:
+Que la citada resolución general estableció el procedimiento que deben observar los empleadores para determinar los aportes y contribuciones sobre la nómina salarial, con destino al Sistema Unico de la Seguridad Social (SUSS).
+Que se ha detectado la existencia de importes ingresados erróneamente en exceso por aportes y/o contribuciones con destino a un subsistema de la seguridad social, que resultan equivalentes al saldo adeudado por el mismo u otro subsistema.
+Que en virtud de ello, se estima conveniente implementar un procedimiento informático que permita reafectar de oficio los pagos en exceso realizados por los empleadores contra los saldos adeudados, siempre que sus importes sean equivalentes y surjan de la misma declaración jurada.
+Que mediante la reafectación de los pagos en exceso realizados se podrán cancelar las obligaciones adeudadas a los distintos subsistemas de la seguridad social, que fueron determinadas por los empleadores en la respectiva declaración jurada presentada.
+Que la cancelación de las obligaciones adeudadas mediante este procedimiento no implicará liberar a los contribuyentes y/o responsables de las consecuencias derivadas de la incorrecta imputación de los pagos efectuados.
+Que a su vez, dicho procedimiento permitirá reducir los reclamos efectuados por los trabajadores y/o usuarios de los distintos subsistemas de la seguridad social, circunstancia que tiende a mejorar la relación fisco administrados.
+Que por otra parte, hasta que finalicen todas las etapas de su instrumentación, se considera aconsejable que la aplicación de este procedimiento sea gradual y optativa para esta Administración Federal.
+Que para facilitar la lectura e interpretación de las normas, se estima conveniente la utilización de notas aclaratorias y citas de textos legales, con números de referencia, explicitados en un Anexo complementario.
+Que han tomado la intervención que les compete las Direcciones de Asesoría Legal y Técnica, de Gestión de la Recaudación de los Recursos de la Seguridad Social, de Programas y Normas de Recaudación, de Informática de la Seguridad Social y de Informática Tributaria.
+Que la presente se dicta en uso de las facultades conferidas por el artículo 26 de la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones, y por el artículo 7° del Decreto N° 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1° — Establécese un procedimiento informático para la reafectación de las sumas ingresadas en exceso contra los saldos adeudados en concepto de aportes y contribuciones con destino al Sistema Unico de la Seguridad Social (SUSS), siempre que ambos importes resulten exactamente equivalentes, surjan de una misma declaración jurada y la reafectación permita cancelar íntegramente el saldo total de las obligaciones determinadas en esta última.
+Art. 2° — Esta Administración Federal podrá proceder a reafectar de oficio, la suma ingresada en exceso por el empleador con destino a uno de los subsistemas de la seguridad social (2.2.) contra el saldo adeudado por el mismo u otro subsistema, en las condiciones fijadas en el artículo anterior.
+Art. 3° — La reafectación de las sumas ingresadas en exceso se efectuará respecto de las obligaciones determinadas por el empleador, para los distintos subsistemas que conforman la seguridad social (2.2.), en un mismo período mensual, de acuerdo con el procedimiento dispuesto por la Resolución General N° 3834 (DGI), texto sustituido por la Resolución General N° 712, sus modificatorias y complementarias.
+Art. 4° — Se considerarán canceladas las obligaciones adeudadas, correspondientes a uno o varios subsistemas de la seguridad social (2.2.), a las que se les impute los importes reafectados de oficio, a partir de la fecha en que se concrete dicha reafectación.
+Art. 5° — La aplicación del procedimiento que se dispone por la presente será gradual y optativa para este organismo.
+Consecuentemente los empleadores no podrán:
+a) Solicitar a esta Administración Federal la aplicación del mencionado procedimiento.
+b) Alegar la existencia de este procedimiento a fin de rechazar intimaciones de pago u otras acciones de efectividad, así como para excluir su responsabilidad por los intereses, sanciones y demás accesorios derivados de la incorrecta imputación y/o falta de cancelación a su vencimiento, del saldo adeudado por uno o más subsistemas de la seguridad social (2.2.).
+Art. 6° — Apruébase el Anexo que forma parte de la presente.
+Art. 7° — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO - RESOLUCION GENERAL N° 1599
+NOTAS ACLARATORIAS Y CITAS DE TEXTOS LEGALES
+Artículo 2°.
+(2.2.) Los subsistemas de la seguridad social comprendidos en el procedimiento establecido por la presente, son los que se detallan a continuación:
+a) Aportes (código 301):
+• Régimen Nacional de Jubilaciones y Pensiones, Ley N° 24.241 y sus modificaciones.
+• Instituto Nacional de Servicios Sociales para Jubilados y Pensionados, Ley N° 19.032 y sus modificaciones.
+• Régimen Nacional del Seguro de Salud, Ley N° 23.661 y sus modificaciones.
+b) Contribuciones (código 351):
+• Régimen Nacional de Jubilaciones y Pensiones, Ley N° 24.241 y sus modificaciones.
+• Instituto Nacional de Servicios Sociales para Jubilados y Pensionados, Ley N° 19.032 y sus modificaciones.
+• Fondo Nacional de Empleo, Ley N° 24.013 y sus modificaciones.
+• Régimen Nacional de Asignaciones Familiares, Ley N° 24.714 y sus modificaciones.
+• Régimen Nacional del Seguro de Salud, Ley N° 23.661 y sus modificaciones.
+c) Aporte (código 302):
+• Régimen Nacional de Obras Sociales, Ley N° 23.660 y sus modificaciones.
+d) Contribución (código 352):
+• Régimen Nacional de Obras Sociales, Ley N° 23.660 y sus modificaciones.
+e) Contribución (código 270):
+• Régimen Nacional de Asignaciones Familiares. Vales alimentarios, Ley N° 24.700.
+f) Cuota (código 312):
+• Ley de Riesgos del Trabajo N° 24.557 y sus modificaciones.
+g) Contribución (código 360):
+• Registro Nacional de Trabajadores Rurales y Empleadores (RENATRE), Ley N° 25.191.
+

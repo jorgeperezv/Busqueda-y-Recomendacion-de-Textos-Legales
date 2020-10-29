@@ -1,0 +1,57 @@
+Administración Federal de Ingresos Públicos
+SISTEMAS DE INFORMACION
+Resolución General 1586
+Procedimiento. Agentes de información. Artículo 49, incisos a) y b) de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones. Resolución General N° 4120 (DGI), su modificatoria y sus complementarias. Norma modificatoria y complementaria.
+Bs. As., 31/10/2003
+VISTO la Resolución General N° 4120 (DGI), su modificatoria y sus complementarias, y
+CONSIDERANDO:
+Que la citada norma estableció un régimen de información a cargo de los sujetos comprendidos en el artículo 49, incisos a) y b) —excepto las empresas unipersonales y las sociedades cooperativas—, de la ley de impuesto a las ganancias, acerca de los titulares de las acciones y participaciones sociales así como de sus directores, gerentes, administradores, síndicos y miembros del consejo de vigilancia.
+Que razones de administración tributaria aconsejan reformular el universo de agentes de información comprendidos en el régimen de la resolución general del visto, lo que determina la necesidad de establecer claramente los períodos a informar por aquellos agentes que quedarán fuera de dicho régimen.
+Que a efectos de facilitar el cumplimiento por parte de los agentes de información, procede adecuar el procedimiento y aprobar un nuevo programa aplicativo a utilizar para la elaboración de la información, la que deberá suministrarse a través de "Internet".
+Que a tal fin, resulta necesario disponer la obligación a cargo de los agentes de información de obtener la "Clave Fiscal" según lo normado en la Resolución General N° 1345 y su modificatoria.
+Que han tomado la intervención que les compete las Direcciones de Legislación, de Programas y Normas de Fiscalización, de Informática de Fiscalización, de Informática Tributaria, de Información Estratégica para Fiscalización y de Programas y Normas de Recaudación.
+Que la presente se dicta en ejercicio de las facultades conferidas por el artículo 7° del Decreto N° 618, de fecha 10 de julio de 1997, su modificatorio y sus complementarios.
+Por ello,
+EL ADMINISTRADOR FEDERAL DE LA ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS
+RESUELVE:
+Artículo 1° — Modifícase la Resolución General N° 4120 (DGI), su modificatoria y sus complementarias, en la forma que se indica a continuación:
+a) Sustitúyese el artículo 1°, por el siguiente:
+"ARTICULO 1°.- Los sujetos comprendidos en el artículo 49, incisos a) y b) —excepto las empresas unipersonales y las sociedades cooperativas— de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones y los fondos comunes de inversión, quedan obligados a informar respecto de:
+1. Las personas físicas y sucesiones indivisas —domiciliadas o radicadas en el país y en el exterior — que al 31 de diciembre de cada año resulten titulares o tengan participación en el capital social o equivalente (títulos valores privados —incluidas las acciones escriturales—, cuotas y demás participaciones sociales, cuotas partes de los fondos comunes de inversión).
+2. Las sociedades, empresas, establecimientos estables, patrimonios de afectación o explotaciones domiciliados o, en su caso, radicados o ubicados en el exterior, que al 31 de diciembre de cada año resulten titulares o tengan la participación a que se refiere el punto anterior.
+3. Los sujetos distintos de los mencionados en los puntos 1. y 2. precedentes, que tengan participación en el capital social o equivalente.
+4. Los directores, gerentes, administradores, síndicos y miembros del consejo de vigilancia.
+Se encuentran exceptuados de actuar como agentes de información los sujetos que se indican en el Anexo I de la presente a partir del período fiscal consignado en el mismo.".
+b) Sustitúyese el artículo 4° por el siguiente:
+"ARTICULO 4°.- La obligación de información deberá ser cumplimentada utilizando exclusivamente el programa aplicativo denominado "AFIP - DGI - PARTICIPACIONES SOCIETARIAS, FONDOS COMUNES DE INVERSION Y FUNDACIONES Y ASOCIACIONES CIVILES. - Versión 3 Release 0." cuyas características, funciones y aspectos técnicos para su uso se especifican en el Anexo II de esta resolución general, y la información generada a través de dicho programa —que podrá ser transferido de la página "web" de este organismo (http://www.afip.gov.ar)—, se proporcionará vía "Internet" mediante transferencia electrónica de datos, accediendo para ello a la citada página "web".
+A los fines previstos en el párrafo anterior, las entidades obligadas a la presentación que no posean "Clave Fiscal" y que no hubieran recibido la notificación pertinente por parte de esta Administración Federal, para su incorporación al sistema de transferencia electrónica de datos conforme los términos del inciso a), del artículo 3° de la Resolución General N° 1345 y su modificatoria, deberán concurrir a la dependencia ante la cual se encuentren inscritas a fin de tramitar previamente la misma, según lo establecido en el inciso b) de la norma referida.
+La presentación a que se refiere el presente artículo se efectuará hasta la fecha del año siguiente al que corresponde la información que, de acuerdo a la terminación de la Clave Unica de Identificación Tributaria (C.U.I.T.) del agente de información, se fija seguidamente:
+TERMINACION C.U.I.T.  FECHA DE VENCIMIENTO   0-1  Hasta el 27 de julio, inclusive,   2-3  Hasta el 28 de julio, inclusive,   4-5  Hasta el 29 de julio, inclusive,   6-7  Hasta el 30 de julio, inclusive,   8-9  Hasta el 31 de julio, inclusive.
+Cuando alguna de las fechas de vencimiento establecidas precedentemente coincida con día feriado o inhábil, la misma así como las posteriores, se trasladarán correlativamente al o a los días hábiles inmediatos siguientes.".
+c) Incorpórase el Anexo I de la presente que, como Anexo I, pasará a formar parte de la Resolución General N° 4120, su modificatoria y sus complementarias.
+d) Incorpórase el instructivo sobre características, funciones y aspectos técnicos del programa aplicativo "AFIP DGI - PARTICIPACIONES SOCIETARIAS, FONDOS COMUNES DE INVERSION Y FUNDACIONES Y ASOCIACIONES CIVILES. - Versión 3 Release 0." contenido en el Anexo II de la presente, que como Anexo II, pasará a formar parte de la Resolución General N° 4120 (DGI), su modificatoria y sus complementarias.
+Art. 2° — Sin perjuicio del procedimiento normado en el artículo 4° de la Resolución General N° 4120 (DGI), su modificatoria y sus complementarias, sustituido por la presente, serán válidas las presentaciones —correspondientes al período 2002 y anteriores—, que los agentes de información efectúen hasta el 28 de noviembre de 2003, mediante el procedimiento y programa aplicativo que se sustituyen por la presente.
+No obstante lo dispuesto en el párrafo precedente, aquellos sujetos que hubieren sido notificados con arreglo a lo normado en el citado artículo 4° y que a la fecha de entrada en vigencia de esta resolución general no hubieran efectuado la presentación correspondiente, deberán utilizar el procedimiento y el programa aplicativo que se aprueban por la presente.
+Art. 3° — Apruébanse el programa aplicativo "AFIP DGI - PARTICIPACIONES SOCIETARIAS, FONDOS COMUNES DE INVERSION Y FUNDACIONES Y ASOCIACIONES CIVILES. - Versión 3 Release 0" y los Anexos I y II de la Resolución General N° 4120, su modificatoria y sus complementarias, que forman parte de la presente.
+Art. 4° — Regístrese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — Alberto R. Abad.
+ANEXO I - RESOLUCION GENERAL N° 4120 (DGI), SUS MODIFICATORIAS Y SUS COMPLEMENTARIAS (TEXTO SEGUN RESOLUCION GENERAL N° 1586)
+EXEPCIONES A LA OBLIGACION DE ACTUAR COMO AGENTES DE INFORMACION
+a) Instituciones religiosas inscritas en el registro existente en el ámbito de la Secretaría de Culto de la Nación.
+b) Asociaciones cooperadoras escolares con autorización extendida por autoridad pública, conforme a las normas del lugar de asiento de la entidad —artículo 1° de la Resolución General N° 2642 (DGI)—.
+c) Asociaciones, fundaciones y demás personas de existencia ideal sin fines de lucro, que destinen los fondos que administren y/o dispongan a la promoción de actividades hospitalarias y/o de bomberos voluntarios oficialmente reconocidos.
+Vigencia: a partir del período fiscal 2002, inclusive.
+ANEXO II - RESOLUCION GENERAL N° 4120 (DGI), SUS MODIFICATORIAS Y SUS COMPLEMENTARIAS (TEXTO SEGUN RESOLUCION GENERAL N° 1586)
+PROGRAMA APLICATIVO "AFIP DGI - PARTICIPACIONES SOCIETARIAS, FONDOS COMUNES DE INVERSION Y FUNDACIONES Y ASOCIACIONES CIVILES - Versión 3 Release 0." CARACTERISTICAS, FUNCIONES Y ASPECTOS TECNICOS
+La utilización del sistema "AFIP DGI - PARTICIPACIONES SOCIETARIAS, FONDOS COMUNES DE INVERSION Y FUNDACIONES Y ASOCIACIONES CIVILES - Versión 3 Release 0." requiere tener preinstalado el sistema informático "S.I.Ap. - Sistema Integrado de Aplicación - Versión 3.1. Release 2". Está preparado para ejecutarse en computadoras tipo AT 486 o superiores con sistema operativo Windows 95 o superior, con disquetera de TRES PULGADAS Y MEDIA (3½") HD (1,44 Mb), 16 Mb de memoria RAM (recomendable 32 Mb) y disco rígido con un mínimo de 30 Mb disponibles.
+El sistema permite:
+1. Carga de datos a través del teclado o por importación de los mismos desde un archivo externo.
+2. Administración de la información, por responsable.
+3. Generación de archivos para su transferencia electrónica a través de la página "web" de este organismo (http://www.afip.gov.ar).
+4. Impresión de la declaración jurada que acompaña a los soportes que el responsable presenta.
+5. Emisión de listados con los datos que se graban en los archivos para el control del responsable.
+6. Soporte de las impresoras predeterminadas por Windows.
+7. Generación de soportes de resguardo de la información del contribuyente.
+El sistema prevé un módulo de "Ayuda", al cual se accede con la tecla F1 o a través de la barra de menú, que contiene indicaciones para facilitar el uso del programa aplicativo.
+El usuario deberá contar con una conexión a "Internet" a través de cualquier medio (telefónico, satelital, fibra óptica, cable módem o inalámbrica) con su correspondiente equipamiento de enlace y transmisión digital. Asimismo, deberá disponerse de un navegador (Browser) "Internet Explorer", "Netscape" o similar para leer e interpretar páginas en formatos compatibles.
+En caso de efectuarse una presentación rectificativa, se consignarán en ella todos los conceptos contenidos en la originaria, incluso aquellos que no hayan sufrido modificaciones.
+

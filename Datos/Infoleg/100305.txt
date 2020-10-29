@@ -1,0 +1,32 @@
+MINISTERIO DEL INTERIOR
+DIRECCION NACIONAL DE MIGRACIONES
+Disposición N° 34.283
+Bs. As., 19/10/2004
+VISTO la Ley N° 25.871, el Decreto N° 836 de fecha 7 de julio de 2004, la Disposición N° 9828 de fecha 13 de octubre de 1999, sus modificatorias, la Disposición N° 32.441 de fecha 28 de septiembre de 2004, y
+CONSIDERANDO:
+Que por el Decreto N° 836/04 se estableció, entre otros aspectos, realizar una evaluación integral del control migratorio, estableciendo para ello, procedimientos homogéneos y criterios uniformes dentro de la estructura organizativa de la DIRECCION NACIONAL DE MIGRACIONES organismo descentralizado, actuante en la órbita del MINISTERIO DEL INTERIOR.
+Que para dar cumplimiento a ello, resulta necesario fijar los procedimientos, a los que deberá ajustarse el personal que efectúe las tareas de control migratorio en el ingreso y egreso de personas.
+Que la DIRECCION DE SISTEMAS dependiente de esta Dirección Nacional, desarrolló con técnicos del Organismo bajo la supervisión de la DIRECCION GENERAL DE GESTION INFORMATICA del MINISTERIO DEL INTERIOR un aplicativo para la captura de datos migratorios denominado SICaM
+Que dicho sistema fue implementando en el área metropolitana en modalidad piloto durante CIENTO OCHENTA (180) días motivo por el cual resulta necesario establecer un procedimiento para su actualización y mantenimiento.
+Que la presente medida se dicta en uso de las atribuciones conferidas por el artículo 108 de la Ley N° 25.871 y lo estatuido en el Decreto N° 836 de fecha 7 de julio de 2004.
+Por ello,
+EL DIRECTOR NACIONAL DE MIGRACIONES
+DISPONE:
+ARTICULO 1° — ESTABLEZCASE como procedimiento para la implementación de las mejoras y actualizaciones realizadas del Sistema Integral de Captura de datos Migratorios (SICaM) la operatoria detallada en el Anexo I el cual forma parte integrante de la presente.
+ARTICULO 2° — Comuníquese las modificaciones y mejoras implementadas en los términos del artículo precedente a los Jefes de Departamento y Sector de la Dirección de Control Migratorio con el objeto de que los mismos propongan un cronograma de capacitación para los Supervisores e Inspectores, la cual tendrá carácter de orden de servicio y como tal de cumplimento obligatorio. Las planillas para la evaluación final, como así también los cuestionarios pertinentes, serán proyectados en forma conjunta por la DIRECCION DE CONTROL MIGRATORIO y la DIRECCION DE SISTEMAS, ambas dependientes de esta Dirección Nacional.
+ARTICULO 3° — Instrúyase a la DIRECCION DE CONTROL MIGRATORIO y a la DIRECCION DE SISTEMAS a efectos de que elaboren un instructivo que será entregado en forma fehaciente a la totalidad del cuerpo de Inspectores, para ser utilizado durante la capacitación y como elemento de consulta permanente.
+ARTICULO 4° — Impleméntese un sistema de soporte con asistencia presencial para lo cual la DIRECCION DE SISTEMAS asignará agentes en cada uno de los sectores del área metropolitana a demanda de la DIRECCION DE CONTROL MIGRATORIO para auxilio en la materia de su competencia.
+ARTICULO 5° — Comuníquese, publíquese, dése a la DIRECCION NACIONAL DEL REGISTRO OFICIAL y archívese. — Dr. RICARDO EUSEBIO RODRIGUEZ, Director Nacional de Migraciones, Ministerio del Interior.
+ANEXO I
+1. Desarrollo de las actualizaciones en el sector Aeroparque.
+1.1 Implementación provisoria sujeta a verificaciones en el mismo sector.
+1.2 Aprobación conjunta de lo implementado a cargo de la Dirección de Control Migratorio y de la Dirección de Sistemas.
+2. Implementación de la nueva versión una vez finalizadas las tareas del punto anterior de acuerdo al siguiente cronograma.
+2.1 Primera semana: Hall Aerolíneas Argentinas (Entrada y Salida) Aeropuerto Internacional de Ezeiza.
+2.2 Segunda Semana: Hall Internacionales (Entrada) Aeropuerto Internacional de Ezeiza.
+2.3 Tercera Semana: Hall Internacionales (Salida) Aeropuerto Internacional de Ezeiza.
+2.4 Cuarta Semana: Sector Puerto, Buquebus (Salida).
+2.5 Quinta Semana: Sector Puerto, Cruceros (Salida).
+2.6 Sexta Semana: Sector Norte, Puerto de Tigre, Aeropuertos de Don Torcuato y San Fernando (Entrada y Salida).
+e. 25/10 N° 461.967 v. 25/10/2004
+
